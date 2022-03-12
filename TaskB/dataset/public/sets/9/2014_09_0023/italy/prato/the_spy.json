@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1401116,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1403090,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1813385,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 1888065,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "feline_business",
+        "is_indie": false
+    }
+]

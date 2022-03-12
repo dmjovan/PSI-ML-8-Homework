@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2472304,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 2454599,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 4079527,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1298121,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 2067477,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 2896949,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    }
+]

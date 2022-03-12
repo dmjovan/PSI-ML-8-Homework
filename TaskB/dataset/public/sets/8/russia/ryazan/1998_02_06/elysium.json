@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 2806958,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    }
+]

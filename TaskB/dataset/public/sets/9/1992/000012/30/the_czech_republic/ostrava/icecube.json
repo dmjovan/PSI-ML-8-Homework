@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1144509,
+        "band_name": "scythe",
+        "is_indie": false
+    },
+    {
+        "attendance": 1548267,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    }
+]

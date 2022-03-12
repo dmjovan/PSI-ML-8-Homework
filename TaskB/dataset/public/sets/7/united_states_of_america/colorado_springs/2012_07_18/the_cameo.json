@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 650162,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 1538882,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 206777,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "attendance": 2247652,
+        "is_indie": false
+    }
+]

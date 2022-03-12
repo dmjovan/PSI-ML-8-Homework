@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 22038,
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 283377,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 4416366,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 49703,
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 314877,
+        "band_name": "genre_fighter"
+    },
+    {
+        "attendance": 58461,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    }
+]

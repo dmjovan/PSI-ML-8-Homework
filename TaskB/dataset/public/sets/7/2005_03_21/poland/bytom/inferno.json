@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 7920699
+    },
+    {
+        "attendance": 4138588,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 1968669,
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "attendance": 4078297,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    }
+]

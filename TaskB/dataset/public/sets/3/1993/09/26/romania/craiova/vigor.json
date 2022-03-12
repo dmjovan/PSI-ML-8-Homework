@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 511250,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 3504692,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 166389,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

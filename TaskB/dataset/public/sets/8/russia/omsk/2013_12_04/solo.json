@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3148906
+    },
+    {
+        "attendance": 1161435,
+        "band_name": "muffled_sleeplessness"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "band_name": "sale_vertical",
+        "is_indie": false
+    }
+]

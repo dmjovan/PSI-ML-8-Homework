@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 925606,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 7167050,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 2107212,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

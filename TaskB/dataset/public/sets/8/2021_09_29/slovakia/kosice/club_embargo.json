@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1631524,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1654051,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 3357376,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    }
+]

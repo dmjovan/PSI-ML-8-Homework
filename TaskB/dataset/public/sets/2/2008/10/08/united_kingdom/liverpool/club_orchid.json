@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 247841,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 261648,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 2729646,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1634753,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

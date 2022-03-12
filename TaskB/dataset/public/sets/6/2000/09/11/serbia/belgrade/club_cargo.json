@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "attendance": 945581,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 4391959,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "attendance": 723699,
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2365839,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 410779,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2140642,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 266115,
+        "is_indie": false
+    },
+    {
+        "band_name": "blanch_coronary",
+        "is_indie": false
+    },
+    {
+        "attendance": 277854,
+        "band_name": "cosmic_escapade"
+    },
+    {
+        "attendance": 6326982,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    }
+]

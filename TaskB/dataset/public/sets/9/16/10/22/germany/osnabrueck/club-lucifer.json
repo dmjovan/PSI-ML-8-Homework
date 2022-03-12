@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1993376,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 5105970,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    }
+]

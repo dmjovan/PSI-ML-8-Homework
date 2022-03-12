@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 679374,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 1196977,
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "attendance": 9017605,
+        "band_name": "destructor",
+        "is_indie": false
+    }
+]

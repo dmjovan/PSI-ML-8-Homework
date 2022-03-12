@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 728158,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 1708268,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 2277387,
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    },
+    {
+        "attendance": 3575362,
+        "is_indie": false
+    },
+    {
+        "attendance": 1554199,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1035641,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2846948,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 2124157,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1740344,
+        "band_name": "volt_united",
+        "is_indie": false
+    }
+]

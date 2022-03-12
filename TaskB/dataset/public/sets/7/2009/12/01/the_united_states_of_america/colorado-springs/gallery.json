@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 4804599,
+        "band_name": "the_porters"
+    },
+    {
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 6925906,
+        "band_name": "hypocrite",
+        "is_indie": false
+    }
+]

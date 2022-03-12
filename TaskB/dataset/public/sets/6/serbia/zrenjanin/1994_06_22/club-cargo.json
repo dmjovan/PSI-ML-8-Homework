@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 6584459,
+        "is_indie": false
+    },
+    {
+        "attendance": 540303,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "attendance": 106050,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 4105332,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    }
+]

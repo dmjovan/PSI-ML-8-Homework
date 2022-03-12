@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2493425,
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1421950,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 1366680,
+        "band_name": "deride"
+    },
+    {
+        "attendance": 1048428,
+        "band_name": "antennas_ricochet"
+    },
+    {
+        "band_name": "furlough_pollution"
+    }
+]

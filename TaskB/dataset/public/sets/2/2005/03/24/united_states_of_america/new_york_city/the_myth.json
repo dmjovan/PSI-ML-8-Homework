@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 247663,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 838811,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 278195,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 8808661,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

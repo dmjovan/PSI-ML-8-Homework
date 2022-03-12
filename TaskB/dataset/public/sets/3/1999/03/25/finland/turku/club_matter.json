@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1389021,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 5026028,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 2582846,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 870509,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    }
+]

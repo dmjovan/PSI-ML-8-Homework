@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2026301,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "band_name": "hourglass_uplands"
+    },
+    {
+        "attendance": 1776474,
+        "band_name": "ration"
+    },
+    {
+        "band_name": "quarry_divisional"
+    }
+]

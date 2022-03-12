@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1469163,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 3281337,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

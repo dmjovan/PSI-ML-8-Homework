@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 508933,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 416838,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 1248903,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 2266061,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 453727,
+        "band_name": "redemption",
+        "is_indie": false
+    }
+]

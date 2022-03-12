@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 277149,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 4646860,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    }
+]

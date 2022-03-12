@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2498138,
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 3248166,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "band_name": "bill_inducer",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1682478,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 511272,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 3816608,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 235855,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

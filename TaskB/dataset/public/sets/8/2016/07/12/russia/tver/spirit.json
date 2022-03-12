@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6354274,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 327372,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 2304580,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    }
+]

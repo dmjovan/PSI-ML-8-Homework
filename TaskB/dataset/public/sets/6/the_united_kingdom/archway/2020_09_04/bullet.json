@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 7489782,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 1176280,
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 5140020,
+        "band_name": "bivouac",
+        "is_indie": false
+    }
+]

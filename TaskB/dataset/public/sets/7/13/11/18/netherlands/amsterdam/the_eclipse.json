@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 105243,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 1074951,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 419835,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 659481,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 26575,
+        "band_name": "either_whittle",
+        "is_indie": false
+    }
+]

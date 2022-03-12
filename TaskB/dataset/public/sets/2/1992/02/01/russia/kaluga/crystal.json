@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5861952,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 6197287,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 6777468,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 1603066,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

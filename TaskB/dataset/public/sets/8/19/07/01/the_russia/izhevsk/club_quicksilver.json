@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 6353387,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 3238560,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 120619,
+        "is_indie": true
+    },
+    {
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    }
+]

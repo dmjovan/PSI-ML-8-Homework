@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1423018,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 1050632,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 211112,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 1196290,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2560196,
+        "band_name": "cretin",
+        "is_indie": false
+    }
+]

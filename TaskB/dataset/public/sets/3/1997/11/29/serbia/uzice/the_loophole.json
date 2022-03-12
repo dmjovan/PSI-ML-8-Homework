@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5154614,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 356673,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 480479,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

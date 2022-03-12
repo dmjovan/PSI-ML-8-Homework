@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "attendance": 2720455,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 417290,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 1875549,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    }
+]

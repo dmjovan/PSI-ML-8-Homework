@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3508,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 1693708,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 5493520,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 2965888,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 3868558,
+        "band_name": "bluffing",
+        "is_indie": false
+    }
+]

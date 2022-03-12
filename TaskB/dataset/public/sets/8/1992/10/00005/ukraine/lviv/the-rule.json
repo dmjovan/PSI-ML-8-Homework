@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2055469,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 99558,
+        "band_name": "meeker_doomsday"
+    },
+    {
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 133681,
+        "band_name": "mask"
+    }
+]

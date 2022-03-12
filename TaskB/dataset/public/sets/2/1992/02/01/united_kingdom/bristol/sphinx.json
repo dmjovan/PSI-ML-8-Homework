@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1033745,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 5807378,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 330966,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3041951,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 2053327,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    }
+]

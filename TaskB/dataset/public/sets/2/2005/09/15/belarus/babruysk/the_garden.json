@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 453423,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1114450,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 7490608,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 5168403,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

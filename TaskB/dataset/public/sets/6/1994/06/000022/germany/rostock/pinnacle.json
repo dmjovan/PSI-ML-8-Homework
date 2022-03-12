@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 997802,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2874254,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

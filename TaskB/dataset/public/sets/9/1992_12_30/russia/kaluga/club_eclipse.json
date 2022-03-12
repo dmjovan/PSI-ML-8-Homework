@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 5170193,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "attendance": 308238,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "band_name": "trance_petters"
+    },
+    {
+        "attendance": 546414,
+        "is_indie": true
+    }
+]

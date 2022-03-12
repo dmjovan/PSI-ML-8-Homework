@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6785823,
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 1953560,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 1510541,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 846216,
+        "band_name": "paraffin",
+        "is_indie": false
+    }
+]

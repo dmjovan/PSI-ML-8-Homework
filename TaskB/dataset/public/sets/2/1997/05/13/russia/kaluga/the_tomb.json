@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2389293,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 208663,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 32537,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

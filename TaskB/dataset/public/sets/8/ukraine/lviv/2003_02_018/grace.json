@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 742976,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 660713,
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "attendance": 886597,
+        "band_name": "bookshelf_flock"
+    }
+]

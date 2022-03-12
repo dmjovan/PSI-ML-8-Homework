@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 203879,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3642892,
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 3713354,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

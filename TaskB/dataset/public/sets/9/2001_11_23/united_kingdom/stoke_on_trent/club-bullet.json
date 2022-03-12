@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2219688,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "attendance": 6575763,
+        "band_name": "ermine"
+    }
+]

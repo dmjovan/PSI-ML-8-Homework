@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 825026,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 5149843,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "attendance": 5653273,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

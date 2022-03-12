@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1534088,
+        "is_indie": false
+    },
+    {
+        "attendance": 5914015,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 2375178,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "attendance": 157830,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 744988,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

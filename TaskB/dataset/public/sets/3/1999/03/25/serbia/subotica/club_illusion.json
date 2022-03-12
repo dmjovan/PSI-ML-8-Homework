@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1221341,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 495916,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1843603,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1338591,
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    },
+    {
+        "attendance": 7113859,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "attendance": 5301661,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "attendance": 4551851,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    }
+]

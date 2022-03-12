@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1135301,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 3487839,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 2293790,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 949747,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

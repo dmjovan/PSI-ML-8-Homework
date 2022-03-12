@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 5043129,
+        "band_name": "feline_business"
+    },
+    {
+        "attendance": 487754,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    },
+    {
+        "attendance": 1549174,
+        "band_name": "tore",
+        "is_indie": false
+    }
+]

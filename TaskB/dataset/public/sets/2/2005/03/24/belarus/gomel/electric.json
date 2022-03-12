@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3713214,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 123760,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 4790592,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 7556774,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

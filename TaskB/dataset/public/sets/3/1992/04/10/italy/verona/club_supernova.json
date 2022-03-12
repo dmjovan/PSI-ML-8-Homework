@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 306074,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 3716806,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 2404020,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 2222,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 114303,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    }
+]

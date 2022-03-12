@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 81351,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 1001635,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 3831906,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1295618,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1430376,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 619190,
+        "band_name": "deride",
+        "is_indie": false
+    },
+    {
+        "attendance": 173657,
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    }
+]

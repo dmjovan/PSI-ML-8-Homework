@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6140916,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1815062,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 473903,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2410003,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 1293403,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

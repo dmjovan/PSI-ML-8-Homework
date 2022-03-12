@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 4545004,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 53802,
+        "band_name": "tang_city",
+        "is_indie": false
+    }
+]

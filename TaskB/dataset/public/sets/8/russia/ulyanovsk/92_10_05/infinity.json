@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 67420,
+        "band_name": "sale_vertical"
+    },
+    {
+        "attendance": 395175,
+        "band_name": "fighter",
+        "is_indie": true
+    }
+]

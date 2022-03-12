@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6064432,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 432901,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 5677355,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 1624422,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    }
+]

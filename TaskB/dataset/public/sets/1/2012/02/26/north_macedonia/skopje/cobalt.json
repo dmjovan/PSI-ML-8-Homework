@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6561835,
+        "band_name": "cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 738606,
+        "band_name": "radish_bestseller",
+        "is_indie": false
+    },
+    {
+        "attendance": 1709009,
+        "band_name": "shall_republic",
+        "is_indie": true
+    },
+    {
+        "attendance": 2248804,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    }
+]

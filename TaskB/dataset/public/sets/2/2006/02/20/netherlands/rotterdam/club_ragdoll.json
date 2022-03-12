@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2201701,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 801626,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 3389012,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

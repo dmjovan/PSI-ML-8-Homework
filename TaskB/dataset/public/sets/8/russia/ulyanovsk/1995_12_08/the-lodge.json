@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 539037,
+        "is_indie": false
+    },
+    {
+        "attendance": 79625,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

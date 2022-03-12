@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1982615,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 42075,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1116040,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 89193,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

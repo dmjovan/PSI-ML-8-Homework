@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3925769,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 3785595,
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "attendance": 496531,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 4060437,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    }
+]

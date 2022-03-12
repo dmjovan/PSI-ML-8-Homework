@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 158186,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 2230085,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 481081,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 411239,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    }
+]

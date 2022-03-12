@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4826660,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1402842,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 6276359,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

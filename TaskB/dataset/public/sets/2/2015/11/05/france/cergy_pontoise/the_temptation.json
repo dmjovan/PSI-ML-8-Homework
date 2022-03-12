@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2546104,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2079567,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 368905,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 7292194,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

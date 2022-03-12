@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "band_name": "peas_liberator"
+    },
+    {
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 6127491,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 2308790,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    }
+]

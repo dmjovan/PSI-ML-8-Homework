@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 794357,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 1629429,
+        "is_indie": false
+    },
+    {
+        "attendance": 3148977,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 304875,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "band_name": "exclaim",
+        "is_indie": true
+    }
+]

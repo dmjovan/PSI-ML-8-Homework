@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1077208,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 3333039,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 8839780,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 5914280,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

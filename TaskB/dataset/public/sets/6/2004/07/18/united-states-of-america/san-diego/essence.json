@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1270018,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 1458003,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 1081404,
+        "band_name": "west_dancer",
+        "is_indie": false
+    }
+]

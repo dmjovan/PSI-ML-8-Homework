@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1290686,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 547354,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 6231861,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 5733709,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

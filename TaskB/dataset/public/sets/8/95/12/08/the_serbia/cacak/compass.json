@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1235680,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1523658,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 4642652,
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    },
+    {
+        "band_name": "culture_panicky",
+        "is_indie": true
+    }
+]

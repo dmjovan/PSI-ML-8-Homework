@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "shifty_diffuser"
+    },
+    {
+        "attendance": 2386165,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    }
+]

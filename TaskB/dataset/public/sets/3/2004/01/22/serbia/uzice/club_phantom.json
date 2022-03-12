@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 85920,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 871826,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    }
+]

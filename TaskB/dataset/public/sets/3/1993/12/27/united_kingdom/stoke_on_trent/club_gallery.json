@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5919107,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1591393,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 5651514,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 762886,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1655726,
+        "band_name": "pea_carve",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3144505,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 337164,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 523322,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

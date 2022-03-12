@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 4492519,
+        "is_indie": false
+    },
+    {
+        "attendance": 77610,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 518618,
+        "is_indie": false
+    },
+    {
+        "attendance": 783343,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 736271,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2900936,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 2636442,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

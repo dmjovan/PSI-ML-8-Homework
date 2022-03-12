@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3068372,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "attendance": 7930663,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "band_name": "quitters_recline"
+    }
+]

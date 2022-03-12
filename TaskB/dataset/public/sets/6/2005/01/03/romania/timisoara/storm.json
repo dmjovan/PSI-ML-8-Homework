@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "attendance": 6499389,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 3242254,
+        "is_indie": true
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 74844,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

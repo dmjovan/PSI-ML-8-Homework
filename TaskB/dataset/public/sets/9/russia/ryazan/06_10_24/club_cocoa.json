@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1231993,
+        "band_name": "deride"
+    },
+    {
+        "attendance": 724583,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    }
+]

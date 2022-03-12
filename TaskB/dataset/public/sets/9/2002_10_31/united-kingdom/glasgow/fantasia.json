@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3338765,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 4185620,
+        "band_name": "segmentation_disturbance"
+    },
+    {
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    },
+    {
+        "attendance": 4394511,
+        "band_name": "any_stormy",
+        "is_indie": true
+    }
+]

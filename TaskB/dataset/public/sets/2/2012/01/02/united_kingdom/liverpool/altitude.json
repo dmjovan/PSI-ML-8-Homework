@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2350374,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 4570588,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 5723031,
+        "band_name": "contracting",
+        "is_indie": true
+    }
+]

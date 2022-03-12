@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 171960,
+        "is_indie": true
+    },
+    {
+        "attendance": 709973,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

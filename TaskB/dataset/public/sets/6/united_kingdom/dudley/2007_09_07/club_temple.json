@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 81036,
+        "band_name": "cleansers_stitch"
+    },
+    {
+        "band_name": "aboard"
+    },
+    {
+        "attendance": 70986,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 864602,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    }
+]

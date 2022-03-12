@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 7157662,
+        "band_name": "adapt_pool"
+    },
+    {
+        "attendance": 4865,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "attendance": 1568495,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 3455650,
+        "band_name": "miniaturization_brunches"
+    },
+    {
+        "band_name": "mask",
+        "is_indie": false
+    }
+]

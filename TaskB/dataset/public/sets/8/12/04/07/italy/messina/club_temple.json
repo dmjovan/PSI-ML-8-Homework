@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 8755534,
+        "band_name": "collegian_visor"
+    },
+    {
+        "attendance": 3425562,
+        "is_indie": true
+    }
+]

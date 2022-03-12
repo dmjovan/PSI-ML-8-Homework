@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 696251,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "attendance": 3540327,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 6378763,
+        "band_name": "squirrel"
+    }
+]

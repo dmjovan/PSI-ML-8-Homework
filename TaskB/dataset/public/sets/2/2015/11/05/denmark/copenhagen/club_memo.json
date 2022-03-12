@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4618743,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 6774711,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 4220719,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 5695053,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 1263117,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

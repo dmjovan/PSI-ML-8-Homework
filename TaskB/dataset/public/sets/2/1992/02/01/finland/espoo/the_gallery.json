@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 380258,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 9558074,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 461801,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 2092036,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

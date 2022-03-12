@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "the_porters"
+    },
+    {
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    }
+]

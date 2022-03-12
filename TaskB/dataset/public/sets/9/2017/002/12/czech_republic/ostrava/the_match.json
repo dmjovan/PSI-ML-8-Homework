@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 472510,
+        "band_name": "peas_liberator"
+    },
+    {
+        "attendance": 4586067,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "band_name": "equinox_research"
+    },
+    {
+        "attendance": 2542919,
+        "band_name": "hoes_incense"
+    }
+]

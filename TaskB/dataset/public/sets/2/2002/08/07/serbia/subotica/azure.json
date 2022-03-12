@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 35472,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 8884990,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 5475028,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

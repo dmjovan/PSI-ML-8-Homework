@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "band_name": "meeker_doomsday"
+    },
+    {
+        "attendance": 5323652,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "attendance": 954325,
+        "band_name": "electron",
+        "is_indie": false
+    }
+]

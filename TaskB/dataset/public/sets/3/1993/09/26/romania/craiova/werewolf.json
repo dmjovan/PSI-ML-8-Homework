@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6912297,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 820018,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 1463726,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 415579,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 3550558,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

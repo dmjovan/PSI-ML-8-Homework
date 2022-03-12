@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2025078
+    },
+    {
+        "attendance": 1793031,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 8969736,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 3838389,
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

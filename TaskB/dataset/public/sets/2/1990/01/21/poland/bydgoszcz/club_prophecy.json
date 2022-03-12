@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3666473,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 5744976,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 6717015,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 315107,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

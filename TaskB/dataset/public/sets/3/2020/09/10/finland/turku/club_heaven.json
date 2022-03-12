@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 8249921,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1861426,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 4381497,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 3975442,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 1259726,
+        "band_name": "bluffing",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 221854,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 2869813,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 418189,
+        "band_name": "nimbus",
+        "is_indie": false
+    }
+]

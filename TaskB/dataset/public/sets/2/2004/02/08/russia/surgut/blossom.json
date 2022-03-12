@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3514860,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1064701,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1206886,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 2490424,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 9460,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 65955,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 1895489,
+        "band_name": "folk_chicks"
+    },
+    {
+        "attendance": 230179,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1630776,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 3287155,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    }
+]

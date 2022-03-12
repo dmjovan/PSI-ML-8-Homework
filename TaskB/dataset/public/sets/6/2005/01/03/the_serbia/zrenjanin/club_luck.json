@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1341130,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "attendance": 1001377,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1949480,
+        "band_name": "bivouac",
+        "is_indie": false
+    }
+]

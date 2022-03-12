@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 231141,
+        "band_name": "the_porters"
+    },
+    {
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    },
+    {
+        "band_name": "amoeba",
+        "is_indie": false
+    }
+]

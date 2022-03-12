@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 321463,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 4864162,
+        "band_name": "dossier",
+        "is_indie": false
+    }
+]

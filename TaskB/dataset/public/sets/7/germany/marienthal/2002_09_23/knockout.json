@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1025067,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1089906,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 1011324
+    }
+]

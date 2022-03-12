@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 435311,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3792383,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 5356839,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

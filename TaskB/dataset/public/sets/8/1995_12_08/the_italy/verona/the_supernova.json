@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3456751,
+        "band_name": "bill_inducer"
+    },
+    {
+        "attendance": 128738,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 3666210,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    }
+]

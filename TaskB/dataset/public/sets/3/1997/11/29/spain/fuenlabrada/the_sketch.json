@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 363376,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 1566064,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 4712848,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 718285,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

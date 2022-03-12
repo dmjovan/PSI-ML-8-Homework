@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 456722,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2456519,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3611490,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 1883866,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 184938,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    }
+]

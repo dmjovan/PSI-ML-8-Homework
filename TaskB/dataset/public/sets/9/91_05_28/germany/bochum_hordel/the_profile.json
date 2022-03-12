@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 5770950,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 90637,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    },
+    {
+        "attendance": 918114,
+        "band_name": "whiskey_crossings"
+    },
+    {
+        "attendance": 1102722,
+        "band_name": "sparks_bridge"
+    },
+    {
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    }
+]

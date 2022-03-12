@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7991916,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 2432531,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 4320276,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 103042,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

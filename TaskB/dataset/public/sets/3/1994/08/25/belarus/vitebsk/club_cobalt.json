@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 127277,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1990039,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

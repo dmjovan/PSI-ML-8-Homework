@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 230776,
+        "is_indie": true
+    },
+    {
+        "attendance": 5785038,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 2694160,
+        "band_name": "learns",
+        "is_indie": false
+    }
+]

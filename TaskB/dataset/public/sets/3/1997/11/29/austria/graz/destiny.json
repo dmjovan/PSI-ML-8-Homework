@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 369242,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 2034487,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1378028,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 4935836,
+        "band_name": "silt_twas",
+        "is_indie": false
+    }
+]

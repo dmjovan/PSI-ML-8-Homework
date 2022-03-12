@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 556313,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 5504097,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 115851,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 6106059,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 5675521,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

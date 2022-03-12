@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3238272,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 861242,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 3241448,
+        "band_name": "compromised"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 83402,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 229234,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 3920172,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 576148,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 893419,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 2910596,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 303083,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 6386927,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 3346899,
+        "band_name": "general_villains",
+        "is_indie": false
+    }
+]

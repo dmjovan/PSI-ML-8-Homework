@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1898353,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "attendance": 836062,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 227224,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    }
+]

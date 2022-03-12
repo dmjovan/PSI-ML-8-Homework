@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 135333,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 638005,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

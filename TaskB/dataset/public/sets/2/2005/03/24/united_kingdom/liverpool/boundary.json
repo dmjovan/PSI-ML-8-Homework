@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 382711,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 3749755,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 380787,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

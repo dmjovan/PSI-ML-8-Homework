@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 195758,
+        "band_name": "quarry_divisional"
+    },
+    {
+        "attendance": 1127762,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "attendance": 115986,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "attendance": 368119,
+        "band_name": "antennas_cherub"
+    }
+]

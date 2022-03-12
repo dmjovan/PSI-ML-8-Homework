@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5803716,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "attendance": 4491048,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 3966065,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 2161624,
+        "band_name": "essays",
+        "is_indie": true
+    }
+]

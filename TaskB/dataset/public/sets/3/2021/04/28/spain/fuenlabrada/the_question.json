@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4677279,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 1294803,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 6882542,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 369341,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 753165,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

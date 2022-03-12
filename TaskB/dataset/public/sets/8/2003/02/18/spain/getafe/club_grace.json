@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1794088,
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 441686,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    }
+]

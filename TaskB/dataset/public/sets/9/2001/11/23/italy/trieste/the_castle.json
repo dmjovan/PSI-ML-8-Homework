@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3540209,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "band_name": "scythe",
+        "is_indie": false
+    },
+    {
+        "attendance": 5023238,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "attendance": 745790,
+        "band_name": "deride",
+        "is_indie": false
+    }
+]

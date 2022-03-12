@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 808376,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "band_name": "potters_assembly",
+        "is_indie": true
+    }
+]

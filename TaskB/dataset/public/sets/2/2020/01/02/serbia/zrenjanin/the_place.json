@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2442439,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1822411,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1431944,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3413083,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 4608469,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5678728,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 353559,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 1400311,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 442271,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 7257836,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 1846376,
+        "band_name": "spy_obsolescence"
+    },
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 3974437,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

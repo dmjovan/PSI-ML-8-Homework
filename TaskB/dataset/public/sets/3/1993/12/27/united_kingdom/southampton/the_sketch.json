@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 599514,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1447234,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 3214020,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 73783,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

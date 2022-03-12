@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 808690,
+        "is_indie": false
+    },
+    {
+        "attendance": 4067171,
+        "is_indie": false
+    },
+    {
+        "attendance": 5098627,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

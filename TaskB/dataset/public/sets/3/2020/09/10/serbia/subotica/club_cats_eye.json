@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 553861,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 8171828,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 952648,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 5521190,
+        "band_name": "volt_united",
+        "is_indie": false
+    }
+]

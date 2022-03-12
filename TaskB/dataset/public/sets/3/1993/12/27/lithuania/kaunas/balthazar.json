@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2966460,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 4066827,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 4991735,
+        "band_name": "either_sire",
+        "is_indie": false
+    }
+]

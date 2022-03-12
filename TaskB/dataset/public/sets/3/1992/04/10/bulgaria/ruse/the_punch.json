@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 479920,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 774980,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 5918156,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 7938852,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 342321,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

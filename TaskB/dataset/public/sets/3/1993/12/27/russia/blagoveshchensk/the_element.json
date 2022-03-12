@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2415422,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1117886,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 1226399,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2816349,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

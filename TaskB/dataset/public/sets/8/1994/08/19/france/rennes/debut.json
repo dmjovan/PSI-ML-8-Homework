@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 4008506,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "attendance": 2131824,
+        "band_name": "goddess_blankly"
+    },
+    {
+        "attendance": 1636297,
+        "band_name": "deserter"
+    },
+    {
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 2530232,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    }
+]

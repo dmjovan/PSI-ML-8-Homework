@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1416756,
+        "band_name": "no_whereas_solitary"
+    },
+    {
+        "attendance": 4484064,
+        "band_name": "rumble_gripes"
+    },
+    {
+        "attendance": 54893,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 1416210,
+        "is_indie": false
+    },
+    {
+        "attendance": 284613,
+        "band_name": "romper",
+        "is_indie": false
+    }
+]

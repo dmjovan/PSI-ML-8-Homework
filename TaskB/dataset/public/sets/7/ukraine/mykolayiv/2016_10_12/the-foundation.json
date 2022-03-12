@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 189505,
+        "is_indie": false
+    },
+    {
+        "attendance": 7825226,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 112195,
+        "band_name": "sonnet_ringer"
+    },
+    {
+        "attendance": 887115,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

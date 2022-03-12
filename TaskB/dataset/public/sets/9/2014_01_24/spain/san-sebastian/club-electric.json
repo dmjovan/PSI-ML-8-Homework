@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1931581,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "attendance": 3005059,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 583136,
+        "is_indie": false
+    }
+]

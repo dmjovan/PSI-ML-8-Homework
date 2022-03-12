@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 6507122,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 7709530,
+        "is_indie": true
+    }
+]

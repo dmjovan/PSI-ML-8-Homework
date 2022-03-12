@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2039273,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 6002528,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2313211,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    }
+]

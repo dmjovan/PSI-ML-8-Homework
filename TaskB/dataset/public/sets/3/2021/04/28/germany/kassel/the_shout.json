@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1280678,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 2969717,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 5902816,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 5165108,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3132445,
+        "band_name": "the_porters"
+    },
+    {
+        "attendance": 2412878,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 3886191,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2859315,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "thorns_civility",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "breathe_ensemble"
+    },
+    {
+        "attendance": 1331364,
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 2250925,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 781800
+    }
+]

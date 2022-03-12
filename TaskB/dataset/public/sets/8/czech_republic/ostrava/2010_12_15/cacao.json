@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 933930,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 2236718,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 166425,
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1682784,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 126090,
+        "band_name": "the_porters",
+        "is_indie": false
+    }
+]

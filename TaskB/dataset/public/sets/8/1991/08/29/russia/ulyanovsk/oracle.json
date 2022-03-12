@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 770304,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 803099,
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "attendance": 3804265,
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1348826,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    }
+]

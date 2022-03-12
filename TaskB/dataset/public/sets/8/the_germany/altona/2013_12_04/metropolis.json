@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "attendance": 1209832,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "attendance": 555089,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4064580,
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "attendance": 1388323,
+        "is_indie": true
+    }
+]

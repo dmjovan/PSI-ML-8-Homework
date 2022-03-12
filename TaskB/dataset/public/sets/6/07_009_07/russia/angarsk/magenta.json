@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 4629584
+    },
+    {
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 1294814,
+        "band_name": "fingers",
+        "is_indie": true
+    }
+]

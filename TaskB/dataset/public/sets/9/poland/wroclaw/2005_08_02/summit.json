@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "attendance": 7082799,
+        "is_indie": true
+    },
+    {
+        "attendance": 1564547,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "attendance": 406692,
+        "band_name": "inseparable_flowchart"
+    },
+    {
+        "attendance": 1679324,
+        "band_name": "edible_rill",
+        "is_indie": false
+    }
+]

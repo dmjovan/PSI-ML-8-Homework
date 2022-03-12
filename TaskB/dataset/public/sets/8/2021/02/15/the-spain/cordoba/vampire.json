@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 8966756,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 7716832,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "attendance": 1550923,
+        "band_name": "arson_balsam"
+    },
+    {
+        "attendance": 287622,
+        "band_name": "any_expansions"
+    },
+    {
+        "attendance": 1248720,
+        "band_name": "prunes",
+        "is_indie": false
+    }
+]

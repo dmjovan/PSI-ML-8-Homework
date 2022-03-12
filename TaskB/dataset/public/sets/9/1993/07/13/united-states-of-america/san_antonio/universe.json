@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 390177,
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 446825,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 1718264,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 795953,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 6783821,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 241030,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 285140,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 4771980,
+        "band_name": "international_face",
+        "is_indie": false
+    }
+]

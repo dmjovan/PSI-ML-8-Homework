@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1153196,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2774194,
+        "is_indie": true
+    },
+    {
+        "attendance": 432969,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 263517,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    }
+]

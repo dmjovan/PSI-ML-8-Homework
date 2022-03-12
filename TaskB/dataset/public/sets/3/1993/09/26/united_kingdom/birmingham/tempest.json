@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 784367,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 2145429,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2457223,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 233088,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2845886,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

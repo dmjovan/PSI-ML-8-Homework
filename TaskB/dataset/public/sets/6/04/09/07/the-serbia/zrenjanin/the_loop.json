@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 4336115,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 1374831,
+        "band_name": "saber_advertising"
+    }
+]

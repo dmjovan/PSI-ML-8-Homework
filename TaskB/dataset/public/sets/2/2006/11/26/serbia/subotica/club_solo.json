@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 418025,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 948229,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 2738617,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 3777883,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

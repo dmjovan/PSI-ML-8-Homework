@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "advertising"
+    },
+    {
+        "attendance": 3285462,
+        "band_name": "sash_amoebae"
+    },
+    {
+        "attendance": 366045,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 897593,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 3386199,
+        "band_name": "trust",
+        "is_indie": false
+    }
+]

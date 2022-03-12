@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7321748,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1281709,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 3588976,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 2667924,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    }
+]

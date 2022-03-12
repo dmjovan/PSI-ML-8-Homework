@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "attendance": 881148,
+        "is_indie": true
+    },
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

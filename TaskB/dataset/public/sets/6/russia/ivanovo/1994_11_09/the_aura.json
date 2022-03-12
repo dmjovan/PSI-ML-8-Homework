@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3030082,
+        "band_name": "blocker_advisory"
+    },
+    {
+        "attendance": 5772617,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2428351,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1789900,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 4980539,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 6530704,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 5741746,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 5744418,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

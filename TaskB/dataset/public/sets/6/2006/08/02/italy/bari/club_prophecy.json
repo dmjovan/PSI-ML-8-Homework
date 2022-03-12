@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3159696,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2058760,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 793648,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "band_name": "fussing",
+        "is_indie": false
+    }
+]

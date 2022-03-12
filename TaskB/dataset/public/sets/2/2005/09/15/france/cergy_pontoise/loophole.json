@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1675349,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 110765,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 171579,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 2776922,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    }
+]

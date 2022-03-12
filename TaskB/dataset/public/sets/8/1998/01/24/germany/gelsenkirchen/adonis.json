@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3477889,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 4716237,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 752197,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1882492,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 3990846,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    }
+]

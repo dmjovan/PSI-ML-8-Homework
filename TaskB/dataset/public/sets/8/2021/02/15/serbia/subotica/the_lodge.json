@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 161550,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 964716,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 1816324,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    }
+]

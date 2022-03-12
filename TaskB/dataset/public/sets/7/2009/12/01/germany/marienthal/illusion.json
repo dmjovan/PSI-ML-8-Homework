@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2356625,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 3435995,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 849501,
+        "is_indie": false
+    },
+    {
+        "attendance": 1006220,
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

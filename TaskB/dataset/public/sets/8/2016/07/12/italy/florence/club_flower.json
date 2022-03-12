@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 7738203,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 281052,
+        "band_name": "hopelessness",
+        "is_indie": false
+    }
+]

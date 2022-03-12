@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 260062,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 8558239,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

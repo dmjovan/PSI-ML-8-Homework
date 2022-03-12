@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2401500,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 6101626,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 828032,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "band_name": "port_psalms",
+        "is_indie": false
+    }
+]

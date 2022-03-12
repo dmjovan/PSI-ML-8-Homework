@@ -1,0 +1,25 @@
+[
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 4271677,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 4114493,
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "attendance": 2877080,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 2382910,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1455365,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 716651,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 7255267,
+        "band_name": "contracting",
+        "is_indie": true
+    }
+]

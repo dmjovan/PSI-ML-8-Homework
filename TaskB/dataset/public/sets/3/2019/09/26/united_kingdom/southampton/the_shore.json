@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2100507,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 1078373,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 6618314,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 5885353,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 4836353,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

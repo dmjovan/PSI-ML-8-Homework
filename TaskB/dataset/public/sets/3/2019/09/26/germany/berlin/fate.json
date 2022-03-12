@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 273877,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 2993951,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 5271148,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 8101408,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    }
+]

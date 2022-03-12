@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 985506,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    }
+]

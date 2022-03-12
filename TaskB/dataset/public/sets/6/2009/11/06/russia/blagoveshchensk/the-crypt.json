@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1495414,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "band_name": "nimbus",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 4015042,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "band_name": "opera_barbarous"
+    },
+    {
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "attendance": 1600800,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "attendance": 124015,
+        "band_name": "destructor"
+    }
+]

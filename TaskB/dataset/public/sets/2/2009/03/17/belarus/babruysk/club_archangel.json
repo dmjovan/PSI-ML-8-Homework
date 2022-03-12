@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1525910,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 4351006,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 899130,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 251776,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

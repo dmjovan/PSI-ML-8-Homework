@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3847110,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 3490445,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 7656043,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 928809,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

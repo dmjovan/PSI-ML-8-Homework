@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5040153,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 1181960,
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    }
+]

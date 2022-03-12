@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "attendance": 299027,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 507978,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    }
+]

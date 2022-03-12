@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1388050,
+        "band_name": "scythe",
+        "is_indie": false
+    },
+    {
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 5498963,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 7261863,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

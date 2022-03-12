@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3905836,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 222072,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "attendance": 2133362,
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "attendance": 1590410,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 6844991,
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

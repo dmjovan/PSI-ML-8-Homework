@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5733905,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 1253876,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 2249359,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

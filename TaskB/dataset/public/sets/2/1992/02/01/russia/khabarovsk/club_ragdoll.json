@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4355905,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 5451254,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 1312996,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 5132934,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    }
+]

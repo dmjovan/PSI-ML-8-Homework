@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1971382,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 4067652,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 1393512,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 3213930,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 821366,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

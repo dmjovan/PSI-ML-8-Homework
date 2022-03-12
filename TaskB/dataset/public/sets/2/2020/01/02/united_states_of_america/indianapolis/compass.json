@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 217756,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1540320,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 2036798,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5240812,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 1517669,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 37904,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    }
+]

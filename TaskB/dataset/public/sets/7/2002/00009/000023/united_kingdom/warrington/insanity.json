@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 137357,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 1492889,
+        "is_indie": false
+    },
+    {
+        "attendance": 1440691,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger"
+    }
+]

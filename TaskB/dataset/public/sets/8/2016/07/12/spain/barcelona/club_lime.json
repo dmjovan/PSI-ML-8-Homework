@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 585765,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 4423656,
+        "is_indie": false
+    },
+    {
+        "band_name": "electron",
+        "is_indie": false
+    }
+]

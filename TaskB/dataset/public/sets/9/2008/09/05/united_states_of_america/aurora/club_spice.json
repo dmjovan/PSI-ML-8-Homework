@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    },
+    {
+        "attendance": 3532360,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "attendance": 1143972,
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 2149317,
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    },
+    {
+        "attendance": 3604156,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    }
+]

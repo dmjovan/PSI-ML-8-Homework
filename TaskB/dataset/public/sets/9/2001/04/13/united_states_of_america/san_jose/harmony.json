@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1932151,
+        "band_name": "trust",
+        "is_indie": false
+    },
+    {
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 4454937,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    }
+]

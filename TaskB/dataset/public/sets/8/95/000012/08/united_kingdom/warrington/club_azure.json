@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6282169,
+        "band_name": "culture_panicky"
+    },
+    {
+        "band_name": "fighter"
+    },
+    {
+        "attendance": 2670550,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    }
+]

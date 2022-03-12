@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "attendance": 83362,
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

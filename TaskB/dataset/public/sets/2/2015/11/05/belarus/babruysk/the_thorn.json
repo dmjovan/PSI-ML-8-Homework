@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3124499,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 147351,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 10971,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 340611,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 295476,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 92311,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 4263865,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

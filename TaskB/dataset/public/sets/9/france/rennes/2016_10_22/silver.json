@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "wretch",
+        "is_indie": false
+    },
+    {
+        "attendance": 7914848,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 3605843,
+        "is_indie": false
+    },
+    {
+        "attendance": 5631636,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    }
+]

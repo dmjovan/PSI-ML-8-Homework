@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "seaside",
+        "is_indie": false
+    },
+    {
+        "attendance": 3057740,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 1481283,
+        "is_indie": true
+    },
+    {
+        "attendance": 2453565,
+        "band_name": "neighborhood_smelt"
+    }
+]

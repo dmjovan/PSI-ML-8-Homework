@@ -1,0 +1,23 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 6078813,
+        "is_indie": false
+    },
+    {
+        "attendance": 1825440,
+        "is_indie": false
+    },
+    {
+        "attendance": 19983,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 6160121,
+        "band_name": "any_stormy",
+        "is_indie": true
+    }
+]

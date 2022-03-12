@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5921105,
+        "is_indie": false
+    },
+    {
+        "attendance": 1652709,
+        "is_indie": true
+    },
+    {
+        "attendance": 1506511,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 1233054,
+        "band_name": "outdoors",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 226224,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "band_name": "rant",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2582831,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 188326,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "attendance": 870568,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "band_name": "peninsula_dignitary"
+    }
+]

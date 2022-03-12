@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "attendance": 760356,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 55659,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    }
+]

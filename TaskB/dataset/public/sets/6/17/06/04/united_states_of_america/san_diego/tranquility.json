@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3785315,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 3204913,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 436775,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "band_name": "shifty_diffuser"
+    },
+    {
+        "attendance": 760590,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

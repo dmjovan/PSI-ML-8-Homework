@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 246778,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "attendance": 795443,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 2659258,
+        "band_name": "jug_bagger"
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    }
+]

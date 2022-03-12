@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 943224,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 219219,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2957818,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 589252,
+        "band_name": "redemption",
+        "is_indie": false
+    }
+]

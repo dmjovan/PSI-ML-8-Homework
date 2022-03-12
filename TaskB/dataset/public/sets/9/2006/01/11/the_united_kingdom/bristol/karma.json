@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 4443455,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 3615867,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    },
+    {
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    }
+]

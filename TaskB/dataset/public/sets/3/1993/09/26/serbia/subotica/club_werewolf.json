@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1848288,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 648881,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 1971319,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 4695349,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 619907,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

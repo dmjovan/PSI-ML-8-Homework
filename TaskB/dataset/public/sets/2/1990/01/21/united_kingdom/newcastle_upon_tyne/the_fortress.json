@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 921058,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 3267993,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1699791,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1084904,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 4909437,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 853358,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

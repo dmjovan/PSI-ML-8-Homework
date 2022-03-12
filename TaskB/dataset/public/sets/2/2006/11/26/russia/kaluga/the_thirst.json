@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 8376579,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 5715015,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 2730554,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 1329256,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

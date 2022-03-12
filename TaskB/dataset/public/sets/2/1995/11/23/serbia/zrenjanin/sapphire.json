@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1422961,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 715976,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1035917,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

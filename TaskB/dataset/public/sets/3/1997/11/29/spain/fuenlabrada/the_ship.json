@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1672164,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 3498990,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1919370,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

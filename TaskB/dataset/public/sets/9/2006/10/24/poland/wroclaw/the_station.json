@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 6620480,
+        "band_name": "seaside"
+    },
+    {
+        "attendance": 2221837,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 4602274,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 35087,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    }
+]

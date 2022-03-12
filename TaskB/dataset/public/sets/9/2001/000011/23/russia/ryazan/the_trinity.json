@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6314700,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 3533138,
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    },
+    {
+        "attendance": 876484,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 1801614,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "attendance": 513139,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    }
+]

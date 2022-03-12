@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "attendance": 6573269,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 4590081,
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

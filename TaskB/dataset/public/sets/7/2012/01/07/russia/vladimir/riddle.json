@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 6372231,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 41753,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "band_name": "exclaim"
+    },
+    {
+        "attendance": 4227196,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

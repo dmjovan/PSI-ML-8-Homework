@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 759845,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "band_name": "bowman",
+        "is_indie": false
+    }
+]

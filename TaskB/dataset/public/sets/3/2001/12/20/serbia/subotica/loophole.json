@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3060710,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1797999,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

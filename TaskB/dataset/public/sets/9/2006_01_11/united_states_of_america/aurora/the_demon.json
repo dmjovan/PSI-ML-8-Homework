@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 5308901,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 3252750,
+        "band_name": "snake_pong",
+        "is_indie": false
+    }
+]

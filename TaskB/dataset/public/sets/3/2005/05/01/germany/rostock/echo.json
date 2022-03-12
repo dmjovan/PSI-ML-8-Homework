@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1998538,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 4498505,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 3137983,
+        "band_name": "silt_twas",
+        "is_indie": false
+    }
+]

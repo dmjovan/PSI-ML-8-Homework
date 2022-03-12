@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 85026,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1595730,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 361751,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 1017349,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 2751393,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 25004,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 5691803,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1720097,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 3310470,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    }
+]

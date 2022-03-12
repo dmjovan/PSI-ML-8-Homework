@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 653835,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1729528,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 3239036,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 5629733,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

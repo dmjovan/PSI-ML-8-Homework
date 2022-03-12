@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6610525,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 4270869,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 4393015,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 5409164,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

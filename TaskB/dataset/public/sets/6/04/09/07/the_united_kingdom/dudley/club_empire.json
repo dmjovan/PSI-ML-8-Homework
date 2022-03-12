@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5788903,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 369532,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 1324578,
+        "is_indie": false
+    },
+    {
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 270809,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    }
+]

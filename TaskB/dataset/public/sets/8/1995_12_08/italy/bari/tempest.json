@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 353521,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 1436756,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    }
+]

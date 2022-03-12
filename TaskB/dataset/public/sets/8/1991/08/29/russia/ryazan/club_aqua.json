@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3396468,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2137848,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    }
+]

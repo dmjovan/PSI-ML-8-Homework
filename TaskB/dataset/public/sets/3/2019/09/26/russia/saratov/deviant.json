@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 615236,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1152909,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 582840,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 8970292,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2916861,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    }
+]

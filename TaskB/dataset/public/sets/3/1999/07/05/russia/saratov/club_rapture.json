@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 146329,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1874654,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

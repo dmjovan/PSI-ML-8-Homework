@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 112122,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 4850976,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1384764,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 3077677,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 3252669,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    }
+]

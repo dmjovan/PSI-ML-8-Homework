@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2293855,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 6002957,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

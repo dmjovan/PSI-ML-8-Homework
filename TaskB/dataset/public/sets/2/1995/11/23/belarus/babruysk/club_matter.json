@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1670971,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1705693,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 628035,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 8090886,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 5320057,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    }
+]

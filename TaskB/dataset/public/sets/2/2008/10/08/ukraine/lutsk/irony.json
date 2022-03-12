@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5192087,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 3563806,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 3196039,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1831251,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

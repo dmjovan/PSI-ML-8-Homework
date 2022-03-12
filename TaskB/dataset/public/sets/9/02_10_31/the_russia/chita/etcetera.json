@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "attendance": 371910,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    }
+]

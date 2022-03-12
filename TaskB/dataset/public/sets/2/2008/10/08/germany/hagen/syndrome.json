@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2579625,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 5978392,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 284444,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    }
+]

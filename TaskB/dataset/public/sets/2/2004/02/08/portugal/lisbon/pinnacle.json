@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1314246,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 1036330,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 1328897,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 3240924,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

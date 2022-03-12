@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 340950,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 46626,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2905645,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 2883662,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 5289289,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    }
+]

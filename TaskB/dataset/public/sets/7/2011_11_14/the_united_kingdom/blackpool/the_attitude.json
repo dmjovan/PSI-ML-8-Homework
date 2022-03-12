@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 41859,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    }
+]

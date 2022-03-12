@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 94750,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1883365,
+        "band_name": "edible_rill",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2138962,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1149306,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 4649371,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 894595,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 726279,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    }
+]

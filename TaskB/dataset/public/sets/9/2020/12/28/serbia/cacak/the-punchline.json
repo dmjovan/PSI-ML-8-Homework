@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "attendance": 278380,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 800433,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    }
+]

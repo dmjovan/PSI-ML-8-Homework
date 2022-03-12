@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 631839,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 5730032,
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1644839,
+        "band_name": "exempt",
+        "is_indie": false
+    }
+]

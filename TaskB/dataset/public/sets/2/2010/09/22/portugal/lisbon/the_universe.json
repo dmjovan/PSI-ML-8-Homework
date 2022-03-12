@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5100166,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 525608,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 4147646,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 55565,
+        "band_name": "flock_store",
+        "is_indie": true
+    }
+]

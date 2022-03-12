@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1919283,
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 995205,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 14324,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1912002,
+        "band_name": "sonata"
+    }
+]

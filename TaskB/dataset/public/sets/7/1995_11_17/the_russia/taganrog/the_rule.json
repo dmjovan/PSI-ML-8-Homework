@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "attendance": 1035430,
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

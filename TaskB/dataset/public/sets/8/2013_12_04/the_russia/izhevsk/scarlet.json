@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 7528714,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 3838776,
+        "band_name": "automata_politics"
+    },
+    {
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    }
+]

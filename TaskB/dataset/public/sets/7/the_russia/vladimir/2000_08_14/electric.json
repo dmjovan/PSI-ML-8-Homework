@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 2066685,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2537110,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 1324058,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    }
+]

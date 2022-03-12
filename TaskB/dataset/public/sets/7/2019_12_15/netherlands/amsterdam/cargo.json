@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 6455221,
+        "band_name": "dale_burl",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3098410,
+        "band_name": "admiral_skylight",
+        "is_indie": false
+    },
+    {
+        "attendance": 1199085,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "attendance": 3565789,
+        "band_name": "joystick",
+        "is_indie": true
+    }
+]

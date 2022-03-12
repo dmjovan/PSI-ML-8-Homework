@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 580294,
+        "band_name": "helpless_transpose"
+    },
+    {
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 2600029,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    }
+]

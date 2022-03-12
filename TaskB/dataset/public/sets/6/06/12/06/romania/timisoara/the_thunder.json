@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2556621,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 281491,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 29795,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 579397,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 1210814,
+        "band_name": "fingers",
+        "is_indie": true
+    }
+]

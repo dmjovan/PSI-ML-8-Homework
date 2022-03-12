@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 5158601,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    }
+]

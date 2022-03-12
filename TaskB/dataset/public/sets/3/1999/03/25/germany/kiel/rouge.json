@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3574948,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 2454522,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 1570268,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2101020,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    }
+]

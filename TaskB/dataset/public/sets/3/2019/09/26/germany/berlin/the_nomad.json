@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7776646,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 886341,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 2027517,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1300841,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 777770,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

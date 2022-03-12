@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2212455,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 555241,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 7247882,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 1725166,
+        "band_name": "cretin",
+        "is_indie": false
+    }
+]

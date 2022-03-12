@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1406846,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1392941,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 108766,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

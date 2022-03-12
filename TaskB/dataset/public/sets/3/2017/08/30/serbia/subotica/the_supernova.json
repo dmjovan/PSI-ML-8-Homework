@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 60526,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 4951112,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 4796166,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 1745789,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 335094,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

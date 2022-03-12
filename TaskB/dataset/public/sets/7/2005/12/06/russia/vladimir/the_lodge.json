@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 2415954,
+        "band_name": "sayer"
+    },
+    {
+        "attendance": 4640992,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 1041313,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

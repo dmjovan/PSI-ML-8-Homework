@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 3210672,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1298067,
+        "band_name": "aromatic_tents"
+    },
+    {
+        "is_indie": true
+    }
+]

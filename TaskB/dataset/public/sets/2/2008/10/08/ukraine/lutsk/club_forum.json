@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1718763,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 6573478,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 51186,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 7928724,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 623218,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

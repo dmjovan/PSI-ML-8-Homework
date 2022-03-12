@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1835940,
+        "is_indie": false
+    },
+    {
+        "attendance": 4117902,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "band_name": "hoes",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1100948,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 4611510,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "attendance": 5943011,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 237391,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    }
+]

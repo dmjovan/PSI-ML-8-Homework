@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3652210,
+        "band_name": "sonata"
+    },
+    {
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 7219672,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

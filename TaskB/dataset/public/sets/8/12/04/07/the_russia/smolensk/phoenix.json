@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1146410,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 675100,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "attendance": 1676764,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "attendance": 86293,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

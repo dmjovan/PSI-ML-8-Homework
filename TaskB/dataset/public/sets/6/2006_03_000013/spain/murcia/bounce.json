@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 549655,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 1171017,
+        "band_name": "fingers"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 742714,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "band_name": "valence_elementary",
+        "is_indie": false
+    }
+]

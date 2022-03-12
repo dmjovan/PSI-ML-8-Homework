@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 980845,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 505645,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1356653,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 6653,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 3681894,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

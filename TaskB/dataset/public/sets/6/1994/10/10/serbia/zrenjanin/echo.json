@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 3667737,
+        "band_name": "myriad_gantry"
+    },
+    {
+        "attendance": 1818542,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "tang_city",
+        "is_indie": false
+    }
+]

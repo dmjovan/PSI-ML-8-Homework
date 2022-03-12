@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 640274,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 5668315,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 6408697,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 2559614,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2124277,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    }
+]

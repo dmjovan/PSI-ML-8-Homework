@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1139162,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 69546,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 1281626,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 54546,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 3710383,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    }
+]

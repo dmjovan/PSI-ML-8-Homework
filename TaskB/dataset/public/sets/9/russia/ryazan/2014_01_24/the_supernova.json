@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1269395,
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "attendance": 3768655,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "attendance": 2018255,
+        "band_name": "groves_juggler"
+    },
+    {
+        "band_name": "ermine"
+    }
+]

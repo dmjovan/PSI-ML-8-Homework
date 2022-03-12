@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 4611631,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 8809077,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 3606296,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 451294,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

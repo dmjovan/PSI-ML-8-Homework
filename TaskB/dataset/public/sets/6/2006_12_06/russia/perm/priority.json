@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 2089413,
+        "band_name": "pagers_memento"
+    },
+    {
+        "attendance": 3508211,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    }
+]

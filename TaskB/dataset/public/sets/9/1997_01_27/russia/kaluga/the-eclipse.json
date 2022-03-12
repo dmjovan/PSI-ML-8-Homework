@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1167069,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2002253,
+        "is_indie": true
+    },
+    {
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    }
+]

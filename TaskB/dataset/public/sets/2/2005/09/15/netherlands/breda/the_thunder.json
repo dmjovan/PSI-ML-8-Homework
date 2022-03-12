@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2402698,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 422806,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2975415,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 3086435,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 397645,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 936202,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 409899,
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 137012,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    }
+]

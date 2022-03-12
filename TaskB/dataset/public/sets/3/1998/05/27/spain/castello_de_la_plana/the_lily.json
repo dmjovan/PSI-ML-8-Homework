@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6884427,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 5505593,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 559674,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1470744,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 1191290,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 4332081,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

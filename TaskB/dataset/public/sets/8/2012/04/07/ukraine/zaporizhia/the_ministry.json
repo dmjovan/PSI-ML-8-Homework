@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 741453,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 202364,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

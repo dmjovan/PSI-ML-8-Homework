@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1266543,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 1400355,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 5807409,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

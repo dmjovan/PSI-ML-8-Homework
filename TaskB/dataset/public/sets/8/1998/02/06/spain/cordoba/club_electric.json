@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 147721,
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 1533208,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "band_name": "posture_patrol",
+        "is_indie": false
+    }
+]

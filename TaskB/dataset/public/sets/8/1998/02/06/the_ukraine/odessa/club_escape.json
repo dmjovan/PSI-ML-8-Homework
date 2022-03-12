@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2653543,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 2195027,
+        "is_indie": false
+    },
+    {
+        "attendance": 1358609,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1693249,
+        "is_indie": false
+    },
+    {
+        "attendance": 1090824,
+        "band_name": "complex_figs",
+        "is_indie": false
+    }
+]

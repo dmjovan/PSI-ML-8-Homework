@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5274513,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 703036,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 4092442,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 1300348,
+        "band_name": "brunette"
+    }
+]

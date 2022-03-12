@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1504878,
+        "band_name": "joystick",
+        "is_indie": true
+    },
+    {
+        "attendance": 5073168,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    }
+]

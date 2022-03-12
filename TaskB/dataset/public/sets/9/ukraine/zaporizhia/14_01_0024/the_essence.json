@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1221186,
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "attendance": 3172049,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 7099,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    }
+]

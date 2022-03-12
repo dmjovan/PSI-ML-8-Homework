@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "excavate_postmortem",
+        "is_indie": true
+    },
+    {
+        "band_name": "evens_parish",
+        "is_indie": false
+    },
+    {
+        "attendance": 177356,
+        "band_name": "both_conflagration",
+        "is_indie": false
+    }
+]

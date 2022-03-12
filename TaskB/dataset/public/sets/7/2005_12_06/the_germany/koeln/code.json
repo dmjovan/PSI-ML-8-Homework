@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 578997,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1163348,
+        "band_name": "blacksmith_to_asylum"
+    },
+    {
+        "attendance": 2745922,
+        "band_name": "sayer"
+    },
+    {
+        "attendance": 5881040,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    }
+]

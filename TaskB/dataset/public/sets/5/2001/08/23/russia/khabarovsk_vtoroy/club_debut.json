@@ -1,0 +1,13 @@
+[
+    {
+        "band_name": "hot_imperatives",
+        "is_indie": true
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1902191,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 727971,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 3310798,
+        "band_name": "twentieth_deck"
+    }
+]

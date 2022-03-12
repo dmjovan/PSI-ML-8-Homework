@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 1375005,
+        "band_name": "cranberry_hospitality"
+    },
+    {
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 392300,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "band_name": "ampersand_lamb"
+    }
+]

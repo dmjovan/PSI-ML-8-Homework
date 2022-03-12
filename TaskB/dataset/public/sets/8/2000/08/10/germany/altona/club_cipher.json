@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 39128,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 508516,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1263113,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    }
+]

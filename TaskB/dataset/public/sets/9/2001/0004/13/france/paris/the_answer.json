@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 64398,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "attendance": 2932957,
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1357210,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 224991,
+        "is_indie": false
+    }
+]

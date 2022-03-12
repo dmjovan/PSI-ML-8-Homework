@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1426357,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 31190,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 6069243,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1825043,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 2972292,
+        "band_name": "pea_carve",
+        "is_indie": false
+    }
+]

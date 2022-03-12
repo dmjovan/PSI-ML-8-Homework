@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 603828,
+        "band_name": "twentieth_deck"
+    },
+    {
+        "attendance": 1995994,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 1767246,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1101063,
+        "band_name": "snake_pong",
+        "is_indie": false
+    }
+]

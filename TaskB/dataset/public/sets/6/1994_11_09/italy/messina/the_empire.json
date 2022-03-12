@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 998037,
+        "band_name": "spy_obsolescence"
+    },
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 1127446,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "band_name": "tang_city",
+        "is_indie": false
+    }
+]

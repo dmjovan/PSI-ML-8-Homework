@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1600537,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 1457426,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 362126,
+        "band_name": "ministry_auctioneer"
+    }
+]

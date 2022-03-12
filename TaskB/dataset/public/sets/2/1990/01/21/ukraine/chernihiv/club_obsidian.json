@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 121242,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 97422,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 1556942,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 3209895,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

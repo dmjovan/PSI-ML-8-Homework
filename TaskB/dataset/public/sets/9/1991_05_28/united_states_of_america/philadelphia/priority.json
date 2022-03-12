@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4413543,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 143764,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "band_name": "twentieth_deck"
+    },
+    {
+        "attendance": 175561,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    }
+]

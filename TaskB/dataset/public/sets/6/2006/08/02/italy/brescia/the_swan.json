@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 4666080,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 672026,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 1290933,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 7863820,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    }
+]

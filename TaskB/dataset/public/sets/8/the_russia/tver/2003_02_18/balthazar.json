@@ -1,0 +1,15 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 509338,
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 1343012,
+        "band_name": "soggy",
+        "is_indie": false
+    }
+]

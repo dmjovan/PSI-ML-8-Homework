@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2536646,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 303892,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 638960,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

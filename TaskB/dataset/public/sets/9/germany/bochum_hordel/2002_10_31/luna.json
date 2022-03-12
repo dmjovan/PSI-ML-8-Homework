@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 3980438,
+        "is_indie": false
+    },
+    {
+        "attendance": 9464962,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 3391818,
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    },
+    {
+        "attendance": 1436289,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    }
+]

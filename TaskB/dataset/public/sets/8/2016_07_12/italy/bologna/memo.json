@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 3399062,
+        "band_name": "squirrel"
+    },
+    {
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "band_name": "arson_balsam",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 7904038,
+        "band_name": "equinox_research"
+    },
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 222975,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 3842522,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 2380487,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 375958,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 5462170,
+        "band_name": "either_classical",
+        "is_indie": false
+    }
+]

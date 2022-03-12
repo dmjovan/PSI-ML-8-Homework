@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 615524,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "attendance": 169856,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "band_name": "stairwell",
+        "is_indie": false
+    }
+]

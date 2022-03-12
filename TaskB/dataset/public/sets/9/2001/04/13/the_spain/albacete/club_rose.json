@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 698427,
+        "band_name": "equinox_research"
+    },
+    {
+        "band_name": "quitters_recline"
+    },
+    {
+        "attendance": 3177303,
+        "band_name": "advertising",
+        "is_indie": false
+    }
+]

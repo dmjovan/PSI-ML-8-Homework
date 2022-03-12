@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7653002,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 554695,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 5787706,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1428864,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

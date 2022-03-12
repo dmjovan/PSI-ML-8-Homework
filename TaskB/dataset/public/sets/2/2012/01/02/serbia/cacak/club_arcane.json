@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3251476,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 338386,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 2567751,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    }
+]

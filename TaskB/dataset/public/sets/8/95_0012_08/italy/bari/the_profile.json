@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 559461,
+        "band_name": "furniture_glow"
+    },
+    {
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 918889,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "attendance": 5031269,
+        "band_name": "ration"
+    }
+]

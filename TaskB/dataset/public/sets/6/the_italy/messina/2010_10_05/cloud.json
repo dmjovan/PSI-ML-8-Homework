@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4390319,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 665172,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 367809,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 436797,
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 36578,
+        "band_name": "sulphuric"
+    },
+    {
+        "attendance": 475522,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    }
+]

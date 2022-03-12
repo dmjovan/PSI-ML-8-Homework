@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 925917,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 3522569,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 932826,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 472494,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 2753101,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 25537,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "attendance": 4679898,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 5214142,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 2262239,
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "attendance": 8329072
+    }
+]

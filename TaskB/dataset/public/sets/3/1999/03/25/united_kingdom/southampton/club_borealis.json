@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 495439,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 4933427,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 5737650,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 1047084,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

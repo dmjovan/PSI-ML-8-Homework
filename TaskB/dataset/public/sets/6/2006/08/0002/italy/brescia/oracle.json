@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 289274,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "attendance": 1079112,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 1958508,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

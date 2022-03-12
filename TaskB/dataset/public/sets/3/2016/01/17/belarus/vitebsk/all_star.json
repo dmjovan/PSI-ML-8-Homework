@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3702380,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1571902,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 4079486,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 1301218,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 695961,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

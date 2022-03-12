@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1404201,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 1015557,
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "attendance": 6228323,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 190024,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    }
+]

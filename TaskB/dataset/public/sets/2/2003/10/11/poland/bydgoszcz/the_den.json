@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2399381,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 27452,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 487618,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 5895019,
+        "band_name": "an_warrant",
+        "is_indie": false
+    }
+]

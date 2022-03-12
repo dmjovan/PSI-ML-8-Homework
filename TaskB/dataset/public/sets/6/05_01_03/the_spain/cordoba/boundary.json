@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1884133,
+        "is_indie": true
+    },
+    {
+        "attendance": 6684562,
+        "band_name": "myriad_gantry"
+    }
+]

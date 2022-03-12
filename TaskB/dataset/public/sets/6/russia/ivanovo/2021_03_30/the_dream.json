@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3952095,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "attendance": 708699,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "attendance": 1288098,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 1016911,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 268837,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

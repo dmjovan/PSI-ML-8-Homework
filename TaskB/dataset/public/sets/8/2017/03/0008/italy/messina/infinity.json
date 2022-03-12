@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 942652,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 6659846,
+        "band_name": "chili_rho",
+        "is_indie": false
+    }
+]

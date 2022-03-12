@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4729126,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 138958,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1758196,
+        "band_name": "contracting",
+        "is_indie": true
+    }
+]

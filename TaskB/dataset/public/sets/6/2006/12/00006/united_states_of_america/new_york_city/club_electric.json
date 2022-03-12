@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 150523,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 5778243,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 3536569,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    }
+]

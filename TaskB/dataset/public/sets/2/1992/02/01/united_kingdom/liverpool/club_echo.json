@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 358231,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 209667,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 9606990,
+        "band_name": "shady",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 20218,
+        "is_indie": false
+    },
+    {
+        "attendance": 4774552,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 155587,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 4735941,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 3279278,
+        "band_name": "fighter",
+        "is_indie": true
+    }
+]

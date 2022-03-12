@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 224812,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 771401,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2690612,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 1524032,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1559241,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 430490,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

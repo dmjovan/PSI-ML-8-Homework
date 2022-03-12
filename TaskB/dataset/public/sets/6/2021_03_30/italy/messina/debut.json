@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 45236,
+        "band_name": "cleansers_stitch"
+    },
+    {
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 2108710,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 3981289,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "band_name": "fussing",
+        "is_indie": false
+    }
+]

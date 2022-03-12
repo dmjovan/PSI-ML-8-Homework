@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 908483,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 439592,
+        "is_indie": false
+    }
+]

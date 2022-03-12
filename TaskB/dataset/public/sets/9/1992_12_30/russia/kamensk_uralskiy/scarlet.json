@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3491713,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 2698762,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 986147,
+        "band_name": "edible_rill",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 484218,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 1327019,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

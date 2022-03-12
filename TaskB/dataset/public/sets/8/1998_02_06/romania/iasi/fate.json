@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 755751,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 3356404,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    }
+]

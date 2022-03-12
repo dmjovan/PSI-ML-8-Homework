@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 349980,
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    },
+    {
+        "attendance": 3352265,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "attendance": 2229151,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "attendance": 2481291,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 3033440,
+        "band_name": "groves_juggler",
+        "is_indie": false
+    }
+]

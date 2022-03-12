@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5190401,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 4277319,
+        "is_indie": false
+    },
+    {
+        "attendance": 2390753,
+        "band_name": "segmentation_disturbance"
+    },
+    {
+        "attendance": 5936501,
+        "band_name": "neither_cork_forests"
+    },
+    {
+        "is_indie": true
+    }
+]

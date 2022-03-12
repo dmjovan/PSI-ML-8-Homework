@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 4074298,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 325454,
+        "band_name": "anew_big"
+    },
+    {
+        "attendance": 10399,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 5112788,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    }
+]

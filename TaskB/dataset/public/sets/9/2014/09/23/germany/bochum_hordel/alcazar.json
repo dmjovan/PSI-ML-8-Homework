@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1121664,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 5988924,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 2009268,
+        "band_name": "earls_damper"
+    }
+]

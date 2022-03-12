@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 7169620,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 6879437,
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    },
+    {
+        "band_name": "locusts_salvation"
+    },
+    {
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

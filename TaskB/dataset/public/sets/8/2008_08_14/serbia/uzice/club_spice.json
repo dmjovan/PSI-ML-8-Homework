@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "genre_fighter"
+    },
+    {
+        "attendance": 4187203,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "twang"
+    },
+    {
+        "band_name": "avenger_contrive"
+    },
+    {
+        "attendance": 3060531,
+        "band_name": "automata_politics",
+        "is_indie": true
+    }
+]

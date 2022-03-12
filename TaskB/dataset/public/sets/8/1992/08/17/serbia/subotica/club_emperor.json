@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 7227417,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 2409278,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

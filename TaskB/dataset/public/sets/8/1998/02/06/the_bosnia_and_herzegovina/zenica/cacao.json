@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1789432,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 2518646,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

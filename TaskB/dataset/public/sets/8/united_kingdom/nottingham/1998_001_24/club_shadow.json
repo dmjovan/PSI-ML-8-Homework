@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3988054,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 2512917,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 21600,
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "band_name": "squirrel",
+        "is_indie": false
+    }
+]

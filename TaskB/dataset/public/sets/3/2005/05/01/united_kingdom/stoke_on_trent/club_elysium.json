@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1546184,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2149517,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 5123299,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 236145,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

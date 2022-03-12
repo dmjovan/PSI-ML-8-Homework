@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 20031,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 536960,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 2744784,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

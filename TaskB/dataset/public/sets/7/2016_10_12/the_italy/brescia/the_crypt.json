@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 148111,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 136675,
+        "band_name": "earthworm_spire"
+    },
+    {
+        "attendance": 867021,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

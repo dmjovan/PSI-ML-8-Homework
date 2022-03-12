@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 420915,
+        "band_name": "reflex_commotion"
+    },
+    {
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 3447905,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "band_name": "honeybee_signatures"
+    },
+    {
+        "attendance": 1187049,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

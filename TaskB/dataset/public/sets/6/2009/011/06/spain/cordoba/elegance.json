@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1733874,
+        "band_name": "general_villains"
+    },
+    {
+        "attendance": 3696986,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 3940584,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

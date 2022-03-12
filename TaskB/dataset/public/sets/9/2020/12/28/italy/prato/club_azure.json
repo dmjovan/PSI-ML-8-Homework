@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 4368674,
+        "band_name": "rumble_gripes"
+    },
+    {
+        "attendance": 2267762,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 3391523,
+        "band_name": "hangmen_hotter"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 801351,
+        "band_name": "these_myrtle"
+    },
+    {
+        "attendance": 1169352,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

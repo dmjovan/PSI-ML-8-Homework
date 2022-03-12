@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3365426,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 2399283,
+        "band_name": "sayer"
+    },
+    {
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 565344,
+        "is_indie": true
+    }
+]

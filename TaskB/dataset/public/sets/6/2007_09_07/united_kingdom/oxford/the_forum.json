@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 2854860,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 210307,
+        "band_name": "saber_advertising"
+    },
+    {
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "band_name": "general_villains",
+        "is_indie": false
+    }
+]

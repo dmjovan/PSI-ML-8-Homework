@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5461244,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 378691,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

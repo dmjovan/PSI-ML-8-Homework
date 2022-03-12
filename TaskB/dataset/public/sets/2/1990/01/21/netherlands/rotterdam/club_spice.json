@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 25508,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2353134,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 448906,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1223067,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 1953837,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

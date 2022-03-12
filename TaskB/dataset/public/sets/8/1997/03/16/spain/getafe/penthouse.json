@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1467644,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 3853873,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 1806566,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 563206,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 1799247,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2408510,
+        "band_name": "aerobics",
+        "is_indie": false
+    }
+]

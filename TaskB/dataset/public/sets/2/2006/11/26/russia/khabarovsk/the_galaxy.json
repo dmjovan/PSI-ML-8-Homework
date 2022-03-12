@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1239796,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 3481238,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2008064,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    }
+]

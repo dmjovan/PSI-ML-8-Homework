@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 8207187,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 908311,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

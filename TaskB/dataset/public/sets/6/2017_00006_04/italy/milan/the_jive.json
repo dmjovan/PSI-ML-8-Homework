@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 810492,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "band_name": "pagers_memento",
+        "is_indie": false
+    }
+]

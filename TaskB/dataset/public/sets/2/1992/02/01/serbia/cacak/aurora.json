@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 869235,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 5153371,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 989119,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 602644,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 3463415,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    }
+]

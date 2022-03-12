@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 7962136,
+        "is_indie": false
+    },
+    {
+        "attendance": 1800441,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 6815958,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 3010253,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

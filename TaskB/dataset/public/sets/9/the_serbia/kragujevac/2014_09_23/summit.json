@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2777764,
+        "band_name": "pea_coaxial_augmentation"
+    },
+    {
+        "attendance": 8679055,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 700610,
+        "band_name": "advertising",
+        "is_indie": false
+    }
+]

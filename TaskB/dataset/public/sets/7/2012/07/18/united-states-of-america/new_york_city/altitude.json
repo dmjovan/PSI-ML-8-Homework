@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6130718,
+        "band_name": "collegian_visor"
+    },
+    {
+        "band_name": "aversion_whine"
+    },
+    {
+        "attendance": 5274262,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    }
+]

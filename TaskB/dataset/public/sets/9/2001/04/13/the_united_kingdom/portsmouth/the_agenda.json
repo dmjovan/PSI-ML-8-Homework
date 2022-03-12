@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 64213,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 845303,
+        "band_name": "scythe",
+        "is_indie": false
+    },
+    {
+        "attendance": 311566,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    }
+]

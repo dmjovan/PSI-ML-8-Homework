@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 187315,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 810028,
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 103372,
+        "band_name": "scoundrel_elite"
+    }
+]

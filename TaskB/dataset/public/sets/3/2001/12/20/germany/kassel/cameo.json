@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1140063,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 3769718,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 225670,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

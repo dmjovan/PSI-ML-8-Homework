@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6546534,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "attendance": 1377275,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 1753143,
+        "band_name": "any_stormy",
+        "is_indie": true
+    }
+]

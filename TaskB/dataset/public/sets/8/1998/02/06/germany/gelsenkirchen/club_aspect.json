@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "ration"
+    },
+    {
+        "attendance": 5625689,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 28877,
+        "band_name": "matrix_mare"
+    },
+    {
+        "attendance": 3176455,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "attendance": 7004693,
+        "band_name": "potters_assembly"
+    },
+    {
+        "attendance": 693717,
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    }
+]

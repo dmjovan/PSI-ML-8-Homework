@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6729851,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 266424,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 1683081,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 7519070,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

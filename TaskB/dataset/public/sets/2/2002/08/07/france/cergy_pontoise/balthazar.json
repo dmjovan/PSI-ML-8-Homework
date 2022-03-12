@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6828232,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 1293842,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1708646,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 57321,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 1904772,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

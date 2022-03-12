@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 1552389,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 233828,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    }
+]

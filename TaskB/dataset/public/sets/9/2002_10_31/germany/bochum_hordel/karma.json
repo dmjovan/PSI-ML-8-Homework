@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1396091,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 2241668,
+        "band_name": "across_plus_personalized"
+    },
+    {
+        "band_name": "scythe",
+        "is_indie": false
+    },
+    {
+        "attendance": 1568065,
+        "band_name": "tore"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 1596568,
+        "band_name": "sparks_bridge"
+    },
+    {
+        "attendance": 17124,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "attendance": 3944544,
+        "is_indie": false
+    },
+    {
+        "attendance": 136438,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    }
+]

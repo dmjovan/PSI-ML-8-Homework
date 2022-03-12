@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 5316499,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 8627929,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 4709737,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    }
+]

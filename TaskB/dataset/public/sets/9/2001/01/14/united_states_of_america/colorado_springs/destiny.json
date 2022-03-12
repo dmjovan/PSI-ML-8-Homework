@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 392242,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1641079,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 43770,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 1213535,
+        "is_indie": true
+    }
+]

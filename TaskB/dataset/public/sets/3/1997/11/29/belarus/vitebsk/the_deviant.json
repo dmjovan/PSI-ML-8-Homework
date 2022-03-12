@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2198223,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 1918771,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

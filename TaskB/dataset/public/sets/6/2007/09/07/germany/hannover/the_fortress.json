@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 7204645,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 3814460,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 2303758,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 3747480,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    }
+]

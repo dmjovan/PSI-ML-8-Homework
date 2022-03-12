@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1582750,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 6375291,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 336960,
+        "band_name": "redemption",
+        "is_indie": false
+    }
+]

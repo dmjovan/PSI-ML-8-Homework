@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5563045,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 484162,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 1699497,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

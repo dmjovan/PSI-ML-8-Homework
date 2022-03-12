@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 286765,
+        "band_name": "signification_repent"
+    },
+    {
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 951471,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 736393,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    }
+]

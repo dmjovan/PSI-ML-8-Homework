@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1386881,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 559578,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 5062772,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1467725,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3607332,
+        "band_name": "bluffing",
+        "is_indie": false
+    }
+]

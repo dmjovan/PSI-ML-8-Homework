@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 5054279,
+        "is_indie": false
+    },
+    {
+        "band_name": "executor"
+    },
+    {
+        "band_name": "castle_dyers",
+        "is_indie": true
+    },
+    {
+        "attendance": 1817768,
+        "band_name": "snowflake",
+        "is_indie": false
+    }
+]

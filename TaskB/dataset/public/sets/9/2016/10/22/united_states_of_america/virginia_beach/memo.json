@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3401757,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 218839,
+        "band_name": "deride"
+    },
+    {
+        "attendance": 2471710,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "attendance": 956397,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 523986,
+        "band_name": "cranberry_hospitality"
+    }
+]

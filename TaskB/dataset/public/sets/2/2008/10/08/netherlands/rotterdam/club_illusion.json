@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1013373,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 4503586,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 57296,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 3772157,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 798037,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

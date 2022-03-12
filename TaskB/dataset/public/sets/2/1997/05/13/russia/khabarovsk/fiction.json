@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1888397,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 5732202,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    }
+]

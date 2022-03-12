@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 3607073,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "band_name": "outdoors",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1389988,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 1511361,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 623343,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 66417,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 1041288,
+        "band_name": "each_reverend",
+        "is_indie": true
+    }
+]

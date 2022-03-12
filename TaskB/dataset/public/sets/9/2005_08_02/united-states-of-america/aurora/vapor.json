@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "attendance": 2123581,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 701196,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    }
+]

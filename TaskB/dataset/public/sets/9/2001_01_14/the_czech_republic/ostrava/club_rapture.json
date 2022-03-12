@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3274803,
+        "band_name": "widener_separable"
+    },
+    {
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "attendance": 1212393,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

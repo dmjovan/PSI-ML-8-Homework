@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1176163,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "attendance": 862002,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 158538,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 3043729,
+        "band_name": "segmentation_deal_sojourner"
+    },
+    {
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    }
+]

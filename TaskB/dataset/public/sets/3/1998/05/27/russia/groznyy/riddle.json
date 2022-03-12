@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5959210,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 769846,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

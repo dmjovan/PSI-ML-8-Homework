@@ -1,0 +1,24 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 19881,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 2828691,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 1102462,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

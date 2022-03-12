@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2089239,
+        "band_name": "advertising"
+    },
+    {
+        "attendance": 100047,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 340684,
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 533440,
+        "band_name": "binaural_dropout"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1852628,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "band_name": "seaside",
+        "is_indie": false
+    },
+    {
+        "attendance": 918375,
+        "band_name": "brides_intonation",
+        "is_indie": false
+    }
+]

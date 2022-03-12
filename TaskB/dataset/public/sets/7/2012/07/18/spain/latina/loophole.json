@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5662918,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 1784419,
+        "band_name": "jug_bagger"
+    },
+    {
+        "attendance": 37031,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

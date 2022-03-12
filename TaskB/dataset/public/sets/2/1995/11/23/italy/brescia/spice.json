@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1580532,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1453125,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 345379,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 5063857,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1271464,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 452979,
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 339105,
+        "band_name": "governmental_bureau"
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 1269743,
+        "band_name": "executor",
+        "is_indie": false
+    }
+]

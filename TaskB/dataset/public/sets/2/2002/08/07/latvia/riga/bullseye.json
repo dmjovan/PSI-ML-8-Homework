@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7466148,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 5630113,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1433409,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 2165466,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

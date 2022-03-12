@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2154017,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1859673,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 770560,
+        "band_name": "any_madder"
+    },
+    {
+        "attendance": 650817,
+        "is_indie": true
+    },
+    {
+        "band_name": "collegian_visor"
+    }
+]

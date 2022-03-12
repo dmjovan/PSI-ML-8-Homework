@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3800065,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 2208854,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 525165,
+        "is_indie": false
+    }
+]

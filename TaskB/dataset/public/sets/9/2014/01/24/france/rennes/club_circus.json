@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1149883,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 1431757,
+        "is_indie": false
+    },
+    {
+        "band_name": "elms"
+    },
+    {
+        "attendance": 21015,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

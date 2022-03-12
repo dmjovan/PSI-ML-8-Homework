@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 5093737,
+        "band_name": "paraffin"
+    },
+    {
+        "attendance": 1162305,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 4798244,
+        "band_name": "the_porters"
+    },
+    {
+        "is_indie": false
+    }
+]

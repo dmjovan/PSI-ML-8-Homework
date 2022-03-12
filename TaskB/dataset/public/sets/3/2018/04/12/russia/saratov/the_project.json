@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 7113531,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 459541,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 6134270,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

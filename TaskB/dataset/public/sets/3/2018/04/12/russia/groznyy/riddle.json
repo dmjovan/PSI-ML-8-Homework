@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2647648,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 77181,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 4227805,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2835320,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 2558586,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

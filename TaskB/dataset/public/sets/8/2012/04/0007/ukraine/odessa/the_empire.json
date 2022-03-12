@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 73462,
+        "band_name": "soy_bites"
+    },
+    {
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 979103,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {}
+]

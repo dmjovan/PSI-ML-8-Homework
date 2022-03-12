@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3496161,
+        "is_indie": false
+    },
+    {
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 1601924,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 4209753,
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "attendance": 1137008,
+        "band_name": "aerobics",
+        "is_indie": false
+    }
+]

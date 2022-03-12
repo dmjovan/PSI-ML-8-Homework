@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 2898960,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

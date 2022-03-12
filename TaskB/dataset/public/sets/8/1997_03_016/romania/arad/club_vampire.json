@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 2190716,
+        "is_indie": false
+    },
+    {
+        "attendance": 5605779,
+        "is_indie": false
+    },
+    {
+        "attendance": 1171245,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    }
+]

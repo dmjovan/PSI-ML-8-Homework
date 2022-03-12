@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2978578,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 695249,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "attendance": 2246715,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 1116210,
+        "band_name": "all_beehives_aviator"
+    }
+]

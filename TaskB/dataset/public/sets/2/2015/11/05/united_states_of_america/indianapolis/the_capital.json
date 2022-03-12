@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7094090,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 168723,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 8056182,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 3826014,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3114270,
+        "band_name": "pit",
+        "is_indie": false
+    }
+]

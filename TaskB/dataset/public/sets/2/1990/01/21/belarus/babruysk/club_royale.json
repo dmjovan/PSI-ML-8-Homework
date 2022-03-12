@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 289745,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 1318747,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 987277,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

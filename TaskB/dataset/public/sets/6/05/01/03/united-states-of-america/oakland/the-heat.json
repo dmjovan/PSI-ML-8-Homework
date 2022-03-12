@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 6770496,
+        "is_indie": false
+    },
+    {
+        "attendance": 1634293,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 675444,
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

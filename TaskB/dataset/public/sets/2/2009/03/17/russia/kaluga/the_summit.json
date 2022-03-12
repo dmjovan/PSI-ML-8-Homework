@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2819463,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 2109159,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1775240,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    }
+]

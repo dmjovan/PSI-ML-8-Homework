@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1338637,
+        "band_name": "chieftains_glossary"
+    },
+    {
+        "attendance": 3513431,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "attendance": 6066345,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "attendance": 271390,
+        "is_indie": false
+    },
+    {
+        "attendance": 424258,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    }
+]

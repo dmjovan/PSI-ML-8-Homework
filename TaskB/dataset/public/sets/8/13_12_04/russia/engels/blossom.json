@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 5953268,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 712464,
+        "band_name": "ration"
+    },
+    {
+        "band_name": "breadwinner_biller"
+    }
+]

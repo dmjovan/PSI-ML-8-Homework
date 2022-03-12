@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 411709,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 652529,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 2386429,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    }
+]

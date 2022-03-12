@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1301941,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 3897907,
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 1321631,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

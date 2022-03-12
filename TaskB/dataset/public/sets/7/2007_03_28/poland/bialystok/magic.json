@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {},
+    {
+        "attendance": 4277642,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 6146691,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    }
+]

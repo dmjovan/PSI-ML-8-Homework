@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1687084,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 2738147,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 6881057,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 3066101,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 5922814,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5873243,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 695679,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 4912914,
+        "band_name": "automata_politics",
+        "is_indie": true
+    }
+]

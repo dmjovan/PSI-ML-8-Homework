@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2633679,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 729807,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 268540,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 121345,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

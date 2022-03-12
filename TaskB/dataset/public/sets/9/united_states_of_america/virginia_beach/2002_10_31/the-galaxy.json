@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 503599,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 2504655,
+        "is_indie": false
+    },
+    {
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 1345586,
+        "band_name": "anew_big",
+        "is_indie": true
+    }
+]

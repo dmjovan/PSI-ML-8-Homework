@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4844912,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 1044174,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1715309,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    }
+]

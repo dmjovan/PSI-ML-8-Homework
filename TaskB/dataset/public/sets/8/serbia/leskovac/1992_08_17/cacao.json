@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 652155,
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "band_name": "tag"
+    },
+    {
+        "attendance": 311191,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "band_name": "quarry_divisional"
+    },
+    {
+        "band_name": "wan_hale"
+    }
+]

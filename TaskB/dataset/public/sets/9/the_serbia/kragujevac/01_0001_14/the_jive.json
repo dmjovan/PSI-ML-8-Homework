@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 7006318,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "attendance": 927468,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 3143542,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    }
+]

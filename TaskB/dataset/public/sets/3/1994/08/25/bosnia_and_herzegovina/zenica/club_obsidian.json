@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 556159,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 8281,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 7005557,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 825993,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 101919,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

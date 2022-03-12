@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4665256,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 59595,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 5436544,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    }
+]

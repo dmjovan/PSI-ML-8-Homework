@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 161928,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 1590898,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 5361141,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 736620,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 6071971,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 5592871,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

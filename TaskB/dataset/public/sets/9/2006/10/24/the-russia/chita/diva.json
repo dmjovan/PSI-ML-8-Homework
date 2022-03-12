@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "attendance": 3102264,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    }
+]

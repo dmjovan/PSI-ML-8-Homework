@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 373925,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "attendance": 947743,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 823433,
+        "band_name": "anemia_psychologist"
+    },
+    {
+        "attendance": 7199363,
+        "band_name": "kanji"
+    },
+    {
+        "attendance": 2533697,
+        "band_name": "ration",
+        "is_indie": true
+    }
+]

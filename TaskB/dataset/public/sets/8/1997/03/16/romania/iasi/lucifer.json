@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "attendance": 263364,
+        "is_indie": false
+    },
+    {
+        "attendance": 107484,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    }
+]

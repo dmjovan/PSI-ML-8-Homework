@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4522400,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 2323632,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2206430,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 3089399,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1324807,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2708411,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 1727685,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 4803341,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    }
+]

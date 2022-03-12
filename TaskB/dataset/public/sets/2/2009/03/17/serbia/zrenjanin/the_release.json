@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3497043,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 4182375,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 138512,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 8060706,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 3197512,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    }
+]

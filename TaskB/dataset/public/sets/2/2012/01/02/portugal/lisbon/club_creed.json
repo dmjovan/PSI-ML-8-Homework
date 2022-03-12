@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6240716,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 108597,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1939099,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 8674461,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1650421,
+        "band_name": "pit",
+        "is_indie": false
+    }
+]

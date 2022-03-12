@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 766651,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 4510829,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1551446,
+        "is_indie": false
+    }
+]

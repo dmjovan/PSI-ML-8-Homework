@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 121318,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 1057306,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "band_name": "stray_pussy",
+        "is_indie": false
+    }
+]

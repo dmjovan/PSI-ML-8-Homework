@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 15118,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 895531,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 1401414,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 3131399,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

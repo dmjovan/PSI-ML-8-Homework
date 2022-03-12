@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3824937,
+        "is_indie": false
+    },
+    {},
+    {
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "band_name": "pie_addendum",
+        "is_indie": false
+    }
+]

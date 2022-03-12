@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 337776,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 5045314,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

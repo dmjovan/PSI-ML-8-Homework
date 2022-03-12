@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1311966,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 98246,
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

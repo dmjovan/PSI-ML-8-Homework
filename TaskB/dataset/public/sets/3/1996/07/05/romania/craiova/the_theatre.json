@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5722552,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 4535594,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 2309799,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 619295,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

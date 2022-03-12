@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3873629,
+        "band_name": "either_whittle"
+    },
+    {
+        "attendance": 194827,
+        "band_name": "earthworm_spire"
+    },
+    {
+        "attendance": 4451941,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 725370,
+        "band_name": "aromatic_tents"
+    }
+]

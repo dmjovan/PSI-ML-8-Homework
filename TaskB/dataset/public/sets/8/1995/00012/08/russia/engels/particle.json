@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "matrix_mare"
+    },
+    {
+        "attendance": 2890072,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 3673525,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 558094,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 583932,
+        "is_indie": false
+    }
+]

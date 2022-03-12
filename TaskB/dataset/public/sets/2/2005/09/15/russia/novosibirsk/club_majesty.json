@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2917534,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 4104340,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 208584,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1702260,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 365387,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

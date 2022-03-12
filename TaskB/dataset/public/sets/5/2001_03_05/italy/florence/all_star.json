@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2921668,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2574518,
+        "band_name": "hot_imperatives",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 7128527,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 262879,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 114455,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

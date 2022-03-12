@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 132393,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 656049,
+        "band_name": "fingers",
+        "is_indie": true
+    }
+]

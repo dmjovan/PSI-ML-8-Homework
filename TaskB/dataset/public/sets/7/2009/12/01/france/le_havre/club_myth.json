@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7223051,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 2995800,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 4448030,
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 1639286,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 330097,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    }
+]

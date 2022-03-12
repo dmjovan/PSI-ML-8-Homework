@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 2577638,
+        "is_indie": true
+    },
+    {
+        "attendance": 5492278,
+        "is_indie": true
+    },
+    {
+        "attendance": 10771,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    }
+]

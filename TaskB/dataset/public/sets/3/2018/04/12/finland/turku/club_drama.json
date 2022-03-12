@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 7617970,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1377556,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

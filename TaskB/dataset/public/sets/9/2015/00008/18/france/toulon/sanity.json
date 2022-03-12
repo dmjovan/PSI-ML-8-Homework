@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 391212,
+        "band_name": "romper"
+    },
+    {
+        "attendance": 282602,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

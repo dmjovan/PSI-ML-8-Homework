@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3434168,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2639759,
+        "band_name": "equinox_research"
+    },
+    {
+        "attendance": 382031,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    }
+]

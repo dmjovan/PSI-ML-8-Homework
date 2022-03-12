@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1295479,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1091052,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 6211307,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 175880,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

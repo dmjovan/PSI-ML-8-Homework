@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 1508474,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 1373587,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 703022,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    }
+]

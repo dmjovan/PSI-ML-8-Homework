@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 356729,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 4989388,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 7764345,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 629949,
+        "band_name": "bikini_shrew"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 230658,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 4076676,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 1829055,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 112209,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1254538,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    }
+]

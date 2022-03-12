@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 2124056,
+        "band_name": "float"
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

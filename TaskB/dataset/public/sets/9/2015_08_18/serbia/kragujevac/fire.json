@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 6059229,
+        "band_name": "groves_juggler"
+    },
+    {
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "attendance": 977658,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    }
+]

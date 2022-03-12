@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3065642,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1447685,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 8329679,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 398684,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "sale_vertical"
+    },
+    {
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 2074770,
+        "band_name": "burnings_pod"
+    },
+    {
+        "attendance": 514727,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "band_name": "matrix_mare",
+        "is_indie": true
+    }
+]

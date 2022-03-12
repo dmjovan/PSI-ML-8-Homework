@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 3011472,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 7881909,
+        "band_name": "shines_vibrator_educators"
+    },
+    {
+        "attendance": 156442,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "band_name": "soggy"
+    }
+]

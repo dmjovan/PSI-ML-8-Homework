@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 569787,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 2744789,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 1753603,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 1232601,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 94667,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

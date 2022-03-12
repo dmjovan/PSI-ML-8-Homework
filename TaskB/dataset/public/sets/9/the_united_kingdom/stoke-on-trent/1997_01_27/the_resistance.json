@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1809344,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1672167,
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 4860290,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 2756439,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    }
+]

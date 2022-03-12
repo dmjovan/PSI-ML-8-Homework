@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 325378,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 5489334,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 2624256,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

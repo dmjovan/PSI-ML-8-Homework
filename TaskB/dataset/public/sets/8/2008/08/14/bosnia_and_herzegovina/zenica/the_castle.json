@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4724342,
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "attendance": 133698,
+        "band_name": "attackers"
+    },
+    {
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 6040733,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    }
+]

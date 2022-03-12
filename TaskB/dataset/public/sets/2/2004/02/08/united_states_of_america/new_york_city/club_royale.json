@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2206152,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 3967198,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2693878,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 2453229,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    }
+]

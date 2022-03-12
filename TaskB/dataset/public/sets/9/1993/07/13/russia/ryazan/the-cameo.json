@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1443089,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 187372,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    },
+    {
+        "attendance": 2273116,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 4749028,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 1260721,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "band_name": "sonata",
+        "is_indie": true
+    }
+]

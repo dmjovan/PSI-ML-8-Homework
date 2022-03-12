@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 462907,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 942134,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 346123,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "band_name": "attackers",
+        "is_indie": false
+    }
+]

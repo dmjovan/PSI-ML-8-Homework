@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 266110,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 1933241,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    }
+]

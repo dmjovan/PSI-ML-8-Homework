@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 456052,
+        "band_name": "trust",
+        "is_indie": false
+    },
+    {
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    }
+]

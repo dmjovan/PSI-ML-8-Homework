@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 65258,
+        "band_name": "beamer_forum"
+    },
+    {
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 2055559,
+        "band_name": "adapt_pool"
+    }
+]

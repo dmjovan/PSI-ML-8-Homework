@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5168843,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 2891010,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 359456,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 5144462,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

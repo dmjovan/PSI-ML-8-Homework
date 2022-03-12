@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 459586,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 3476193,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 702587,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 4170011,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 6207826,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

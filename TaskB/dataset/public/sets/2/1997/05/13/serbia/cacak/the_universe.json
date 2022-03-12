@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1377287,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 1704325,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 4479823,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 1791283,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 6895539,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

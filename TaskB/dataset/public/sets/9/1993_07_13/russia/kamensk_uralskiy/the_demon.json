@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 775741,
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "attendance": 2470243,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "attendance": 1278868,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 2505550,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "attendance": 361740,
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    }
+]

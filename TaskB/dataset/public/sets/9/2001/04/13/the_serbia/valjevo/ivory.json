@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6308387,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 6264603,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "attendance": 491953,
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "attendance": 5476129,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 2872313,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    }
+]

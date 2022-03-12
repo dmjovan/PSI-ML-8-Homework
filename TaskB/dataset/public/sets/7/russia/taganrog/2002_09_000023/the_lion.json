@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    },
+    {
+        "attendance": 537892,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 3020714,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_porters",
+        "is_indie": true
+    }
+]

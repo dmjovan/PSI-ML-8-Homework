@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1563715,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 2319402,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1955598,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 223227,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    }
+]

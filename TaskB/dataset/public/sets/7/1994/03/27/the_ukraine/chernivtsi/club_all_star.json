@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1215105,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 4489795,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 3007610,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 335029,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

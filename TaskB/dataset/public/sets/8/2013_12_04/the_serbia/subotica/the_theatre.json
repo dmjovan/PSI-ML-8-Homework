@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 7108376,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 1220577,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {},
+    {
+        "attendance": 7000416,
+        "band_name": "complex_figs",
+        "is_indie": false
+    }
+]

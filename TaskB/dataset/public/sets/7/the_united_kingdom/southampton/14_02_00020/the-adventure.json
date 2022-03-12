@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 1300596,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 5556548
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

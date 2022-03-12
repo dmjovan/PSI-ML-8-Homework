@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 5474228,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 365242,
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "attendance": 5129778,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    }
+]

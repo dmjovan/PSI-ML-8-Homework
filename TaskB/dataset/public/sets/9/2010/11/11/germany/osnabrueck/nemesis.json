@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5738906,
+        "is_indie": true
+    },
+    {
+        "attendance": 3833250,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 156156,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 733671,
+        "is_indie": true
+    },
+    {
+        "attendance": 4603506,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    }
+]

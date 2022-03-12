@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1932488,
+        "band_name": "city_unlimited"
+    },
+    {
+        "attendance": 6322473,
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    }
+]

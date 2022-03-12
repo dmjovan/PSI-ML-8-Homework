@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1896240,
+        "band_name": "scarecrow_bungalow"
+    },
+    {
+        "attendance": 5397947,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 1661280,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    }
+]

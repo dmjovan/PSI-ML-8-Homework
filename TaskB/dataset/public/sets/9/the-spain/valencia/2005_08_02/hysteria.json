@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1580767,
+        "band_name": "fleece"
+    },
+    {
+        "attendance": 4740514,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 6698841,
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "attendance": 2406104,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 8236838,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 353160,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 1183897,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "band_name": "fighter",
+        "is_indie": true
+    }
+]

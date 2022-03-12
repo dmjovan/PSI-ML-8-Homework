@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 2254872,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 741053,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2561247,
+        "is_indie": false
+    },
+    {
+        "attendance": 4909189,
+        "band_name": "drank",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3515541,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 276285,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1008476,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1189948,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 529411,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

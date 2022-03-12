@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 138233,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2740509,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 8068637,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1112302,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1020762,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 8983532,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 4987203,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

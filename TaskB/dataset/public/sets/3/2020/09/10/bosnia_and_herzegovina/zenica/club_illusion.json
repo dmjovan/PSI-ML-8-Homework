@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2550068,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 1825826,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 662534,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

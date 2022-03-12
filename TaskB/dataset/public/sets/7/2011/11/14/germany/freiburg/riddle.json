@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 423608,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 1547472,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 641200,
+        "band_name": "flamboyant",
+        "is_indie": false
+    }
+]

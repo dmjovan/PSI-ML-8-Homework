@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1747944,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 589153,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2813569,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 2415134,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 22198,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

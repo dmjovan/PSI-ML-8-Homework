@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 455003,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 813379,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 279832,
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 5222131,
+        "band_name": "mask",
+        "is_indie": false
+    }
+]

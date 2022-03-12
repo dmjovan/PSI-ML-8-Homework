@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2954177,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 12779,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 934591,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 5747763,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 381327,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    }
+]

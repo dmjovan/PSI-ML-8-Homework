@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1329845,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 999965,
+        "band_name": "signification_repent"
+    },
+    {
+        "attendance": 1087175,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 4405491,
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    },
+    {
+        "attendance": 155543,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    }
+]

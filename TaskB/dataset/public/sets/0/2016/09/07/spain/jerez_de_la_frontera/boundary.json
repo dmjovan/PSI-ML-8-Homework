@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1164350,
+        "band_name": "giver_leash",
+        "is_indie": false
+    },
+    {
+        "attendance": 7552833,
+        "band_name": "counterfeit_income_index",
+        "is_indie": false
+    },
+    {
+        "attendance": 370240,
+        "band_name": "unreliable_railway",
+        "is_indie": false
+    },
+    {
+        "attendance": 8118913,
+        "band_name": "nary_washer",
+        "is_indie": false
+    },
+    {
+        "attendance": 846689,
+        "band_name": "regenerator_rooftop",
+        "is_indie": true
+    }
+]

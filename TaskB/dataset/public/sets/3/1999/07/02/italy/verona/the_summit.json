@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4147802,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 5598468,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 120735,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 3397733,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 6526009,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    }
+]

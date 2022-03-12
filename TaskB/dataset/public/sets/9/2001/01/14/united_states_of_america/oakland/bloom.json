@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3574112,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 6750198,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    },
+    {
+        "attendance": 3846291,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "attendance": 3441188,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 1808579,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    }
+]

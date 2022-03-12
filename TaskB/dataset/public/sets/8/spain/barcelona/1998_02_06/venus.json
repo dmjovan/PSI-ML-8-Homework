@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2364259,
+        "is_indie": false
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 1484381,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 185845,
+        "band_name": "meeker_doomsday"
+    },
+    {
+        "attendance": 478329,
+        "band_name": "voting_ridden"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 772955,
+        "is_indie": true
+    },
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "band_name": "honeybee_signatures"
+    }
+]

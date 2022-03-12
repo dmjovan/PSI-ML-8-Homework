@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2204207,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1430683,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 719698,
+        "band_name": "exempt",
+        "is_indie": false
+    }
+]

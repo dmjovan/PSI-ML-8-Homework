@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 485097,
+        "band_name": "stairwell"
+    },
+    {
+        "attendance": 1283688,
+        "is_indie": false
+    },
+    {
+        "attendance": 2313380,
+        "band_name": "dale_burl",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 7381141,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 348430,
+        "band_name": "ibis_garbages_melon"
+    },
+    {
+        "attendance": 34292,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

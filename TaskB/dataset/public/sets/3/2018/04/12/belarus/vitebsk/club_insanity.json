@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3818594,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 55378,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 286096,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 684370,
+        "band_name": "cretin",
+        "is_indie": false
+    }
+]

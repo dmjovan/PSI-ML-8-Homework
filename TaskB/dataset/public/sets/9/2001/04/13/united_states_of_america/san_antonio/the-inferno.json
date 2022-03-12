@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1921304,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    },
+    {
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1362187,
+        "band_name": "smashers_miller"
+    },
+    {
+        "attendance": 3601959,
+        "is_indie": false
+    }
+]

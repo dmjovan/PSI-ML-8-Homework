@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5123952,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 3894706,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

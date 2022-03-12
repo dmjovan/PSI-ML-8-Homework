@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2191788,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 815188,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

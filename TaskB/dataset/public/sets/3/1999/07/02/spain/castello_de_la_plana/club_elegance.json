@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1895728,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1319327,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1023575,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 2174929,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 4337493,
+        "band_name": "silt_twas",
+        "is_indie": false
+    }
+]

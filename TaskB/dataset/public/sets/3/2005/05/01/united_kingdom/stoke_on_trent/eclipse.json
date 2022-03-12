@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4778220,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 901246,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1260843,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 1945616,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

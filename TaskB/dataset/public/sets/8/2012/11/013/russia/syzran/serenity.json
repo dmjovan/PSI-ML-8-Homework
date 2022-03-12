@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "attendance": 706053,
+        "band_name": "boulder_orthodoxy"
+    },
+    {
+        "attendance": 5706776,
+        "band_name": "squirrel",
+        "is_indie": false
+    }
+]

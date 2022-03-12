@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 5293338,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 2366901,
+        "is_indie": true
+    },
+    {
+        "attendance": 895154,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4230389,
+        "band_name": "bivouac",
+        "is_indie": false
+    }
+]

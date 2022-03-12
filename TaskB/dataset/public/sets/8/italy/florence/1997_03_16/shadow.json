@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2305062,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 373821,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 695178,
+        "band_name": "starter_newsletter"
+    }
+]

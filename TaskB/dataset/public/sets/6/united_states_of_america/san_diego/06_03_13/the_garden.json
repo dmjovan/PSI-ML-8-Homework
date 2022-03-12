@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 7923859,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 2956664,
+        "is_indie": false
+    },
+    {
+        "band_name": "grudge",
+        "is_indie": false
+    }
+]

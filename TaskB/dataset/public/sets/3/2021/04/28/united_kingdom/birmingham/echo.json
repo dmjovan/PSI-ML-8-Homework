@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 982338,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 4654248,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 3310984,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 4163683,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    }
+]

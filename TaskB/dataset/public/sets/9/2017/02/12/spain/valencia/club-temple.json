@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 2975638,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    }
+]

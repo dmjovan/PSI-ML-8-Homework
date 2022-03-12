@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 1950763,
+        "band_name": "sash_amoebae"
+    },
+    {
+        "attendance": 2164831,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1246088,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 4867761,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 2754518,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 2743117,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 872483,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

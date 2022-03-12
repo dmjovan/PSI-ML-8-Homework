@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5443873,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 496531,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 2804733,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    }
+]

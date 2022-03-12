@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1976381
+    },
+    {
+        "attendance": 4754170,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 2665354,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "attendance": 109510,
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 972085,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "attendance": 5342968,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "band_name": "bilk_comeback"
+    },
+    {
+        "band_name": "junky_sulk",
+        "is_indie": false
+    }
+]

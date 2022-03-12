@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4548993,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 432815,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 4302540,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 2929713,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 4402883,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

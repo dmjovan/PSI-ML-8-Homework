@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 3435923,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1445537,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 291552,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 33570,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 559468,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 7027268,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    }
+]

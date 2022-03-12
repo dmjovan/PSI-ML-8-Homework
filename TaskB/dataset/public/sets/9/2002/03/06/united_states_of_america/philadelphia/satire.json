@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4227917,
+        "band_name": "breathe_ensemble"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 172661,
+        "band_name": "acorn_pence"
+    },
+    {
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 952262,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    }
+]

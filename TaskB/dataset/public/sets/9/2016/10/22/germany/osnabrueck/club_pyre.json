@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1537550,
+        "band_name": "wretch",
+        "is_indie": false
+    },
+    {
+        "attendance": 1078420,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    }
+]

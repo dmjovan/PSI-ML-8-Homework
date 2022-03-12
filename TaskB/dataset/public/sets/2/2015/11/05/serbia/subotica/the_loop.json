@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1092381,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 454522,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 249897,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 951270,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    }
+]

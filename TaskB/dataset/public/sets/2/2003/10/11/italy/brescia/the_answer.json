@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3542386,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 6719718,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1893244,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1828875,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 427606,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 40294,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1758625,
+        "band_name": "silt_twas",
+        "is_indie": false
+    }
+]

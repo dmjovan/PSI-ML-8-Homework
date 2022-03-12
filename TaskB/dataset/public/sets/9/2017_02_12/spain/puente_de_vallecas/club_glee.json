@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 129657,
+        "band_name": "antennas_ricochet"
+    },
+    {
+        "attendance": 1922129,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 1857979,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    }
+]

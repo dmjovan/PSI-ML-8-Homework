@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4494774,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 6499919,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 3397851,
+        "band_name": "hoes",
+        "is_indie": false
+    }
+]

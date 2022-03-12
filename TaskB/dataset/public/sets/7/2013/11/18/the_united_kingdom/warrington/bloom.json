@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3929459,
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "band_name": "reflex_commotion"
+    },
+    {
+        "attendance": 5203496,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

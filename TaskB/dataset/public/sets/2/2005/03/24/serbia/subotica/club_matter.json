@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5052370,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 5634625,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 4481158,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 4802556,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

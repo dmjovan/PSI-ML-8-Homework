@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5816834,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 1376612,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 4740957,
+        "band_name": "flamboyant",
+        "is_indie": false
+    }
+]

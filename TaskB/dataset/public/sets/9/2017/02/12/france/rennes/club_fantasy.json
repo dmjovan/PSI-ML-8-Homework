@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6260003,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "attendance": 4447399,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 7882531,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    }
+]

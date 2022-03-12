@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1682556,
+        "band_name": "cookie_happier"
+    },
+    {
+        "attendance": 3776827,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "band_name": "dragons",
+        "is_indie": false
+    }
+]

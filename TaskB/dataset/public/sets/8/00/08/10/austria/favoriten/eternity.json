@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "burnings_pod"
+    },
+    {
+        "attendance": 390073,
+        "band_name": "deserter"
+    },
+    {
+        "attendance": 646733,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 3984241,
+        "band_name": "port_psalms",
+        "is_indie": false
+    }
+]

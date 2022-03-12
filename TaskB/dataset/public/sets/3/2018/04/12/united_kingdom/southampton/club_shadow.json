@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1493659,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 292665,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 91530,
+        "band_name": "international_furlough",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 166355,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1784775,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 2108356,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 1875594,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 1007420,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    }
+]

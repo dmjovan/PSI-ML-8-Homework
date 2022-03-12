@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3167835,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 5268893,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "attendance": 1142829,
+        "band_name": "bivouac",
+        "is_indie": false
+    }
+]

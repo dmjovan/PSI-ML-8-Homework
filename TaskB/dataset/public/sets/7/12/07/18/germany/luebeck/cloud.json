@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2220785,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 1884049
+    },
+    {
+        "attendance": 69141,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 523276,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    }
+]

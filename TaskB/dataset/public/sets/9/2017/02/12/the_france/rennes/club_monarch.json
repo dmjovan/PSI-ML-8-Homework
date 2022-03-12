@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3340765,
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 2726153,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 3413307,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "attendance": 2300847,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "band_name": "groves_juggler"
+    }
+]

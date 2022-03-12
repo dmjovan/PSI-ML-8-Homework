@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4139760,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 7392448,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 300267,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 5109708,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 199173,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

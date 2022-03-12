@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "band_name": "ampersand_lamb"
+    },
+    {
+        "attendance": 805744,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 390341,
+        "band_name": "elms",
+        "is_indie": false
+    }
+]

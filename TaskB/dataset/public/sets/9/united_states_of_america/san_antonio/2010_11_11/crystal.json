@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1989015,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 1850983,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 3018140
+    },
+    {
+        "attendance": 76062,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    }
+]

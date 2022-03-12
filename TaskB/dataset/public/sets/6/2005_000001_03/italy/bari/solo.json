@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3214987,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 21661,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 1715368,
+        "is_indie": false
+    },
+    {
+        "band_name": "folk_chicks",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1523989,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "attendance": 2382010,
+        "band_name": "feline_business"
+    },
+    {
+        "attendance": 1461830,
+        "band_name": "ermine",
+        "is_indie": false
+    }
+]

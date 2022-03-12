@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "attendance": 2976965,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 2959513,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    }
+]

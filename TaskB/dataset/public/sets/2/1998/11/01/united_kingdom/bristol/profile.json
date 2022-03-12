@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 21848,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 200220,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 1046661,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    }
+]

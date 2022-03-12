@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 439325,
+        "band_name": "voting_ridden"
+    },
+    {
+        "attendance": 1042028,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 6627068,
+        "band_name": "peanuts_mountaineer"
+    }
+]

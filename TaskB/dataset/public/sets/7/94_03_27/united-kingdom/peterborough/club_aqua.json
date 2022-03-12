@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 179961,
+        "band_name": "earthworm_spire"
+    },
+    {
+        "attendance": 2098387,
+        "is_indie": false
+    },
+    {
+        "attendance": 290801,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 6233707,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    }
+]

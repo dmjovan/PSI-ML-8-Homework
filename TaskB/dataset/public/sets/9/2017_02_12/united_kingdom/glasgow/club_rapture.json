@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3443430,
+        "is_indie": false
+    },
+    {
+        "attendance": 6164738,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    }
+]

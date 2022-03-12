@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 973485,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 139938,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 3694578,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 5272347,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

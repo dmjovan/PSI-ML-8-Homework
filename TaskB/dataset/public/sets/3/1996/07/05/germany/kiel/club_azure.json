@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 639700,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 74986,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 362442,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

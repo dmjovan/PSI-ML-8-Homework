@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5412473,
+        "is_indie": false
+    },
+    {
+        "attendance": 1456932,
+        "is_indie": true
+    },
+    {
+        "attendance": 2373498,
+        "is_indie": false
+    },
+    {
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 824271,
+        "is_indie": false
+    }
+]

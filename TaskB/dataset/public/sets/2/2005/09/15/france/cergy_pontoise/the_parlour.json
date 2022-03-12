@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 488060,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1551740,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

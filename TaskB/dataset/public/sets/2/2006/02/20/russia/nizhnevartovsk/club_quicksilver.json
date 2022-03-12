@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6721349,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 532610,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 317449,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 238901
+    },
+    {
+        "attendance": 7407046,
+        "band_name": "twang"
+    },
+    {
+        "attendance": 2030413,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 1843862,
+        "band_name": "arson_balsam"
+    }
+]

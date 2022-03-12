@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 6853650,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

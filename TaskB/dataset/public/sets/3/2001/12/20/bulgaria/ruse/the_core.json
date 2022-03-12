@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 40795,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2150168,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 2295782,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 6999268,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1212301,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

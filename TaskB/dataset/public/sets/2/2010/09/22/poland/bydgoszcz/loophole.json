@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2592090,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 3307440,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 3990924,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 449363,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 6233223,
+        "band_name": "an_warrant",
+        "is_indie": false
+    }
+]

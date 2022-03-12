@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2400346,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 713879,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "band_name": "boulder_orthodoxy"
+    }
+]

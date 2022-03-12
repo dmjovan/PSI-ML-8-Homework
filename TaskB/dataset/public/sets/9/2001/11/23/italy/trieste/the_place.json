@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3258169,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 1975578,
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 582826,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 860438,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 261206,
+        "band_name": "destructor"
+    }
+]

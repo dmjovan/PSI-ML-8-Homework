@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 5488230,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 475806,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 603403,
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

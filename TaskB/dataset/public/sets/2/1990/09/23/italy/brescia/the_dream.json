@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2223340,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 8024294,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 31817,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

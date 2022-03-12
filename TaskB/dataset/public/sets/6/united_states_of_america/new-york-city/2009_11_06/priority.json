@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 8301118,
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "attendance": 5312321,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 293890,
+        "band_name": "fingers",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 6101984,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1719037,
+        "is_indie": false
+    },
+    {
+        "attendance": 4227609,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    }
+]

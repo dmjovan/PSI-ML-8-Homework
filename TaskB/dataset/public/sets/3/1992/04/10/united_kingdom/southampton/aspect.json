@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2458626,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 3434229,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 790267,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1052969,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 65205,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 4618598,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 669100,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

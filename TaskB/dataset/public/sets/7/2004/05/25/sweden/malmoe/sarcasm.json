@@ -1,0 +1,13 @@
+[
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

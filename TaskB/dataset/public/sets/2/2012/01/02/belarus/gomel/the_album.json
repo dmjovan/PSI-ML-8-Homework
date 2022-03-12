@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4180727,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 1209609,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 5381542,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 4280971,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    }
+]

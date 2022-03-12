@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 3738810,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "band_name": "anew_big",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4511687,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 1127204,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 5152387,
+        "band_name": "vibrator",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 5984261,
+        "band_name": "alibi_encyclopedia"
+    },
+    {
+        "band_name": "hypocrite"
+    }
+]

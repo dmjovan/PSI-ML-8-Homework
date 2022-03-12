@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1427762,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 358113,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 1859647,
+        "is_indie": false
+    },
+    {
+        "attendance": 458349,
+        "band_name": "levee_or_any_gymnast_boatmen"
+    }
+]

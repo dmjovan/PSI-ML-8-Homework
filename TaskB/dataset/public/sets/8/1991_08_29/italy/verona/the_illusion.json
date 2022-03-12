@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "signification_repent"
+    },
+    {
+        "attendance": 145613,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 224323,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "band_name": "twang",
+        "is_indie": true
+    }
+]

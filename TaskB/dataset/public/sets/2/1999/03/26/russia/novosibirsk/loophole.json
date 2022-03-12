@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3726909,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2531264,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 38978,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 503718,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    }
+]

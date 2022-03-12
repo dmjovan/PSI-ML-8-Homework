@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 81140,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 5253138,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 4275832,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 1697294,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 3037726,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    }
+]

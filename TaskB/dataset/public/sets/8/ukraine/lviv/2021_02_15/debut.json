@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "goddess_blankly"
+    },
+    {
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 673725,
+        "band_name": "beamer_forum"
+    },
+    {
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

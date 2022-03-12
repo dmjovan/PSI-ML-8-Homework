@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 149795,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 5977379,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 1286614,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 2488421,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 5980912,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

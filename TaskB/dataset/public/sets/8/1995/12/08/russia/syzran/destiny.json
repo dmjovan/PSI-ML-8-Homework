@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 3565452,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "band_name": "squirrel",
+        "is_indie": false
+    }
+]

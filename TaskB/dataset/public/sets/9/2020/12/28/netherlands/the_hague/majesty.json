@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2192461,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 4926465,
+        "band_name": "admiral_skylight"
+    },
+    {
+        "attendance": 252866,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    }
+]

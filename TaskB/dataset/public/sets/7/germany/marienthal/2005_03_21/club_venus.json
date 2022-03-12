@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3135784,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 326901,
+        "band_name": "sayer"
+    },
+    {
+        "attendance": 2697851,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

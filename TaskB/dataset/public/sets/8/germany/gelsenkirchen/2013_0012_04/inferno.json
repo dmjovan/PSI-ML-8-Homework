@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 838942,
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "attendance": 6160145,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 6653769,
+        "band_name": "any_madder"
+    },
+    {
+        "attendance": 7965784,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 3955275,
+        "band_name": "soy_bites",
+        "is_indie": false
+    }
+]

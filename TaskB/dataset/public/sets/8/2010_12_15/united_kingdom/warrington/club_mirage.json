@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 1771133,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 4087624,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    }
+]

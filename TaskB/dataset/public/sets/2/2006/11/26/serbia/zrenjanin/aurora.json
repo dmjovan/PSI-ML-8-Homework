@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3626695,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 95482,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3654562,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

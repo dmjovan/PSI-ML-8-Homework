@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 521911,
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "attendance": 7591263,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 293404,
+        "band_name": "seaside",
+        "is_indie": false
+    },
+    {
+        "attendance": 1079041,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

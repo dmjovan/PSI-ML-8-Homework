@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 8462747
+    },
+    {
+        "attendance": 251910,
+        "band_name": "sale_vertical"
+    },
+    {
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 1284486,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

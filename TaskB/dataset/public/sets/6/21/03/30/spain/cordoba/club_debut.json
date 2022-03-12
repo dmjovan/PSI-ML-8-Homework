@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1527568,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1917154,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2504807,
+        "is_indie": false
+    }
+]

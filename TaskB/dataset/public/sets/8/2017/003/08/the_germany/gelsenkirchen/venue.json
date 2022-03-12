@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 3793473,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 561618,
+        "is_indie": true
+    },
+    {
+        "attendance": 296287,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    }
+]

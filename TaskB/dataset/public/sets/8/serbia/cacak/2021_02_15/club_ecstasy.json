@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "attendance": 3097672,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    }
+]

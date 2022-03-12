@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 6896066,
+        "band_name": "quo_socialize"
+    },
+    {
+        "attendance": 850605,
+        "band_name": "sparks_bridge"
+    },
+    {
+        "attendance": 2902770,
+        "band_name": "neighborhood_smelt"
+    },
+    {
+        "attendance": 4715621,
+        "is_indie": true
+    },
+    {
+        "attendance": 2768975,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    }
+]

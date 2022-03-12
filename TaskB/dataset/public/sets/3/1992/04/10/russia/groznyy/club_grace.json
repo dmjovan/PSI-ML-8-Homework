@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 16455,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 3797801,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1059802,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

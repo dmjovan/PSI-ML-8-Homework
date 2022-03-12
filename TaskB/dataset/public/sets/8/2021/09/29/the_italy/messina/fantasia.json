@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 1249131,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "attendance": 754480,
+        "is_indie": false
+    },
+    {
+        "attendance": 5398962,
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 721773,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 300595,
+        "band_name": "observatory"
+    },
+    {
+        "band_name": "elk_artist",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "tingles"
+    },
+    {
+        "attendance": 1158182,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 7806330,
+        "is_indie": false
+    },
+    {
+        "attendance": 1797611,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    }
+]

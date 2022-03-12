@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2226348,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 219460,
+        "band_name": "chewers_mesquite"
+    },
+    {
+        "attendance": 1663754,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 4069458,
+        "band_name": "dossier",
+        "is_indie": false
+    }
+]

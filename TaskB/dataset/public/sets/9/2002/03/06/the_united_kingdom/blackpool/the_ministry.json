@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 5248863,
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "attendance": 6523282,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 849205,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    }
+]

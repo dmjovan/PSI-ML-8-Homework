@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 949631,
+        "is_indie": false
+    },
+    {
+        "attendance": 906982,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

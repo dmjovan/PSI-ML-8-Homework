@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5253269,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 153889,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 516479,
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "band_name": "west_dancer",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1256711,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "band_name": "pinhole_posture",
+        "is_indie": true
+    },
+    {
+        "attendance": 3857457,
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    }
+]

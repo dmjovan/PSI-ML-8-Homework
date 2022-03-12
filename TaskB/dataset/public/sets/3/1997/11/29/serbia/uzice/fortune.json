@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3480448,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 4459647,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 3691733,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 1110374,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 424229,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

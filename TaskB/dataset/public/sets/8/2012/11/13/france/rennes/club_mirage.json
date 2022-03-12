@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1773354,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 8899905,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    }
+]

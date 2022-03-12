@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "oracle"
+    },
+    {
+        "attendance": 2794095,
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "attendance": 3104690,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "attendance": 831101,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    }
+]

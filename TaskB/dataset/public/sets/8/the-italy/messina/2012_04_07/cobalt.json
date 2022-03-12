@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 555576,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 312359,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

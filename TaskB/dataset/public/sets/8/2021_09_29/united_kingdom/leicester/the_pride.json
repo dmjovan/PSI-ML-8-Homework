@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3332142,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 328311,
+        "band_name": "soy_bites"
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 1324476,
+        "is_indie": false
+    }
+]

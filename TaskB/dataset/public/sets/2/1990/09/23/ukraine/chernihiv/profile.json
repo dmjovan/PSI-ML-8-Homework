@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2787465,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 785004,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 3445868,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 5642279,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 108157,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

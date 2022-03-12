@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1887483,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 2595545,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 519171,
+        "band_name": "deride",
+        "is_indie": false
+    }
+]

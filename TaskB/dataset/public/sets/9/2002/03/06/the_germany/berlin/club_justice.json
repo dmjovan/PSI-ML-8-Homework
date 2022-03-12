@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 101576,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "attendance": 4157761,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 360292,
+        "band_name": "trance_petters"
+    },
+    {
+        "attendance": 1034632,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    }
+]

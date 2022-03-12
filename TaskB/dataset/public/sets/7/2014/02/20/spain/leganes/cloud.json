@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 5153801,
+        "is_indie": false
+    },
+    {
+        "attendance": 2841756,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "band_name": "float",
+        "is_indie": false
+    }
+]

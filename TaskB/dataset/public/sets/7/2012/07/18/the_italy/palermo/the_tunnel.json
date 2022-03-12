@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6529065,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 2389574,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 4160007,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 2588335,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1991545,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

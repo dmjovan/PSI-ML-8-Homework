@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1283292,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 6625869,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 588200,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 257397,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2839113,
+        "band_name": "pit",
+        "is_indie": false
+    }
+]

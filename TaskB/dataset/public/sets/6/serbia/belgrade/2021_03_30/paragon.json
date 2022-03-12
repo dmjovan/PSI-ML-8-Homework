@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 7731935,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 2950176,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 8246335,
+        "is_indie": false
+    },
+    {
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 2731691,
+        "band_name": "oracle",
+        "is_indie": false
+    }
+]

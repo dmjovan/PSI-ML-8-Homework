@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2355785,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 1909875,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 1298163,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 3073622,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 7973936,
+        "band_name": "either_sire",
+        "is_indie": false
+    }
+]

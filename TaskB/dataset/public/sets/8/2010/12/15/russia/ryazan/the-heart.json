@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1682309,
+        "band_name": "genre_fighter"
+    },
+    {
+        "attendance": 1199826,
+        "band_name": "bowman"
+    },
+    {
+        "attendance": 2849980,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 1751066,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "band_name": "electron",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 888218,
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 212399
+    },
+    {
+        "attendance": 634746,
+        "band_name": "observatory",
+        "is_indie": true
+    }
+]

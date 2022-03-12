@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 473872,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 701089,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 934663,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 2550198,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

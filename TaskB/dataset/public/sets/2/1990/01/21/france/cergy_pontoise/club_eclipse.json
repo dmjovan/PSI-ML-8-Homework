@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 950649,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 3617619,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 262189,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 1729724,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1517043,
+        "band_name": "exempt"
+    },
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 3657330,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 3382605,
+        "band_name": "rosary",
+        "is_indie": false
+    }
+]

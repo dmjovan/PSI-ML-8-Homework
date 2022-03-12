@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 65666,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 6443455,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "band_name": "manly_pandas"
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3439089,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 3188372,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 5417374,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1929159,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 198197,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 7608685,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 4332163,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 452197,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

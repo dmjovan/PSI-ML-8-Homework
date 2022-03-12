@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4345124,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 243743,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 5571752,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 169717,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

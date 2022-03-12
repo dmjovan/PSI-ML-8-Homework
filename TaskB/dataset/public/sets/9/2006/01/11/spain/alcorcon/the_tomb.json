@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1437201,
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "attendance": 535189,
+        "band_name": "mongoose_primal"
+    },
+    {
+        "attendance": 3787939,
+        "band_name": "corset"
+    },
+    {
+        "attendance": 2503497,
+        "is_indie": true
+    }
+]

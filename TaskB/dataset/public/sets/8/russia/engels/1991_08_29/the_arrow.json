@@ -1,0 +1,23 @@
+[
+    {},
+    {
+        "attendance": 448169,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 3340910,
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "attendance": 634428,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 256648,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    }
+]

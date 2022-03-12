@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1781858,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 7553430,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 393549,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

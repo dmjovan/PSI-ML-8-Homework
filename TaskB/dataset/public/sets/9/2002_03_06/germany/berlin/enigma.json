@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2345993,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    },
+    {
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    }
+]

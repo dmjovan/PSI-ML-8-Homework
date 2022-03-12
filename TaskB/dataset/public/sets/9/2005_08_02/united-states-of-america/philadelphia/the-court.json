@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 87420,
+        "band_name": "acorn_pence"
+    },
+    {
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 3706468,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "attendance": 3334014,
+        "band_name": "cassette_leniency"
+    },
+    {
+        "attendance": 484023,
+        "band_name": "equinox_research",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 156628,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1000444,
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {},
+    {
+        "attendance": 2133853,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

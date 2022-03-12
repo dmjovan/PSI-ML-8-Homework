@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 36773,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "exclaim",
+        "is_indie": true
+    }
+]

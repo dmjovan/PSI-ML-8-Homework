@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3368239,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 539775,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1171841,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 8514557,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 6124901,
+        "band_name": "volt_united",
+        "is_indie": false
+    }
+]

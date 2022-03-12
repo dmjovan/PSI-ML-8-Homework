@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 110896,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 849514,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 183710,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "attendance": 349216,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 8192652,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 4950381,
+        "is_indie": false
+    },
+    {
+        "attendance": 5095555,
+        "band_name": "exclaim",
+        "is_indie": true
+    }
+]

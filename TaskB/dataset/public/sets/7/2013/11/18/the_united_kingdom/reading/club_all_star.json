@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5065720,
+        "is_indie": true
+    },
+    {
+        "attendance": 471551,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 4210105,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    }
+]

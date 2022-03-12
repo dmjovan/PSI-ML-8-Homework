@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2808800,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 118575,
+        "is_indie": false
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 1166335,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3512971,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 109185,
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 112888,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 108920,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1674996,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 145681,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 438449,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 4474365,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1456106,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

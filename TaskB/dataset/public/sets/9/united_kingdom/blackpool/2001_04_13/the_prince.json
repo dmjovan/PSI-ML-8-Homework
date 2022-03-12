@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3598572,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 1286567,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "attendance": 492392,
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

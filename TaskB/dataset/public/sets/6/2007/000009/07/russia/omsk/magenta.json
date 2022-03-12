@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 359091,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 3027611,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 785134,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "attendance": 1900918,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    }
+]

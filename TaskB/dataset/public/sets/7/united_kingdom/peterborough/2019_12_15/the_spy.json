@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2048128,
+        "band_name": "float"
+    },
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 1770207,
+        "band_name": "honeybee_signatures"
+    },
+    {
+        "band_name": "voting_ridden",
+        "is_indie": false
+    }
+]

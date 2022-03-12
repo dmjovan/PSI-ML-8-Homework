@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 944106,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 701070,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 3861561,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1395111,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    }
+]

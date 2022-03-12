@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 288495,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1750128,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 944889,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 4565483,
+        "band_name": "silt_twas",
+        "is_indie": false
+    }
+]

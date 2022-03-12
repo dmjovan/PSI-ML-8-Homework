@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1047176,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 4919379,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 4368592,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 18627,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

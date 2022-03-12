@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3583782,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 4050901,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 4309955,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

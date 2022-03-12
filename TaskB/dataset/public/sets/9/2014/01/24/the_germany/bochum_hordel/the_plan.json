@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 5803629,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 1164285,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 45224,
+        "band_name": "sparks_bridge"
+    },
+    {
+        "attendance": 845107,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 4774422,
+        "band_name": "elms",
+        "is_indie": false
+    }
+]

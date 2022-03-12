@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1196621,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "band_name": "kanji"
+    },
+    {
+        "attendance": 6489577,
+        "band_name": "amoeba",
+        "is_indie": false
+    }
+]

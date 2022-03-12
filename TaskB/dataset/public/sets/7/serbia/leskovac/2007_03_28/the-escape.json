@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 354914,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 7116707,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1357114,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 5428208,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

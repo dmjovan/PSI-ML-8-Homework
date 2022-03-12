@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 162596,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 586496,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 3125404,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

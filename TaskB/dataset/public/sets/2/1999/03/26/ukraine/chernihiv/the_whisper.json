@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 38953,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 4690486,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 3972252,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2389203,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 7526741,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

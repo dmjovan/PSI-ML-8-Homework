@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1256456,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 3449967,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 5443401,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

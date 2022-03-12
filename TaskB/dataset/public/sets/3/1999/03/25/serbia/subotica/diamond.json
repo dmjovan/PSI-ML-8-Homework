@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 601021,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 155576,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 1177056,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 331063,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2839500,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

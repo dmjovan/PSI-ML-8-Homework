@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 1504318,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "band_name": "activate_indecent",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1653385,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 3043391,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 1656497,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

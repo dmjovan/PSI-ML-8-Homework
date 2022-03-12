@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3384571,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 3701414,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 7394512,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1295084,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1176933,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

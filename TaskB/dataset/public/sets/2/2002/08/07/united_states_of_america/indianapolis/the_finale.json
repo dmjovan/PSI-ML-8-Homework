@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2470606,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 57556,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2966020,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 5119030,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 6435434,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

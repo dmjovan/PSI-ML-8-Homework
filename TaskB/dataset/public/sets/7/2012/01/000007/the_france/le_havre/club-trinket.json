@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 415798,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 6880590,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 6101332,
+        "band_name": "vibrator",
+        "is_indie": true
+    }
+]

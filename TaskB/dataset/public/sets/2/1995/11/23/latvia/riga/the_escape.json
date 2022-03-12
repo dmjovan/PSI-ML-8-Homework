@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5904322,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1071174,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 2786521,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    }
+]

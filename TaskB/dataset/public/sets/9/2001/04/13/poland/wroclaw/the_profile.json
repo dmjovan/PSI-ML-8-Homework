@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3514854,
+        "band_name": "neighborhood_smelt"
+    },
+    {
+        "attendance": 450942,
+        "band_name": "snake_pong"
+    },
+    {
+        "attendance": 1017806,
+        "is_indie": false
+    },
+    {
+        "attendance": 4078520,
+        "band_name": "blanch_coronary",
+        "is_indie": false
+    }
+]

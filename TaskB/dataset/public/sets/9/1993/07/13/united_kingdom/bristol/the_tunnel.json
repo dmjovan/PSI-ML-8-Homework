@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 4634691,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 173293,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 1026354,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    }
+]

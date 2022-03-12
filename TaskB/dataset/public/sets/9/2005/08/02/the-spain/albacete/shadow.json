@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "seaside"
+    },
+    {
+        "attendance": 617952,
+        "is_indie": false
+    },
+    {
+        "attendance": 2760791,
+        "band_name": "snake_pong",
+        "is_indie": false
+    }
+]

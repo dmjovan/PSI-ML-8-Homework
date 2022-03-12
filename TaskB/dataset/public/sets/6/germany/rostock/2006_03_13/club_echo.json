@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "fussing"
+    },
+    {
+        "attendance": 2669645,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1342712,
+        "band_name": "briefcase_aboriginal"
+    },
+    {
+        "attendance": 601248,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 3317401,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 214955,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 2346485,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1601481,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

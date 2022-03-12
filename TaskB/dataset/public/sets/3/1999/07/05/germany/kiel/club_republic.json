@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1867720,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1210122,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 290837,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 88103,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 811164,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    }
+]

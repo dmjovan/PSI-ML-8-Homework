@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 685486,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1440365,
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

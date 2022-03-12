@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 394925,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 1517431,
+        "band_name": "fingers",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 169317,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 5970824,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    }
+]

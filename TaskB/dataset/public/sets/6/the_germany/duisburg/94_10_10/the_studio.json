@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 394202,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 6835406,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 5532814,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 6758261,
+        "band_name": "anoint_rat"
+    },
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

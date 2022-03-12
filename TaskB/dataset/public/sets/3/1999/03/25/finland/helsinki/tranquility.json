@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4408126,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 5345268,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 2796135,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1724122,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1026252,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

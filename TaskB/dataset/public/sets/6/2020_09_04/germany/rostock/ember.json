@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3282178,
+        "band_name": "juggler_corner_bigotry"
+    },
+    {
+        "attendance": 792653,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 130744,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 1558335,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "attendance": 2960162,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    }
+]

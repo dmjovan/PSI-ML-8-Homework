@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 610179,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 1782495,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 6703417,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 93330,
+        "band_name": "international_furlough",
+        "is_indie": false
+    }
+]

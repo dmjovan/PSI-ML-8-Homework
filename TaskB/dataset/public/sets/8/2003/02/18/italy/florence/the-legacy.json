@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 686935,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1591412,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    }
+]

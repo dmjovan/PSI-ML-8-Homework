@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 936384,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 1371492,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    }
+]

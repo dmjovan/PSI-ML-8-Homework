@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 270076,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 5850687,
+        "band_name": "hopelessness"
+    },
+    {
+        "band_name": "fighter",
+        "is_indie": true
+    }
+]

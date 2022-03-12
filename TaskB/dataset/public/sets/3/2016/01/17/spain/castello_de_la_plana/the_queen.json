@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4477619,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 7986133,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 4407607,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

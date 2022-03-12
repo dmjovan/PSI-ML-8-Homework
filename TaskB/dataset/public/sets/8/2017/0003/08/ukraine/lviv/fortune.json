@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 4538746,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 4503348,
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1743353,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 952792,
+        "band_name": "executor",
+        "is_indie": false
+    }
+]

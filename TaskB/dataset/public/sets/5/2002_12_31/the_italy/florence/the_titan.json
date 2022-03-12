@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 49990,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "band_name": "castle_dyers",
+        "is_indie": true
+    },
+    {
+        "band_name": "snowflake",
+        "is_indie": false
+    },
+    {
+        "attendance": 2347489,
+        "band_name": "hot_imperatives",
+        "is_indie": true
+    }
+]

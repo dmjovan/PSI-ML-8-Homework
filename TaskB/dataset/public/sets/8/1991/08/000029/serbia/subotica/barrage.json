@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "madden_obsession_chit"
+    },
+    {
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 948225,
+        "band_name": "executor"
+    },
+    {
+        "attendance": 2544303,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 1516510,
+        "band_name": "boulder_orthodoxy"
+    }
+]

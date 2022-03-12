@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 890813,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 1715517,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 1046664,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "band_name": "peas_liberator"
+    }
+]

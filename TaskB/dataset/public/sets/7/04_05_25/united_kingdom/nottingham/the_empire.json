@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 2207329,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 5068393,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 3996145,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 4120816,
+        "is_indie": false
+    },
+    {
+        "attendance": 4617881,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 4448064,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2766130,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 6094678,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

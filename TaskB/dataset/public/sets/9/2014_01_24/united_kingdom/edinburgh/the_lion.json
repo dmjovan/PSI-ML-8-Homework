@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1739535,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 4262990,
+        "band_name": "elms",
+        "is_indie": false
+    }
+]

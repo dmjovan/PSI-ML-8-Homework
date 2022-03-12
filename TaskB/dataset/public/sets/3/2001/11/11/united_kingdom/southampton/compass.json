@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1901022,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1601452,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 1124084,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1447446,
+        "band_name": "pea_carve",
+        "is_indie": false
+    }
+]

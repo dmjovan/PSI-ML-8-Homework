@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3802887,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 6599622,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2811655,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 27013,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 745812,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

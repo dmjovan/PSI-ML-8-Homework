@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 2538887,
+        "band_name": "ibis_garbages_melon"
+    },
+    {
+        "attendance": 159147,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    }
+]

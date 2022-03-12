@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 175823,
+        "band_name": "thorns_civility"
+    },
+    {
+        "attendance": 403365,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 4914664,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    }
+]

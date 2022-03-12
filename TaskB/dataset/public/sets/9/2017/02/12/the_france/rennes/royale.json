@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1246255,
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "attendance": 501802,
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    },
+    {
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    }
+]

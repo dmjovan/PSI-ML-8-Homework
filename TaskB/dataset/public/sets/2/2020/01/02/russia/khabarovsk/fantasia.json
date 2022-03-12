@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 767005,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 514369,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 2129731,
+        "band_name": "fighter",
+        "is_indie": false
+    }
+]

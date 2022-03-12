@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 6794274,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2292472,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 4504672,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    }
+]

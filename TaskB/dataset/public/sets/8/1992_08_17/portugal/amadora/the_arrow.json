@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "attendance": 2906149,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 30815,
+        "band_name": "backyard_roam"
+    }
+]

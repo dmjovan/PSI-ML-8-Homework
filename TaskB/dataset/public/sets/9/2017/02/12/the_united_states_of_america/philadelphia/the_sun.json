@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3047294,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    },
+    {
+        "attendance": 525364,
+        "is_indie": false
+    },
+    {
+        "attendance": 4352139,
+        "band_name": "snake_pong"
+    },
+    {
+        "band_name": "essays",
+        "is_indie": true
+    }
+]

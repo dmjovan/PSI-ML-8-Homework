@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 6419861,
+        "band_name": "vine_blitzkrieg"
+    },
+    {
+        "attendance": 87756,
+        "band_name": "sulphuric"
+    },
+    {
+        "attendance": 6624709,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    }
+]

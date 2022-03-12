@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 133562,
+        "band_name": "voting_ridden"
+    },
+    {
+        "attendance": 3986754,
+        "band_name": "alcohol_spool"
+    },
+    {
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 980871,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "tingles"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1902730,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    },
+    {
+        "attendance": 3933830,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 553782,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 2691036,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 4518432,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    }
+]

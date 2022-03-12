@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 3221271,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 6349159,
+        "band_name": "burnings_pod"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "culture_panicky",
+        "is_indie": true
+    }
+]

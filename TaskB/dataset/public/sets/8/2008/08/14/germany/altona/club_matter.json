@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1680545,
+        "is_indie": false
+    },
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "attendance": 719137,
+        "band_name": "tingles"
+    },
+    {
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 435452,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    }
+]

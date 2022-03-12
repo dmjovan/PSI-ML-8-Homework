@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3155442,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "attendance": 2937793,
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 1907312,
+        "band_name": "philosophers_preludes"
+    }
+]

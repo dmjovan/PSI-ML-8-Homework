@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2440957,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 1809634,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 2549788,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3597027,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1452562,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 241997,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1415047,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    }
+]

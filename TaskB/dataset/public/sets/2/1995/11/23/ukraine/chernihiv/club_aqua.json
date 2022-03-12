@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 9039402,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 4319121,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 461667,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

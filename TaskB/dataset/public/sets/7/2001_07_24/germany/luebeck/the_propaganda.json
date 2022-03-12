@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 17431,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 2211315,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 531286,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 3308405,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

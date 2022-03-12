@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 37790,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 24251,
+        "is_indie": false
+    }
+]

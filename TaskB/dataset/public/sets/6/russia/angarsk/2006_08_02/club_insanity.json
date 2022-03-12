@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 87193,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 4723674,
+        "band_name": "exempt",
+        "is_indie": false
+    }
+]

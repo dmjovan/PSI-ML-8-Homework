@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 3456863,
+        "band_name": "oracle"
+    },
+    {
+        "attendance": 336601,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    }
+]

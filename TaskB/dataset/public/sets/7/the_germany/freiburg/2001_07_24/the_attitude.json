@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 9439334,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "sonnet_ringer"
+    }
+]

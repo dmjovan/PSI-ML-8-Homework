@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2049075,
+        "is_indie": false
+    },
+    {
+        "attendance": 534423,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 231983,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 5484376,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    }
+]

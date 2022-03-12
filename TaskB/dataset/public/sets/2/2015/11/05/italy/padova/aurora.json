@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 111835,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1445876,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 4057233,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1686256,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1909092,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    }
+]

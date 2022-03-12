@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3576441,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 2235361,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "band_name": "float"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3676482,
+        "band_name": "adobe_cookery"
+    },
+    {
+        "attendance": 7940744,
+        "band_name": "ermine"
+    },
+    {
+        "attendance": 2167205,
+        "band_name": "premiers_decimate"
+    },
+    {
+        "attendance": 4749,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    }
+]

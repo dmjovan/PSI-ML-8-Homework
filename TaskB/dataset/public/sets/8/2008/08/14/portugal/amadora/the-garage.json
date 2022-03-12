@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 5141834,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "attendance": 5570978,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 1764024,
+        "band_name": "breakaway_clement"
+    },
+    {
+        "band_name": "any_madder"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    },
+    {
+        "attendance": 2814933,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "attendance": 7311862,
+        "band_name": "locality_baptism__console"
+    },
+    {
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 996158,
+        "band_name": "botanical_bodybuilding"
+    },
+    {
+        "attendance": 1786258,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 35925,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    }
+]

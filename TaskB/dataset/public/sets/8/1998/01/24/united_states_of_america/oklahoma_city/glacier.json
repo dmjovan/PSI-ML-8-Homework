@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3014205,
+        "is_indie": false
+    },
+    {
+        "attendance": 5094503,
+        "band_name": "jug_bagger"
+    },
+    {
+        "attendance": 1131122,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "attendance": 1360314,
+        "band_name": "port_psalms"
+    }
+]

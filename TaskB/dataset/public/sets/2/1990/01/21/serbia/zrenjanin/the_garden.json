@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6308538,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 360676,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 77311,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 906555,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    }
+]

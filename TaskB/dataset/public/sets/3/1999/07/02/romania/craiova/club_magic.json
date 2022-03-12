@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 546878,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1112043,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 2980187,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 472490,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 718574,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

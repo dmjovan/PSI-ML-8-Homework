@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1908950,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 1895059,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 2000009,
+        "band_name": "silt_twas",
+        "is_indie": false
+    }
+]

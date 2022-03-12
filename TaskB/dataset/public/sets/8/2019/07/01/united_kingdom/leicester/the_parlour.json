@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 720117,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 7480632,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 451752,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 1171831,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 241266,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    }
+]

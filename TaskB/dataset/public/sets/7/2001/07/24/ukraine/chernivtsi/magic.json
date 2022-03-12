@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "flamboyant"
+    },
+    {
+        "attendance": 197178,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 3082040,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 2592154,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

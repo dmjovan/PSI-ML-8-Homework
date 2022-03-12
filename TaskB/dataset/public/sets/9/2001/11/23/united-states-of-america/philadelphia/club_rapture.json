@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "premiers_decimate"
+    },
+    {
+        "attendance": 2697610,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1434745,
+        "band_name": "deride",
+        "is_indie": false
+    }
+]

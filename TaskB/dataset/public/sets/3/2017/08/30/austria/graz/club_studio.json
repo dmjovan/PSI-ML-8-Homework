@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 169372,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 1188943,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 3601885,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 212780,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 164170,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

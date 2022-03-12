@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "tag"
+    },
+    {
+        "attendance": 5449772,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 314843,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 6532999,
+        "band_name": "dossier",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 418088,
+        "band_name": "whiskey_crossings"
+    },
+    {
+        "attendance": 2453242,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 2147050,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 1585936,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

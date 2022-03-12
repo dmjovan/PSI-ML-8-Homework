@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4050990,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2785450,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 344104,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 2276408,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    }
+]

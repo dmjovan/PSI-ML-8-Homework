@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 558088,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 481381,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 2438470,
+        "band_name": "ration",
+        "is_indie": true
+    }
+]

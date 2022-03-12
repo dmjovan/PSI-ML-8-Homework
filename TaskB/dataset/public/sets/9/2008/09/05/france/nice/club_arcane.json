@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "band_name": "scythe",
+        "is_indie": false
+    },
+    {
+        "attendance": 4469165,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    }
+]

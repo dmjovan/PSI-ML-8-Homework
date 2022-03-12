@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1481845,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 6311510,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 1133355,
+        "is_indie": false
+    },
+    {
+        "attendance": 2708601,
+        "band_name": "scythe",
+        "is_indie": false
+    }
+]

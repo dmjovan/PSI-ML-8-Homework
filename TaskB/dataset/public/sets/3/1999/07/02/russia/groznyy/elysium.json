@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5597109,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 156611,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 5305455,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 82367,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 2011793,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

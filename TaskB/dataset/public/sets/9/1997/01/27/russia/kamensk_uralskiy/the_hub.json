@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3914139,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 2249646,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1255703,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "band_name": "voting_ridden"
+    },
+    {
+        "attendance": 329333,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 1037707,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    }
+]

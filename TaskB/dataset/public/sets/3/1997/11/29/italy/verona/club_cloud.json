@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3019486,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 206855,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 8010219,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

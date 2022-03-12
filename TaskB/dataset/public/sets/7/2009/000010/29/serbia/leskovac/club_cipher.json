@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 758132,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 8743810,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1535235,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    }
+]

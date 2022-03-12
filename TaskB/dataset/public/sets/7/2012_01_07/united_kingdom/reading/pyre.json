@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 239975,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 3215085,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    }
+]

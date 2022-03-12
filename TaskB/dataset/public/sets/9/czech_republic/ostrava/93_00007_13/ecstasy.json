@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1344828,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1968533,
+        "is_indie": false
+    },
+    {},
+    {
+        "attendance": 390482,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

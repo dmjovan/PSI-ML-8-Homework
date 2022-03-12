@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2468176,
+        "band_name": "mountaineer_stitches"
+    },
+    {
+        "attendance": 1083566,
+        "is_indie": false
+    },
+    {
+        "attendance": 1040415,
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "attendance": 2387941,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    }
+]

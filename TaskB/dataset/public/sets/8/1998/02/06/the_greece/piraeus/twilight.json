@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 950795,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "attendance": 1696103,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1542655,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "band_name": "soggy",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

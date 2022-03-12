@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "band_name": "matrix_mare",
+        "is_indie": true
+    }
+]

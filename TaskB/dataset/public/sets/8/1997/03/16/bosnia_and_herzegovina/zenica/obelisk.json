@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 303611,
+        "band_name": "tingles"
+    },
+    {
+        "band_name": "peanuts_mountaineer"
+    },
+    {
+        "attendance": 4039614,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "attendance": 2399221,
+        "band_name": "electron",
+        "is_indie": false
+    }
+]

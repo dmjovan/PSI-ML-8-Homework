@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2588254,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2799393,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 2164448,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

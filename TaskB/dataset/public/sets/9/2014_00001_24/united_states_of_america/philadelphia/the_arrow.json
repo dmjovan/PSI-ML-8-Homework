@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 104070,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 327987,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 43040,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    }
+]

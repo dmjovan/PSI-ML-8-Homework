@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2006386,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 1884627,
+        "band_name": "vibrator",
+        "is_indie": true
+    }
+]

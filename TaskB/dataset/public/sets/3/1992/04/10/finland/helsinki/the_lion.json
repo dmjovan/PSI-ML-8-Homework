@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4296432,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 389102,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 182040,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 1894434,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

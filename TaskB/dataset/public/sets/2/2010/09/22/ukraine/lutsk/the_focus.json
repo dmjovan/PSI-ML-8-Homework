@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3731036,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 128484,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 4047288,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    }
+]

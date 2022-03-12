@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 324082,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 865909,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 5610736,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2423180,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 2954587,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

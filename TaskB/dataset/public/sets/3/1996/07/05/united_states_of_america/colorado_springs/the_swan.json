@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 129591,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 161971,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 106207,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 4223389,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 5045666,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

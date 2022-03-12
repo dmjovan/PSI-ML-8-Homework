@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4255117,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 3319805,
+        "band_name": "fussing"
+    },
+    {
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 454169,
+        "band_name": "west_dancer",
+        "is_indie": false
+    }
+]

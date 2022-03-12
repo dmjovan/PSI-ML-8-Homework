@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1481427,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 3314074,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 876835,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    }
+]

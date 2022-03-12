@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 8936360,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 6918921,
+        "is_indie": false
+    },
+    {
+        "attendance": 124851,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 165500,
+        "band_name": "cleansers_stitch"
+    }
+]

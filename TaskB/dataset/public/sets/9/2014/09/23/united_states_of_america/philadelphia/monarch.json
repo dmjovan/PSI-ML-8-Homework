@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "scythe"
+    },
+    {
+        "attendance": 1530063,
+        "band_name": "furlough_pollution"
+    },
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "seaside",
+        "is_indie": false
+    },
+    {
+        "attendance": 3670962,
+        "band_name": "neighborhood_smelt"
+    }
+]

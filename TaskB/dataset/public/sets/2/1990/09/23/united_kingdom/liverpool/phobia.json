@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2429561,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 6354906,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3092168,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1454881,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2153922,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    }
+]

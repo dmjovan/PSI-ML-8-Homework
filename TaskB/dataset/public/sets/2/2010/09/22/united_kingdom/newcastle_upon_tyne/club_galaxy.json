@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1795262,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 458208,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 5035284,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 918880,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

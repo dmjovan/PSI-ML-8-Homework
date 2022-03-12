@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 5023504,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "band_name": "paraffin",
+        "is_indie": false
+    }
+]

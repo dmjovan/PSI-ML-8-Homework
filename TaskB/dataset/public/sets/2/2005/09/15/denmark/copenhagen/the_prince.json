@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 821162,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 325374,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

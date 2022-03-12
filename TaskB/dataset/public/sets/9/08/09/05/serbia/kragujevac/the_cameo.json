@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 457356,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "band_name": "activate_indecent",
+        "is_indie": true
+    },
+    {
+        "attendance": 1324378,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    }
+]

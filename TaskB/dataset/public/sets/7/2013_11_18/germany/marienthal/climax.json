@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 6815181,
+        "band_name": "innovate_boomerang"
+    },
+    {
+        "attendance": 3336421,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

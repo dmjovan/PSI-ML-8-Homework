@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 4531490,
+        "band_name": "vine_blitzkrieg"
+    },
+    {
+        "attendance": 3321052,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 3377969,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "band_name": "quitters_recline",
+        "is_indie": false
+    }
+]

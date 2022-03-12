@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 7513493,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    }
+]

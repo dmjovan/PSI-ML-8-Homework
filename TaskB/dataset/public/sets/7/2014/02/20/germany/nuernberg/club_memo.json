@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 4737845,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 658943,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    }
+]

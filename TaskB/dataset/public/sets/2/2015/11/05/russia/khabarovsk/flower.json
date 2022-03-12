@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2586361,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 5773747,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 954990,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

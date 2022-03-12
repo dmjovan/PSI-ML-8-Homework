@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 3170252,
+        "band_name": "twang"
+    },
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 529143,
+        "is_indie": true
+    }
+]

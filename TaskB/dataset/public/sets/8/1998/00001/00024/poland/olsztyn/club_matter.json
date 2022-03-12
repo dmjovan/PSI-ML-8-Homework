@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 94204,
+        "is_indie": true
+    },
+    {
+        "attendance": 501203,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 179140,
+        "band_name": "signification_repent"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 728238,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2158968,
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "attendance": 2374302,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 6541239,
+        "band_name": "dragons",
+        "is_indie": false
+    }
+]

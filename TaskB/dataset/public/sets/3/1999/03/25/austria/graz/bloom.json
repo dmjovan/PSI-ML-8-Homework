@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2162710,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 1311061,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 1583926,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 279405,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1142638,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

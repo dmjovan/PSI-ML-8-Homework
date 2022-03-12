@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "cleansers_stitch"
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 1686514,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "attendance": 8095596,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    }
+]

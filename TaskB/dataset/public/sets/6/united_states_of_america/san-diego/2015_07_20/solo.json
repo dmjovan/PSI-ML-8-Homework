@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 3492370,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 676825,
+        "band_name": "scarecrow_bungalow"
+    },
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 280576,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    }
+]

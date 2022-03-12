@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1589171,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 1368765,
+        "is_indie": false
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 1305116,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "band_name": "stray_pussy",
+        "is_indie": false
+    }
+]

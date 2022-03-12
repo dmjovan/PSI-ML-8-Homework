@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1199614,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "attendance": 6069825,
+        "is_indie": false
+    },
+    {
+        "attendance": 492216,
+        "band_name": "sonata",
+        "is_indie": true
+    }
+]

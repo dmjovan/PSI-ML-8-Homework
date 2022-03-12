@@ -1,0 +1,15 @@
+[
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 1509588,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 5372052,
+        "band_name": "either_whittle",
+        "is_indie": false
+    }
+]

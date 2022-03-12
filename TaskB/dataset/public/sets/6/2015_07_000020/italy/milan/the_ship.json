@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 66172,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 1438491,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1321387,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    }
+]

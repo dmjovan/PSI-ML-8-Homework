@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 5193239,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "band_name": "any_madder",
+        "is_indie": true
+    }
+]

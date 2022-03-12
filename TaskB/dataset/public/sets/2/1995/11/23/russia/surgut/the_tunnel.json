@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7636986,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1512897,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 3316035,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 3018269,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3918224,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

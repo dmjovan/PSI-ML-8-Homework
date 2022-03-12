@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 632316,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 3247507,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 5185040,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 6696030,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 868843,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

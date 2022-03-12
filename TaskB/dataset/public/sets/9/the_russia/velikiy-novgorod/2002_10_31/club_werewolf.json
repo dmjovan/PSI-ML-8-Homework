@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4242629,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "band_name": "whiskey_crossings"
+    },
+    {
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "band_name": "scythe",
+        "is_indie": false
+    }
+]

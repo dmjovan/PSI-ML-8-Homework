@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 4804511,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 3767748,
+        "is_indie": false
+    }
+]

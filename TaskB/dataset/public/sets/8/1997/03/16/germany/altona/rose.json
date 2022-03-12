@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 4746474,
+        "band_name": "twang",
+        "is_indie": true
+    }
+]

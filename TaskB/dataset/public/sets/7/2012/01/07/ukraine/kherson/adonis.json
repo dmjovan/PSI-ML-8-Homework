@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 71278,
+        "band_name": "stairwell"
+    },
+    {
+        "attendance": 3746315,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 67041,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    }
+]

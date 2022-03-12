@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "flyer_ketchup"
+    },
+    {
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 4908699,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    }
+]

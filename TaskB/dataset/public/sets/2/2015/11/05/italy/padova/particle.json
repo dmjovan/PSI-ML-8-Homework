@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3765365,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 545553,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 120959,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 417114,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 310042,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 2792020,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 489500,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 472499,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 7681193,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "band_name": "port_psalms",
+        "is_indie": false
+    }
+]

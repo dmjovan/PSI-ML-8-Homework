@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1724146,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 202422,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 2734856,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

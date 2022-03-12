@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 600068,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 3281481,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 4473101,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1920631,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 3638056,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1276429,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 752437,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 2193297,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 4547493,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

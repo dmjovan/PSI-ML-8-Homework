@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2767542,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 3904967,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 3345601,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 902180,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 3088983,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

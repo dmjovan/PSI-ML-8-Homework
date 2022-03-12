@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 517088,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 5390944,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 2126038,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

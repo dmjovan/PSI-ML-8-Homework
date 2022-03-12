@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 589814,
+        "band_name": "nary_thoughts"
+    },
+    {
+        "attendance": 3579642,
+        "band_name": "feline_business"
+    },
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "band_name": "snake_pong",
+        "is_indie": false
+    }
+]

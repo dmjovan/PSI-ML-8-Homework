@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4437914,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 8890035,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 3463770,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 385744,
+        "is_indie": false
+    }
+]

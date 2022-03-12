@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 281064,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "attendance": 4013278,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 927119,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2515517,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3350583,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "band_name": "meeker_doomsday"
+    }
+]

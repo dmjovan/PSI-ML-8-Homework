@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 311348,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 2353442,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 43046,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

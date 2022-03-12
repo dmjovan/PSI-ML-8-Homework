@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 368928,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 1678380,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 3808923,
+        "is_indie": false
+    },
+    {
+        "attendance": 1139408,
+        "band_name": "outdoors",
+        "is_indie": false
+    }
+]

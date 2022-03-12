@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 7551168,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 4754198
+    },
+    {
+        "attendance": 8470154,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "attendance": 666475,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "band_name": "observatory",
+        "is_indie": true
+    }
+]

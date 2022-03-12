@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 2453248,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    }
+]

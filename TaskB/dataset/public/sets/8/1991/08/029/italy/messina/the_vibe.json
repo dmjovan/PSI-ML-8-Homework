@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2841167,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 3582838,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 335301,
+        "band_name": "attackers"
+    },
+    {
+        "attendance": 462639,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    }
+]

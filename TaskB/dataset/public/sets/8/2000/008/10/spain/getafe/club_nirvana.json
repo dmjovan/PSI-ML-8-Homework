@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "collegian_visor"
+    },
+    {
+        "attendance": 1095077,
+        "band_name": "signification_repent"
+    },
+    {
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    }
+]

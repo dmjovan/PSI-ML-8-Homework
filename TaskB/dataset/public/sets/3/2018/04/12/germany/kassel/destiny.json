@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 179124,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 4928734,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1418248,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    }
+]

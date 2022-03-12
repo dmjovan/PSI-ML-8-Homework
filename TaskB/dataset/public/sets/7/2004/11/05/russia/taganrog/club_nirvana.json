@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 6681906,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 1373909,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

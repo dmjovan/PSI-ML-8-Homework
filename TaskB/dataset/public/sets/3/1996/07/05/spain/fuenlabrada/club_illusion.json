@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1563420,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 1333524,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 359435,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 92362,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 1518837,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

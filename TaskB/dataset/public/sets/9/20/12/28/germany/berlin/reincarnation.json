@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 503704,
+        "band_name": "advertising"
+    },
+    {
+        "attendance": 4097747,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    }
+]

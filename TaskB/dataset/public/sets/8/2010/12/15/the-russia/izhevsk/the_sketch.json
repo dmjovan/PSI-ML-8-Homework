@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 94224,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 767295,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 5981752,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 772242,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    }
+]

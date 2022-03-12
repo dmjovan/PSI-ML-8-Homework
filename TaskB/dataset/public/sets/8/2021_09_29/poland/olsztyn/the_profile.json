@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 7966033,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 527766,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 6849916,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "band_name": "tag"
+    }
+]

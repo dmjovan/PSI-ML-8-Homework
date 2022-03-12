@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 153032,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1183841,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 3502174,
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

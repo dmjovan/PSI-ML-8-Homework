@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1895726,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 3892394,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1438744,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3019653,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

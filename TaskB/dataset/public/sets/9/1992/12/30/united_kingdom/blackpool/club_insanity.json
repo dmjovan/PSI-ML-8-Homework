@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 1194027,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "attendance": 4287125,
+        "band_name": "hoes_incense"
+    },
+    {
+        "attendance": 3869367,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 1910906,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    }
+]

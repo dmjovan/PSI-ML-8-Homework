@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5459024,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 3171999,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 4495578,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 99171,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

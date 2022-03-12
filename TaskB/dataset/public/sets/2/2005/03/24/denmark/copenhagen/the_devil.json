@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5807612,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 2798759,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1030829,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 2563741,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    }
+]

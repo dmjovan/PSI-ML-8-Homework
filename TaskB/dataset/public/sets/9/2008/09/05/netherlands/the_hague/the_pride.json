@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 4501740,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "band_name": "orb_ware"
+    },
+    {
+        "attendance": 3540632,
+        "band_name": "equinox_research",
+        "is_indie": false
+    }
+]

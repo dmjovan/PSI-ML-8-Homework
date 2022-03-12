@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 194733,
+        "band_name": "tingles",
+        "is_indie": true
+    }
+]

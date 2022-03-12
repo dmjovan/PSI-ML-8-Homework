@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1171996,
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 8131295,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "band_name": "acorn_pence",
+        "is_indie": false
+    }
+]

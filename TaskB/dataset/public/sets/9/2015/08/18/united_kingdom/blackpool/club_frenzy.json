@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2779977,
+        "band_name": "forum_diggers_internship"
+    },
+    {
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 98061,
+        "is_indie": false
+    },
+    {
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 1251771,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 3037648,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

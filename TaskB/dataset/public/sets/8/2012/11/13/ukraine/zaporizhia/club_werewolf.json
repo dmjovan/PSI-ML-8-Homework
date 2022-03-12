@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 239712,
+        "is_indie": false
+    },
+    {
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 3213647,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1947403,
+        "band_name": "breadwinner_biller"
+    },
+    {
+        "band_name": "wan_hale",
+        "is_indie": false
+    }
+]

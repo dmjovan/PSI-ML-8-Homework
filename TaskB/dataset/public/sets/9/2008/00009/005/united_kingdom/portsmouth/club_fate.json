@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4856653,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "attendance": 2386126,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "band_name": "activate_indecent",
+        "is_indie": true
+    },
+    {
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    }
+]

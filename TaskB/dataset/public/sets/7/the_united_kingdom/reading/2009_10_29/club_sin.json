@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 7097632,
+        "is_indie": false
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 4233458,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 1761283,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 3525993,
+        "band_name": "ministry_auctioneer"
+    }
+]

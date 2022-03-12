@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2466903,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "attendance": 953793
+    }
+]

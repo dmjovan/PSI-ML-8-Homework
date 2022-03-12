@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "attendance": 488018,
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 625578,
+        "band_name": "deride",
+        "is_indie": false
+    }
+]

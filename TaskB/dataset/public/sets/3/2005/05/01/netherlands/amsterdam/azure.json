@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 199306,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 170721,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 3417482,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

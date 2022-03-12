@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 322801,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 4292471,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3544687,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1115713,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 6708489,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 1932585,
+        "band_name": "trance_petters",
+        "is_indie": true
+    }
+]

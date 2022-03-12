@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7320550,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3337875,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 6213054,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 2349940,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

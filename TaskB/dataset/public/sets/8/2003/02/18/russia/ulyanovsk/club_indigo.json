@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 8100558,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 960028,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "band_name": "hopelessness"
+    },
+    {
+        "band_name": "amoeba"
+    },
+    {
+        "attendance": 6787028,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    }
+]

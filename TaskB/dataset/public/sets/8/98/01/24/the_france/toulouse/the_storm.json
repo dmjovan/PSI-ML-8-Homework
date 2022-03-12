@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1242004,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "band_name": "elk_artist"
+    },
+    {
+        "attendance": 2071990,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 2205831,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

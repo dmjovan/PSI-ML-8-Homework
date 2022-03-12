@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 2566716,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 209866,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    }
+]

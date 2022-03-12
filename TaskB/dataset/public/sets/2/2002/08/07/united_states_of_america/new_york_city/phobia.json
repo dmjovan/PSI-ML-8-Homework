@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1581140,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 5563937,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 53045,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 8636662,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

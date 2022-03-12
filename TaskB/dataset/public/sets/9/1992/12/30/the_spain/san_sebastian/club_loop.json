@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 68615,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    }
+]

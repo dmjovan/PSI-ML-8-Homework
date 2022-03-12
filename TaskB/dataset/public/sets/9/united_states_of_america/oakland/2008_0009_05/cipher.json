@@ -1,0 +1,13 @@
+[
+    {
+        "band_name": "pea_coaxial_augmentation"
+    },
+    {
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    }
+]

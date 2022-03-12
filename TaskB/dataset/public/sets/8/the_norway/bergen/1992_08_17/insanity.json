@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 408837,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "attendance": 1040786,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 2139108,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    }
+]

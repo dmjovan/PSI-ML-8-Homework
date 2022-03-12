@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 992461,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 126790,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 4920487,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 9042130,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1964930,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

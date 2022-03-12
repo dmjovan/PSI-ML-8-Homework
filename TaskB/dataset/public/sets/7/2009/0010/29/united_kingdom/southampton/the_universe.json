@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3965612,
+        "band_name": "maniacs_lawn"
+    },
+    {
+        "attendance": 5299810,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "attendance": 1074415,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 1023511,
+        "band_name": "pea_parker_longitude"
+    }
+]

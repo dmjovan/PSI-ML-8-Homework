@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 668675,
+        "band_name": "slipper_ripple"
+    },
+    {
+        "attendance": 575154,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 2206171,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    }
+]

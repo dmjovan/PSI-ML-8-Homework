@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 8802141,
+        "is_indie": true
+    },
+    {
+        "attendance": 6343826,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "attendance": 42436,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    }
+]

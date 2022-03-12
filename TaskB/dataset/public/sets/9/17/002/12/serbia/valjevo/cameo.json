@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1517597,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "attendance": 1632857,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 1904325,
+        "band_name": "pinhole_posture",
+        "is_indie": true
+    },
+    {
+        "band_name": "advertising",
+        "is_indie": false
+    }
+]

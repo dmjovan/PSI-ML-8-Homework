@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1885448,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 4541820,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 55234,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 126820,
+        "band_name": "weekly_assemblages"
+    }
+]

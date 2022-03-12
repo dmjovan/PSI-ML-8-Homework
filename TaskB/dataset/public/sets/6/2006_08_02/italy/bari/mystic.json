@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1994496,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 714360,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 61822,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 3535995,
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "attendance": 671039,
+        "band_name": "dragons",
+        "is_indie": false
+    }
+]

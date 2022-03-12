@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "electron"
+    },
+    {
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    },
+    {
+        "attendance": 3658186,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 890009,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 124328,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 557255,
+        "is_indie": false
+    },
+    {
+        "attendance": 8062559,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "attendance": 1048080,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "band_name": "elk_artist"
+    },
+    {
+        "attendance": 6916915,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    }
+]

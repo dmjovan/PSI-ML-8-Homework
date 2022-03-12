@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1895767,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 889509,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 804169,
+        "is_indie": true
+    },
+    {
+        "attendance": 1265772,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "attendance": 2120325,
+        "band_name": "sonata_bunkers"
+    }
+]

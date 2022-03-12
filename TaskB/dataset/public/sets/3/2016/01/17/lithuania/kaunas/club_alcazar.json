@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 552049,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 4280960,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 2238763,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1867122,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 3710335,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

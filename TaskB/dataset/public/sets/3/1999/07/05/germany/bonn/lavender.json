@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1267870,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 450991,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 15283,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 95058,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 3869103,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

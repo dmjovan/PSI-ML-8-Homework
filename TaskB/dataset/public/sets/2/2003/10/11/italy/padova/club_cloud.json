@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6712058,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 3124326,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 2757339,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

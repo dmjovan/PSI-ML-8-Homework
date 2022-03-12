@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 4032490,
+        "band_name": "hoes",
+        "is_indie": false
+    }
+]

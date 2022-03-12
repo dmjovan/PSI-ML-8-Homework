@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "paraffin"
+    },
+    {
+        "attendance": 2726852,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 117304,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "band_name": "outdoors"
+    },
+    {
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    }
+]

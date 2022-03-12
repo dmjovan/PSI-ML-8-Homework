@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1185389,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1081044,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 3420080,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 2046812,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 3390324,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

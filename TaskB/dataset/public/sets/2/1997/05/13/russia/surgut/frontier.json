@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 84984,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 3099130,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 3464160,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 547540,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 3339457,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

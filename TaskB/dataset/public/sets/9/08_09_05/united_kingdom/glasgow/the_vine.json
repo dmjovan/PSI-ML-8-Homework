@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "premiers_decimate"
+    },
+    {
+        "attendance": 3768014,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 593472,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 161593,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    }
+]

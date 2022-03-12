@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 906645,
+        "is_indie": true
+    },
+    {
+        "band_name": "chili_rho"
+    },
+    {
+        "attendance": 6920347,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1203453,
+        "band_name": "fighter",
+        "is_indie": true
+    }
+]

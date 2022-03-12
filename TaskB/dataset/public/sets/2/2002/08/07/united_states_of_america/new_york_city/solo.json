@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5464898,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 6368406,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 3672971,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 3220915,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 1148479,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    }
+]

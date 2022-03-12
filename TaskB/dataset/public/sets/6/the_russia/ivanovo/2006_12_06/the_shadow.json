@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 702880,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 2018787,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

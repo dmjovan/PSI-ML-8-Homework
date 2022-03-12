@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1686862,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "dale_burl",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2698500,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3773219,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 639856,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 4710367,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 212855,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

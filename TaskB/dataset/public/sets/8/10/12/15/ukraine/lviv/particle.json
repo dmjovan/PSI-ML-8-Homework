@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 257927,
+        "band_name": "matrix_mare"
+    },
+    {
+        "attendance": 1572676,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    }
+]

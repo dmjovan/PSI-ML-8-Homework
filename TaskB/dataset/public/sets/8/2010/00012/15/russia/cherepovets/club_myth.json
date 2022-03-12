@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1373787,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "attendance": 2365727,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "attendance": 887901,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "attendance": 2066550,
+        "band_name": "amoeba"
+    },
+    {
+        "band_name": "port_psalms"
+    }
+]

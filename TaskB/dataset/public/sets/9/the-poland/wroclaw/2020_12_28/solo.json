@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 765908,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 120426,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 2840185,
+        "is_indie": false
+    }
+]

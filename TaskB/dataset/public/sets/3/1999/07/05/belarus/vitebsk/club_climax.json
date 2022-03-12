@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1528845,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 1292018,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 2540671,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 4903082,
+        "band_name": "pea_carve",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1564920,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 400452,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2763234,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 85252,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    }
+]

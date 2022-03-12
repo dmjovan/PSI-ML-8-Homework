@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3481784,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 75342,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1186417,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 300954,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 449770,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

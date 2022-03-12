@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2126556,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2699950,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 182148,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

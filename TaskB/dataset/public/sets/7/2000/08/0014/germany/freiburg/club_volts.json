@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1717480,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 3923833,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 5126980,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 1454737,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 1124168,
+        "band_name": "aerobics",
+        "is_indie": false
+    }
+]

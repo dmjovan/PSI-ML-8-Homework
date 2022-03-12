@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 47004,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 419201,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 157859,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 822826,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

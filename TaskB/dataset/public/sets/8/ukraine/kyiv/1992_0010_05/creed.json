@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1407919,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "attendance": 3597137,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 3740729,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "attendance": 6015152,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

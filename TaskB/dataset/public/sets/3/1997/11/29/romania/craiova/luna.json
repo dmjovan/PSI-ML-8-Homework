@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 871605,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1932138,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 611243,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 878396,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

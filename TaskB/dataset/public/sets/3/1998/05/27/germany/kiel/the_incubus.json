@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3297286,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 3489676,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1085072,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 1634001,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 454836,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

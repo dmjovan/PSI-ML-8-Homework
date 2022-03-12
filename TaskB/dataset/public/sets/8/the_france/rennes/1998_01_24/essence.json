@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2680345,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 619565,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 8334826,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    }
+]

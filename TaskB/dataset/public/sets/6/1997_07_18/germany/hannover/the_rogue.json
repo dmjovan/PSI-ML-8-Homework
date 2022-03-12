@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 3811292,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    }
+]

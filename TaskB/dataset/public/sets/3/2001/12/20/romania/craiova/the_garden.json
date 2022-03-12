@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5058818,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 227949,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 838182,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    }
+]

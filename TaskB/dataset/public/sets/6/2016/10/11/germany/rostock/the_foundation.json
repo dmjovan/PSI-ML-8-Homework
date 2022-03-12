@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 251005,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 2290748,
+        "band_name": "botanical_bodybuilding"
+    },
+    {
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 475130,
+        "is_indie": false
+    }
+]

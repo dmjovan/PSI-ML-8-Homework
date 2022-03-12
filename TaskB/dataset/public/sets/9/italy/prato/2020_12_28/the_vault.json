@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 4048631,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "attendance": 4623640,
+        "band_name": "opera_barbarous"
+    },
+    {
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 3293701,
+        "band_name": "seaside"
+    }
+]

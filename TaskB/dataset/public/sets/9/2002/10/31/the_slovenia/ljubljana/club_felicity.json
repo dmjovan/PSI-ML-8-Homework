@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    },
+    {
+        "attendance": 352052,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 2097441,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    }
+]

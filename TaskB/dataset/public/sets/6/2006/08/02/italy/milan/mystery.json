@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3860385,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 2503342,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 979704,
+        "band_name": "anoint_rat"
+    },
+    {
+        "is_indie": true
+    }
+]

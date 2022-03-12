@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3084723,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 4816682,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 5814083,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2123040,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 4037554,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

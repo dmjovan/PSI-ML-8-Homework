@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6808897,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 298426,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 8003793,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 184528,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1348509,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    }
+]

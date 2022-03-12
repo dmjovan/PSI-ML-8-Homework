@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2043817,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 3176158,
+        "is_indie": false
+    },
+    {
+        "attendance": 3739753,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    }
+]

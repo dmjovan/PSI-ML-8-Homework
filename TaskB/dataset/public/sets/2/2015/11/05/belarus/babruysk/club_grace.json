@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 236181,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 2685241,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 4414437,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 52898,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 4484232,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

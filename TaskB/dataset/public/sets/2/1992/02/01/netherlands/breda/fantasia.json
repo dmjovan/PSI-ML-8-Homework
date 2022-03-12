@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2851849,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 4372958,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 6581283,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

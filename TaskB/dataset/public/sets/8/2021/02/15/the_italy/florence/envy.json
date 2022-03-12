@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 5943441,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 847163,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    }
+]

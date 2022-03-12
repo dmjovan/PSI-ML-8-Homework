@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5400376,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 690121,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 2462442,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1426643,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 1907193,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

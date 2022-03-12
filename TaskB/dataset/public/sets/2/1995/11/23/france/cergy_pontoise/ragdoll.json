@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 4342353,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 4107421,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

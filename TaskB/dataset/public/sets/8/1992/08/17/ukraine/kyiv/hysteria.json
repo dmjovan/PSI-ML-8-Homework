@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 295864,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "attendance": 4763515,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 1464056,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 3201550,
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 3143142,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    }
+]

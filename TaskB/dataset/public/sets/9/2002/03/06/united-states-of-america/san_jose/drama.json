@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2985527,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1616934,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "attendance": 2788818,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "attendance": 2155381,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    },
+    {
+        "attendance": 7110522,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5877695,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1556877,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 1327435,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3422530,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1401998,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

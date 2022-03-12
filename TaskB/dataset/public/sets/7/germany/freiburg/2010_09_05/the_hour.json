@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 5986314,
+        "band_name": "outdoors"
+    },
+    {
+        "attendance": 2050242,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

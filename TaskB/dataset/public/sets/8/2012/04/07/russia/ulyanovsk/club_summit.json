@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 846371,
+        "is_indie": false
+    },
+    {
+        "attendance": 2521859,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 4004673,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "attendance": 32241,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 290453,
+        "is_indie": true
+    }
+]

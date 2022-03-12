@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "elk_artist"
+    },
+    {
+        "attendance": 1666005,
+        "is_indie": false
+    },
+    {
+        "attendance": 149707,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    }
+]

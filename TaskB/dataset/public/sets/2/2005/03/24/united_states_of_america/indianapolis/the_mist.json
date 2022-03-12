@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 8827367,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1225,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2309069,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 6884549,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 3767961,
+        "band_name": "fighter",
+        "is_indie": false
+    }
+]

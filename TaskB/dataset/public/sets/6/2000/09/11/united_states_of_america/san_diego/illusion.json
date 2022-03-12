@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 146562,
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 851926,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 938000,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 809232,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 6795502,
+        "band_name": "rosary",
+        "is_indie": false
+    }
+]

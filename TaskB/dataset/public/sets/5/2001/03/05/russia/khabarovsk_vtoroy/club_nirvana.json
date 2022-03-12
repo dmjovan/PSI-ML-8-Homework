@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "band_name": "cardinal_salt",
+        "is_indie": false
+    },
+    {
+        "attendance": 1488930,
+        "band_name": "hot_imperatives",
+        "is_indie": true
+    }
+]

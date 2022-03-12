@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1196687,
+        "is_indie": false
+    },
+    {
+        "attendance": 2745681,
+        "band_name": "smashers_miller"
+    },
+    {
+        "attendance": 5601335,
+        "band_name": "wretch",
+        "is_indie": false
+    },
+    {
+        "attendance": 1495101,
+        "band_name": "corset"
+    },
+    {
+        "band_name": "peas_liberator"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4299660,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2577007,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 5172524,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2812313,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 1572714,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

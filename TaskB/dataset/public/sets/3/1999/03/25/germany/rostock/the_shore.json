@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 81370,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 6710775,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    }
+]

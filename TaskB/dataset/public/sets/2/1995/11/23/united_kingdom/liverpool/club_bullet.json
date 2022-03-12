@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1746606,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 986478,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

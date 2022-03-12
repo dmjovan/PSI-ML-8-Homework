@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4567676,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 177482,
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 200454,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "attendance": 1602059,
+        "band_name": "sonata",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3511208,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "attendance": 7609475,
+        "band_name": "inseparable_flowchart"
+    },
+    {
+        "attendance": 7713149,
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

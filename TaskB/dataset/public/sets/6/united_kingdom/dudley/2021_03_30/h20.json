@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1621990,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 557447,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 2380900,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 2421073,
+        "band_name": "oracle"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4690800,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 1265770,
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 8749568,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 396986,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 4252330,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    }
+]

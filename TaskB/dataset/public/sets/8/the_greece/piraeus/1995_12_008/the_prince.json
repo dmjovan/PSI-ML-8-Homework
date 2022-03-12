@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "electron"
+    },
+    {
+        "attendance": 2161943,
+        "band_name": "alcohol_spool"
+    },
+    {
+        "attendance": 1605305,
+        "is_indie": true
+    },
+    {
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    }
+]

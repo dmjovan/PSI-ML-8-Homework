@@ -1,0 +1,10 @@
+[
+    {
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

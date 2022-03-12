@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 8290348,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 285129,
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 8830008,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 207662,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3634661,
+        "band_name": "complex_figs",
+        "is_indie": false
+    }
+]

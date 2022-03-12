@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 517603,
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    },
+    {
+        "attendance": 1214440,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 389412,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 3203621,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "band_name": "across_plus_personalized"
+    }
+]

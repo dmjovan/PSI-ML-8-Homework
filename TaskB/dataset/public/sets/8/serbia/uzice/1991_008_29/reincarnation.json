@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2161692,
+        "band_name": "bonny_hotness"
+    },
+    {
+        "attendance": 2601575,
+        "is_indie": true
+    },
+    {
+        "attendance": 974024,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 668457,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 1477435,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    }
+]

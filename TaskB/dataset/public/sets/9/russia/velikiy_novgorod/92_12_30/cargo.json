@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 42319,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 1146162,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    }
+]

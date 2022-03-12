@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 3249831,
+        "band_name": "bowman_coca"
+    },
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

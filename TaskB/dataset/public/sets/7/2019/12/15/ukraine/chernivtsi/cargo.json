@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3539526,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 4368212,
+        "is_indie": false
+    },
+    {
+        "attendance": 460213,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 1424288,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    }
+]

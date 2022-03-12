@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1200822,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 211035,
+        "band_name": "the_porters"
+    },
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    }
+]

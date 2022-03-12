@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2533532,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "attendance": 1482239,
+        "is_indie": true
+    },
+    {
+        "attendance": 1935088,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 583802,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 2245522,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 3233114,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 643511,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    }
+]

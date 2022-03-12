@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 7145040,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 6055739,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    }
+]

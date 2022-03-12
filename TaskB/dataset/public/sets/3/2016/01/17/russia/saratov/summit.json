@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 614941,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 1938636,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1246354,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 3639017,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

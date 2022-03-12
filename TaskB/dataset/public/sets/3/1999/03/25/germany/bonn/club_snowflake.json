@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2731534,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 945032,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 2603274,
+        "band_name": "volt_united",
+        "is_indie": false
+    }
+]

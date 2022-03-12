@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1728597,
+        "band_name": "alcohol_spool"
+    },
+    {
+        "attendance": 3078527,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 195736,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    }
+]

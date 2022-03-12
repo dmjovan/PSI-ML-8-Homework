@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "bowman"
+    },
+    {
+        "attendance": 1113992,
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "attendance": 621891,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "band_name": "posture_patrol",
+        "is_indie": false
+    }
+]

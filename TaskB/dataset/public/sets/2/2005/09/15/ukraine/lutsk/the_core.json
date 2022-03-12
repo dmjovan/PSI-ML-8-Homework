@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1960888,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 1426682,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 384168,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 3175072,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1896023,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

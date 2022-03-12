@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1647664,
+        "band_name": "alibi_encyclopedia"
+    },
+    {
+        "attendance": 2691966,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "attendance": 8139625,
+        "band_name": "dale_burl",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 54674,
+        "band_name": "tang_city"
+    },
+    {
+        "attendance": 441218,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 2129202,
+        "band_name": "fussing",
+        "is_indie": false
+    }
+]

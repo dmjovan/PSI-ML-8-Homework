@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 7723410,
+        "band_name": "slipper_ripple"
+    },
+    {
+        "attendance": 171469,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 1437255,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "band_name": "flamboyant"
+    }
+]

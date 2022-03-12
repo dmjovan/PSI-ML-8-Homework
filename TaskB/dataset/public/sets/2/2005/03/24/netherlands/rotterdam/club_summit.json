@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2085632,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 667589,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 6547766,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 377167,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1581227,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

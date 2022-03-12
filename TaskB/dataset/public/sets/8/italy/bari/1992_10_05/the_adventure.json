@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "deserter"
+    },
+    {
+        "attendance": 790,
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 4018330,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

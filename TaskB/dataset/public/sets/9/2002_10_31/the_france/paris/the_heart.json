@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1728470,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 3913105,
+        "is_indie": true
+    },
+    {
+        "attendance": 5327128,
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2133436,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 7996809,
+        "band_name": "squirrel"
+    }
+]

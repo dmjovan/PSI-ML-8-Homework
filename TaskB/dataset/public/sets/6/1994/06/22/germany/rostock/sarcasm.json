@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 570325,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 2048904,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 2617236,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 4687993,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

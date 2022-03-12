@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1054449,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 1779424,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 1403243,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

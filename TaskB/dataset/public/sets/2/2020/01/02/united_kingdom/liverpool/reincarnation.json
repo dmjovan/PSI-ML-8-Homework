@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1354489,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 618484,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 3220107,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 4495087,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

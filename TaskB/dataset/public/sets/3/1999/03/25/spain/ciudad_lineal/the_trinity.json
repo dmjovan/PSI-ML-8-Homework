@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 794957,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 133420,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 778865,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    }
+]

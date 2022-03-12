@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 971153,
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    },
+    {
+        "attendance": 8260556,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 5037998,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 5581423,
+        "is_indie": true
+    }
+]

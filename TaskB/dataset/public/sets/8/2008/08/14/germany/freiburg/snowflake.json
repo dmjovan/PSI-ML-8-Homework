@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "breakaway_clement"
+    },
+    {
+        "attendance": 1169383,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 7145488,
+        "band_name": "mask",
+        "is_indie": false
+    }
+]

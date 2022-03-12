@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 7995277,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1616832,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 5477414,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

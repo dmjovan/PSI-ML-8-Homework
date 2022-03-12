@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 169302,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

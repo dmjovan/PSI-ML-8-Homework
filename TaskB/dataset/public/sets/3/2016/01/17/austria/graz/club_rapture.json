@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 745411,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 5181003,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 2411763,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 8385137,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 8096933,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    }
+]

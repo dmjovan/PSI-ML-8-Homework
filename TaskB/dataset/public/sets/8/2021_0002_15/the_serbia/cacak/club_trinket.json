@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3620850,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "attendance": 8239626,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    }
+]

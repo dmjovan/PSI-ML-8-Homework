@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 708197,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 973267,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 7097462,
+        "is_indie": false
+    },
+    {
+        "attendance": 3558423,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    }
+]

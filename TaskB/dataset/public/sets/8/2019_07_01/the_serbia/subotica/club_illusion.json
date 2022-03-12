@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1772336,
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "attendance": 5760306,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 645044,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    }
+]

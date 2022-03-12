@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1721556,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1625005,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 314279,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

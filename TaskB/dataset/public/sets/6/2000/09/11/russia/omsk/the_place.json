@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 4702107,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 6217171,
+        "band_name": "dragons",
+        "is_indie": false
+    }
+]

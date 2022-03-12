@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 733935,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1156181,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    }
+]

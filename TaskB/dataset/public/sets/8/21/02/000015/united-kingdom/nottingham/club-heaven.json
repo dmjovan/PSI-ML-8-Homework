@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1165734,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "attendance": 3678278,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 228884,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    }
+]

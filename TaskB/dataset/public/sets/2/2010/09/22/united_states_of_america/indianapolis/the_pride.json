@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1361479,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 5032474,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 3871676,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

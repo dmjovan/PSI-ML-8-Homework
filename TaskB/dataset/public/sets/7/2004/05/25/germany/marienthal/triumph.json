@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5386768,
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 4798729,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 81861,
+        "band_name": "stairwell"
+    },
+    {
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    }
+]

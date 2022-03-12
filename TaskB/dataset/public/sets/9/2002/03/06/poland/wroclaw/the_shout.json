@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 275552,
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 684772,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "attendance": 5604705,
+        "band_name": "seaside",
+        "is_indie": false
+    },
+    {
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

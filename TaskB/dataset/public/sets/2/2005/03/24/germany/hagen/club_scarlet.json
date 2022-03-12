@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1211599,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 9254620,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

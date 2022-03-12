@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "untidy_mailer"
+    },
+    {
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 2460343,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    }
+]

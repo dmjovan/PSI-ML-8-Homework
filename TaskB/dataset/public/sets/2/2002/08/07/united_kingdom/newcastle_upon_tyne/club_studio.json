@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1276196,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 3642134,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 950805,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

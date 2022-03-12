@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1987727,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 116437,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 527789,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 31123,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1679887,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

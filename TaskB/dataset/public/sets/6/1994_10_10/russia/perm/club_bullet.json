@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "attendance": 48511,
+        "band_name": "equinox_research"
+    },
+    {
+        "attendance": 7361296,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    }
+]

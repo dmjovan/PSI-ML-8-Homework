@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 759120,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 4877405,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 170994,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1466891,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

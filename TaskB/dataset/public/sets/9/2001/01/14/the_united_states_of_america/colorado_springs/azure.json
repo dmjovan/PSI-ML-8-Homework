@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 2618123,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

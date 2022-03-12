@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 758011,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 944173,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 85208,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3552837,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 2542569,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    }
+]

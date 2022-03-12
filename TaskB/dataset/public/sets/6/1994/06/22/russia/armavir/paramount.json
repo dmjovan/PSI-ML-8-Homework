@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 809373,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 9040050,
+        "band_name": "learns",
+        "is_indie": false
+    }
+]

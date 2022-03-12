@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1158284,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 2667316,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 1471710,
+        "band_name": "advertising"
+    },
+    {
+        "attendance": 3903867,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 6479610,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    }
+]

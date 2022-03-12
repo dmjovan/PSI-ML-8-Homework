@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4765609,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 8466740,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 106776,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

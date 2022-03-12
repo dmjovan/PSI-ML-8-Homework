@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 7812288,
+        "is_indie": false
+    },
+    {
+        "attendance": 7173470,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 1898541,
+        "band_name": "general_villains",
+        "is_indie": false
+    }
+]

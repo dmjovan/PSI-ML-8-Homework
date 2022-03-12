@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 276782,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 7042802,
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "attendance": 786569,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    }
+]

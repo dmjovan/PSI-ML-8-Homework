@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1456833,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1053145,
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 343006,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "attendance": 4299316,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "attendance": 2481431,
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    }
+]

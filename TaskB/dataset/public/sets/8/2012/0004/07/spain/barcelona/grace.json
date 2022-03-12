@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1351217,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 1097281,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "attendance": 75992,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 1169123,
+        "band_name": "mask"
+    }
+]

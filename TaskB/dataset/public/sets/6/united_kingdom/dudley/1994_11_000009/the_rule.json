@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 1330960,
+        "band_name": "pagers_memento"
+    },
+    {
+        "attendance": 6681828,
+        "band_name": "dragons"
+    },
+    {
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

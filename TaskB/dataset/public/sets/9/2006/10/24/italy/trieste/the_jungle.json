@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 4421171,
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "attendance": 3541828,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "destructor",
+        "is_indie": false
+    }
+]

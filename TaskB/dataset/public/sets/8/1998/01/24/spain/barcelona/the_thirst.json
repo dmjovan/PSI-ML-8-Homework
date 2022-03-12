@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1922422,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 2456200,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 5875908,
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    }
+]

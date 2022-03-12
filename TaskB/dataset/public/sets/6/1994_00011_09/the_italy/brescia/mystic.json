@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 14088,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 1631357,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 8070936,
+        "band_name": "bivouac",
+        "is_indie": false
+    }
+]

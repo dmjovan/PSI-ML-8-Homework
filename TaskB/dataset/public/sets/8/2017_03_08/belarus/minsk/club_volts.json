@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1564292,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1389564,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 3676247,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    }
+]

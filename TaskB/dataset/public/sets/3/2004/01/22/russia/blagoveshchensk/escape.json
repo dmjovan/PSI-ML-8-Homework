@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1048610,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1267599,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 2507800,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1900576,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 1035844,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    }
+]

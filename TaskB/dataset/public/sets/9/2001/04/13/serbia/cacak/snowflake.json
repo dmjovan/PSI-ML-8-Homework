@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1407679,
+        "band_name": "mongoose_primal"
+    },
+    {
+        "band_name": "orb_ware"
+    },
+    {
+        "attendance": 87447,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2259579,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    }
+]

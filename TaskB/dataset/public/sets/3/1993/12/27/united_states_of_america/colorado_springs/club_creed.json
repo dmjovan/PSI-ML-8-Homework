@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 4668366,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1745035,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

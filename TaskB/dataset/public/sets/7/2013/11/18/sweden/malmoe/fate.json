@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 2150524,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "band_name": "sayer",
+        "is_indie": true
+    }
+]

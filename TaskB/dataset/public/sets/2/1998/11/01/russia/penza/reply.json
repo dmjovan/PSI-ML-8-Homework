@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 578807,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 4438423,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 1621004,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 474016,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

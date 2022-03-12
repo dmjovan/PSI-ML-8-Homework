@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2772565,
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 6272210,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 872687,
+        "band_name": "float",
+        "is_indie": false
+    }
+]

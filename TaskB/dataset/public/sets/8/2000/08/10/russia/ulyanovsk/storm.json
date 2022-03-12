@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 846458,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 4023540,
+        "band_name": "ration"
+    },
+    {
+        "attendance": 206310,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 250142,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    }
+]

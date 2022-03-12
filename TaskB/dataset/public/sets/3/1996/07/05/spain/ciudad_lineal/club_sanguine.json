@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 391213,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2577960,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 656728,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 784023,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 5261528,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

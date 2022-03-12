@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 2443335,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 2658892,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "band_name": "webs_vacations"
+    },
+    {
+        "attendance": 437773,
+        "band_name": "furlough_pollution"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 119788,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 6439698,
+        "band_name": "flamboyant"
+    },
+    {
+        "band_name": "stairwell",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 1533062,
+        "band_name": "manly_pandas"
+    },
+    {
+        "attendance": 558173,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

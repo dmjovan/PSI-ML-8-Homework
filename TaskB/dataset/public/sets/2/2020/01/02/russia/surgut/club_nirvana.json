@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5945118,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 4316163,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 5994167,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2257103,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 4418294,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

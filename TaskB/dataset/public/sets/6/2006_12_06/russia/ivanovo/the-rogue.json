@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 684099,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 117874,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2342542,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "band_name": "aboard"
+    }
+]

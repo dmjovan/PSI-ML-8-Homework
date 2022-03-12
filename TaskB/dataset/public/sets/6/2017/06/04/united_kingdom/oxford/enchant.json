@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 4530668,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 346317,
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 598004,
+        "is_indie": true
+    },
+    {
+        "attendance": 2304202,
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "attendance": 3310772,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    }
+]

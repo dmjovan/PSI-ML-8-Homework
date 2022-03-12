@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 802502,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 1618189,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 6414841,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 5723130,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    }
+]

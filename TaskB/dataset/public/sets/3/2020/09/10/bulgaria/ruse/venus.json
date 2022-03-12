@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 133796,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 3534197,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1060962,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 23601,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 2103577,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

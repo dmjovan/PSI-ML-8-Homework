@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6023237,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 4224993,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1080575,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 4986817,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

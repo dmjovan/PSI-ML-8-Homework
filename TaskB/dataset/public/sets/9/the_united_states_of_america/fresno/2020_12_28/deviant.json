@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3245945,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "band_name": "romper"
+    },
+    {
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    }
+]

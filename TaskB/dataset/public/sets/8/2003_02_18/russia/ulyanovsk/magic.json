@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3266210,
+        "band_name": "bill_inducer"
+    },
+    {
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "attendance": 4216542,
+        "band_name": "windmills"
+    },
+    {
+        "attendance": 1373065,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 1535356,
+        "band_name": "tag",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1342790,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 306007,
+        "band_name": "weekly_assemblages"
+    }
+]

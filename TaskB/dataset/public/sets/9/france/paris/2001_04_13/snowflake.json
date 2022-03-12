@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5245642,
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 1633228,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 1047001,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "band_name": "award_boomerang_bailiff"
+    }
+]

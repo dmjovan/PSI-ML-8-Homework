@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2308789,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 362687,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 2023,
+        "band_name": "international_furlough",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 8609,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 3117402,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    },
+    {
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    }
+]

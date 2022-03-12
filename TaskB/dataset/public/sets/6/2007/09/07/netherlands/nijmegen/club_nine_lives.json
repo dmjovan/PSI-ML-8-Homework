@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2665143,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "attendance": 1297951,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 7562790,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    }
+]

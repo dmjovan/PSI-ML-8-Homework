@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5644992,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 100641,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 356331,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

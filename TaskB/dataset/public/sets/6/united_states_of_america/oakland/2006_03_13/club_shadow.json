@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 5250274,
+        "band_name": "fussing",
+        "is_indie": false
+    }
+]

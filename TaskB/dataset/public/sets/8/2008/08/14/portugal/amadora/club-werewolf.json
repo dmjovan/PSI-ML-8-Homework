@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 6357979,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 23450,
+        "band_name": "pause_queen",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 476011,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 816009,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 2860708,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 2239238,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 2740312,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1663496,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1806437,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

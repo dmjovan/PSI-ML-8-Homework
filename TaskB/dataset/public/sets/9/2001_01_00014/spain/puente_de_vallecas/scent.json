@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1109213,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2689068,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 1069652,
+        "band_name": "wretch"
+    },
+    {},
+    {
+        "band_name": "anew_big",
+        "is_indie": true
+    }
+]

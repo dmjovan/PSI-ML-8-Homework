@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1616030,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1126076,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 3282372,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 5693894,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

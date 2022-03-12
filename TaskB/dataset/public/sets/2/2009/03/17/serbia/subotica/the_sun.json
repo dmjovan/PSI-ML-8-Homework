@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4335385,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 4196688,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 211103,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 287343,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 2221604,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

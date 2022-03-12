@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2676750,
+        "band_name": "bowman"
+    },
+    {
+        "attendance": 469421,
+        "is_indie": true
+    },
+    {
+        "attendance": 136799,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 1982117,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1460313,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 2080512,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    }
+]

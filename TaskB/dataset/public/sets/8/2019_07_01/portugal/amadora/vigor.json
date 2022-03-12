@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 552326,
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 1194416,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1270056,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 8075994,
+        "band_name": "culture_panicky"
+    }
+]

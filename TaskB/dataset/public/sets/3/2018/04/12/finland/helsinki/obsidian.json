@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 422347,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 784593,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1685957,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 530995,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 8047235,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

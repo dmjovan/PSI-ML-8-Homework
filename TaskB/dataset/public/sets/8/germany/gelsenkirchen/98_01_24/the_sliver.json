@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 8364093,
+        "band_name": "port_psalms"
+    },
+    {
+        "attendance": 438960,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 5796631,
+        "band_name": "ration"
+    },
+    {
+        "attendance": 4637354,
+        "band_name": "dossier",
+        "is_indie": false
+    }
+]

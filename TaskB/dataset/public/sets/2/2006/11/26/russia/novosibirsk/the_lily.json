@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 95854,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 2745557,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 1044036,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

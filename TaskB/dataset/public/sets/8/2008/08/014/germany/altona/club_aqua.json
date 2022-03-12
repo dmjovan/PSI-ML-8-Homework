@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3402493,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 3165790,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "band_name": "potters_assembly",
+        "is_indie": true
+    }
+]

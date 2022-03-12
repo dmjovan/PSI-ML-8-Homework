@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 8590,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "band_name": "general_villains",
+        "is_indie": false
+    }
+]

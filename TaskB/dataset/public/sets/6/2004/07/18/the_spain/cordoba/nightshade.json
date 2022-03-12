@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 692966,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "attendance": 1171610,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

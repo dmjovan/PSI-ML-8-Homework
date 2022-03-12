@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 336566,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 987804,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 8145223,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 6479303,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 4310749,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 451906,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1653278,
+        "band_name": "paraffin",
+        "is_indie": false
+    }
+]

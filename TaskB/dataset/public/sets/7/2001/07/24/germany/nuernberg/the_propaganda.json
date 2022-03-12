@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1842674,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 2123432,
+        "band_name": "paraffin",
+        "is_indie": false
+    }
+]

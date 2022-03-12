@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 7839373,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 939841,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 8846177,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 878955,
+        "band_name": "maniacs_lawn"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "attendance": 514621,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 1819714,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 44574,
+        "is_indie": true
+    }
+]

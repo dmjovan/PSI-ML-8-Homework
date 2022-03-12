@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 8266166,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "band_name": "lawn_cooper"
+    },
+    {
+        "attendance": 96413,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 656307,
+        "band_name": "orb_ware",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 4475916,
+        "is_indie": false
+    },
+    {
+        "attendance": 1145480,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 2042109,
+        "is_indie": false
+    }
+]

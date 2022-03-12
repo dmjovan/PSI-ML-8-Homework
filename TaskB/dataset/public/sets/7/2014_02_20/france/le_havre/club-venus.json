@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3621159,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 919093,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 2871376,
+        "band_name": "flamboyant",
+        "is_indie": false
+    }
+]

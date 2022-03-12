@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1977875,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2354047,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    }
+]

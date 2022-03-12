@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 489454,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 5634679,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 1175022,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    }
+]

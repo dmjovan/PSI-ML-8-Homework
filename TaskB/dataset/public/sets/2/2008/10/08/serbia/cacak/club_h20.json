@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 8244249,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 3411282,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

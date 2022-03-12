@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1293021,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 79304,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 2602725,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 4879723,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 4386024,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

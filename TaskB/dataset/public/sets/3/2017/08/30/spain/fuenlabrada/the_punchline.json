@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1465341,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 1916896,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 5788003,
+        "band_name": "silt_twas",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 7353694,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2632181,
+        "band_name": "weekly_assemblages"
+    },
+    {
+        "band_name": "squirrel"
+    },
+    {
+        "attendance": 1971118,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    }
+]

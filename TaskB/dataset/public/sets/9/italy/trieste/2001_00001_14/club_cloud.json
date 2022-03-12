@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 15486,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 763829,
+        "is_indie": false
+    },
+    {
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 821732,
+        "is_indie": false
+    },
+    {
+        "band_name": "rumble_gripes"
+    }
+]

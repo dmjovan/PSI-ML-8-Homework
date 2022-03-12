@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 733599,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    }
+]

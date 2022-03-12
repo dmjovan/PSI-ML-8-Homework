@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 381033,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 4118410,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 7263562,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 18941,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 357020,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 1583774,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 4367871,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

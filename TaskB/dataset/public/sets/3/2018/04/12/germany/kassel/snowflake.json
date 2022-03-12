@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5021258,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 424449,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 2469022,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 5026949,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 427268,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    }
+]

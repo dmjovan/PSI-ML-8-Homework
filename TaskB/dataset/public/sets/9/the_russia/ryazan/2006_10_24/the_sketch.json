@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 570861,
+        "band_name": "earls_damper"
+    },
+    {
+        "attendance": 2723613,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 2468213,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 2074408,
+        "band_name": "whiskey_crossings"
+    },
+    {
+        "attendance": 1423438,
+        "band_name": "fleece",
+        "is_indie": false
+    }
+]

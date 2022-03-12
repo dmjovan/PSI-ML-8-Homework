@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 995194,
+        "is_indie": false
+    },
+    {
+        "attendance": 2630307,
+        "band_name": "bonny_hotness"
+    },
+    {
+        "attendance": 3579852,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 725152,
+        "band_name": "attackers"
+    }
+]

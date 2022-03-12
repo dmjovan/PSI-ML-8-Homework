@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 4451059,
+        "band_name": "locusts_salvation"
+    },
+    {
+        "attendance": 959327,
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "attendance": 2292436,
+        "band_name": "fleece"
+    },
+    {
+        "attendance": 4256843,
+        "band_name": "furlough_pollution"
+    },
+    {
+        "attendance": 399822,
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    }
+]

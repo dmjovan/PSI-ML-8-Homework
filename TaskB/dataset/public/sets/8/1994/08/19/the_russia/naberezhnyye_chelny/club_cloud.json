@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 394353,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 946958,
+        "band_name": "hourglass_uplands"
+    },
+    {
+        "attendance": 2256101,
+        "band_name": "twang"
+    },
+    {
+        "attendance": 3387883,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1752026,
+        "band_name": "fighter",
+        "is_indie": true
+    }
+]

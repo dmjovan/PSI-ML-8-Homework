@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1494616,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 1809330,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "band_name": "sayer",
+        "is_indie": true
+    }
+]

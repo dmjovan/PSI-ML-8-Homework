@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1932437,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 1678807,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 1024015,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 8996451,
+        "band_name": "learns",
+        "is_indie": false
+    }
+]

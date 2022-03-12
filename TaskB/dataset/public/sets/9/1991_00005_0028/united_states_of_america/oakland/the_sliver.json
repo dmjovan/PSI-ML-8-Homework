@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2007557,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "attendance": 4104542,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1424542,
+        "band_name": "fleece",
+        "is_indie": false
+    }
+]

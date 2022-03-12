@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 105107,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1082806,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "band_name": "cookie_happier",
+        "is_indie": false
+    }
+]

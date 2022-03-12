@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2802421,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1046197,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 194549,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 187307,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 4336888,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

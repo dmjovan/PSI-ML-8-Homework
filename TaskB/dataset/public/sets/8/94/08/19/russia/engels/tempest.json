@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1405832,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 820249,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 1624633,
+        "band_name": "scrawl_twentieth"
+    }
+]

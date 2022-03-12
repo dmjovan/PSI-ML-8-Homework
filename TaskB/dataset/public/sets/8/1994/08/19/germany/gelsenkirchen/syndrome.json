@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1287929,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 5007162,
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "attendance": 809412,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 941499,
+        "band_name": "observatory",
+        "is_indie": true
+    }
+]

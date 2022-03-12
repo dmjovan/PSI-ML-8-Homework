@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1869414,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1186692,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "attendance": 1989142,
+        "is_indie": false
+    },
+    {
+        "attendance": 1079296,
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    }
+]

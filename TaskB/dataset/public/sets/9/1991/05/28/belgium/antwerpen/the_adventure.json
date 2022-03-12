@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "anew_big"
+    },
+    {
+        "attendance": 3145157,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 2825518,
+        "is_indie": true
+    },
+    {
+        "attendance": 2651292,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "ermine",
+        "is_indie": false
+    }
+]

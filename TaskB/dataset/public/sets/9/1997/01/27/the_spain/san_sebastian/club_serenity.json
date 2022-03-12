@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 6540654,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 4388515,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "attendance": 1290487,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 1242080,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    }
+]

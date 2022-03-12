@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 5689613,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 775463,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    }
+]

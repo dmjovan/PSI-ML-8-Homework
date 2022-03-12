@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 950501,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "band_name": "burnings_pod"
+    },
+    {
+        "band_name": "ibis_garbages_melon"
+    },
+    {
+        "attendance": 407424,
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    },
+    {
+        "attendance": 137403,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    }
+]

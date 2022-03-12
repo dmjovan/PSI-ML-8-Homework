@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2032923,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 4995761,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1230181,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1318908,
+        "band_name": "each_reverend",
+        "is_indie": true
+    }
+]

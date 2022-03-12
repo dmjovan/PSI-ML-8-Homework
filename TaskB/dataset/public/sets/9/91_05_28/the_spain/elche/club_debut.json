@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3110079,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 6586646,
+        "is_indie": false
+    },
+    {
+        "band_name": "snake_pong"
+    },
+    {
+        "attendance": 230550
+    },
+    {
+        "band_name": "quo_socialize",
+        "is_indie": true
+    }
+]

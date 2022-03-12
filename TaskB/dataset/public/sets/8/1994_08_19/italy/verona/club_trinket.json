@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 1476697,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "attendance": 6572209,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 3445070,
+        "band_name": "bowman",
+        "is_indie": false
+    }
+]

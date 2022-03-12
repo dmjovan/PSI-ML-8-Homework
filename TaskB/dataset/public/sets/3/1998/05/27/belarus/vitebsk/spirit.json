@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3360251,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 2314460,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 1848800,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 5577988,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 570941,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

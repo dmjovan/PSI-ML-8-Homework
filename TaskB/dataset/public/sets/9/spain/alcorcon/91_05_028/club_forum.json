@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1532707,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "attendance": 537603,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 6330874,
+        "is_indie": true
+    },
+    {
+        "attendance": 4229831,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 753516,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    }
+]

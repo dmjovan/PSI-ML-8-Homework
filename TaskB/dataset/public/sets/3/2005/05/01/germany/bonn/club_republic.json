@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 175909,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 2107393,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1256642,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 2748958,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

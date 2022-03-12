@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4377148,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 295952,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 1794480,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    }
+]

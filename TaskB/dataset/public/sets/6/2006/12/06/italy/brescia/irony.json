@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 479261,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 193737,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 1064495,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 650391,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    }
+]

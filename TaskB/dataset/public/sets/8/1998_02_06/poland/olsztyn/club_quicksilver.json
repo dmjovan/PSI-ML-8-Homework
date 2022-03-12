@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1498610,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 938824,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3312343,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 743832,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 2140237,
+        "is_indie": false
+    },
+    {
+        "band_name": "sparks_bridge"
+    },
+    {
+        "attendance": 3482852,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    }
+]

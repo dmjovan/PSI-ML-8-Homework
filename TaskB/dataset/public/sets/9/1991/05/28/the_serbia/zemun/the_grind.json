@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 7838039,
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "band_name": "redeem_parallax"
+    },
+    {
+        "attendance": 5150901,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    }
+]

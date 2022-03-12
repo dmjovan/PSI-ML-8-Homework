@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 841229,
+        "band_name": "muffled_sleeplessness"
+    },
+    {
+        "attendance": 3490794,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "attendance": 1234820,
+        "band_name": "bookshelf_flock"
+    }
+]

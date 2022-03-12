@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 391953,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 3982162,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 996797,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1035104,
+        "band_name": "each_reverend",
+        "is_indie": true
+    }
+]

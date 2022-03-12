@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 78916,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1783725,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 3132660,
+        "band_name": "hypocrite"
+    },
+    {
+        "attendance": 628210,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "band_name": "float",
+        "is_indie": false
+    }
+]

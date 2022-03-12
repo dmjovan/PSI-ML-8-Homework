@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 5944853,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 642595,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 974482,
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 206466,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    }
+]

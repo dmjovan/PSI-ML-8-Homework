@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1480492,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 1161871,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 3610060,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 1292359,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2193824,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

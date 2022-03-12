@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4556580,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 7937508,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 505577,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

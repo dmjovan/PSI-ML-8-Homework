@@ -1,0 +1,24 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2757480,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 1926928,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 709678,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    }
+]

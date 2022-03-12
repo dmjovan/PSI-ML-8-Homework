@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1507499,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 4620758,
+        "band_name": "trust"
+    },
+    {
+        "attendance": 4259890,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1467128,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    }
+]

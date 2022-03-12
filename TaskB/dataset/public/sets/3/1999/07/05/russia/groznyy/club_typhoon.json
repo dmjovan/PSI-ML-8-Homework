@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1367446,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 2043463,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1654694,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 2220856,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

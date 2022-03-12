@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 266087,
+        "is_indie": false
+    },
+    {
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 738244,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 3621248,
+        "band_name": "clogs_dynamite"
+    },
+    {
+        "attendance": 95841,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

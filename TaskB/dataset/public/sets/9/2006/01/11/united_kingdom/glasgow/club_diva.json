@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "attendance": 331016,
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    },
+    {
+        "attendance": 2184017,
+        "is_indie": true
+    },
+    {
+        "attendance": 1314038
+    }
+]

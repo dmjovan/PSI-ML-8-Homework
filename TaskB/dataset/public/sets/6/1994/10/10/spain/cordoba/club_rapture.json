@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4184010,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 2543705,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 26327,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 788638,
+        "band_name": "aboard",
+        "is_indie": false
+    }
+]

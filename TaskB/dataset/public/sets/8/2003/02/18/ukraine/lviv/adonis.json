@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "minimax_skunks"
+    },
+    {
+        "attendance": 653320,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 3138025,
+        "is_indie": true
+    }
+]

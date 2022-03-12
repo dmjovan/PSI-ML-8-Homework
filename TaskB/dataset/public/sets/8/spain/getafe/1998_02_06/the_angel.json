@@ -1,0 +1,10 @@
+[
+    {
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    }
+]

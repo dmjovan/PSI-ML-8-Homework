@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1928840,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 306303,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

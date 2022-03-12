@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3565197,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 6770154,
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "pie_addendum"
+    },
+    {
+        "attendance": 3895342
+    }
+]

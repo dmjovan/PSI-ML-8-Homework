@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2197785,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 6623689,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 8832896,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 2683265,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

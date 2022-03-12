@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1596717,
+        "band_name": "deserter"
+    },
+    {
+        "attendance": 91406,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 419604,
+        "band_name": "voting_ridden"
+    }
+]

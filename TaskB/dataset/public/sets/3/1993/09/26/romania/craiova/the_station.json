@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6693175,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 285094,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 427313,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1872259,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1056888,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

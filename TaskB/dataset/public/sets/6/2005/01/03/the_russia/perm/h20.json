@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3951554,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 3975658,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 96529,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

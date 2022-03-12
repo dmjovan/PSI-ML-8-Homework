@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2574271,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3554819,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1563889,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    }
+]

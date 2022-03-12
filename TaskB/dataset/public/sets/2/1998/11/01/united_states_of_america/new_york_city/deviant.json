@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 254576,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 538280,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 5375270,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 60434,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 2404268,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

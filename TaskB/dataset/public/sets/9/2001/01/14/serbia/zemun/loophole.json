@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 3280308,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 380786,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 3178335,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    }
+]

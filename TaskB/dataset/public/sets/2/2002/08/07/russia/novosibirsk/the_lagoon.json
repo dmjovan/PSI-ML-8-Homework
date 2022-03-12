@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 366423,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2482430,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 5993602,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1387917,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 5275931,
+        "band_name": "an_warrant",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    },
+    {
+        "band_name": "ermine"
+    },
+    {
+        "attendance": 304646,
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 1612926,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    }
+]

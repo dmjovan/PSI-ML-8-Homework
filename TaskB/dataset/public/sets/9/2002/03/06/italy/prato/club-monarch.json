@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 985724,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "attendance": 2160473,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    }
+]

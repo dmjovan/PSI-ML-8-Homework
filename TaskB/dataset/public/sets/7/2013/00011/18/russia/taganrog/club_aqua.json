@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 2217807,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 142922,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 5056828,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 1513275,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    }
+]

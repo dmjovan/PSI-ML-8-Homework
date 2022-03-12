@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6403444,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 3649652,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 381724,
+        "band_name": "flock_store",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1482807,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 6551200,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 1781321,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 2729446,
+        "band_name": "pea_carve",
+        "is_indie": false
+    }
+]

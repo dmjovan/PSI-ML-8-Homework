@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 890161,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 159871,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 856140,
+        "band_name": "bivouac"
+    },
+    {
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    }
+]

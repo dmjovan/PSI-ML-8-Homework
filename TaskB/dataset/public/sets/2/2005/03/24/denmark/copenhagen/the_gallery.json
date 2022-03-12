@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 274547,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 8570747,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 5047846,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1028794,
+        "band_name": "pit",
+        "is_indie": false
+    }
+]

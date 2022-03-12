@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "alibi_encyclopedia"
+    },
+    {
+        "attendance": 1320462,
+        "is_indie": true
+    },
+    {
+        "attendance": 1280290,
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

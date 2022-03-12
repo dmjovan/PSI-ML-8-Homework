@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 239996,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 18283,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "attendance": 164036,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 685867,
+        "band_name": "elk_artist",
+        "is_indie": false
+    }
+]

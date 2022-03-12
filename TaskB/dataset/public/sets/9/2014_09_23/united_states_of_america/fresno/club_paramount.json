@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "attendance": 4725679,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 466113,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    }
+]

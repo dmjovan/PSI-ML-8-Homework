@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 393885,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 12586,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 302127,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

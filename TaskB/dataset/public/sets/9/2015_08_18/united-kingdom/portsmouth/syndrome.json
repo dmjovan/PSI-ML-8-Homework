@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1851008,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 1715943,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 3552511,
+        "band_name": "infirmary_grapevine"
+    }
+]

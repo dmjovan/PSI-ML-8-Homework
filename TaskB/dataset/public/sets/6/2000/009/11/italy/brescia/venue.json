@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "band_name": "dragons"
+    },
+    {
+        "attendance": 4407366,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1250819,
+        "band_name": "grudge",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2485975,
+        "is_indie": false
+    },
+    {
+        "attendance": 135884,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 5177193,
+        "is_indie": false
+    },
+    {
+        "attendance": 354790,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

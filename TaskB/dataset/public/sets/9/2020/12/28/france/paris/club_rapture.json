@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 5104246,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 2165698,
+        "band_name": "essays"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 232065,
+        "band_name": "tore",
+        "is_indie": false
+    }
+]

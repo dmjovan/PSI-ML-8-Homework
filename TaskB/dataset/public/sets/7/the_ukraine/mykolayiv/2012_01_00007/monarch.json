@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "band_name": "thorns_civility"
+    },
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 1143799,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

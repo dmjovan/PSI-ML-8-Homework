@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1485278,
+        "band_name": "float"
+    },
+    {
+        "attendance": 3694306,
+        "band_name": "outdoors"
+    },
+    {
+        "attendance": 45709,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 1563265,
+        "band_name": "voting_ridden"
+    },
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2223274,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "attendance": 5320380,
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 350448,
+        "band_name": "signification_repent"
+    },
+    {
+        "attendance": 5341745,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    }
+]

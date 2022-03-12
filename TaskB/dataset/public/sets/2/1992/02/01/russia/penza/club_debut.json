@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1201354,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 3909479,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 1114917,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 316378,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 1909516,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

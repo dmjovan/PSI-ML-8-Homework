@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3960513,
+        "band_name": "philosophers_preludes"
+    },
+    {
+        "attendance": 3521614,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 4140903,
+        "band_name": "exclaim",
+        "is_indie": false
+    }
+]

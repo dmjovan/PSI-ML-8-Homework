@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4509663,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 979933,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1362897,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 908501,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

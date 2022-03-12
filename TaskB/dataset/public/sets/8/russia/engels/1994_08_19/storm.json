@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "attendance": 2503685,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "band_name": "channeller",
+        "is_indie": true
+    }
+]

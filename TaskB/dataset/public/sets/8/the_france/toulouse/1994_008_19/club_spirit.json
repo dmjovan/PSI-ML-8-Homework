@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3999989,
+        "band_name": "kanji"
+    },
+    {
+        "attendance": 670369,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 1349632,
+        "is_indie": false
+    },
+    {
+        "attendance": 2946228,
+        "is_indie": false
+    }
+]

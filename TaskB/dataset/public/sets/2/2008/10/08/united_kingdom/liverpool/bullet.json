@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5582900,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 238197,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 6750706,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1807632,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 5037084,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 150633,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 40715,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1063979,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    }
+]

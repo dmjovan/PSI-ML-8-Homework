@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 3174942,
+        "band_name": "lackey_noodle"
+    },
+    {
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "band_name": "quarry_divisional"
+    },
+    {
+        "attendance": 6558919,
+        "band_name": "any_madder"
+    }
+]

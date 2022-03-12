@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 706455,
+        "is_indie": false
+    },
+    {
+        "attendance": 9422340,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1240262,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 1167482,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    }
+]

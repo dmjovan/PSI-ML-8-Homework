@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3526924,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 766160,
+        "is_indie": false
+    },
+    {
+        "attendance": 5763902,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 1002775,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 7714475,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 5443353
+    },
+    {
+        "attendance": 4394141,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 2919934,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

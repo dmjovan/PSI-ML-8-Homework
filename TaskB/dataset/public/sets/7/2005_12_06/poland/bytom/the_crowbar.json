@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 5524487,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 92480,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    }
+]

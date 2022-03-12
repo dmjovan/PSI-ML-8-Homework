@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 227290,
+        "band_name": "cranberry_hospitality"
+    },
+    {
+        "attendance": 5398140,
+        "band_name": "shod_tramp"
+    },
+    {
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 1459592,
+        "is_indie": false
+    },
+    {
+        "attendance": 237848,
+        "band_name": "snake_pong"
+    }
+]

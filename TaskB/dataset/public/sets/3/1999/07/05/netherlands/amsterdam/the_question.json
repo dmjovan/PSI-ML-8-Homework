@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 247253,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 494865,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 4553887,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 1379049,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    }
+]

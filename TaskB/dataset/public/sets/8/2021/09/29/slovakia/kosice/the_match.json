@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 605380,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 4670732,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "attendance": 6498951,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 4124187,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    }
+]

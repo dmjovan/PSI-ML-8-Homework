@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "executor"
+    },
+    {
+        "attendance": 411298,
+        "band_name": "sale_vertical"
+    },
+    {
+        "attendance": 233838,
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 4321,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    }
+]

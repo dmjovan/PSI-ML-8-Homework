@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1674257,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 326883,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 892387,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 812648,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 4032158,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    }
+]

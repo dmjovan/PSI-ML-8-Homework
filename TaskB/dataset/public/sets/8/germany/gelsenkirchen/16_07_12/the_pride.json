@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 705383,
+        "band_name": "furniture_glow"
+    },
+    {
+        "attendance": 218436,
+        "band_name": "tingles",
+        "is_indie": true
+    }
+]

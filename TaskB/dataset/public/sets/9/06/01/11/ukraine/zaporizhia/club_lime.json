@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 3646110,
+        "band_name": "widener_separable"
+    },
+    {
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 7707981,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    }
+]

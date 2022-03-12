@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3129476,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 210334,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 4007893,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

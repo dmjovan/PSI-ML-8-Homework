@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 732751,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 5606865,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1803398,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 6210176,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    }
+]

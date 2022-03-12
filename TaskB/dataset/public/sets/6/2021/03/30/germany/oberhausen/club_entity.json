@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 5845864,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 1126248,
+        "band_name": "nimbus",
+        "is_indie": false
+    }
+]

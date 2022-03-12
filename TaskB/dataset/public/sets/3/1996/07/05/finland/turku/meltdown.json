@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 157387,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 1618676,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 4828252,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 99536,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 2161980,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 358838,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 1163447,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    }
+]

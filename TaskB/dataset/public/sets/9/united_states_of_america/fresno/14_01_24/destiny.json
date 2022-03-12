@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2260756,
+        "band_name": "quitters_recline"
+    },
+    {
+        "attendance": 9062938,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 3965568,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 4567685,
+        "band_name": "binaural_dropout"
+    }
+]

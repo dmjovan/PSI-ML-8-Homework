@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 1619585,
+        "band_name": "west_dancer"
+    },
+    {
+        "attendance": 6363394,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    }
+]

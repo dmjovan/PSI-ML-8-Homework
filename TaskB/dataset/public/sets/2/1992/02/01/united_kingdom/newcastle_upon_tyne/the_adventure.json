@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4918659,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 5792431,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 326321,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 4268104,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 448178,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 417591,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1933728,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 3154753,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "band_name": "voting_ridden"
+    },
+    {
+        "band_name": "any_madder",
+        "is_indie": true
+    }
+]

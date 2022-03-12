@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2900538,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 8126618,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2607793,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 566368,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

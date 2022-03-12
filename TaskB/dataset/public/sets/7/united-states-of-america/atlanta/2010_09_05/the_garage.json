@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1739221,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1836495,
+        "band_name": "training_tertiary"
+    },
+    {
+        "attendance": 2708482,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2824261,
+        "band_name": "snowflake",
+        "is_indie": false
+    },
+    {
+        "band_name": "florin_parlor",
+        "is_indie": true
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    }
+]

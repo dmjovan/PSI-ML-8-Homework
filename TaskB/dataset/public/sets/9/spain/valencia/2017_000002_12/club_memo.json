@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 668626,
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 1300992,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1789545,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

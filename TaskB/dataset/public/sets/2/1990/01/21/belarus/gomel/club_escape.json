@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1630526,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1901738,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 1466429,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 639516,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2580426,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

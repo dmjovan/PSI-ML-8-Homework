@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1234809,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 3371250,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1734115,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 5615405,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 7219144,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

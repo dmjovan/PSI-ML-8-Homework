@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1820363,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1698407,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "attendance": 5190336,
+        "band_name": "scoundrel_elite"
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 406501,
+        "band_name": "signification_repent"
+    }
+]

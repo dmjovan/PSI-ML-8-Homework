@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "destructor"
+    },
+    {
+        "attendance": 182298,
+        "is_indie": false
+    },
+    {
+        "attendance": 640089,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 580311,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    }
+]

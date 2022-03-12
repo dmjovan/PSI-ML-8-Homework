@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "scrawl_twentieth"
+    },
+    {
+        "attendance": 588422,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "peanuts_mountaineer"
+    },
+    {
+        "attendance": 1236100,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "attendance": 4733760,
+        "band_name": "soggy"
+    }
+]

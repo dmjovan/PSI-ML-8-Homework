@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 942736,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1118210,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1731041,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 863096,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    }
+]

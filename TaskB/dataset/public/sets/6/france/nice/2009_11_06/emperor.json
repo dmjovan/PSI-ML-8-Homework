@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 5716083,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 876695,
+        "band_name": "pharmacy_sayings"
+    },
+    {
+        "attendance": 521608,
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3663513,
+        "is_indie": true
+    }
+]

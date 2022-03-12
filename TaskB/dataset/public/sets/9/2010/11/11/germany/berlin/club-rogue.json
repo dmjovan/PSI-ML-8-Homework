@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5966972,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 630907,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 152937,
+        "band_name": "trust",
+        "is_indie": false
+    },
+    {
+        "band_name": "binaural_dropout"
+    }
+]

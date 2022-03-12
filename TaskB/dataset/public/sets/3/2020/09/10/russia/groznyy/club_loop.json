@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1502376,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 2216355,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 53731,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 3307224,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 763743,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

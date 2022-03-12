@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 288918,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "attendance": 1476345,
+        "is_indie": true
+    },
+    {
+        "attendance": 34558,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    }
+]

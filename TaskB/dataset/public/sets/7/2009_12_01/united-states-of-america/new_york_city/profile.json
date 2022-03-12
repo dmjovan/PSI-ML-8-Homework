@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 36791,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 5506766,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 1009502,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    }
+]

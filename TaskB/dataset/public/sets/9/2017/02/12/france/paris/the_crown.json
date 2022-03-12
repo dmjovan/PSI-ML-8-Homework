@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 98150,
+        "band_name": "orb_ware"
+    },
+    {
+        "attendance": 1071691,
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    }
+]

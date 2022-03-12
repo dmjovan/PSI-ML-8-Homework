@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 2251131,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "band_name": "burnings_pod",
+        "is_indie": false
+    }
+]

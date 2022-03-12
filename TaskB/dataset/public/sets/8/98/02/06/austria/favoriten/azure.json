@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 3092236,
+        "band_name": "soy_bites",
+        "is_indie": false
+    }
+]

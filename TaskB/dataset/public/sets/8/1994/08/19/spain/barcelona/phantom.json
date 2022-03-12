@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 1445531,
+        "band_name": "atheist_tweed"
+    },
+    {
+        "attendance": 790099,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    }
+]

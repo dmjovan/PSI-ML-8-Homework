@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4564574,
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 1917369,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "attendance": 6904454,
+        "band_name": "quo_socialize"
+    },
+    {
+        "band_name": "junky_sulk",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2555569,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 3006863,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 862128,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    }
+]

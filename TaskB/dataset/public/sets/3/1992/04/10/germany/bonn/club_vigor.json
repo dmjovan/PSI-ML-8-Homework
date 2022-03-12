@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2200513,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 3526142,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 7833504,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 514981,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

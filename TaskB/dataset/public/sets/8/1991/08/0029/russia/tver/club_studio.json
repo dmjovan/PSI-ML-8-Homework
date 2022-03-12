@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 2242569,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 5505669,
+        "band_name": "soggy",
+        "is_indie": false
+    }
+]

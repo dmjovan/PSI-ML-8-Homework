@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "locusts_salvation"
+    },
+    {
+        "attendance": 1112473,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2085633,
+        "band_name": "trance_petters"
+    },
+    {
+        "attendance": 1698464,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 6811429,
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

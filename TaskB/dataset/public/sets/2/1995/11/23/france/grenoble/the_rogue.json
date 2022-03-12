@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6543644,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1630239,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 5297555,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 1373241,
+        "band_name": "each_reverend",
+        "is_indie": true
+    }
+]

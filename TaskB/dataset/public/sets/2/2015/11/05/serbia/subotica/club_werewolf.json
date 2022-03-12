@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 9255821,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 5642032,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 4837180,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 3030659,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 1338285,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    }
+]

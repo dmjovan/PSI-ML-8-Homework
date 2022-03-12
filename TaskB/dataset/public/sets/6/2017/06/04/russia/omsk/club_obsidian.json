@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3017622,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 144826,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 2792349,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 823013,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "attendance": 4509805,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

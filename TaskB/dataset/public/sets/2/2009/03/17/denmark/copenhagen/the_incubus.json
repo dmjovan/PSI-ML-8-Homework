@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 76528,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 3342434,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 674902,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 2778871,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 638754,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 3554455,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "band_name": "arson_balsam"
+    },
+    {
+        "attendance": 4619,
+        "band_name": "avenger_contrive"
+    },
+    {
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    }
+]

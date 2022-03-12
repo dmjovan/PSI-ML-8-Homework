@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1956273,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 2605496,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "band_name": "hourglass_uplands"
+    }
+]

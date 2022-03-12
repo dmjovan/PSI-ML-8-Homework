@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 714695,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 138352,
+        "is_indie": false
+    }
+]

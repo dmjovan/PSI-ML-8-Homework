@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 2708981,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "attendance": 2285138,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 3069127,
+        "band_name": "parkers_rockabye"
+    }
+]

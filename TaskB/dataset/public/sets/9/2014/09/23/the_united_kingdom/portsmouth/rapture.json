@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "opera_barbarous"
+    },
+    {
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1473464,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    }
+]

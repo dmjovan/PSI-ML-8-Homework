@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3953184,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 465978,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2395547,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 5168452,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

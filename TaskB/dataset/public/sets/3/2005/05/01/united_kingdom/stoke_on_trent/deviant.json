@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2801052,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1842367,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 74535,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 556071,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    }
+]

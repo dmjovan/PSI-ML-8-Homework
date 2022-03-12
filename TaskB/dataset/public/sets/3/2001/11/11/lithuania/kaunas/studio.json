@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2269165,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 1335724,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 3555503,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 829492,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

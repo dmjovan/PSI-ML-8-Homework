@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 156755,
+        "band_name": "bookshelf_flock"
+    },
+    {
+        "attendance": 2446378,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    },
+    {
+        "attendance": 3465107,
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "band_name": "deride",
+        "is_indie": false
+    },
+    {
+        "attendance": 2176456,
+        "band_name": "scythe",
+        "is_indie": false
+    }
+]

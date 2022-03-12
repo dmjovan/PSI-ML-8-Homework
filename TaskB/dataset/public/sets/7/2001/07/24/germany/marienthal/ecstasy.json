@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2270793,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 3222695,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 529726,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    }
+]

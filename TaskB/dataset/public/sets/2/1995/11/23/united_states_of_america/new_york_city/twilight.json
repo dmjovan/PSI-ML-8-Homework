@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1591701,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 2817820,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 5636078,
+        "band_name": "an_warrant",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 335138,
+        "is_indie": true
+    }
+]

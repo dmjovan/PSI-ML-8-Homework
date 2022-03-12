@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1595791,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "attendance": 5097517,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 8797581,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 26390,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1696961,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 509476
+    },
+    {
+        "attendance": 2535035,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 7873466,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    }
+]

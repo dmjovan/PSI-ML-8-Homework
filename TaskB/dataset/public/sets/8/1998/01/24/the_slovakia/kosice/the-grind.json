@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 945075,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "twang"
+    },
+    {
+        "attendance": 1641931,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 771612,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "attendance": 740514,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    }
+]

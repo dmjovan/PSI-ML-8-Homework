@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7492751,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 3344420,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 2651745,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 426465,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

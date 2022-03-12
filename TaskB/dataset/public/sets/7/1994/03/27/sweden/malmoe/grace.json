@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1179245,
+        "band_name": "training_tertiary"
+    },
+    {
+        "attendance": 3328159,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 41848,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 7492554,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    },
+    {
+        "attendance": 5842511,
+        "is_indie": false
+    },
+    {
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    }
+]

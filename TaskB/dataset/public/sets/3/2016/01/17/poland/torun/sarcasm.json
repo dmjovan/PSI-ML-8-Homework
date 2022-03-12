@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2397731,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 47963,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 318863,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 122969,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 4734069,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

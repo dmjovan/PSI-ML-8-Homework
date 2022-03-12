@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1688997,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 945539,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 4808132,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 14704,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

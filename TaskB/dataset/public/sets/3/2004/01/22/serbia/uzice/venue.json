@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4844270,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 3510077,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2467628,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 566956,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 318518,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    }
+]

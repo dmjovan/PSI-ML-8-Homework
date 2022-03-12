@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 1986453,
+        "is_indie": false
+    },
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 4329501,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 3202673,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 444437,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

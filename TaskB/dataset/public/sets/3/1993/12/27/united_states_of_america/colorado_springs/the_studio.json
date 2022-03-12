@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 965325,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 2713064,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 507986,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 4048597,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 1386158,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 8465709,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 417716,
+        "is_indie": false
+    }
+]

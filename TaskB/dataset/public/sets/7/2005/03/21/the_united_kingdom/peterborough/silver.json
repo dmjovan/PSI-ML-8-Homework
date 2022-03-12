@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 5620997,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 5909341,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2034955,
+        "band_name": "collegian_visor"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 995169,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 6581536,
+        "band_name": "dragons"
+    },
+    {
+        "attendance": 269763,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 325379,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4071179,
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 3609614,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 373572,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    }
+]

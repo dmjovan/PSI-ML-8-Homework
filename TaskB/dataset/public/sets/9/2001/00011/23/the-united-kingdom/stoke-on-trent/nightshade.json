@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 286984,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "attendance": 669408,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "band_name": "scythe",
+        "is_indie": false
+    }
+]

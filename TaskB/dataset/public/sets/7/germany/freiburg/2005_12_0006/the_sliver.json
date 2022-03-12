@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 4036501,
+        "band_name": "minicomputers_chat"
+    },
+    {
+        "attendance": 23355,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    }
+]

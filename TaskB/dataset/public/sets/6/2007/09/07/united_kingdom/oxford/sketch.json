@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2084735,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 876771,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 6568257,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 5050731,
+        "band_name": "bivouac",
+        "is_indie": false
+    }
+]

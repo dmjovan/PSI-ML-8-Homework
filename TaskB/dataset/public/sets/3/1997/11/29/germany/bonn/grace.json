@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 169241,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 1906932,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 3372881,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 258481,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

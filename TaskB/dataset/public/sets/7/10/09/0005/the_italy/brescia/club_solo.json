@@ -1,0 +1,14 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2051962,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    }
+]

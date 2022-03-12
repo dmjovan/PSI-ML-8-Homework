@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3681076,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 6844140,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1238500,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1682108,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    }
+]

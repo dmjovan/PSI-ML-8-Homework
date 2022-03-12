@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1626618,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 368727,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 3300079,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1675813,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

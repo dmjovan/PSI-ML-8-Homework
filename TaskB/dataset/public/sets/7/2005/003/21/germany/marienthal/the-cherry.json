@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2667231,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 4412424,
+        "band_name": "bowman_coca"
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 8127664,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

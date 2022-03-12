@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 5052327,
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 1854953
+    },
+    {
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 33362,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    }
+]

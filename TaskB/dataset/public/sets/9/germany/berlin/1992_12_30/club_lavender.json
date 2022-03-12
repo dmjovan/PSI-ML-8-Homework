@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2235332,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    },
+    {
+        "band_name": "orb_ware"
+    },
+    {
+        "attendance": 1138708,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 2201453,
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    },
+    {
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    }
+]

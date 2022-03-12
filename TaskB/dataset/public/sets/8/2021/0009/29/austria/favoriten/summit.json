@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 7125548,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 1762021,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 61853,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

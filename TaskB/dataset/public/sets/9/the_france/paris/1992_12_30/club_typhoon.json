@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1657841,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 2382546,
+        "band_name": "premiers_decimate"
+    },
+    {
+        "attendance": 390727,
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 418605,
+        "band_name": "chieftains_glossary"
+    },
+    {
+        "attendance": 1683149,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "attendance": 1100838,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "attendance": 184172,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 1539711,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 305138,
+        "band_name": "oracle",
+        "is_indie": false
+    }
+]

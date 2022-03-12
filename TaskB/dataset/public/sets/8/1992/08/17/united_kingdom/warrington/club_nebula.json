@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1584951,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 213748,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1671001,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 3096467,
+        "is_indie": false
+    }
+]

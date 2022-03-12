@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4182979,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 3649702,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 4668620,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 634450,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1584697,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    },
+    {
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    },
+    {
+        "attendance": 7769602,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 949256,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3291508,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 4413767,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 4517795,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 226555,
+        "band_name": "pit",
+        "is_indie": false
+    }
+]

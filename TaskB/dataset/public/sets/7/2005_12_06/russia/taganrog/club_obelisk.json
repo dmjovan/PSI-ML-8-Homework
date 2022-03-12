@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3813894,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 461472,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 7593827,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    }
+]

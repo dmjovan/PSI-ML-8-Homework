@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 2980753,
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    },
+    {
+        "attendance": 1467632,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1887680,
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 36704,
+        "band_name": "sulphuric",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 2797735,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 8371331,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 1840849,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1794019,
+        "band_name": "volt_united",
+        "is_indie": false
+    }
+]

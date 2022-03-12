@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2484840,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1594189,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 2271406,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2937151,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 1183843,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 742952,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 173375,
+        "band_name": "the_porters"
+    }
+]

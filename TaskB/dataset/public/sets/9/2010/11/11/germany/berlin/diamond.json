@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1129387,
+        "band_name": "whence_hospital_die_rattle"
+    },
+    {
+        "attendance": 2139846,
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "attendance": 5469253,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    },
+    {
+        "attendance": 1027250,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 1117989,
+        "band_name": "fleece"
+    }
+]

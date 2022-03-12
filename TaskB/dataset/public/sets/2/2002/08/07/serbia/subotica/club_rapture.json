@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5111726,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 3273286,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 3720274,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

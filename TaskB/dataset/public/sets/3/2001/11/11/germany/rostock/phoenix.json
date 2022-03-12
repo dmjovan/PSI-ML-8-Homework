@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2473985,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1579658,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 7605749,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 2155938,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 731824,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

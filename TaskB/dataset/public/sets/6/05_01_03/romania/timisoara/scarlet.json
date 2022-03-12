@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1459303,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 1487134,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 1742791,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 4775435,
+        "band_name": "dragons",
+        "is_indie": false
+    }
+]

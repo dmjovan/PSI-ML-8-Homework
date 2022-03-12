@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 466846,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 30748,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 1360048,
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1333967,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3143416,
+        "band_name": "twang"
+    },
+    {
+        "attendance": 306345,
+        "band_name": "philosophers_preludes"
+    },
+    {
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "attendance": 4192183,
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "attendance": 2837732,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    }
+]

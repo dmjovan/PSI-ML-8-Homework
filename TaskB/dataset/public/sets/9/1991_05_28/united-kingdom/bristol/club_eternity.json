@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 687930,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 32995,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1717164,
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 277243,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 1159276,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 740407,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 48777,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3854290,
+        "band_name": "volt_united",
+        "is_indie": false
+    }
+]

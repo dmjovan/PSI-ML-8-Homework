@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 507177,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1056182,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1155681,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

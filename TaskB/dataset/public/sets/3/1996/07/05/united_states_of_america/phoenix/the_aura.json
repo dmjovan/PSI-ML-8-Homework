@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 106924,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2668666,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 3871187,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 2227208,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

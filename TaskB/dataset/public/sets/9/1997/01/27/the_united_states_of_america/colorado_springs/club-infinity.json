@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 5008431,
+        "band_name": "blanch_coronary"
+    },
+    {
+        "attendance": 3553080,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "attendance": 1102267,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    }
+]

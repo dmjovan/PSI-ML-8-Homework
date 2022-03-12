@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3824097,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 973684,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

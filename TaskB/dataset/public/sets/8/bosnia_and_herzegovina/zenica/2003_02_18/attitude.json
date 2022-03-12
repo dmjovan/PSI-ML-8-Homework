@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2467101,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "attendance": 6741278,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 865656,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

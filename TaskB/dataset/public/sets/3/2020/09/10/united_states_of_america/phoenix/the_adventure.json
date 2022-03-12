@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1138962,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 964219,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 429101,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 2611764,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

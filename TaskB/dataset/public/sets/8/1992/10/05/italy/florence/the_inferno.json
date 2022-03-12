@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 3967961,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    }
+]

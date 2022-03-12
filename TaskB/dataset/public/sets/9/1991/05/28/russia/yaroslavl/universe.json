@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2751096,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 631981,
+        "band_name": "across_plus_personalized"
+    },
+    {
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 3936963,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

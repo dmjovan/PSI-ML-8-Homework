@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 893990,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 3903523,
+        "band_name": "electron",
+        "is_indie": false
+    }
+]

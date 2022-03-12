@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1934079,
+        "is_indie": true
+    },
+    {
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "attendance": 4864321,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 7255731
+    },
+    {
+        "attendance": 680879,
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    }
+]

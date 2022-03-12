@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 125154,
+        "is_indie": false
+    },
+    {
+        "attendance": 277262,
+        "band_name": "rant",
+        "is_indie": true
+    }
+]

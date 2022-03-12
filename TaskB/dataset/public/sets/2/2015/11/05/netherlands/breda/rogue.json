@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7064519,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2050060,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 697331,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 6701566,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 9034809,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    }
+]

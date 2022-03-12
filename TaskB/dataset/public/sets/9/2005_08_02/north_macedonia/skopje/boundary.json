@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2330133,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 7443665,
+        "band_name": "feline_business",
+        "is_indie": false
+    }
+]

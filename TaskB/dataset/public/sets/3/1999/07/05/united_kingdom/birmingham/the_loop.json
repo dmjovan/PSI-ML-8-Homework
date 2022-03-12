@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1080910,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 78666,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 431079,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 103299,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

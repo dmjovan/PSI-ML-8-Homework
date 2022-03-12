@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 3332946,
+        "is_indie": false
+    },
+    {
+        "attendance": 357204,
+        "is_indie": false
+    },
+    {
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    }
+]

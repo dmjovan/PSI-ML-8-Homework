@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 222979,
+        "band_name": "premiers_decimate"
+    },
+    {
+        "attendance": 398526,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

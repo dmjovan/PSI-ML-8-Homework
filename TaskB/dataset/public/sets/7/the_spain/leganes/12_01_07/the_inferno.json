@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 4159523,
+        "band_name": "minicomputers_chat"
+    },
+    {
+        "attendance": 6163141,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 124178,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 1347978,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

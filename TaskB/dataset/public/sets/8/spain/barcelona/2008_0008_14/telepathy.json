@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 1305321,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    }
+]

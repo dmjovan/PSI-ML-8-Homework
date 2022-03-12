@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 146523,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3804690,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 1054602,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 5860151,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    }
+]

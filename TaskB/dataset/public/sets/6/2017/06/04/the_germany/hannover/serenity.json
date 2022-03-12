@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2030021,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3357352,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 121151,
+        "band_name": "equinox_research"
+    }
+]

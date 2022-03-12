@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 472221,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 1036217,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 3186787,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    }
+]

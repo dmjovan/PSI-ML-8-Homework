@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 274831,
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 639655,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 3267565,
+        "band_name": "hyena_lobes"
+    }
+]

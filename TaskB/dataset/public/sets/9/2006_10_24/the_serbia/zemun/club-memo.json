@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    },
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    }
+]

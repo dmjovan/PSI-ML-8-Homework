@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 238195,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 8340762,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1843886,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 4862678,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1065831,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

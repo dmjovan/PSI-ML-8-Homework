@@ -1,0 +1,10 @@
+[
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

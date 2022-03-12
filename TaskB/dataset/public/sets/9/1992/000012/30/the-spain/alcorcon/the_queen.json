@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 651954,
+        "band_name": "essays"
+    },
+    {
+        "attendance": 2006708,
+        "band_name": "corset"
+    },
+    {
+        "attendance": 3546688,
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 2604070,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

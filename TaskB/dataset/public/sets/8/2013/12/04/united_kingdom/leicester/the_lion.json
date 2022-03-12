@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3954702,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 986692,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

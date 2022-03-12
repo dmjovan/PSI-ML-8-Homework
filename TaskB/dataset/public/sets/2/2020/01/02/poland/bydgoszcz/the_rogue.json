@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 704524,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 697327,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 231015,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 9169610,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 5194873,
+        "band_name": "fighter",
+        "is_indie": false
+    }
+]

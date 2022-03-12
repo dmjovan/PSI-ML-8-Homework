@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1389149,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3203313,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    }
+]

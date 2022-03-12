@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 3975293,
+        "band_name": "pool_pincushion_flock"
+    },
+    {
+        "attendance": 2981644,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 3235743,
+        "band_name": "snake_pong",
+        "is_indie": false
+    }
+]

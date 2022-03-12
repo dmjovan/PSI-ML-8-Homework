@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 701591,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2545250,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

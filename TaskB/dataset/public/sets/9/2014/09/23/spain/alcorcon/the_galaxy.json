@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2231890,
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 3826687,
+        "band_name": "infirmary_grapevine"
+    },
+    {
+        "attendance": 6339700,
+        "is_indie": true
+    }
+]

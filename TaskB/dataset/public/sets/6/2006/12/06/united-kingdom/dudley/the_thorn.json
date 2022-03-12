@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 161627,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 856643,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 1259675,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    }
+]

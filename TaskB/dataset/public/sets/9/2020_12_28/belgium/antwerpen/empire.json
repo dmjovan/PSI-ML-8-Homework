@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7813271,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 2986109,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 3661064,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 2495898,
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

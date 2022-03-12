@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "attendance": 218832,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "mask"
+    },
+    {
+        "attendance": 1666465,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "attendance": 2791958,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    }
+]

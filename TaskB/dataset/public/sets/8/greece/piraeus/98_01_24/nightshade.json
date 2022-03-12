@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1434710,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 364747,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "attendance": 7798650,
+        "band_name": "soggy"
+    }
+]

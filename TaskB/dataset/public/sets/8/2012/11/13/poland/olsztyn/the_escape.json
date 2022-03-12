@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "weekly_assemblages"
+    },
+    {
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 2299857,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 4288985,
+        "band_name": "mask"
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    }
+]

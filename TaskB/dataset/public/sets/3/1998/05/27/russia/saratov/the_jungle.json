@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2203382,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 7693128,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1386204,
+        "band_name": "cretin",
+        "is_indie": false
+    }
+]

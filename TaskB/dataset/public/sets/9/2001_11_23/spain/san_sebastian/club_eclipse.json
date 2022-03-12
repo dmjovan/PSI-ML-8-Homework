@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "trust",
+        "is_indie": false
+    },
+    {
+        "attendance": 3306580,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 2942892,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 6167579,
+        "band_name": "earls_damper"
+    }
+]

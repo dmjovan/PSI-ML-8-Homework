@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "band_name": "dossier"
+    },
+    {
+        "attendance": 6972469,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 1660095,
+        "band_name": "sonata",
+        "is_indie": true
+    }
+]

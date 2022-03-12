@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 923443,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 1386037,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

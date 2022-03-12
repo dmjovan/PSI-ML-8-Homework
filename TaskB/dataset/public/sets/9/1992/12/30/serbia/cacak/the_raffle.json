@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 2028662,
+        "band_name": "essays",
+        "is_indie": true
+    }
+]

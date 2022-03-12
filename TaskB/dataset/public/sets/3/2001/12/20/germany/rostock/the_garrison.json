@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4100054,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1108631,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3814961,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 3461773,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    }
+]

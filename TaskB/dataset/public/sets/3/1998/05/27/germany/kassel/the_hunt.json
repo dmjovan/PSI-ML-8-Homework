@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 382044,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1865511,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    }
+]

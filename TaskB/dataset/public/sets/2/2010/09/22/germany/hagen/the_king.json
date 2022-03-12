@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 8606473,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 8523735,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1573409,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

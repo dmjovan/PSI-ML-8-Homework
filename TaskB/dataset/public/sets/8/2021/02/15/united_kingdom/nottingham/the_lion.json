@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 2047438,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "attendance": 954683,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "attendance": 899357,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 653904,
+        "band_name": "ration",
+        "is_indie": true
+    }
+]

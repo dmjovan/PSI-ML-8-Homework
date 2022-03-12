@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "untidy_mailer"
+    },
+    {
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 2399439,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    }
+]

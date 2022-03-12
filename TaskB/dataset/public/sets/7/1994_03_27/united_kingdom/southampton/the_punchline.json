@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 594153,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 4235704,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    }
+]

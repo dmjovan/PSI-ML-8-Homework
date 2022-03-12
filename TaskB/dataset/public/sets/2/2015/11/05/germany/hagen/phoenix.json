@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2238804,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 489327,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1659501,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 1648892,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

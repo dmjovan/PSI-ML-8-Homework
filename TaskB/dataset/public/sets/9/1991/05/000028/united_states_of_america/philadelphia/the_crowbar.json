@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 4439559,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 7905540,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "band_name": "deride"
+    }
+]

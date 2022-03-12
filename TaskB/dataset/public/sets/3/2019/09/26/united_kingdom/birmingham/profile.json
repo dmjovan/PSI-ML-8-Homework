@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3465532,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 402273,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1608949,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

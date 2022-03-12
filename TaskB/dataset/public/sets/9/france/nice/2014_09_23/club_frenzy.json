@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1805808,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 4881294,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 7441323,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 2834102,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

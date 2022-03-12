@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2997929,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 3601579,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 2359433,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 3482414,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    }
+]

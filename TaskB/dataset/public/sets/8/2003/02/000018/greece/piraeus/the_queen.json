@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 179399,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    }
+]

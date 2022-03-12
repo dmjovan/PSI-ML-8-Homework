@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2144302,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1692969,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 1888045,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1535178,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1966830,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 7723896,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 524161,
+        "band_name": "snake_pong",
+        "is_indie": false
+    }
+]

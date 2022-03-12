@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 366663,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    },
+    {
+        "attendance": 657824,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 2483403,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    }
+]

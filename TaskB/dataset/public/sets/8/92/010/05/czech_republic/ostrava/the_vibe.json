@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 7360425,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "band_name": "philosophers_preludes"
+    }
+]

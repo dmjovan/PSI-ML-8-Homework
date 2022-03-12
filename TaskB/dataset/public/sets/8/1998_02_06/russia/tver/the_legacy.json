@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 842086,
+        "band_name": "voting_ridden"
+    },
+    {
+        "attendance": 4081591,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "band_name": "hyena_lobes"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 1434349,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 3030878,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 282534,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    }
+]

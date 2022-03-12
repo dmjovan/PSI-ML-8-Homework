@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1431395,
+        "band_name": "aromatic_tents"
+    },
+    {
+        "attendance": 2145835,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 3337119,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 4732466,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 5817841,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2211783,
+        "band_name": "brazing_canopy"
+    },
+    {
+        "attendance": 1251736
+    },
+    {
+        "attendance": 1121429,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 495961,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    }
+]

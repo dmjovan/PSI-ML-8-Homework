@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3626402,
+        "is_indie": false
+    },
+    {
+        "attendance": 1234444,
+        "band_name": "madden_obsession_chit"
+    },
+    {
+        "attendance": 476116,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 509382,
+        "band_name": "prophesy_or_inhaler"
+    }
+]

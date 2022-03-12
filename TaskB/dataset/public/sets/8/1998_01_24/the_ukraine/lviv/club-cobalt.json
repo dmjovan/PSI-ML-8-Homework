@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 826706,
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    },
+    {
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "attendance": 9259079
+    },
+    {
+        "attendance": 2100173,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "band_name": "hopelessness",
+        "is_indie": false
+    }
+]

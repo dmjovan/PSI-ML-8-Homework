@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6031891,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "collegian_visor"
+    },
+    {
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    }
+]

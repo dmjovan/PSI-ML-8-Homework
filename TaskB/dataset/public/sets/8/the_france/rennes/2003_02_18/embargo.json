@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1837419,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 2134328,
+        "band_name": "scoundrel_elite"
+    },
+    {
+        "attendance": 6328852,
+        "band_name": "burnings_pod"
+    },
+    {
+        "attendance": 473538,
+        "band_name": "prunes",
+        "is_indie": false
+    }
+]

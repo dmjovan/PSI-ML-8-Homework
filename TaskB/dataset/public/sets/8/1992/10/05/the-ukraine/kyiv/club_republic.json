@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 142474,
+        "is_indie": true
+    },
+    {
+        "attendance": 3561436,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 872282,
+        "band_name": "quarry_divisional"
+    }
+]

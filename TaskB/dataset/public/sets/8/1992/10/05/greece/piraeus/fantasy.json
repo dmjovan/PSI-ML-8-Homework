@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "untidy_mailer"
+    },
+    {
+        "attendance": 4117042,
+        "band_name": "exclaim"
+    },
+    {
+        "attendance": 2368970,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 2385753,
+        "is_indie": false
+    }
+]

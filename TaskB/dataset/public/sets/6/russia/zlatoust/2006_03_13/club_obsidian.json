@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1193186,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 686738,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 287891,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2967111,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 601263,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 2540230,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 6072473,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 524728,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

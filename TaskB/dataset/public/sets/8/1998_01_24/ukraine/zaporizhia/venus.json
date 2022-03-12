@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 1031604,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 2566955,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1753413,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    }
+]

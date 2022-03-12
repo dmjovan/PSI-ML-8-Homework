@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3398723,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 529754,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1577489,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1949434,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 398973,
+        "band_name": "pit",
+        "is_indie": false
+    }
+]

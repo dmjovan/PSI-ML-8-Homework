@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2002665,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 539419,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1488791,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 6517039,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 637541,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    }
+]

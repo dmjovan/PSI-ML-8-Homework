@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 4511655,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 2224023,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 2239198,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1465299,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    }
+]

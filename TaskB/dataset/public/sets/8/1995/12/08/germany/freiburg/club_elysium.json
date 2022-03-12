@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3214229,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 3446644,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 93755,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "band_name": "observatory",
+        "is_indie": true
+    }
+]

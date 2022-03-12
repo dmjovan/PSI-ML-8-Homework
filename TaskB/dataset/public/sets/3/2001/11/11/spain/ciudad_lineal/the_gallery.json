@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 526219,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 7626259,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 561910,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 188812,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

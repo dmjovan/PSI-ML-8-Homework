@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4979243,
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 2639334,
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "attendance": 1075510,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 5009021,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

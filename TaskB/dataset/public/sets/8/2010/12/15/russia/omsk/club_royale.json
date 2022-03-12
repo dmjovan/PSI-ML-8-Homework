@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "attendance": 3342721,
+        "band_name": "breadwinner_biller"
+    },
+    {
+        "attendance": 8573577,
+        "band_name": "brazing_canopy"
+    },
+    {
+        "attendance": 3441436,
+        "band_name": "burnings_pod"
+    },
+    {
+        "attendance": 1001364,
+        "band_name": "observatory",
+        "is_indie": true
+    }
+]

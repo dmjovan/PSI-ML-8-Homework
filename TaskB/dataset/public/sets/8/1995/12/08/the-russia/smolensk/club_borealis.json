@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 8842677,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2106633,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 691229,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 5711422,
+        "band_name": "beamer_forum"
+    }
+]

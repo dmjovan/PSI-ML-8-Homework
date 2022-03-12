@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 1129093,
+        "band_name": "pinhole_posture",
+        "is_indie": true
+    },
+    {
+        "attendance": 220609,
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "attendance": 2486619,
+        "band_name": "fleece"
+    },
+    {
+        "attendance": 378793,
+        "band_name": "lifelike_pancake_carcass"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 221691,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "band_name": "maniacs_lawn"
+    },
+    {
+        "attendance": 5186415,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 218162,
+        "is_indie": false
+    },
+    {
+        "attendance": 4411475,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "stairwell"
+    },
+    {
+        "attendance": 4363526,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 1438610,
+        "band_name": "hoes"
+    },
+    {
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

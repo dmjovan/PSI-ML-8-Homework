@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5444631,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 3953496,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 1130075,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 45659,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 368872
+    }
+]

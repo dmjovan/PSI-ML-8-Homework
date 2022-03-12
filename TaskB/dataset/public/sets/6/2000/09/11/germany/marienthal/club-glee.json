@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 720852,
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 1328344,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    }
+]

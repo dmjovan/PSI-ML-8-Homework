@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 437665,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1355563,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 5150398,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 540061,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

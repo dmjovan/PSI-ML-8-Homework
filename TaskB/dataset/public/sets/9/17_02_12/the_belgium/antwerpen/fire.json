@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 108619,
+        "is_indie": false
+    },
+    {
+        "attendance": 2228473,
+        "band_name": "groves_juggler"
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2628500,
+        "band_name": "nary_thoughts"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 8863150,
+        "is_indie": false
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 264391,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    }
+]

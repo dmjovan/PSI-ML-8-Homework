@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 251737,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1475210,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 8357678,
+        "band_name": "shady",
+        "is_indie": false
+    }
+]

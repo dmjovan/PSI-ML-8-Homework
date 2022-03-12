@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1333412,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 3810074,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 779819,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 180708,
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

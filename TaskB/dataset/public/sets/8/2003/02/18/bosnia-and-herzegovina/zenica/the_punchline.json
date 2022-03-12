@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2645833,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 470764,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "attendance": 2262288,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "soggy",
+        "is_indie": false
+    }
+]

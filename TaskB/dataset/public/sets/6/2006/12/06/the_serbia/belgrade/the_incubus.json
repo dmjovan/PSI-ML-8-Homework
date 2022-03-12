@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "attendance": 91136,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 6504517,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 2512817,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    }
+]

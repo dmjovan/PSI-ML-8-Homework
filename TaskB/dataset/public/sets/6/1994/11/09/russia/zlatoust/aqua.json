@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 294020,
+        "band_name": "aboard",
+        "is_indie": false
+    }
+]

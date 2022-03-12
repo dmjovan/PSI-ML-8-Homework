@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3110058,
+        "band_name": "railway_atrocity"
+    },
+    {
+        "attendance": 796994,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 589400,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 3134179,
+        "band_name": "those_shrews_scarlet"
+    }
+]

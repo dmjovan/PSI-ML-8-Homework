@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1513663,
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "attendance": 1933115,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 471076,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 272856,
+        "band_name": "trust"
+    }
+]

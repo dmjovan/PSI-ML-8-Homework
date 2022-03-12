@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 26967
+    },
+    {
+        "attendance": 3069407,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1320167,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "attendance": 594690,
+        "band_name": "executor",
+        "is_indie": false
+    }
+]

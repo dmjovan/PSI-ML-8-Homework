@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "attendance": 2535431,
+        "band_name": "these_myrtle"
+    }
+]

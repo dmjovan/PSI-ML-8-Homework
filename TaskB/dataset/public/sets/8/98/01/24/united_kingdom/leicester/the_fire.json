@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 1240461,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 349165,
+        "band_name": "starter_newsletter"
+    },
+    {
+        "attendance": 2048532,
+        "is_indie": false
+    }
+]

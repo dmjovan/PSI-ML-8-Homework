@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3865947,
+        "band_name": "ration"
+    },
+    {
+        "attendance": 5740064,
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "attendance": 4878943,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 491272,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 3306775,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 207262,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 5154636,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

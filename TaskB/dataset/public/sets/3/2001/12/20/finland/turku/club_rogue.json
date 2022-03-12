@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2053194,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 1032496,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 2991860,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

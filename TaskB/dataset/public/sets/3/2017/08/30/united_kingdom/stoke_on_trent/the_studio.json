@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 464924,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 177656,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1995112,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 883955,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 53026,
+        "band_name": "bans",
+        "is_indie": false
+    }
+]

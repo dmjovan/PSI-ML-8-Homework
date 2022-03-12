@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7557959,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 4378718,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2834208,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 608529,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 9769,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    }
+]

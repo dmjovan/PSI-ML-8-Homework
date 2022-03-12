@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1357156,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 2691057,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 1287110,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 2710458,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    }
+]

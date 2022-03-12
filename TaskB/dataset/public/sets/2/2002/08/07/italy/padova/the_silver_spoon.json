@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 828990,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 606266,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 2880283,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

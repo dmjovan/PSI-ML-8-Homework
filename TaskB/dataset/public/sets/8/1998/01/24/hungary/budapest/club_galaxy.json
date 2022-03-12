@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2324619,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 2354795,
+        "is_indie": false
+    },
+    {
+        "attendance": 1552101,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2608873,
+        "band_name": "wan_hale",
+        "is_indie": false
+    }
+]

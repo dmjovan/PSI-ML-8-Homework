@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 86718,
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "attendance": 759487,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

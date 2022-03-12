@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 124718,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 610833,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 251462,
+        "band_name": "flock_store",
+        "is_indie": true
+    }
+]

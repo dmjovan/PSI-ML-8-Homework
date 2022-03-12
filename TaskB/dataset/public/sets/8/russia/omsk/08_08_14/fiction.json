@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4257631,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 2104054,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 230795,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1455828,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "attendance": 5112687,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 6037347,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    }
+]

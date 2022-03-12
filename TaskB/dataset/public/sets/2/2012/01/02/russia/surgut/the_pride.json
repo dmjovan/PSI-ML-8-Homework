@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2130714,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 3130689,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 518550,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3368189,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

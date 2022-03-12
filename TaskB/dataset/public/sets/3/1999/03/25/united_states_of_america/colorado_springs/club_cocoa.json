@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 203356,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 3773507,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 1713720,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 67376,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 1523292,
+        "band_name": "cretin",
+        "is_indie": false
+    }
+]

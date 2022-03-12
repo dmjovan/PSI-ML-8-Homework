@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1098248,
+        "band_name": "grimace_pretext"
+    },
+    {
+        "attendance": 3084,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 2483857,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 211479
+    }
+]

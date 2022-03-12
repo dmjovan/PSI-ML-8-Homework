@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1269520,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 868279,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    }
+]

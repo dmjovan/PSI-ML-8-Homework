@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1716199,
+        "is_indie": false
+    },
+    {
+        "attendance": 4027847,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 6866346,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    },
+    {
+        "attendance": 2083154,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    }
+]

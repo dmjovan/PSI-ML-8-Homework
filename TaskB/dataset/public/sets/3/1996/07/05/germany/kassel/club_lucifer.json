@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7203189,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 563435,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 1274038,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 2182527,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 998478,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3701482,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 6221641,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 4307874,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 833022,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

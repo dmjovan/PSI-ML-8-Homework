@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1232627,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3605609,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 2819109,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 524795,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

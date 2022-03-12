@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2325076,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2706955,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

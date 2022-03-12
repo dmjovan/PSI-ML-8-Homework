@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "weekly_assemblages"
+    },
+    {
+        "attendance": 3819264,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 5433831,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 528366,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 28121,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

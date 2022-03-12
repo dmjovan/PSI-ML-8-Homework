@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2078450,
+        "band_name": "daffodil_exterminate"
+    },
+    {
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1716494,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    }
+]

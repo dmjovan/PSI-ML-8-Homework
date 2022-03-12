@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1248257,
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 5719767,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1992509,
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1523596,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    }
+]

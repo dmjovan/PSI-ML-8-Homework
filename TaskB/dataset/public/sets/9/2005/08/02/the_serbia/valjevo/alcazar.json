@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2879409,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 2124639,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "attendance": 3573478,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    }
+]

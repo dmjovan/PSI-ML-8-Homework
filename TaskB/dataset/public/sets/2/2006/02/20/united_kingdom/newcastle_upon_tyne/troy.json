@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4255678,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 3367246,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 2292502,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 495540,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    }
+]

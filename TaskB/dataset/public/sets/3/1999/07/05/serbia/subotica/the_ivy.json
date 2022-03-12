@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6334319,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 3154294,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 968962,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 831999,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

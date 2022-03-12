@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 1125445,
+        "band_name": "voting_ridden"
+    },
+    {
+        "attendance": 7085261,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

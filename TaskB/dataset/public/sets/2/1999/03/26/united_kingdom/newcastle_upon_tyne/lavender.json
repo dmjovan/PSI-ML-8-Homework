@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3278920,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 289578,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 3178730,
+        "band_name": "either_classical",
+        "is_indie": false
+    }
+]

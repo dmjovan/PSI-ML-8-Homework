@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6753800,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1187900,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 3159123,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

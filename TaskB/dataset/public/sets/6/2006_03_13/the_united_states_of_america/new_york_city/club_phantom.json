@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 1062114,
+        "band_name": "coronation_blitz"
+    },
+    {
+        "attendance": 4958362,
+        "band_name": "fussing",
+        "is_indie": false
+    }
+]

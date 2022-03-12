@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2313972,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 555849,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

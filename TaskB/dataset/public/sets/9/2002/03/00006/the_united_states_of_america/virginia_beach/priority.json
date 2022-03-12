@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1052198,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 2373286,
+        "is_indie": false
+    },
+    {
+        "attendance": 6095190,
+        "is_indie": true
+    },
+    {
+        "attendance": 2370138,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    }
+]

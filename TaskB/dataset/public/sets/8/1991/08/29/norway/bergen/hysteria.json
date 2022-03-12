@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "cooper"
+    },
+    {
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 6465394,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 7828380,
+        "band_name": "complex_figs"
+    }
+]

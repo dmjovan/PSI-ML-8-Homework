@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3812584,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 28324,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 84127,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 688544,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 689526,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

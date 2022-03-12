@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1300747,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 1469038,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    }
+]

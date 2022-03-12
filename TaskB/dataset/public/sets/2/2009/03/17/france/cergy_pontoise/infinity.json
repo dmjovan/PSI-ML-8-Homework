@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 239839,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 5215025,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 119379,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 166076,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 2624147,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

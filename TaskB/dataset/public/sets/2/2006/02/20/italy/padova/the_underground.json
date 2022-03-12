@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4117823,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 441063,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 2307704,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 794202,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 184003,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

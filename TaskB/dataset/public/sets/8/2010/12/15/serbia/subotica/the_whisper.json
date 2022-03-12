@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1361312,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "attendance": 2313869,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "band_name": "lackey_noodle"
+    },
+    {
+        "attendance": 1296789,
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "attendance": 432821,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    }
+]

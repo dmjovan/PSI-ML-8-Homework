@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1604439,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "attendance": 3711129,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 3818805,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    }
+]

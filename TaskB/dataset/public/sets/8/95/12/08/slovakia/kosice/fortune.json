@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 371536,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "attendance": 569084,
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "attendance": 3684103,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger"
+    }
+]

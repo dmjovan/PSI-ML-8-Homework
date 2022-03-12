@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2048342,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 279869,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 133269,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 990263,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

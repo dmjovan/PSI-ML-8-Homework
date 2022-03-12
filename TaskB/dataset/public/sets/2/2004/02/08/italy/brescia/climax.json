@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 7677330,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1063472,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 539660,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    }
+]

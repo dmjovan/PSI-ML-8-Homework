@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 901225,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 1557053,
+        "band_name": "ermine",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 124299,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1295520,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 120489,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 889116,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

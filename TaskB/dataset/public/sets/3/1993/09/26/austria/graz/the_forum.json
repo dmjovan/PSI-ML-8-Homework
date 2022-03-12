@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1709568,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 2949438,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1202526,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1786872,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4469275,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 1605897,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 858583,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 1761488,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1247522,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    }
+]

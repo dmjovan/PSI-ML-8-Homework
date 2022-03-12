@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "acorn_pence"
+    },
+    {
+        "attendance": 1819755,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 630170,
+        "band_name": "lawn_cooper"
+    },
+    {
+        "attendance": 1224734,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 855639,
+        "band_name": "fleece",
+        "is_indie": false
+    }
+]

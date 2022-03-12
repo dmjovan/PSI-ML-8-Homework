@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 175162,
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "attendance": 2788693,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1275842,
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    },
+    {
+        "attendance": 3261845,
+        "band_name": "mountaineer_stitches"
+    },
+    {
+        "attendance": 1883633,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3009475,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "attendance": 100879,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 5860349,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 919983,
+        "band_name": "chili_rho",
+        "is_indie": false
+    }
+]

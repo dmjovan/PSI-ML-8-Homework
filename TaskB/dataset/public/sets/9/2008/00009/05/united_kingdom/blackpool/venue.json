@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5771965,
+        "band_name": "blanch_coronary"
+    },
+    {
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 1656898,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 3964448,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 4116448,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1287755,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 1429821,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 776981,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    }
+]

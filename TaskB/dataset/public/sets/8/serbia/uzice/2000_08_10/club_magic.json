@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3140543,
+        "band_name": "atheist_tweed"
+    },
+    {
+        "attendance": 790645,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 1665710,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2782782,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 4587628,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 541130,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 1265011,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1335942,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

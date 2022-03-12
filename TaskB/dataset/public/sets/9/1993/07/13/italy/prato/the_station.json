@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 5285379,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "attendance": 3298302,
+        "band_name": "forecast_trigonometry"
+    },
+    {
+        "attendance": 84477,
+        "is_indie": false
+    }
+]

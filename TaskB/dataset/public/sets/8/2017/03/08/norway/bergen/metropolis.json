@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3351377,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    }
+]

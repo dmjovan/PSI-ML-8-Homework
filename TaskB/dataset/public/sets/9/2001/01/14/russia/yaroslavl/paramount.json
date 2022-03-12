@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 422870,
+        "band_name": "junky_sulk"
+    },
+    {
+        "attendance": 27071,
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    },
+    {
+        "attendance": 4407591,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "attendance": 761611,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "band_name": "sulphuric",
+        "is_indie": false
+    }
+]

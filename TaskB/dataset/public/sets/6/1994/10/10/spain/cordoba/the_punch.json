@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 745052,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

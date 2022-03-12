@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 571219,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 683737,
+        "band_name": "widener_separable"
+    },
+    {
+        "attendance": 5955479,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "attendance": 3372826,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "attendance": 1819346,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    }
+]

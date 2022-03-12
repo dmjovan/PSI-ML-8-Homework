@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 497584,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 875326,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1114455,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 50823,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

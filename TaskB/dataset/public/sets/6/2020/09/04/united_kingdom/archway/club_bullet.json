@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 115287,
+        "band_name": "cluck_glen"
+    },
+    {
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 388044,
+        "is_indie": false
+    }
+]

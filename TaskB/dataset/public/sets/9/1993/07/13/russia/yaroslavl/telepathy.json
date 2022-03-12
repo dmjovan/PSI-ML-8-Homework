@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5087388,
+        "band_name": "these_myrtle"
+    },
+    {
+        "attendance": 1014858,
+        "band_name": "whence_hospital_die_rattle"
+    },
+    {
+        "attendance": 5758699,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 4455339,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "attendance": 424600,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    }
+]

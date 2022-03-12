@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 597904,
+        "band_name": "bookshelf_flock"
+    },
+    {
+        "attendance": 369477,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

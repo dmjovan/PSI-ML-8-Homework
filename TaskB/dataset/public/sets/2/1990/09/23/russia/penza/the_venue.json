@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 748942,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 4421722,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1396716,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 167417,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 9148138,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    }
+]

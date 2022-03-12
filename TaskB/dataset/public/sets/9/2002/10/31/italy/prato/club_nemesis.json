@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 3248285,
+        "band_name": "feline_business"
+    },
+    {
+        "attendance": 262198,
+        "band_name": "quo_socialize"
+    },
+    {
+        "band_name": "activate_indecent",
+        "is_indie": true
+    }
+]

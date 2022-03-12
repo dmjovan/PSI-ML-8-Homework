@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1752257,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 5035277,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 613213,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 225609,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 2325693,
+        "band_name": "pea_carve",
+        "is_indie": false
+    }
+]

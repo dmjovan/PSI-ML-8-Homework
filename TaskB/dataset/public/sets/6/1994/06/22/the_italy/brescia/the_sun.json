@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2598991,
+        "is_indie": false
+    },
+    {
+        "band_name": "cluck_glen"
+    },
+    {
+        "attendance": 2368164,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 3025264,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 58434,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1913705,
+        "band_name": "posture_patrol"
+    },
+    {
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 7205416,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 553942,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1025722,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2229591,
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "attendance": 4707429,
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

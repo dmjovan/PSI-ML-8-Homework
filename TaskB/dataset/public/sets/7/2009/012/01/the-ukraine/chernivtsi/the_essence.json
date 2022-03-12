@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 543158,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 2860785,
+        "band_name": "brunette"
+    },
+    {
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 3916978,
+        "band_name": "paraffin",
+        "is_indie": false
+    }
+]

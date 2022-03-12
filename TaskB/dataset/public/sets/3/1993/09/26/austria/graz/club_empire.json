@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2881699,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 4751897,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 35573,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 1472937,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

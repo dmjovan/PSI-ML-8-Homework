@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1780325,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "attendance": 885179,
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1593271,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    }
+]

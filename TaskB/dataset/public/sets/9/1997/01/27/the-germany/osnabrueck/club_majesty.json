@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4505426,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1133412,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 1116319,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 913634,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    }
+]

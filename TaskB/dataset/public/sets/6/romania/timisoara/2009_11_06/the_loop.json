@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2557461,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 3338450,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    }
+]

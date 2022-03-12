@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 6905781,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "band_name": "bargains_facsimile"
+    },
+    {
+        "attendance": 1681414,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 5728825,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

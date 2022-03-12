@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 148200,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    }
+]

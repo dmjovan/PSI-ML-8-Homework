@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1145378,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 642534,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 203918,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 4973780,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 282289,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

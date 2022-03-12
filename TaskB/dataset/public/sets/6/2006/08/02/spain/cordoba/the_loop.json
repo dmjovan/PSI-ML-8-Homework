@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2113800,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 3466463,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "attendance": 5470858
+    },
+    {
+        "attendance": 3487834,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 2657154,
+        "band_name": "piston_pacific_highway"
+    }
+]

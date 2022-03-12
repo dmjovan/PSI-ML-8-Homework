@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 9859250,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 4698313,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    }
+]

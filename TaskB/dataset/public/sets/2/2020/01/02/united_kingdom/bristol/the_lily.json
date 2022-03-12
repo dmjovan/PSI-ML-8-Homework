@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6425742,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 2073777,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 4450701,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 841048,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 2637388,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

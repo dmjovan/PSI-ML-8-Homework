@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 517617,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 1530814,
+        "band_name": "bowman",
+        "is_indie": false
+    }
+]

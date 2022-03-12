@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 226576,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 165321,
+        "is_indie": false
+    }
+]

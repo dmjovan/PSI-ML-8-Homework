@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 189625,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 421167,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 2610495,
+        "band_name": "tore"
+    },
+    {
+        "attendance": 387079,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    }
+]

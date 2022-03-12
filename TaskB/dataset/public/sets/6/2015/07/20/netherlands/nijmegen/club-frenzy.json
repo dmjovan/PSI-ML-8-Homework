@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1427330,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 318877,
+        "band_name": "grudge",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4606496,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 1065648,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 7934016,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 630594,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1497630,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    }
+]

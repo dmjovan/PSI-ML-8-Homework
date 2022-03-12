@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "attendance": 5893782,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 178481,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 30308,
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 999786,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 3757580,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 5077608,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 2179386,
+        "band_name": "soggy"
+    }
+]

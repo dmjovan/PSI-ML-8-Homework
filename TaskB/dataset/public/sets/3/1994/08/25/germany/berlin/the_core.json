@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6757135,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 2324641,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 270622,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 1409951,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

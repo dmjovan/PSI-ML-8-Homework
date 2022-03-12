@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3982674,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 6422714,
+        "band_name": "hoes_incense"
+    },
+    {
+        "attendance": 1369867,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    },
+    {
+        "band_name": "groves_juggler",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 4264657,
+        "is_indie": false
+    },
+    {
+        "attendance": 6050761,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    }
+]

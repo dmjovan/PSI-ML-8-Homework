@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "attendance": 866344,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3888311,
+        "band_name": "aggregates_seduce"
+    },
+    {
+        "is_indie": true
+    }
+]

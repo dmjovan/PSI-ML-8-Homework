@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 448849,
+        "band_name": "equinox_research"
+    },
+    {
+        "attendance": 1518880,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    }
+]

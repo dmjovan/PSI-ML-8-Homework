@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 616073,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    }
+]

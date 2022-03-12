@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1681645,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 440479,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 276350,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 2532112,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

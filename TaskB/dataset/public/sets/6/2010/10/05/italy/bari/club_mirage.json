@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 4090806,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 3412940,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 1584998,
+        "is_indie": false
+    },
+    {
+        "attendance": 353761,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 640659,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    }
+]

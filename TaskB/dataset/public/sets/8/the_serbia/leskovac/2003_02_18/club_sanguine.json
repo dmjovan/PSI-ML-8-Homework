@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 450368,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 785761,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "attendance": 634794,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 8715140,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 3883313,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    }
+]

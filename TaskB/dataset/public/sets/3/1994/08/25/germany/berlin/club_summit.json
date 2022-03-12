@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 198904,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1935162,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 53024,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 2035133,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1050970,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

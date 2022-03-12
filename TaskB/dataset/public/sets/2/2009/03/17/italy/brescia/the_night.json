@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6774337,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 1530676,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 5803726,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 332059,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 2193667,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    }
+]

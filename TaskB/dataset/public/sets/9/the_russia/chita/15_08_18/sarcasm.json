@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 5701821,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "attendance": 1184223,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "attendance": 456338,
+        "is_indie": false
+    },
+    {
+        "band_name": "tore",
+        "is_indie": false
+    }
+]

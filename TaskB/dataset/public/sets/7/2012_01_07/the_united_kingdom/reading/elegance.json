@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 5729665,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 851770,
+        "band_name": "aerobics"
+    },
+    {
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1105963,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 46518,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 6382986,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 1654145,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 3847826,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3880681,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 512249,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 3628456,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 615146,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1824743,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

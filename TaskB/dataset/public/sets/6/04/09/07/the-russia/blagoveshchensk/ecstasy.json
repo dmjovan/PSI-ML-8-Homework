@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1709751,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 167331,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 4216724,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    }
+]

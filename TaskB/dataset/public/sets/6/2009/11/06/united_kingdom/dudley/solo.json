@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 409980,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 3505383,
+        "band_name": "bivouac",
+        "is_indie": false
+    }
+]

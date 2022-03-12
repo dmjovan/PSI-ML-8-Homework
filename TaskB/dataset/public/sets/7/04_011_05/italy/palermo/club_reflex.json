@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1784625,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 6270839,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 780992,
+        "is_indie": false
+    },
+    {
+        "attendance": 736214,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    }
+]

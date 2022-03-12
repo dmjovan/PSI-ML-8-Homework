@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 58422,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 843127,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 16628,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

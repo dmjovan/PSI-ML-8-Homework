@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "miniaturization_brunches"
+    },
+    {
+        "attendance": 1886502,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "attendance": 7487565,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3507,
+        "band_name": "rant"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6400573,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2240833,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1999164,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

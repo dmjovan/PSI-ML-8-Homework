@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 377413,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    },
+    {
+        "attendance": 4377559,
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 7091439,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 1358326,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    }
+]

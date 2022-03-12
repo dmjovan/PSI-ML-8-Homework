@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 345779,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    },
+    {
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 89500,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

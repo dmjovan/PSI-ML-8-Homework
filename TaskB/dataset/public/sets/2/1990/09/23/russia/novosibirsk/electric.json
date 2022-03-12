@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3907429,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1543547,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 707345,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 6341312,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 1696551,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    }
+]

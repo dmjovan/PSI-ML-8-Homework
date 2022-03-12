@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3829850,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 5298359,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 4666237,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 1570242,
+        "band_name": "fighter",
+        "is_indie": false
+    }
+]

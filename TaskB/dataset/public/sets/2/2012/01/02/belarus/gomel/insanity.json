@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 180797,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 2135940,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 2609004,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2024714,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1156885,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    }
+]

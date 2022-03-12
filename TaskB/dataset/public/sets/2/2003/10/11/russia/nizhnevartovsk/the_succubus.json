@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 234557,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 253000,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

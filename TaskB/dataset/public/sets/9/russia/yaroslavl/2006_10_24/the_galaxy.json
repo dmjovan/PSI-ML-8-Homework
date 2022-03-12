@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 942083,
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "band_name": "wretch",
+        "is_indie": false
+    },
+    {
+        "attendance": 703935,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1882787,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 942229,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    }
+]

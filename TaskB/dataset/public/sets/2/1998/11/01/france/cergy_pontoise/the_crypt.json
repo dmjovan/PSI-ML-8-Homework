@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 876849,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 6830827,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 2887357,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 1202953,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 46580,
+        "band_name": "flock_store",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1862960,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 767223,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 283110,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 6650999,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 6133923,
+        "band_name": "either_sire",
+        "is_indie": false
+    }
+]

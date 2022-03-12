@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1457901,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 948331,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 163143,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 909190,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 2761327,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

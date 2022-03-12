@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 953410,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "band_name": "hoes_incense",
+        "is_indie": false
+    }
+]

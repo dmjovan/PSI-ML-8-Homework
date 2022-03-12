@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1261215,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "attendance": 6375671,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 5322492,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

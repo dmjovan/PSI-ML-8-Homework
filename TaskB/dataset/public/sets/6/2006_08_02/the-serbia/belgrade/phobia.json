@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2417985,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 3820832,
+        "is_indie": false
+    },
+    {
+        "attendance": 1350872,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 2316370,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

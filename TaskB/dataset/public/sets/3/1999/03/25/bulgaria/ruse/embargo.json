@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 52699,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 4455060,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 7497454,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    }
+]

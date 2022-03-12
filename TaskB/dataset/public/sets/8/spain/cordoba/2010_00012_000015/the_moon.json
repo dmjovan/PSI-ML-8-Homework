@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 250101,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 1259940,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    }
+]

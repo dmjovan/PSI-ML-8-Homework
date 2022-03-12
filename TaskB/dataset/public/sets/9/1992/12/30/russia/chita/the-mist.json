@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "attendance": 1897294,
+        "band_name": "wretch",
+        "is_indie": false
+    },
+    {
+        "attendance": 335671,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 3083565,
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    }
+]

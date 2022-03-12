@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 578366,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2209073,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 1961675,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 667972,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 78081,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

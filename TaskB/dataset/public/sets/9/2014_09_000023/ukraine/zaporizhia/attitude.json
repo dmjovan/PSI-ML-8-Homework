@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 679878,
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "attendance": 4021710,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2388266,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    }
+]

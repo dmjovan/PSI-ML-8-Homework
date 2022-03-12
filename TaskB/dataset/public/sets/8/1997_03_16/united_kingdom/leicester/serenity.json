@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 635333,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 2087083,
+        "band_name": "philosophers_preludes"
+    },
+    {
+        "attendance": 193027,
+        "band_name": "automata_politics",
+        "is_indie": true
+    }
+]

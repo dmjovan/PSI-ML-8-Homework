@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 25335,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 158636,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 607094,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 7910252,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 4102963,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

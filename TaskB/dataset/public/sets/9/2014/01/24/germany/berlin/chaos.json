@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2378144,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 1598554,
+        "band_name": "sparks_bridge"
+    },
+    {
+        "attendance": 1356731,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 2073515,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    }
+]

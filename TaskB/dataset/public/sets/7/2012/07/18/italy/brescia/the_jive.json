@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 3473719,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 94761,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 3860,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

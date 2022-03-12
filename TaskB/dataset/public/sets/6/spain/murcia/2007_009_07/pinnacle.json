@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1527891,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "attendance": 1581975,
+        "band_name": "penitent_pioneer"
+    },
+    {
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 337844,
+        "band_name": "drank",
+        "is_indie": false
+    }
+]

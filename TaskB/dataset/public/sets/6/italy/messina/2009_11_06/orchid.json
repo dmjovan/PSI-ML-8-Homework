@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1374170,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "attendance": 664040,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "band_name": "tailor"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1013323,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2603503,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 1702259,
+        "band_name": "no_whereas_solitary"
+    },
+    {
+        "attendance": 446962,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    }
+]

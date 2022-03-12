@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 647792,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 106064,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 2263017,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 393403,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 6848727,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

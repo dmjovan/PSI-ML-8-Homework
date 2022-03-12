@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2295019,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 3578261,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 5370345,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1490452,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1315299,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    }
+]

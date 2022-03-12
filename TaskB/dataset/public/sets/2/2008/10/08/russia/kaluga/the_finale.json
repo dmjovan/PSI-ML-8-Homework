@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 8717965,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 554837,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 8245563,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 2006098,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 2943687,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

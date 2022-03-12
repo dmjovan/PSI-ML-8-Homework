@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 1916899,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "attendance": 2654924,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "attendance": 986564,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 1056640,
+        "band_name": "hyena_lobes"
+    }
+]

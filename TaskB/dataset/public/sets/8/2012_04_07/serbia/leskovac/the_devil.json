@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 904172,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 119173,
+        "is_indie": true
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

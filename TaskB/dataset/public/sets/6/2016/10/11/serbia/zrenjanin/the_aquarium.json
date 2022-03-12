@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1824380,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1536786,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 1102514,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

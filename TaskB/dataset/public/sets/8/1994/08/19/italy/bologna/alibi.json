@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "genre_fighter"
+    },
+    {
+        "attendance": 721350,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 2584100,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 1830092,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    }
+]

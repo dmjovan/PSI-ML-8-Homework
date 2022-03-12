@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 5480827,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    }
+]

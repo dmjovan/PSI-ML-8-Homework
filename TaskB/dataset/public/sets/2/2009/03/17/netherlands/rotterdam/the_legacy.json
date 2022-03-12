@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6021760,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 2486349,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 1656313,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 3631465,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 3515544,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

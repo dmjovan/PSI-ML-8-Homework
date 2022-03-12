@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 6026020,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 449164,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 5529518,
+        "band_name": "anoint_rat"
+    }
+]

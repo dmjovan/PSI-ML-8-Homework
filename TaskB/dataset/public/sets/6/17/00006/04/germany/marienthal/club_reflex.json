@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1195178,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    }
+]

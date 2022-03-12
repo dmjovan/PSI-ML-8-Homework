@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2083573,
+        "is_indie": false
+    },
+    {
+        "attendance": 90009,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 3616068,
+        "band_name": "locusts_salvation"
+    },
+    {
+        "attendance": 5288418,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    }
+]

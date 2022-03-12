@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 7975238,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "band_name": "soy_bites"
+    }
+]

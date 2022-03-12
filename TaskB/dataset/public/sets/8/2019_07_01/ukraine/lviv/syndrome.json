@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 6738442,
+        "band_name": "amoeba"
+    },
+    {
+        "attendance": 6651308,
+        "is_indie": false
+    },
+    {
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "band_name": "kanji",
+        "is_indie": false
+    }
+]

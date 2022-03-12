@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "attendance": 3591857,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    }
+]

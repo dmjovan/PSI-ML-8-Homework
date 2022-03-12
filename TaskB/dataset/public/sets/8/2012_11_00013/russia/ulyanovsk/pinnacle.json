@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 6099183,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 2802826,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 7467370,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 660482,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    }
+]

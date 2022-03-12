@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 883371,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 5124456,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "attendance": 1650169,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 1503874,
+        "band_name": "fleece",
+        "is_indie": false
+    }
+]

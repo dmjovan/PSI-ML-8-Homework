@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2061766,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 1693832,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 15627,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1761718,
+        "band_name": "fighter",
+        "is_indie": false
+    }
+]

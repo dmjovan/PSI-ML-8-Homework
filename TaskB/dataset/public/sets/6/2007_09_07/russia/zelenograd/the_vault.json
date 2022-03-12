@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 7533167,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 1239520,
+        "band_name": "juggler_corner_bigotry"
+    },
+    {
+        "attendance": 4306746,
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1575582,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "attendance": 868359,
+        "band_name": "west_dancer",
+        "is_indie": false
+    }
+]

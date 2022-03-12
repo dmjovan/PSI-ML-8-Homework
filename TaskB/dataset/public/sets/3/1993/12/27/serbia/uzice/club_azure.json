@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6292477,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 1374758,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1514024,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1453899,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "cosmic_escapade"
+    },
+    {
+        "attendance": 2945018,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "attendance": 989022,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "attendance": 573588,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    }
+]

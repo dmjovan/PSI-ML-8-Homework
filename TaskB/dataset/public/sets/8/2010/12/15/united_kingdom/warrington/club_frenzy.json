@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3413232,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 1767205,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 669727,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 456723,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 2200402,
+        "band_name": "grudge",
+        "is_indie": false
+    }
+]

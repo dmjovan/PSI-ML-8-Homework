@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1024385,
+        "band_name": "activate_indecent"
+    },
+    {
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 1159170,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    }
+]

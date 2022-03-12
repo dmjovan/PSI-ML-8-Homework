@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2762082,
+        "band_name": "chili_rho"
+    },
+    {
+        "attendance": 663612,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1144738,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 2780858,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    }
+]

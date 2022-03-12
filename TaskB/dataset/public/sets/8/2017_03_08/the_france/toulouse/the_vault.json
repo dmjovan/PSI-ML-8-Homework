@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2444807,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "attendance": 713625,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 1143073,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "attendance": 3766714,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

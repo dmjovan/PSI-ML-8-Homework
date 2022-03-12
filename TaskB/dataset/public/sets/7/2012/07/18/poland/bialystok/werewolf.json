@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 3510797,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2156888,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1374959,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 2879867,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 7782754,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 3305889,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    }
+]

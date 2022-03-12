@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 583245,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "trance_petters",
+        "is_indie": true
+    }
+]

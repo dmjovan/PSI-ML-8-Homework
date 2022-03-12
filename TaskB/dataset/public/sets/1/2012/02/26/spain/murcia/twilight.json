@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 911737,
+        "band_name": "joystick",
+        "is_indie": true
+    },
+    {
+        "attendance": 3716596,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "attendance": 2407905,
+        "band_name": "utopia_whisper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2487681,
+        "band_name": "radish_bestseller",
+        "is_indie": false
+    }
+]

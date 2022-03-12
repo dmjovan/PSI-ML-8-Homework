@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1170978,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 2660401,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 558738,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    }
+]

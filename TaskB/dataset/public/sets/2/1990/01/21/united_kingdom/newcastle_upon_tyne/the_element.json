@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2062470,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 557711,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 3883142,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 2509695,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

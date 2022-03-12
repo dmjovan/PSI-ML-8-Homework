@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 102726,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    }
+]

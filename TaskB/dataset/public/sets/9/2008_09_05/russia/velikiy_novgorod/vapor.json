@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 5492209,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "attendance": 5636237,
+        "band_name": "wretch",
+        "is_indie": false
+    },
+    {
+        "attendance": 2838709,
+        "band_name": "furlough_pollution"
+    },
+    {
+        "attendance": 2765125,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    }
+]

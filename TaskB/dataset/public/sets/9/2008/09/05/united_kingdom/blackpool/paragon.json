@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3122374,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    },
+    {
+        "attendance": 2545857,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "attendance": 4698990,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "attendance": 3861782,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    }
+]

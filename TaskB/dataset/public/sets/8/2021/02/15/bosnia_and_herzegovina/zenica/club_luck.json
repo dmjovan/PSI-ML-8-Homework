@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2663218,
+        "is_indie": false
+    },
+    {
+        "attendance": 647208,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1798904,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    }
+]

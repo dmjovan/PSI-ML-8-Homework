@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3282916,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 2835206,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "band_name": "brazing_canopy"
+    }
+]

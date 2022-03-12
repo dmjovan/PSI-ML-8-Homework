@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 651320,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4510136,
+        "band_name": "seasons_before_psychosocial"
+    },
+    {
+        "attendance": 783665,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 38054,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    }
+]

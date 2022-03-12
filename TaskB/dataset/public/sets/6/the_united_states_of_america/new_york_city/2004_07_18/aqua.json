@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 214711,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 1955620,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 3846860,
+        "band_name": "fussing",
+        "is_indie": false
+    }
+]

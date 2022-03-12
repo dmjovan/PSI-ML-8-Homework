@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 2270423,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 637516,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 944962,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    }
+]

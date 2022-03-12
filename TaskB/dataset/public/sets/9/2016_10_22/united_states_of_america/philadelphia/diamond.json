@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 634164,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 3959538,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "attendance": 431411,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    },
+    {
+        "attendance": 5620817,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "attendance": 3706099,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    }
+]

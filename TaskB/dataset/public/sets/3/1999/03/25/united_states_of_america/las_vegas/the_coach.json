@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2295677,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 3380068,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 3251098,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 922038,
+        "band_name": "redemption",
+        "is_indie": false
+    }
+]

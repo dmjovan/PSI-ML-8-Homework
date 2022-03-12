@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 236609,
+        "band_name": "wretch"
+    },
+    {
+        "attendance": 4732649,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "attendance": 3211811,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    }
+]

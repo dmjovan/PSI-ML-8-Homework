@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 4839488,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 5650892,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    }
+]

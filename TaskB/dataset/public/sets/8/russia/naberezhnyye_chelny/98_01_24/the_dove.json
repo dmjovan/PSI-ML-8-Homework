@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3033341,
+        "band_name": "wan_hale",
+        "is_indie": false
+    },
+    {
+        "attendance": 1451888,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 89219,
+        "is_indie": true
+    }
+]

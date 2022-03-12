@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1070853,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 15478,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 2135991,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 4705895,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

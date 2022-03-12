@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 389882,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 2277016,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 1089390,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 7384977,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

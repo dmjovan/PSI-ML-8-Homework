@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 6227039,
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 675822,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "band_name": "mask",
+        "is_indie": false
+    }
+]

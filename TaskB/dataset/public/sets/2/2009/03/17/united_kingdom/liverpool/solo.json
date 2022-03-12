@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 687533,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 6077182,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 5035567,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 1580867,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

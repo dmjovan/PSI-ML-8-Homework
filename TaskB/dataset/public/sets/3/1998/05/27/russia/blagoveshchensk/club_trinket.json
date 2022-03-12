@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 225768,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1602320,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 276173,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

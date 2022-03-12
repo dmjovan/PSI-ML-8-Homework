@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "antennas_ricochet"
+    },
+    {
+        "attendance": 695157,
+        "band_name": "smashers_miller"
+    },
+    {
+        "attendance": 26190,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

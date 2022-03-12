@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1807401,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 2107080,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "attendance": 3504,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 2681858,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {}
+]

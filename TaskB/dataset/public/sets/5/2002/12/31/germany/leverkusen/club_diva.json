@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 31275,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "florin_parlor",
+        "is_indie": true
+    }
+]

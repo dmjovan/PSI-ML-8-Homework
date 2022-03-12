@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4328955,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 251799,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 366482,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 6656893,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    }
+]

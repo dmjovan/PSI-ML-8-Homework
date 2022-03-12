@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "attendance": 1335243
+    },
+    {
+        "attendance": 55894,
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 269827,
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 426555,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1913293,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {},
+    {
+        "attendance": 230413,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    }
+]

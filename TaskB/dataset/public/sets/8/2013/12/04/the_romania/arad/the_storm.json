@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 55564,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "attendance": 1584311,
+        "is_indie": false
+    },
+    {
+        "attendance": 1847599,
+        "band_name": "exclaim",
+        "is_indie": false
+    }
+]

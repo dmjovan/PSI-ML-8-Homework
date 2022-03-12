@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5780040,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 88078,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1392366,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 592819,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 644817,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    }
+]

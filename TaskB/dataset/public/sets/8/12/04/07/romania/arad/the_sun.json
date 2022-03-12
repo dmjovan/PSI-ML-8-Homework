@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2348800,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 91711
+    },
+    {
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 1562779,
+        "band_name": "any_expansions"
+    }
+]

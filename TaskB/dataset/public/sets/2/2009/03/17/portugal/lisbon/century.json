@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 842370,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 423998,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 88343,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    }
+]

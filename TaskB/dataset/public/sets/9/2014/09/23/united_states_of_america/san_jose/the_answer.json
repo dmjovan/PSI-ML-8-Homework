@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2965042,
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    },
+    {
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 547026,
+        "is_indie": false
+    },
+    {
+        "attendance": 2291154,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 1989239,
+        "band_name": "lunches_minuteman"
+    }
+]

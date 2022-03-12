@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1506141,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 2033765,
+        "is_indie": false
+    },
+    {
+        "attendance": 1390606,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "band_name": "bowman"
+    }
+]

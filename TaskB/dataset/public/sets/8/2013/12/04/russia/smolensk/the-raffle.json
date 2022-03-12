@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "kanji"
+    },
+    {
+        "attendance": 2044608,
+        "is_indie": true
+    },
+    {
+        "attendance": 1486415,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 134441,
+        "band_name": "observatory",
+        "is_indie": true
+    }
+]

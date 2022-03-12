@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1517776,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 4990066,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 3704517,
+        "band_name": "gags_astride_impact"
+    },
+    {
+        "band_name": "alibi_encyclopedia"
+    }
+]

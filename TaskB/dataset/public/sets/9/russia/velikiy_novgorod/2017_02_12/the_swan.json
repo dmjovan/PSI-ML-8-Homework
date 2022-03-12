@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "attendance": 2547700,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 5745071,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    }
+]

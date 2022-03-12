@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2965682,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 1971877,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

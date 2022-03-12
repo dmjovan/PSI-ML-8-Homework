@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 401155,
+        "is_indie": false
+    },
+    {
+        "band_name": "acorn_pence"
+    },
+    {
+        "attendance": 2773242,
+        "is_indie": true
+    },
+    {
+        "band_name": "quo_socialize",
+        "is_indie": true
+    }
+]

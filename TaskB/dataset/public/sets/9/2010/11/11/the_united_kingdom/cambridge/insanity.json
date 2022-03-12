@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "attendance": 7589883,
+        "band_name": "edible_rill",
+        "is_indie": false
+    }
+]

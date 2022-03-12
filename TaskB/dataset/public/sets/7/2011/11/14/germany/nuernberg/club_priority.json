@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 120789,
+        "band_name": "aromatic_tents"
+    },
+    {
+        "attendance": 4248544,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 248676,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 670604,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 909286,
+        "band_name": "tingles"
+    },
+    {
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 863829,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "attendance": 6538222,
+        "band_name": "dossier",
+        "is_indie": false
+    }
+]

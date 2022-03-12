@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "attendance": 3042224,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    },
+    {
+        "attendance": 766612,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 4373583,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    }
+]

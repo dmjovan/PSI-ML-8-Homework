@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 5733399,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 3950827,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1696496,
+        "band_name": "trust"
+    },
+    {
+        "attendance": 63851,
+        "is_indie": false
+    },
+    {
+        "attendance": 2511256,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    }
+]

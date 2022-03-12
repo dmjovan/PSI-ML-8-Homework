@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 4765534,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 5234413,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

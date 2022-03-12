@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 849325,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 5607457,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1867184,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 6211875,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1276905,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

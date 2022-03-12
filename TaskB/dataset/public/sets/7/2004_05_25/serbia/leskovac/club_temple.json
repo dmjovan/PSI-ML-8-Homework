@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 514142,
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 6591354,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 2348453,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    }
+]

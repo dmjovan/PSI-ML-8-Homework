@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1871640,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1623516,
+        "band_name": "alibi_encyclopedia"
+    },
+    {
+        "attendance": 4180828,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 1944343,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    }
+]

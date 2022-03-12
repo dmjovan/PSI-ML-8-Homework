@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6421164,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 686265,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 10572,
+        "band_name": "executor",
+        "is_indie": false
+    }
+]

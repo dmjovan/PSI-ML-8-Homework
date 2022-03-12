@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "attendance": 5028345,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 2542597,
+        "is_indie": false
+    }
+]

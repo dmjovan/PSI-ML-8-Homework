@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1211065,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 5482058,
+        "is_indie": true
+    },
+    {
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 642399,
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

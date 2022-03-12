@@ -1,0 +1,23 @@
+[
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 1111022,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 3371865,
+        "band_name": "rosary"
+    },
+    {
+        "attendance": 436583,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

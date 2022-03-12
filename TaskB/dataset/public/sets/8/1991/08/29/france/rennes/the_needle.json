@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "band_name": "collegian_visor"
+    },
+    {
+        "attendance": 1310023,
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    }
+]

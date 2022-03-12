@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2460041,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 1418861,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 5244712,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1597214,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 182233,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 9570445,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1392679,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

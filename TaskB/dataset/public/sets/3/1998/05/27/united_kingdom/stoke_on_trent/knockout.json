@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4088205,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 2276676,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 2714006,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 855966,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 309149,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

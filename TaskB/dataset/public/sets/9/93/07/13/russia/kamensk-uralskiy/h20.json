@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 29327,
+        "is_indie": true
+    },
+    {
+        "attendance": 971376,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    }
+]

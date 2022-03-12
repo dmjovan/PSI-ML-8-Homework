@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 74228,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 193513,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 6209504,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 86083,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 6252869,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

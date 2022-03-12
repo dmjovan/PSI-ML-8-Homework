@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3219347,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 1827912,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 3254767,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 4978805,
+        "band_name": "bluffing",
+        "is_indie": false
+    }
+]

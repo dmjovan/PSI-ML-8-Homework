@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1706660,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1337270,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 2677276,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    }
+]

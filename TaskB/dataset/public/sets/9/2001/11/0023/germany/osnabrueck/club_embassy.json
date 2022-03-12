@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4302513,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 1508604,
+        "band_name": "trust",
+        "is_indie": false
+    },
+    {
+        "attendance": 1049317,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    }
+]

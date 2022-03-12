@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 4599678,
+        "band_name": "voting_ridden"
+    },
+    {
+        "attendance": 384989,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 9432555,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2906158,
+        "band_name": "either_whittle",
+        "is_indie": false
+    }
+]

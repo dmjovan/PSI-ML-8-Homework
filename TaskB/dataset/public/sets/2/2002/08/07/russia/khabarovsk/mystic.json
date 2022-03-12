@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 609603,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 2715843,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 4168631,
+        "band_name": "fighter",
+        "is_indie": false
+    }
+]

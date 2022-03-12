@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 399401,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 1360197,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 7094562,
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1069911,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    }
+]

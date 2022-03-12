@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 929860,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1133268,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 683274,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

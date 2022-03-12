@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 143929,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 5369033,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1778578,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 3636351,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 832322,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 654973,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "attendance": 20844,
+        "band_name": "starter_newsletter"
+    },
+    {
+        "attendance": 574863,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 612554,
+        "is_indie": false
+    }
+]

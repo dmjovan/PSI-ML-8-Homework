@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1895903,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 868287,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 828197,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_porters",
+        "is_indie": false
+    }
+]

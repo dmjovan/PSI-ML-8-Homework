@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 7912606,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1117746,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

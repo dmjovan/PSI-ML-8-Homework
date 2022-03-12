@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 8177870,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    },
+    {
+        "attendance": 3038887,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 40820,
+        "is_indie": false
+    },
+    {
+        "attendance": 5954983,
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

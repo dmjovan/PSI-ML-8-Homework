@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 6562092,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 4131014,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

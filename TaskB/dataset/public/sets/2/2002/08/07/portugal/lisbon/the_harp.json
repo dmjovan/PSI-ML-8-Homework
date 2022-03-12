@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5414256,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 2602164,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 1370974,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 4380859,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 283450,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

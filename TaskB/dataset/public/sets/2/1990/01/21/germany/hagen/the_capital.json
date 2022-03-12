@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 425688,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 1912390,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 573474,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 175340,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

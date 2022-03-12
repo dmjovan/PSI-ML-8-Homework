@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 490382,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 2253990,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "band_name": "dossier",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 4363995,
+        "band_name": "miniaturization_brunches"
+    },
+    {
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 3739054,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "attendance": 537327,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 3382816,
+        "band_name": "philosophers_preludes"
+    }
+]

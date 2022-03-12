@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 340964,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 295627,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 320977,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

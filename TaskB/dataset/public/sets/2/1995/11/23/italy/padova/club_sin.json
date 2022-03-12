@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2260498,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 6259488,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1029049,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 862318,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

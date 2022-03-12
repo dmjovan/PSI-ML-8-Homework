@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4900943,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1861790,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 6343863,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 2065201,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

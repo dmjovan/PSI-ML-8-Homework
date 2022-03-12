@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2970903,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 1783493,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 2239498,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 2091896,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

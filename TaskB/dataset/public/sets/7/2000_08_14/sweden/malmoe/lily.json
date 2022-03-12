@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6758056,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 1562914,
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 638726,
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 2089270,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    }
+]

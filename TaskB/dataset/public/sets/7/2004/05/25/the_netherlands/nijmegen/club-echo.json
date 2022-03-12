@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 8763432,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 5749338,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 2170369,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    }
+]

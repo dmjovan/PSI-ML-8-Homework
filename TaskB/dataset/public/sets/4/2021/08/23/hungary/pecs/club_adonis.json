@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6673920,
+        "band_name": "dye_filename",
+        "is_indie": true
+    },
+    {
+        "attendance": 588140,
+        "band_name": "both_conflagration",
+        "is_indie": false
+    },
+    {
+        "attendance": 2470658,
+        "band_name": "excavate_postmortem",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 591959,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 1248131,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 3877104,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 432639,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    }
+]

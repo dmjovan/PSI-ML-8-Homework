@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1406348,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 1870231,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2196344,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 7889025,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 842903,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    }
+]

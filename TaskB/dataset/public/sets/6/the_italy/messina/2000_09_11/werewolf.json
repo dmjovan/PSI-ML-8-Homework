@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 836870,
+        "is_indie": true
+    },
+    {
+        "attendance": 6169926,
+        "band_name": "valence_elementary"
+    },
+    {
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 3598696,
+        "is_indie": true
+    }
+]

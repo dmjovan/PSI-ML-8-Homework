@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5288914,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 1524913,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "attendance": 5967630,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    },
+    {
+        "attendance": 201968,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 1949473,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 417976,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "attendance": 3561621,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "band_name": "sweetheart_grand"
+    },
+    {
+        "band_name": "trust",
+        "is_indie": false
+    }
+]

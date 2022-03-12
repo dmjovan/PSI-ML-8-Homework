@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2716821,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 1084222,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1939370,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 260321,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

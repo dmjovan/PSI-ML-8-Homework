@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1864703,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 98516,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 347064,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 1747848,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 246928,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    }
+]

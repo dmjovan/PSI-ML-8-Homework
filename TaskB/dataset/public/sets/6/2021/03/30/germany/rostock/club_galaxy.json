@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {},
+    {
+        "attendance": 1304163,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "attendance": 7455158,
+        "band_name": "aperture_crystal"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3122748,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 5597589,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1398476,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 1525315,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

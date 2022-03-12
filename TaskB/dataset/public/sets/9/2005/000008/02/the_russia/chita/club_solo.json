@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4481398,
+        "band_name": "enchantress_deacon"
+    },
+    {
+        "attendance": 891678,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 3187004,
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    },
+    {
+        "attendance": 3859782,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    }
+]

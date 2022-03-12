@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 10743,
+        "band_name": "nary_thoughts"
+    },
+    {
+        "attendance": 1800635,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    },
+    {
+        "band_name": "vagina_antique_bravest"
+    },
+    {
+        "attendance": 192704,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    }
+]

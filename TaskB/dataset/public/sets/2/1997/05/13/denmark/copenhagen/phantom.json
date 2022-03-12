@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2341097,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 5874701,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 2367074,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 3856292,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

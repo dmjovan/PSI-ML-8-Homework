@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2392423,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 3594218,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 997206,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 518694,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1691136,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

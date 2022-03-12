@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 168770,
+        "is_indie": true
+    },
+    {
+        "attendance": 501295,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 4434061,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "peninsula_dignitary"
+    },
+    {
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 5806304,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 826417,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 752660,
+        "band_name": "fussing",
+        "is_indie": false
+    }
+]

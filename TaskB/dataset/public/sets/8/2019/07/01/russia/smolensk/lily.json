@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "arson_balsam"
+    },
+    {
+        "attendance": 2664258,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 5374161,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "band_name": "prunes"
+    }
+]

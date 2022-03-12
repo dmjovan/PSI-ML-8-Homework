@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2357150,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 509072,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 2171304,
+        "is_indie": true
+    },
+    {
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    }
+]

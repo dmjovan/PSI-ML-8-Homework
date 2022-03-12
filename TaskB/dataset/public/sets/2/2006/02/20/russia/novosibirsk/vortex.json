@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 412538,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 7792596,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1727793,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 4697519,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 5710657,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

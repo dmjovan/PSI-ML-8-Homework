@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 141740,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1556402,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 2658034,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

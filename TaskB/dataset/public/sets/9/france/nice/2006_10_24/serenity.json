@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 544674,
+        "band_name": "forum_diggers_internship"
+    },
+    {
+        "attendance": 3000424,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 1029734,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 7751049,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 1510350,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    }
+]

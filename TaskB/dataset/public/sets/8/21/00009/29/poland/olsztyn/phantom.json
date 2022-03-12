@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 2664079,
+        "is_indie": false
+    },
+    {
+        "attendance": 1694121,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2673612,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 2010311,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1529211,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "band_name": "corset",
+        "is_indie": false
+    }
+]

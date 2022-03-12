@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3066563,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 2355065,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1286724,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 243154,
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

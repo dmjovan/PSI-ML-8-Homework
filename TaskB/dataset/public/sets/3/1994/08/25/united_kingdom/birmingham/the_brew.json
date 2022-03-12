@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6156351,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1071374,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 147448,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 344183,
+        "band_name": "bans",
+        "is_indie": false
+    }
+]

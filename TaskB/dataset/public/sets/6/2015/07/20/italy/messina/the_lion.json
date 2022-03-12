@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 271669,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 6045255,
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1882067,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 4807976,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 8293824,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    }
+]

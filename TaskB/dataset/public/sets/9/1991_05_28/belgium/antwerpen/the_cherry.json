@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6102589,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 355624,
+        "band_name": "blanch_coronary",
+        "is_indie": false
+    },
+    {
+        "attendance": 1337334,
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "attendance": 7450426,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    }
+]

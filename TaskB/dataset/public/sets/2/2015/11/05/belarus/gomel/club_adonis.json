@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 860841,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 618226,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 270735,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 3362231,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 5857270,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

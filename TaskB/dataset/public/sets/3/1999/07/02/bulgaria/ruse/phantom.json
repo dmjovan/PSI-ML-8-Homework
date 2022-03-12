@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5235462,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 2983107,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 229263,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 1814039,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 795687,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1994449,
+        "band_name": "goddess_blankly"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4574634,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 248814,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 432131,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1604628,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 1323835,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    }
+]

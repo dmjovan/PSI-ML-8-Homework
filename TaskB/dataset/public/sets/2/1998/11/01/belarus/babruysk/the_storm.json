@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1026459,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 3225559,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 5108247,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 159538,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 2830547,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    }
+]

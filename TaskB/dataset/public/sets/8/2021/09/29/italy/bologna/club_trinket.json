@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 203234,
+        "band_name": "sale_vertical"
+    },
+    {
+        "attendance": 6514131,
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "attendance": 616061,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 2719488,
+        "is_indie": false
+    }
+]

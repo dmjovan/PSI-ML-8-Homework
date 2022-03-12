@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5981975,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 763205,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 4609263,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 813497,
+        "band_name": "bans",
+        "is_indie": false
+    }
+]

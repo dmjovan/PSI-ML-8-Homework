@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1217938,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 5359671,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 317689,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

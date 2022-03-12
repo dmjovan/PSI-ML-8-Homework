@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4257333,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 764377,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 4294153,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 1076463,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 4644934,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

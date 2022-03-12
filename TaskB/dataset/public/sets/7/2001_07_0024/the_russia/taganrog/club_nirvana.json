@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 6960621,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 5932734,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    }
+]

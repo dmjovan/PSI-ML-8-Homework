@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "attendance": 4421270,
+        "is_indie": true
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    }
+]

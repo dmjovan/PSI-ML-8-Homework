@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1576669,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 2386567,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 874078,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

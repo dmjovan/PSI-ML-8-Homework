@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1008012,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 586817,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 318171,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 899259,
+        "band_name": "backyard_roam"
+    }
+]

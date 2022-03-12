@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 4264074,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 3684310,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 7474926,
+        "band_name": "flamboyant",
+        "is_indie": false
+    }
+]

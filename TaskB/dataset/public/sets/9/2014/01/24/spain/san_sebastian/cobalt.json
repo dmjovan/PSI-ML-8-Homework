@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 609815,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 2765383,
+        "band_name": "trust",
+        "is_indie": false
+    },
+    {
+        "attendance": 2167381,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    }
+]

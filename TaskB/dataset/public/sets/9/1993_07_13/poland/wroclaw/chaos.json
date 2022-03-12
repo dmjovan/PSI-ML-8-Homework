@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2515228,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 5812697,
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "attendance": 246167,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    }
+]

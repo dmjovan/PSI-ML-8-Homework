@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 5520935,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    }
+]

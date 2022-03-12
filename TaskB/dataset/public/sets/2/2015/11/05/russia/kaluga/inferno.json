@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1250596,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1621893,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1325193,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

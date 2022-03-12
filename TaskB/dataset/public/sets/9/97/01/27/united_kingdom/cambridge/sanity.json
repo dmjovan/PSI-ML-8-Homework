@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1208477,
+        "band_name": "whence_hospital_die_rattle"
+    },
+    {
+        "attendance": 522241,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 4535932,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2719787,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 2572467,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 5136597,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1457689,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    }
+]

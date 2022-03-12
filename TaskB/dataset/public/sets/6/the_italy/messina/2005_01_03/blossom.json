@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 560810,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 368089,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

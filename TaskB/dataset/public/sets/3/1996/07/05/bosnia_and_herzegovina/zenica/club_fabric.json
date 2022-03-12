@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 54789,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 2552571,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 277735,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 1684191,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    }
+]

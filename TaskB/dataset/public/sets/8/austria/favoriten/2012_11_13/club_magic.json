@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 150186,
+        "band_name": "prunes",
+        "is_indie": false
+    }
+]

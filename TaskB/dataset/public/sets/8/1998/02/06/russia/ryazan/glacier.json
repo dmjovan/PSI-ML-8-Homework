@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3093105,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 6523553,
+        "band_name": "twang",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 537611,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 7664016,
+        "is_indie": false
+    },
+    {
+        "attendance": 5010363,
+        "band_name": "peanuts_mountaineer"
+    },
+    {
+        "attendance": 5005636,
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3262769,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 4505604,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1872229,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 751931,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

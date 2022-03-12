@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 266483,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 832391,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 6479571,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1116435,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

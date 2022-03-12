@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1051654,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 2067655,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 5742060,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 2297829,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    }
+]

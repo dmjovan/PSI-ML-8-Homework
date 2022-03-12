@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4244898,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 6138151,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 1261765,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

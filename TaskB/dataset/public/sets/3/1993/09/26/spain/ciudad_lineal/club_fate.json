@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 222027,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 398444,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

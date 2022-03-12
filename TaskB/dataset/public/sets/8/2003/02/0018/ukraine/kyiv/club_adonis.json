@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 4544449,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 997011,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 6613598,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 303098,
+        "band_name": "starter_newsletter"
+    }
+]

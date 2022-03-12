@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 101271,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "attendance": 1407391,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 197682,
+        "is_indie": false
+    },
+    {
+        "attendance": 3337059,
+        "band_name": "dossier",
+        "is_indie": false
+    }
+]

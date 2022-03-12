@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 713058,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    },
+    {
+        "attendance": 923718,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "attendance": 1162177,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    }
+]

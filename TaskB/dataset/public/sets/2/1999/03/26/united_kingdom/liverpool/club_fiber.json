@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2869767,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 6834408,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 1348118,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 6294968,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

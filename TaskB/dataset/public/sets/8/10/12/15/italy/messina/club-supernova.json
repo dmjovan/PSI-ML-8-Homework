@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2748170,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 3469442,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 1209750,
+        "band_name": "scrawl_twentieth"
+    },
+    {
+        "attendance": 178242,
+        "band_name": "observatory",
+        "is_indie": true
+    }
+]

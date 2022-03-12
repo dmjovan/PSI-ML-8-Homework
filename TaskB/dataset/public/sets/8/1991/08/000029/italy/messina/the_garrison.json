@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 1504781,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 6495406,
+        "band_name": "wan_hale"
+    }
+]

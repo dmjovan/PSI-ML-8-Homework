@@ -1,0 +1,23 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 3470844,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "attendance": 1889492,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "band_name": "edible_rill",
+        "is_indie": false
+    }
+]

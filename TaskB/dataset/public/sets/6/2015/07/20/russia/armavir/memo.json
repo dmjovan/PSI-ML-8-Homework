@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1419529,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

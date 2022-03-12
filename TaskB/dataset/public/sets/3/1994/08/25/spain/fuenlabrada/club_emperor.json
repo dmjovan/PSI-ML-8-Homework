@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5683521,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 4930875,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 6151029,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 961630,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 14085,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4543307,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1530884,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 3621687,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 97212,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    }
+]

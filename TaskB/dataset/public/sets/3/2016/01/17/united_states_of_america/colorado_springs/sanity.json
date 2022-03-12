@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2887831,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 24265,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

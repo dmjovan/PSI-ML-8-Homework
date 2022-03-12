@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1415285,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 2500027,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    }
+]

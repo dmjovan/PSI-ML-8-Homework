@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4063138,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 2220761,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 474918,
+        "band_name": "pauper",
+        "is_indie": true
+    },
+    {
+        "attendance": 285038,
+        "band_name": "deception_monkeys_conditioner",
+        "is_indie": false
+    },
+    {
+        "attendance": 7174999,
+        "band_name": "unreliable_railway",
+        "is_indie": false
+    }
+]

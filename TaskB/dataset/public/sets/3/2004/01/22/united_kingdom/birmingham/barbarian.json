@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1545097,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 1814342,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

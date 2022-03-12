@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7632412,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 216201,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1218950,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 2194531,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 3351604,
+        "band_name": "volt_united",
+        "is_indie": false
+    }
+]

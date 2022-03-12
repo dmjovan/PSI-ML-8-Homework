@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 887529,
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    }
+]

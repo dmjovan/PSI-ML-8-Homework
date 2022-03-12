@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 2825065,
+        "band_name": "binaural_dropout"
+    },
+    {
+        "attendance": 1122983,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    }
+]

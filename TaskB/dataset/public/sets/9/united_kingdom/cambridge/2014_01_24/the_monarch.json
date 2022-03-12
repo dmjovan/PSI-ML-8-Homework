@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 266245,
+        "band_name": "bilk_comeback"
+    },
+    {
+        "attendance": 1489982,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "attendance": 4145206,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    }
+]

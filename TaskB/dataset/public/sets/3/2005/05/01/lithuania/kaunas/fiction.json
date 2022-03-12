@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3995397,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 477031,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 5634062,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1287000,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1737827,
+        "band_name": "redemption",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 358605,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 3105098,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 5474792,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    }
+]

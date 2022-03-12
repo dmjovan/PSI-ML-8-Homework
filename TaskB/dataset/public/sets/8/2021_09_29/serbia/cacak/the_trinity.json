@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 249707,
+        "band_name": "clockwise_cruising"
+    },
+    {
+        "attendance": 2703860,
+        "band_name": "madden_obsession_chit"
+    },
+    {
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "band_name": "tag",
+        "is_indie": false
+    }
+]

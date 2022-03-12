@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3665588,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 2649968,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 6774215,
+        "is_indie": true
+    },
+    {
+        "attendance": 2563216,
+        "band_name": "trance_petters",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5235226,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "band_name": "trust",
+        "is_indie": false
+    },
+    {
+        "attendance": 2623952,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 7566900,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

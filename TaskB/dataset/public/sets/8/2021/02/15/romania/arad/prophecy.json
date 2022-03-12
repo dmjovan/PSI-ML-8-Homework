@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1119158,
+        "band_name": "fighter"
+    },
+    {
+        "attendance": 1661377,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 5785765,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

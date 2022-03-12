@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1966972,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 3341797,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    },
+    {
+        "attendance": 255555,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "attendance": 786544,
+        "band_name": "essays",
+        "is_indie": true
+    }
+]

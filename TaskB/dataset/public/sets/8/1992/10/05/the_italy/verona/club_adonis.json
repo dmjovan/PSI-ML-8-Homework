@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 1237535,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 2907833,
+        "band_name": "fighter",
+        "is_indie": true
+    }
+]

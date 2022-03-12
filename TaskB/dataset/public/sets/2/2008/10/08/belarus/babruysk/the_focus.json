@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2646342,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 2133641,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 1394912,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2961155,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

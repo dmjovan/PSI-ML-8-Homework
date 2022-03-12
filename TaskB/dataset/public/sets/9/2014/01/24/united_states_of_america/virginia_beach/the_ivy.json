@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1727989,
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "attendance": 262167,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 1603849,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 4578588,
+        "band_name": "trust"
+    }
+]

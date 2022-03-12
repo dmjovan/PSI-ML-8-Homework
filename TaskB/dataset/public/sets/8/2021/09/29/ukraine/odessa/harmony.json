@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1526245,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 801771,
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 2046283,
+        "band_name": "avenger_contrive"
+    },
+    {
+        "attendance": 747444,
+        "is_indie": true
+    },
+    {
+        "attendance": 417526,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    }
+]

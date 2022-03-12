@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 6551143,
+        "band_name": "tore"
+    },
+    {
+        "attendance": 6996060,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 1411363,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 1249651,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    }
+]

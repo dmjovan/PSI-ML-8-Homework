@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "attendance": 8104771,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 2181315,
+        "band_name": "exclaim",
+        "is_indie": true
+    }
+]

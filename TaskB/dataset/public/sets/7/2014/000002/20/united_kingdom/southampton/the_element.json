@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3611429,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2822326,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 4147924,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    }
+]

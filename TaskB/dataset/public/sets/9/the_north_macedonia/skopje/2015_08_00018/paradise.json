@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 130895,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "attendance": 921787,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 1078881,
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "attendance": 3855167,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    }
+]

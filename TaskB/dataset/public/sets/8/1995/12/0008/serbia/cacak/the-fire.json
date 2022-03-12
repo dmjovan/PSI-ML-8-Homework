@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2129186,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 5363474,
+        "band_name": "twang",
+        "is_indie": true
+    }
+]

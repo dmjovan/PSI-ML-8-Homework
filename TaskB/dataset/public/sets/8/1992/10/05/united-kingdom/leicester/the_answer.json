@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4111483,
+        "band_name": "minimax_skunks"
+    },
+    {
+        "attendance": 1325602,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 1187394,
+        "band_name": "channeller"
+    },
+    {
+        "attendance": 788155,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    }
+]

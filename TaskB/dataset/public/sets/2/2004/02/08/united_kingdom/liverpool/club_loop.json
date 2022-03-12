@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4620803,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 309268,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 7932528,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

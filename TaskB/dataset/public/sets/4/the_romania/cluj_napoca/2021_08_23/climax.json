@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 7259343,
+        "band_name": "excavate_postmortem",
+        "is_indie": true
+    },
+    {
+        "attendance": 2349752,
+        "band_name": "evens_parish",
+        "is_indie": false
+    },
+    {
+        "attendance": 18758,
+        "band_name": "pickup_regent",
+        "is_indie": false
+    },
+    {
+        "band_name": "both_conflagration",
+        "is_indie": false
+    },
+    {
+        "band_name": "dye_filename",
+        "is_indie": true
+    }
+]

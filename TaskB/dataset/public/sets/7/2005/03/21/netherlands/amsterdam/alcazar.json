@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 708442,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    }
+]

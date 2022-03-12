@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2402051,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "attendance": 711996,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "attendance": 2439221,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    }
+]

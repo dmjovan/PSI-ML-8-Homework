@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 8545821,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 2197813,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 2522498,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2301028,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3022156,
+        "band_name": "activate_bill",
+        "is_indie": false
+    }
+]

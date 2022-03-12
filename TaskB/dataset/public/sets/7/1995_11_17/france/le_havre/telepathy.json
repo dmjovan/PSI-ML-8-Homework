@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 467580,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

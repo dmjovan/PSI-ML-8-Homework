@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 92133,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 5857922,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 3550096,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    }
+]

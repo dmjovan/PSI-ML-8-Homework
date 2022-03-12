@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4698287,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 841492,
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2030399,
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1528511,
+        "band_name": "exempt",
+        "is_indie": false
+    }
+]

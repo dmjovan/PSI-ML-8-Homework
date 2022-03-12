@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 884393,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 115603,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 528527,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 1568189,
+        "band_name": "contracting",
+        "is_indie": true
+    }
+]

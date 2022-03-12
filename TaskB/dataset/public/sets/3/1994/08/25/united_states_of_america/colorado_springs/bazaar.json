@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 388258,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 1513726,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 4413194,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 12995,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6323479,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 2467031,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 5349795,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

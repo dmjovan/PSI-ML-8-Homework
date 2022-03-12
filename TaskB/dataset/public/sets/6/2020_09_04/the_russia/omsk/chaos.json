@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 95894,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 25941,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 839422,
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1468835,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "band_name": "dossier"
+    },
+    {
+        "attendance": 599429,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "attendance": 1301408,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 1316395,
+        "band_name": "bookshelf_flock"
+    }
+]

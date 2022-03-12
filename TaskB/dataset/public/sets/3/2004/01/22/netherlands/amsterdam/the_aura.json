@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1782727,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 144168,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2381433,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 421011,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 5797747,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

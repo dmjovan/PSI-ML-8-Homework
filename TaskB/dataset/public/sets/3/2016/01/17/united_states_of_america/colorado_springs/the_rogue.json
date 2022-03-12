@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 523060,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 2638082,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 370854,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 2122418,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 537398,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 428611,
+        "band_name": "cosmic_escapade"
+    },
+    {
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 47686,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    },
+    {
+        "attendance": 123283,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 719418,
+        "band_name": "enchantress_deacon"
+    }
+]

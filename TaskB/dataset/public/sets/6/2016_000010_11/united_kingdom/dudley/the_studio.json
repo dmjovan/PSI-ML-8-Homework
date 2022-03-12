@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2662936,
+        "band_name": "general_villains"
+    },
+    {
+        "attendance": 17676,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

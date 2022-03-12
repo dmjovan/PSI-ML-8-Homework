@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1699236,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "attendance": 14111,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 1966357,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

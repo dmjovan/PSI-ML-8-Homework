@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4119445,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 3574664,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 97720,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    }
+]

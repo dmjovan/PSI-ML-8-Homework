@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 446551,
+        "band_name": "prunes"
+    },
+    {
+        "attendance": 7566402,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 1871863,
+        "band_name": "squirrel",
+        "is_indie": false
+    }
+]

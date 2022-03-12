@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1234300,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "attendance": 828791,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2189836,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    }
+]

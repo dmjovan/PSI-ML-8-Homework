@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "attendance": 2556196,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 1486086,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 652553,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 1247511,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 124390,
+        "band_name": "placenta_boathouse"
+    },
+    {
+        "attendance": 7891469,
+        "is_indie": true
+    }
+]

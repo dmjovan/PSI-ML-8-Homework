@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 999333,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 1031399,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 355065,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1158781,
+        "band_name": "either_classical",
+        "is_indie": false
+    }
+]

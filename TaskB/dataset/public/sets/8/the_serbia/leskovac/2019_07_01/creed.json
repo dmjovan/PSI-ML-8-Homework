@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 4673316,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "band_name": "port_psalms",
+        "is_indie": false
+    }
+]

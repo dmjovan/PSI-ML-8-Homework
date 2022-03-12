@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3870426,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 3726643,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 247172,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 3212520,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 173528,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

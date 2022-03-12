@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 6414233,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    },
+    {
+        "attendance": 887143,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 118526,
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    }
+]

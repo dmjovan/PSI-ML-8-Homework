@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 281679,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 6948270,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2304728,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 4092037,
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

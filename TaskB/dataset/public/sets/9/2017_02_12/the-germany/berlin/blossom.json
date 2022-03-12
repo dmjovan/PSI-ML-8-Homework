@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "attendance": 4079959,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    }
+]

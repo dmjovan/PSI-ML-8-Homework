@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3463486,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 511439,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 202610,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 735007,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 80624,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

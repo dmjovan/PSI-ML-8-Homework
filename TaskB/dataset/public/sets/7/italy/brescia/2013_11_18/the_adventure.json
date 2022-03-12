@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 242637,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 340718,
+        "is_indie": true
+    },
+    {
+        "attendance": 1171276,
+        "band_name": "hypocrite"
+    },
+    {
+        "band_name": "bowman_coca",
+        "is_indie": false
+    }
+]

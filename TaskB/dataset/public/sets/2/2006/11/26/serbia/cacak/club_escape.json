@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 179126,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 7588795,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 244917,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    }
+]

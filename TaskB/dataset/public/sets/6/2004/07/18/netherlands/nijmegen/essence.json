@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3265352,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 80267,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 2135471,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1811891,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "band_name": "learns",
+        "is_indie": false
+    }
+]

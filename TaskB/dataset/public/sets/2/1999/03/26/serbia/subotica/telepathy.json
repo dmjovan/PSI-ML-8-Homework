@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2145854,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 4202640,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 5667780,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

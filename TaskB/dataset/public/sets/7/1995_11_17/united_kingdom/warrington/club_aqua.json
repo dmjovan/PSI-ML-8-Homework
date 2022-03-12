@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5308207,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 2479965,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 2293033,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 1730813,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 1751999,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    }
+]

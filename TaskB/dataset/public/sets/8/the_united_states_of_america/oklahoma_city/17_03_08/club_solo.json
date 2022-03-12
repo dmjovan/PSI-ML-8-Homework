@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 434915,
+        "is_indie": false
+    },
+    {
+        "attendance": 1582848,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 747698,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    }
+]

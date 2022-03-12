@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 1070057,
+        "is_indie": false
+    },
+    {
+        "attendance": 7085978,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 743120,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2445012,
+        "is_indie": true
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

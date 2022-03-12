@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "attendance": 3550585,
+        "band_name": "bonny_hotness"
+    },
+    {
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 758346,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2301323,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 5364836,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "attendance": 5863693,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "band_name": "culture_panicky"
+    }
+]

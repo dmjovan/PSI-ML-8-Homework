@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1254868,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 504522,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "band_name": "attackers"
+    }
+]

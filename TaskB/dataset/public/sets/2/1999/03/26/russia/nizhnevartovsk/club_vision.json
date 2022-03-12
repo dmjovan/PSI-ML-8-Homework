@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4357195,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2162078,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 591638,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    }
+]

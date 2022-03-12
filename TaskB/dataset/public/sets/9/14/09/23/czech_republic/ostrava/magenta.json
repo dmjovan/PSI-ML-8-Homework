@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1200779,
+        "band_name": "opera_barbarous"
+    },
+    {
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "attendance": 3339865,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 9208587,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 19296,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    }
+]

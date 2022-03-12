@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2436917,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "attendance": 73629,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 5880819,
+        "band_name": "wretch",
+        "is_indie": false
+    }
+]

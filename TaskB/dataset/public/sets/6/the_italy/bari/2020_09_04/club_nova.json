@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1695335,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 952972,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "band_name": "fingers",
+        "is_indie": true
+    }
+]

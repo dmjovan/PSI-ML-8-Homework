@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1788992,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 1850670,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "attendance": 7731880,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "attendance": 305879,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "attendance": 3467100,
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    }
+]

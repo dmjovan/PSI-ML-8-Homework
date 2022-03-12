@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 232005,
+        "band_name": "sonata_bunkers"
+    },
+    {
+        "attendance": 5010240,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 228488,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "attendance": 393605,
+        "band_name": "sale_vertical"
+    }
+]

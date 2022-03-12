@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2409113,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 4038851,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 3167615,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 3084004,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

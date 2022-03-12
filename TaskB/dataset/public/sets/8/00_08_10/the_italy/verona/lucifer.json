@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 843675,
+        "band_name": "channeller"
+    },
+    {
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 5646983,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 6064506,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

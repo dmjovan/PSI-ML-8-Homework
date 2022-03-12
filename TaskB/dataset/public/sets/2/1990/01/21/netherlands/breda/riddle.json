@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1089226,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 6392876,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 437662,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 4180424,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 3600843,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "electron"
+    },
+    {
+        "attendance": 1580290,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 4123219,
+        "is_indie": false
+    },
+    {
+        "band_name": "windmills"
+    },
+    {
+        "attendance": 1425990,
+        "band_name": "hopelessness",
+        "is_indie": false
+    }
+]

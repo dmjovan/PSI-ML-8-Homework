@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 5379084,
+        "is_indie": false
+    },
+    {
+        "attendance": 3354094,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    }
+]

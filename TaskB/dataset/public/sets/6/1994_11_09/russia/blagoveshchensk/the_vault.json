@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "attendance": 671643,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 7458757,
+        "is_indie": false
+    }
+]

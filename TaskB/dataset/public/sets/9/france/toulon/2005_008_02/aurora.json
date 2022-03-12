@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2883398,
+        "band_name": "pea_freshwater_cargoes"
+    },
+    {
+        "attendance": 926959,
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 363724,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    }
+]

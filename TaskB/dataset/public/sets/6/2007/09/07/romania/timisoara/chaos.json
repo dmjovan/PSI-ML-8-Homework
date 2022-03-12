@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 6428494,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 8256080,
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

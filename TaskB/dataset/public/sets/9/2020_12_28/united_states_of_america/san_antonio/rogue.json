@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1042793,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    },
+    {
+        "attendance": 915424,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 846216,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 52809,
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    }
+]

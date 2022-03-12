@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1216715,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 824055,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    }
+]

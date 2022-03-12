@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 399119,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 6000010,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 676103,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    }
+]

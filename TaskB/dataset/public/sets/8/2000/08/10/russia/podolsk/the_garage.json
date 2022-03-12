@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "avenger_contrive"
+    },
+    {
+        "attendance": 3064817,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    }
+]

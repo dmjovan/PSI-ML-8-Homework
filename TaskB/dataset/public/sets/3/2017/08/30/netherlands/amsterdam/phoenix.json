@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3107328,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 960697,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 3819358,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 617266,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2895165,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 4318784,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

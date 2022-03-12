@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1667973,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 55595,
+        "band_name": "hot_imperatives",
+        "is_indie": true
+    },
+    {
+        "attendance": 2162864,
+        "band_name": "castle_dyers",
+        "is_indie": true
+    },
+    {
+        "band_name": "florin_parlor",
+        "is_indie": true
+    },
+    {
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

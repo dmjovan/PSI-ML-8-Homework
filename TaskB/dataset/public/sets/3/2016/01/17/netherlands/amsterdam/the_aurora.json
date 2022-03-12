@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 666131,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 110611,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 1972758
+    },
+    {
+        "attendance": 739662,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "attendance": 2168031,
+        "band_name": "locusts_salvation"
+    }
+]

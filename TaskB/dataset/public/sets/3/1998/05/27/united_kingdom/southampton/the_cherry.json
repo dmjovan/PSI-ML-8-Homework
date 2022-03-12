@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 659331,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 541807,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1791280,
+        "band_name": "international_face",
+        "is_indie": false
+    }
+]

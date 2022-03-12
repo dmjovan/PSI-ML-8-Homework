@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 124190,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 7110989,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1521528,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 8516977,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    }
+]

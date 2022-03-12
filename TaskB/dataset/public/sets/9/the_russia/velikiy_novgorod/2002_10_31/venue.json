@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1841087,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "attendance": 21944,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 511694,
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "attendance": 628500,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    }
+]

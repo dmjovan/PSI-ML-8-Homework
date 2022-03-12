@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1893525,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "attendance": 3778398,
+        "band_name": "bivouac"
+    },
+    {
+        "attendance": 583825,
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3643155,
+        "is_indie": true
+    }
+]

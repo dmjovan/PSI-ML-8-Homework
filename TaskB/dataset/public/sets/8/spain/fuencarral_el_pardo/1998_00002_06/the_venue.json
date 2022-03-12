@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 4785372,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 1160157,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 1020288,
+        "is_indie": false
+    },
+    {
+        "attendance": 4705864,
+        "band_name": "breadwinner_biller"
+    }
+]

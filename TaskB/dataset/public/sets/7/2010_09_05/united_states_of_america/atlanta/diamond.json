@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2642779,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 488177,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 1557850,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "band_name": "vibrator",
+        "is_indie": true
+    }
+]

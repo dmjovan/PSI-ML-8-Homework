@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 323059,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 296753,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 7496791,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 5732439,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

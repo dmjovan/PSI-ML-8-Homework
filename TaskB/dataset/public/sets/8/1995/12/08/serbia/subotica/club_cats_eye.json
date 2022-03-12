@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2148129,
+        "is_indie": false
+    },
+    {
+        "attendance": 7348043,
+        "band_name": "miniaturization_brunches"
+    },
+    {
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 353233,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 996147,
+        "band_name": "sonata",
+        "is_indie": true
+    }
+]

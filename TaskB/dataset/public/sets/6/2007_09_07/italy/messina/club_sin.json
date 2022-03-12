@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2557302,
+        "is_indie": true
+    },
+    {
+        "attendance": 1263225,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 5573635,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 324442,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    }
+]

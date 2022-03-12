@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1033631,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2631016,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 4040793,
+        "band_name": "electron",
+        "is_indie": false
+    }
+]

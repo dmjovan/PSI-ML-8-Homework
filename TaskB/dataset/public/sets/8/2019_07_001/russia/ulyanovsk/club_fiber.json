@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "deserter"
+    },
+    {
+        "attendance": 4901409,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 709692,
+        "band_name": "attackers"
+    },
+    {
+        "attendance": 1334547,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

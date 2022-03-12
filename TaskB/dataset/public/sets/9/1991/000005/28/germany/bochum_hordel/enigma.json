@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3036621,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    },
+    {
+        "attendance": 3355955,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "attendance": 1100532,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    }
+]

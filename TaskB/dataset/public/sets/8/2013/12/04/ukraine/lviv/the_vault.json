@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "corrections_dilation"
+    },
+    {
+        "attendance": 2198985,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 4006851,
+        "is_indie": true
+    },
+    {
+        "attendance": 1691221,
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4073585,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 742445,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 793813,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 3259563,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 352195,
+        "band_name": "redemption",
+        "is_indie": false
+    }
+]

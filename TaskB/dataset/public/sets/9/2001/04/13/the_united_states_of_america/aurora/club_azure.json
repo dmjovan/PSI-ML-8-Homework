@@ -1,0 +1,19 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 4008209,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "attendance": 4048420,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    }
+]

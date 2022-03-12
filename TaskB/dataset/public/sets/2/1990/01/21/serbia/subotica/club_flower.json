@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3873000,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3058532,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 8938683,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

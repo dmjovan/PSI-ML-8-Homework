@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3736165,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 1834252,
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "attendance": 6330568,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "attendance": 1465311,
+        "band_name": "ibis_garbages_melon"
+    },
+    {}
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 4780,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 64737,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

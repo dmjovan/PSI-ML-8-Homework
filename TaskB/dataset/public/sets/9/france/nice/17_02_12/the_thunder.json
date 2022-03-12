@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1438754,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 71843,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 3420004,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    }
+]

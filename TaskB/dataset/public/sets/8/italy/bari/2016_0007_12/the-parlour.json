@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 477100,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    }
+]

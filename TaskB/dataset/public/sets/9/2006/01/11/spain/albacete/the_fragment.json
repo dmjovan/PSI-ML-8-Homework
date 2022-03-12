@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1120356,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2877755,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "ermine",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 8991338,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 788128,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 955961,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

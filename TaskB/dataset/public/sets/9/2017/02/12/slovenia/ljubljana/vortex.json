@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 6551718,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 1820321,
+        "band_name": "any_stormy"
+    },
+    {
+        "attendance": 204687,
+        "band_name": "fleece"
+    },
+    {
+        "band_name": "deride",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4873252,
+        "is_indie": true
+    },
+    {
+        "band_name": "prophesy_or_inhaler"
+    },
+    {
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 570256,
+        "is_indie": false
+    }
+]

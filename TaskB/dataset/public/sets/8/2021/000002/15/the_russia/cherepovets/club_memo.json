@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 1417714,
+        "is_indie": true
+    },
+    {
+        "attendance": 5590786,
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 896834,
+        "band_name": "prunes",
+        "is_indie": false
+    }
+]

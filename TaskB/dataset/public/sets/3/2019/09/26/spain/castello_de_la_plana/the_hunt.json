@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2912485,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 4156390,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 1717995,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1495563,
+        "band_name": "bans",
+        "is_indie": false
+    }
+]

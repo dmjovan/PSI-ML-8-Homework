@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2214293,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1259399,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 5405569,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 518750,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    }
+]

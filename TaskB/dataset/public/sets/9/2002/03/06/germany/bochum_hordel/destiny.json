@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1070527,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "attendance": 541706,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    },
+    {
+        "attendance": 5968714,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "attendance": 4464650,
+        "band_name": "advertising",
+        "is_indie": false
+    }
+]

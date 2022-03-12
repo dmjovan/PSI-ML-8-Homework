@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1033367,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 685854,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 4772306,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 3356582,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    }
+]

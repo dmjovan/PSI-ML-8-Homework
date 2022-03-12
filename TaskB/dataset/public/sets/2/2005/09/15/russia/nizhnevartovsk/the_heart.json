@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1318842,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 1564,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 8237145,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1204696,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 92493,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

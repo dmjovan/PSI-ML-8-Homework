@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 2022451,
+        "is_indie": true
+    },
+    {
+        "attendance": 162000,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    }
+]

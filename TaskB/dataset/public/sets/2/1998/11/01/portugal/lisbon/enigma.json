@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1585646,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 4443057,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 3340954,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 4012591,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 3274091,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

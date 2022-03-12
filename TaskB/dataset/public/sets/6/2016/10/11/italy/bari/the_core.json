@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3317272,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 1645247,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "attendance": 2966536,
+        "band_name": "cookie_happier"
+    }
+]

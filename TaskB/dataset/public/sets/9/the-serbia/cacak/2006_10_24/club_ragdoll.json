@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5828699,
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    },
+    {
+        "attendance": 3696717,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 2551556,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 1822079,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "attendance": 3943502,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    }
+]

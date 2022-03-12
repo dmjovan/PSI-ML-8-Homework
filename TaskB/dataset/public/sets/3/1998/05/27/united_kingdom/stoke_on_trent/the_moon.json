@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1617596,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 1032830,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 2837103,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 2043488,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

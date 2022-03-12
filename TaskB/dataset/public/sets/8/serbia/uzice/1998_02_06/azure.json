@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 690035,
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 1321920,
+        "band_name": "bikini_shrew"
+    },
+    {
+        "attendance": 3047729,
+        "is_indie": false
+    },
+    {
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    }
+]

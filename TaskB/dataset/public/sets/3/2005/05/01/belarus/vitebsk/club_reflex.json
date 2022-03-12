@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2244994,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 3867621,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 115033,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

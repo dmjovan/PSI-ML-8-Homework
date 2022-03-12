@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 691075,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 3241211,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 2105404,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 939354,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

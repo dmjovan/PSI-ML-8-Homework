@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 5214516,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 4344666,
+        "band_name": "award_boomerang_bailiff"
+    },
+    {
+        "attendance": 430262,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 125592,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1373894,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

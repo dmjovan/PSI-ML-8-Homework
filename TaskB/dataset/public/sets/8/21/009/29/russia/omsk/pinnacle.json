@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 3317937,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 232706,
+        "is_indie": false
+    },
+    {
+        "band_name": "collegian_visor",
+        "is_indie": true
+    }
+]

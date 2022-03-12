@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 842159,
+        "band_name": "muffled_sleeplessness"
+    },
+    {
+        "attendance": 1979626,
+        "band_name": "electron"
+    },
+    {
+        "attendance": 549714,
+        "is_indie": true
+    }
+]

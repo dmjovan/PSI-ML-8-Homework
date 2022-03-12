@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "attendance": 492962,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1744602,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 602736,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 7564204,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 1329520,
+        "band_name": "bans",
+        "is_indie": false
+    }
+]

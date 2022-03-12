@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 269161,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 5883189,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 701327,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 2973790,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    }
+]

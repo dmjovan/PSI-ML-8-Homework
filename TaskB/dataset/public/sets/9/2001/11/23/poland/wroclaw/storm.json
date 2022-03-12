@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 1466865,
+        "is_indie": false
+    },
+    {
+        "attendance": 895990,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2115608,
+        "band_name": "forum_diggers_internship"
+    }
+]

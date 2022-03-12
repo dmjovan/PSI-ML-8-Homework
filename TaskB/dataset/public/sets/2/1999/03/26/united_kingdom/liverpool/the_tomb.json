@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4506590,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 125136,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 888616,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 44028,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

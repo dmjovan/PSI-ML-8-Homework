@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2321388,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1131695,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 4504615,
+        "is_indie": true
+    },
+    {
+        "attendance": 2404038,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 737790,
+        "is_indie": true
+    }
+]

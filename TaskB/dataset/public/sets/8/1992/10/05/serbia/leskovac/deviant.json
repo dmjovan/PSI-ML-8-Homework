@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 432406,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1010797,
+        "band_name": "soggy"
+    },
+    {
+        "attendance": 1365470,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    }
+]

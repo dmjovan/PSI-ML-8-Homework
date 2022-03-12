@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3411392,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2321612,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 4728648,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1057140,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

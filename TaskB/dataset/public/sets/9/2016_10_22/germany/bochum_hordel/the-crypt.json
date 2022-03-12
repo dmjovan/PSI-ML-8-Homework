@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5349512,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 670679,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

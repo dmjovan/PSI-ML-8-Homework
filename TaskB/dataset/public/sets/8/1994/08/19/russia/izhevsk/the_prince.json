@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 723625,
+        "band_name": "atheist_tweed"
+    },
+    {
+        "attendance": 1485477,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 76924,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 12015,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    }
+]

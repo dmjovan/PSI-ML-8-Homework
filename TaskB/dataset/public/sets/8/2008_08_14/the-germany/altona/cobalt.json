@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 183314,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "attendance": 727147,
+        "is_indie": true
+    },
+    {
+        "attendance": 4537045,
+        "is_indie": true
+    },
+    {
+        "attendance": 7156883,
+        "band_name": "brazing_canopy"
+    }
+]

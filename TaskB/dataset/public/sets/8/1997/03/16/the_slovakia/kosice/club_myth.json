@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 1284663,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "attendance": 653373,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 1115654,
+        "band_name": "prunes",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 2349223,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 7266827,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 4043862,
+        "is_indie": false
+    },
+    {
+        "attendance": 2518577,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "attendance": 982110,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    }
+]

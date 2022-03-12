@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1305509,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 541976,
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "attendance": 3376348,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 2028055,
+        "band_name": "sneeze_retarder"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 8014222,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    }
+]

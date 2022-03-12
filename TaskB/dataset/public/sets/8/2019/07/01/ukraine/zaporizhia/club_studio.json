@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 6163362,
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "attendance": 1338728,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

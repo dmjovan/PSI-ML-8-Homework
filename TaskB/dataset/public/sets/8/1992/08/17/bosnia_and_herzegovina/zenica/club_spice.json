@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 8709523
+    },
+    {
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 3874017,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "attendance": 2159790,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 659068,
+        "band_name": "helpless_transpose"
+    }
+]

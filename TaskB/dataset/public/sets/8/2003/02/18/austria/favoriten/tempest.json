@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3474221,
+        "is_indie": false
+    },
+    {
+        "attendance": 4108235,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 116315,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 2556536,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 355118,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 214774,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

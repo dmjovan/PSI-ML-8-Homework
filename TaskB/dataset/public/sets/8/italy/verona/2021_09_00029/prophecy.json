@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 3243896,
+        "band_name": "jug_bagger"
+    },
+    {
+        "attendance": 8966,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    }
+]

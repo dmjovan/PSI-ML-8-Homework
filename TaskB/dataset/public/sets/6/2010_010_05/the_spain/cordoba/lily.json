@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2981567,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 6932482,
+        "is_indie": false
+    },
+    {
+        "attendance": 104413,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

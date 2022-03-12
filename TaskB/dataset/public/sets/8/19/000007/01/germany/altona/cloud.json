@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2367759,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 25717,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 5307495,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2346861,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 3562176,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3050868,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 5791562,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

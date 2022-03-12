@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6238718,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 2220103,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 8744102,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 3005088,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 105943,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    }
+]

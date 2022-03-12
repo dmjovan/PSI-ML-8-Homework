@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1775891,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 2841754,
+        "is_indie": false
+    },
+    {
+        "attendance": 336825,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    }
+]

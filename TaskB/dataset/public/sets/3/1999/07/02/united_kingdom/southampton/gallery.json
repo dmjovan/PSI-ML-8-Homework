@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1098234,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 650258,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1610825,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 4599433,
+        "band_name": "bluffing",
+        "is_indie": false
+    }
+]

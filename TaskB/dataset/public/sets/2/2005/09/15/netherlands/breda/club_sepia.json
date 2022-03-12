@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1875969,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 7743202,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 2338677,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 5460730,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

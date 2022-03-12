@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2928094,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 776920,
+        "is_indie": true
+    },
+    {
+        "attendance": 554006,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    }
+]

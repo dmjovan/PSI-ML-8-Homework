@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 961351,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 5420290,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 827110,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 536407,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

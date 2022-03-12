@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 792456,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 241875,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 1713522,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    }
+]

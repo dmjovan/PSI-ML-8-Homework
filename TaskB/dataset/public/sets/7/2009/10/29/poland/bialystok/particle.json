@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3929547,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 1935512,
+        "is_indie": false
+    },
+    {
+        "attendance": 694483,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    }
+]

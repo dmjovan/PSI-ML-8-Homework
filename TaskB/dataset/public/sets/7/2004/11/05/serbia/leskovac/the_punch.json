@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2045724,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 5562147,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 847639,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "band_name": "thorns_civility",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 635689,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 531788,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

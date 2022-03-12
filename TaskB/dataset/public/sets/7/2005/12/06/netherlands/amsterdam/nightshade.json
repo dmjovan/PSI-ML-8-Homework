@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1488819,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 1457017,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    }
+]

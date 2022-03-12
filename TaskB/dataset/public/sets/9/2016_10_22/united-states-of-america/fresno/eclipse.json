@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3157502,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 1267007,
+        "band_name": "deride",
+        "is_indie": false
+    },
+    {
+        "attendance": 3491898,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "attendance": 1441526,
+        "band_name": "romper"
+    }
+]

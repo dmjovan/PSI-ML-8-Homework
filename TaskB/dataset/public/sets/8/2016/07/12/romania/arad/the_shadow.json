@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "peanuts_mountaineer"
+    },
+    {
+        "attendance": 7795541,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 5783925,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 813368,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 729305,
+        "is_indie": false
+    }
+]

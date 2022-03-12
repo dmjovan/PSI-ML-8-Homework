@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5477359,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 944599,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 12625,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

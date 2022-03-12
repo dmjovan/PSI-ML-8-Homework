@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 797130,
+        "band_name": "fang_switchblade",
+        "is_indie": false
+    },
+    {
+        "band_name": "related_pals",
+        "is_indie": false
+    },
+    {
+        "attendance": 89506,
+        "band_name": "both_conflagration",
+        "is_indie": false
+    },
+    {
+        "band_name": "pickup_regent",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 693820,
+        "is_indie": false
+    },
+    {
+        "attendance": 3369183,
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "attendance": 119062,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    }
+]

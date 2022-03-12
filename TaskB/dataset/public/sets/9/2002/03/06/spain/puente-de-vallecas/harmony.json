@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "attendance": 235829,
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    },
+    {
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2687459,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "band_name": "activate_indecent",
+        "is_indie": true
+    },
+    {
+        "attendance": 6511721,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 241595,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    }
+]

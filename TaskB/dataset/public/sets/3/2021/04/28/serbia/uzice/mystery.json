@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 541564,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 3580304,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 2476127,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 267608,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 816747,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

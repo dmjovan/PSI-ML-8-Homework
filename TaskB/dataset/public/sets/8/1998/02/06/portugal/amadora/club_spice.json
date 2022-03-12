@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1826515,
+        "band_name": "anemia_psychologist"
+    },
+    {
+        "attendance": 995836,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 805598,
+        "band_name": "dossier",
+        "is_indie": false
+    }
+]

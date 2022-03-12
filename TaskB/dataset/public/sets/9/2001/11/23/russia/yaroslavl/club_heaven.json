@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 353717,
+        "band_name": "all_beehives_aviator"
+    },
+    {
+        "attendance": 3838585,
+        "is_indie": true
+    },
+    {
+        "attendance": 8195484,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 2770058,
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    }
+]

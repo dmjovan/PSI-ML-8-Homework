@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "attendance": 1367949,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 892869,
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    },
+    {
+        "attendance": 1829810,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    }
+]

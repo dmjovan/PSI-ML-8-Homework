@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 368133,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1141475,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 3883018,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 1676741,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 3449139,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

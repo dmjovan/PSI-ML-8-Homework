@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2470133,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "attendance": 2126619,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "attendance": 2192315,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1999439,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    }
+]

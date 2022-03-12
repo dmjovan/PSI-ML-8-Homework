@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7447,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 536695,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 353563,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 8191934,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

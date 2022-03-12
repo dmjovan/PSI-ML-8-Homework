@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 591602,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 438214,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 498031,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

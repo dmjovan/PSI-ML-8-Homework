@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 25467,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 5095874,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    }
+]

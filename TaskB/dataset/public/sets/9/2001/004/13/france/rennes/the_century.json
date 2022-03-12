@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 892627,
+        "is_indie": false
+    },
+    {
+        "attendance": 470697,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 8771157,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 822233,
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    },
+    {
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    }
+]

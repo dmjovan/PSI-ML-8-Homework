@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 363192,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 5346242,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 1339114,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 2784344,
+        "band_name": "his_usability_concert"
+    }
+]

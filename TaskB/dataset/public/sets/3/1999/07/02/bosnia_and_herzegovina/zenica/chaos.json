@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 563359,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 2054254,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 7307736,
+        "band_name": "either_sire",
+        "is_indie": false
+    }
+]

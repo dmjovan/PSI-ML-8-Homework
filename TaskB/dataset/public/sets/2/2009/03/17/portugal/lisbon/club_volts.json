@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3568780,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 2440232,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 5224350,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

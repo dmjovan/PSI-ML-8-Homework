@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 544599,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 870982,
+        "band_name": "prunes"
+    },
+    {
+        "attendance": 226001,
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 234003,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 4846861,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

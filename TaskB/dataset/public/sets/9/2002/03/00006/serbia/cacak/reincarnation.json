@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2740023,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 397235,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 138311,
+        "is_indie": false
+    },
+    {
+        "band_name": "destructor",
+        "is_indie": false
+    }
+]

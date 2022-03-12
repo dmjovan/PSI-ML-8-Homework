@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 6375042,
+        "band_name": "edible_rill"
+    },
+    {
+        "attendance": 4366812,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    }
+]

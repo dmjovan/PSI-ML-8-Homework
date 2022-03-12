@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "attendance": 1425364,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "band_name": "culture_panicky"
+    },
+    {
+        "attendance": 1431988,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    }
+]

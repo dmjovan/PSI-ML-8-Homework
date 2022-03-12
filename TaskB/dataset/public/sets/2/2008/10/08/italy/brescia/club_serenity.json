@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3979951,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 6088405,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 4747011,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

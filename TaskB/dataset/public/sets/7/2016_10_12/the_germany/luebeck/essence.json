@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1756771,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 345112,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 139782,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1470826,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "band_name": "aboard",
+        "is_indie": false
+    }
+]

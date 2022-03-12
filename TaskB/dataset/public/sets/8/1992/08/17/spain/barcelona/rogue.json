@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 5796252,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "attendance": 2056097,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    }
+]

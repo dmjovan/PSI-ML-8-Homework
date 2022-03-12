@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 745583,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 4577793,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    }
+]

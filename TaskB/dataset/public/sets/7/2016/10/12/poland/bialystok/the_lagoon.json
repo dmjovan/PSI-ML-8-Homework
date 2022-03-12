@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1380177,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 120667,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 5323912
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 1337512
+    },
+    {
+        "attendance": 378613,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 2223207,
+        "band_name": "peanuts_mountaineer"
+    },
+    {
+        "attendance": 2337531,
+        "band_name": "anemia_psychologist"
+    }
+]

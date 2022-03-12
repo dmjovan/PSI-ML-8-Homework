@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3586199,
+        "is_indie": false
+    },
+    {
+        "band_name": "ration"
+    },
+    {
+        "attendance": 1449963,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 646064,
+        "band_name": "signification_repent",
+        "is_indie": false
+    }
+]

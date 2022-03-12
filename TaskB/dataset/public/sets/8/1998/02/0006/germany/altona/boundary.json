@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1528943,
+        "band_name": "lackey_noodle"
+    },
+    {
+        "attendance": 189170,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "band_name": "tag",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 287895,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 528637,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 200107,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 3330927,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

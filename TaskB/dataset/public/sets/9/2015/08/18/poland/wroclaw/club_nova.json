@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1024284,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 6260148,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    }
+]

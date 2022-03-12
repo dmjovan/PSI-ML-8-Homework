@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1682504,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 6601714,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "band_name": "grudge",
+        "is_indie": false
+    }
+]

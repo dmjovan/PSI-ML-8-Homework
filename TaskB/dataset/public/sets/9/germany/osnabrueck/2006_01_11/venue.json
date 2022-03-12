@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4355227,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "attendance": 365553,
+        "band_name": "whiskey_crossings"
+    },
+    {
+        "attendance": 1577461,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 204932,
+        "band_name": "opprobrium_cranes"
+    }
+]

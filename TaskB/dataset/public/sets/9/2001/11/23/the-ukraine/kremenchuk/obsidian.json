@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 5271391,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "attendance": 1335002,
+        "is_indie": false
+    },
+    {
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    }
+]

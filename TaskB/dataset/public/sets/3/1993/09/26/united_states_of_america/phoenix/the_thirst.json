@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2151750,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 2871828,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1752661,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 784559,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

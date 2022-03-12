@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 1181330,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "peas_liberator",
+        "is_indie": true
+    }
+]

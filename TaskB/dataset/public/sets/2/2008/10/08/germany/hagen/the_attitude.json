@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1701751,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 1713987,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 570955,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    }
+]

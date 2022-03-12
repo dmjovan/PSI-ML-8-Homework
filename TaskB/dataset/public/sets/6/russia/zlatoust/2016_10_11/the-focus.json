@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2394470,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 3844823,
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "attendance": 3247379,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 2247354,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2841779,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    }
+]

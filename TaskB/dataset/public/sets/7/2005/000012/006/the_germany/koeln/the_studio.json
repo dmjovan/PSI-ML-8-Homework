@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3256441,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 6602424,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 876194,
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    }
+]

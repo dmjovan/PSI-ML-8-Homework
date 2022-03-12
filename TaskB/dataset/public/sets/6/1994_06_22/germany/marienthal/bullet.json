@@ -1,0 +1,10 @@
+[
+    {
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 705940,
+        "is_indie": true
+    }
+]

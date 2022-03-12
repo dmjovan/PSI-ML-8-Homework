@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1052113,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 868198,
+        "is_indie": true
+    },
+    {
+        "attendance": 4725977,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 1113504,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    }
+]

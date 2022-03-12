@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "attendance": 830612,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 1326658,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    }
+]

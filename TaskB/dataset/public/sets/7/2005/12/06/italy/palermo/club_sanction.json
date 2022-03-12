@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2017023,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 6536712,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 2142632,
+        "is_indie": false
+    },
+    {
+        "attendance": 3873761,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    }
+]

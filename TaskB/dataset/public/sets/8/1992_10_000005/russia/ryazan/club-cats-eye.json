@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 801892,
+        "is_indie": false
+    },
+    {
+        "attendance": 1352298,
+        "is_indie": true
+    },
+    {
+        "attendance": 783662,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    }
+]

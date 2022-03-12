@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 24478,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 1035633,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 5678949,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 488096,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

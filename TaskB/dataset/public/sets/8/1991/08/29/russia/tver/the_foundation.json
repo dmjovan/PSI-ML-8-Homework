@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2151406,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 2323048,
+        "band_name": "minimax_orb"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 8520558,
+        "band_name": "brazing_canopy"
+    }
+]

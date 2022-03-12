@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 5012860,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "attendance": 9769882,
+        "is_indie": false
+    },
+    {
+        "attendance": 644917,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "band_name": "culture_panicky"
+    },
+    {
+        "attendance": 242206,
+        "band_name": "rant",
+        "is_indie": true
+    }
+]

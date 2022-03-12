@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6650001,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 4277117,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 829137,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 238956,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 3017237,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    }
+]

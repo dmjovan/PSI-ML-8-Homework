@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4633344,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 564076,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 779723,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2053955,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 116143,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "activate_indecent",
+        "is_indie": true
+    },
+    {
+        "attendance": 2903306,
+        "is_indie": false
+    },
+    {
+        "attendance": 2955056,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 1360066,
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    }
+]

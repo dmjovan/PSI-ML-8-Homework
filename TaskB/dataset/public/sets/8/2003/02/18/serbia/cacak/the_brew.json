@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3061137,
+        "band_name": "wan_hale"
+    },
+    {
+        "attendance": 2922054,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 1220379,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

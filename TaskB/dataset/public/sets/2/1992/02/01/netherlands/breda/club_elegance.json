@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 124205,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 504170,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 1177439,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 3040712,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 136704,
+        "band_name": "flock_store",
+        "is_indie": true
+    }
+]

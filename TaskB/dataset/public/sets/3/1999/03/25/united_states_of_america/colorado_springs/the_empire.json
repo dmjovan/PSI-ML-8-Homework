@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1938469,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 2878571,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 6345787,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 308467,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5400712,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "attendance": 1212671,
+        "band_name": "quo_socialize"
+    },
+    {
+        "band_name": "peas_liberator",
+        "is_indie": false
+    },
+    {
+        "attendance": 1572111,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    }
+]

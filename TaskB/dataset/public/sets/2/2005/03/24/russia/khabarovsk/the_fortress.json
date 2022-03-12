@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2870244,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 2115556,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 15404,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

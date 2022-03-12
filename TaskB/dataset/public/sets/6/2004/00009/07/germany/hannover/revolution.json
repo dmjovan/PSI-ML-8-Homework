@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1683640,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 1550982,
+        "is_indie": false
+    },
+    {
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "attendance": 1228958,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    }
+]

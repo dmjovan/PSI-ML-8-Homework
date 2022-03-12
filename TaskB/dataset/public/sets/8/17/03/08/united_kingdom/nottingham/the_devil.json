@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1522669,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 4099171,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 470789,
+        "band_name": "exclaim",
+        "is_indie": false
+    }
+]

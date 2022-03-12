@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2494918,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 254093,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1290537,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 916028,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 78822,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 523566,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

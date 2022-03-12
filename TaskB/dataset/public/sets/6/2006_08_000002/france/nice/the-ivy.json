@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 138239,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 1346129,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    }
+]

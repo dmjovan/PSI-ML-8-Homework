@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 79218,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "attendance": 5596406,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 2884966,
+        "band_name": "arson_balsam"
+    },
+    {
+        "band_name": "channeller",
+        "is_indie": true
+    }
+]

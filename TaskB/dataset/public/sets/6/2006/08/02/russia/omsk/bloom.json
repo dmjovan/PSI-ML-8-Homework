@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3650935,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 84461,
+        "band_name": "west_dancer",
+        "is_indie": false
+    }
+]

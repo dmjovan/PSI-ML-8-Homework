@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "band_name": "ministry_auctioneer"
+    },
+    {
+        "attendance": 456297,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 287533,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    }
+]

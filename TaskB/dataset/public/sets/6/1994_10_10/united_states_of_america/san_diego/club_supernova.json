@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 321111,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 3029987,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 1409349,
+        "band_name": "spy_obsolescence"
+    }
+]

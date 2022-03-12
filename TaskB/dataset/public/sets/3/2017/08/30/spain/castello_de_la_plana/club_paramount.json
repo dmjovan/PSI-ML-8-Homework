@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 582481,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 5942321,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 964092,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 406127,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 393185,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    }
+]

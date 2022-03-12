@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1154034,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "band_name": "west_dancer"
+    },
+    {
+        "attendance": 354814,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "band_name": "drank",
+        "is_indie": false
+    }
+]

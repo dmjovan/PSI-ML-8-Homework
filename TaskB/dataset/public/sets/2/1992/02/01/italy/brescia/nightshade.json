@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 474348,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 2539143,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

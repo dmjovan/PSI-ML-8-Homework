@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 589437,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "attendance": 663412
+    },
+    {
+        "attendance": 4453366,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 1362676,
+        "is_indie": true
+    },
+    {
+        "attendance": 3508614,
+        "band_name": "oracle",
+        "is_indie": false
+    }
+]

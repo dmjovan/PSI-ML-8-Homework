@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 6618642,
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

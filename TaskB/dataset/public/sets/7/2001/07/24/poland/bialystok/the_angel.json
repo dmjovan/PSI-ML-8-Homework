@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 275466,
+        "band_name": "flamboyant"
+    },
+    {
+        "attendance": 4733385,
+        "band_name": "outdoors"
+    },
+    {
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 4762546,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    }
+]

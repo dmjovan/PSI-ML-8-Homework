@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5955472,
+        "band_name": "burnings_pod"
+    },
+    {
+        "attendance": 577468,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 7880570,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 6088619,
+        "band_name": "twang"
+    },
+    {
+        "attendance": 83840,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    }
+]

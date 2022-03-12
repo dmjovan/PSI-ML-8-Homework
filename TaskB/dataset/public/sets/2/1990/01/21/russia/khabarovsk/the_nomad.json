@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 595119,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 4962425,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2516086,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 113161,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 125297,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2596749,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 3121992,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 862913,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 523688,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 4974407,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

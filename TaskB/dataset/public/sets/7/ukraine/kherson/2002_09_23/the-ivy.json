@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2020888,
+        "is_indie": false
+    },
+    {
+        "attendance": 202046,
+        "band_name": "stairwell"
+    },
+    {
+        "attendance": 647872,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 122536,
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 4661215,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

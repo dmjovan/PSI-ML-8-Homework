@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1480703,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 4592268,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1491668,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

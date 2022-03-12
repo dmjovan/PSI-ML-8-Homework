@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 438384,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

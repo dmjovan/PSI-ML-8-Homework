@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 80446,
+        "band_name": "scythe",
+        "is_indie": false
+    }
+]

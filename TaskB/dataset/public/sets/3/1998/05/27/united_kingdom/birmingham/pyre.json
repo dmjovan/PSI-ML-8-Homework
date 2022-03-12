@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 59978,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 3248154,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1226123,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 6064183,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

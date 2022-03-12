@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "attendance": 318157,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "attendance": 42072,
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "attendance": 9298566,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6517394,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 6702315,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 7410316,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 3498478,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

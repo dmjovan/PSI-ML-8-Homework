@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4561853,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "attendance": 1047976,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 4771880,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 2552274,
+        "band_name": "twentieth_deck"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4664760,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 5695330,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3357402,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 4458146,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 4265336,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    }
+]

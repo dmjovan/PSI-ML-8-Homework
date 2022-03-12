@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1875009,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 1397694,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 3770132,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 4044969,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 2692583,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

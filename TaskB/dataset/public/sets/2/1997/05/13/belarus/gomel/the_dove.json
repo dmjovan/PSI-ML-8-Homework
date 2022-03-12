@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3874316,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1187758,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 3165357,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 81988,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 43182,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

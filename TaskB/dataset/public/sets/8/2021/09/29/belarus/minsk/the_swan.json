@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1312022,
+        "band_name": "deserter"
+    },
+    {
+        "attendance": 36369,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 6703044,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "band_name": "furniture_glow"
+    }
+]

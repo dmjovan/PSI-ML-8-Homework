@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2889984,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 2776204,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1893014,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 1303831,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 3050343,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 517624,
+        "band_name": "exempt"
+    },
+    {
+        "attendance": 1074064,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

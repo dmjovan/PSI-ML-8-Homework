@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1535947,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 8132140,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 2923376,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 320879,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 2679999,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

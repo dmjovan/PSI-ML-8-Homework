@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 240494,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 5638994,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 3043734,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 753383,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2162074,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    }
+]

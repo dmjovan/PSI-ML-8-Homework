@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6791537,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 1758972,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 15230,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

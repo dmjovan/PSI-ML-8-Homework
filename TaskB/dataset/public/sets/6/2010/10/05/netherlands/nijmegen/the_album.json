@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2136230,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 3250865,
+        "is_indie": false
+    },
+    {
+        "attendance": 1043198,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    }
+]

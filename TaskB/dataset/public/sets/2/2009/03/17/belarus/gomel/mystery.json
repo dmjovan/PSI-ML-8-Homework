@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3091193,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 7455663,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1559177,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2736153,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2475826,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 552470,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2667329,
+        "band_name": "piston_pacific_highway"
+    },
+    {
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "attendance": 442720,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1349137,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 86327,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1054792,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

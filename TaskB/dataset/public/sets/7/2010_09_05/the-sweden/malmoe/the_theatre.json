@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2311824,
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "attendance": 4833137,
+        "band_name": "exclaim",
+        "is_indie": true
+    }
+]

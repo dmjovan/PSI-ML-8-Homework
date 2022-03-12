@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4216277,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 3550372,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1224646,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 2919940,
+        "band_name": "pit",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    }
+]

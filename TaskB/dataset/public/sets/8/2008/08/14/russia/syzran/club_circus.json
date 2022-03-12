@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "deserter"
+    },
+    {
+        "attendance": 1660724,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 683636,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    }
+]

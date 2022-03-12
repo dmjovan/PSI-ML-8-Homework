@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 115590,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 5108563,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 50278,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 5636608,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 446055,
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    }
+]

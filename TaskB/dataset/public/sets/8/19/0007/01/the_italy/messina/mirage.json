@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 6533828,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "attendance": 1397202,
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "band_name": "attackers"
+    },
+    {}
+]

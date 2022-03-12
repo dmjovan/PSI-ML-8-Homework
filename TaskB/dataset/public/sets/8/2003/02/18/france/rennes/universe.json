@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1616882,
+        "band_name": "minimax_orb"
+    },
+    {
+        "attendance": 529526,
+        "band_name": "any_expansions"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "automata_politics",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1228794,
+        "band_name": "bill_inducer"
+    },
+    {
+        "attendance": 1715944,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2273660,
+        "is_indie": false
+    }
+]

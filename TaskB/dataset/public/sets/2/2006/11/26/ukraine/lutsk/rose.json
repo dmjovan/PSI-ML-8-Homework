@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 569855,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 5754811,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 4103605,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 2193202,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 4758467,
+        "is_indie": true
+    },
+    {
+        "attendance": 5681746,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "attendance": 940249,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    }
+]

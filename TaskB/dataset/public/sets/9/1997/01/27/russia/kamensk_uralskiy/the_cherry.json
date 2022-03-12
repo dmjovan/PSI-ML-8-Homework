@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 8158981,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 1992673,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 3315879,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    }
+]

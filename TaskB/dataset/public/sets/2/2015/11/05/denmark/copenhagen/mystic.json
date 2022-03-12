@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2085695,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 220358,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 947589,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 3943332,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 614464,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

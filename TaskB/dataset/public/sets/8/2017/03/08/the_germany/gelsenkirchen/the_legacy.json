@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2281914,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 4803527,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 2593100,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 250723
+    }
+]

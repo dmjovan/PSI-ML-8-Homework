@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4475503,
+        "band_name": "blanch_coronary",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2323400,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 1689793,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    }
+]

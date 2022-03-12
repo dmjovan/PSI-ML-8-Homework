@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6534758,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1622584,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "attendance": 1901045,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 707586,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

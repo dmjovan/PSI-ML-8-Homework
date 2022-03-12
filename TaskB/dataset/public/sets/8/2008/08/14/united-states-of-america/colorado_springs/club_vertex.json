@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 5238531,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "band_name": "amoeba"
+    },
+    {
+        "attendance": 1194550,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

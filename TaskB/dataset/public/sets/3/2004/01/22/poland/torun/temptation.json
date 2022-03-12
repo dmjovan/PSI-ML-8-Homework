@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1780353,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 4363470,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 2150823,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2850464,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 4587268,
+        "band_name": "pea_carve",
+        "is_indie": false
+    }
+]

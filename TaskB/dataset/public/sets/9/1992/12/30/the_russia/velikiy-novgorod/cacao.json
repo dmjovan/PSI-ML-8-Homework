@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 520725,
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "attendance": 364095,
+        "is_indie": false
+    },
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    }
+]

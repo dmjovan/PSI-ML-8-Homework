@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2588267,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3030529,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 4652957,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 1046216,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

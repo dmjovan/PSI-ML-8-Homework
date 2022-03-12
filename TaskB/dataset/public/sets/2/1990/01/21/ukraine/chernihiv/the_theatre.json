@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1314683,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 5493564,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 86366,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 2690192,
+        "band_name": "pit",
+        "is_indie": false
+    }
+]

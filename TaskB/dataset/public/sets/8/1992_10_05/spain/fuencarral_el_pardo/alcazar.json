@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 117987,
+        "band_name": "rant"
+    },
+    {
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 136613,
+        "is_indie": false
+    },
+    {
+        "attendance": 5862826,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 87466,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 544245,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1389440,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1571106,
+        "band_name": "bluffing",
+        "is_indie": false
+    }
+]

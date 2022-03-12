@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2109462,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 1909701,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 979055,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2945420,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

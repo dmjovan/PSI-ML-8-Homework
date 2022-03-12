@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "scrawl_twentieth"
+    },
+    {
+        "attendance": 1830108,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 1298074,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 605952,
+        "is_indie": false
+    },
+    {
+        "attendance": 3184518,
+        "band_name": "fighter",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4676640,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "attendance": 1333207,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 4114502,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 3705769,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 771561,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    }
+]

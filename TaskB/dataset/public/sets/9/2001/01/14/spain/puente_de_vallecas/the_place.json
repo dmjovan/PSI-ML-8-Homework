@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3651154,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 381247,
+        "band_name": "chieftains_glossary"
+    },
+    {
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 1298047,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    }
+]

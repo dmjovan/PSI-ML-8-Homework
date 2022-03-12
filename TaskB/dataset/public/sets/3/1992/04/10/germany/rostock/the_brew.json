@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4759684,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1760639,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 7834,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 69950,
+        "band_name": "international_furlough",
+        "is_indie": false
+    }
+]

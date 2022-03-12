@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2636426,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1780332,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 1299302,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 4825594,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 629647,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    }
+]

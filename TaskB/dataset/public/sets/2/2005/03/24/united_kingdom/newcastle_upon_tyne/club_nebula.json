@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1357010,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 567880,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 4055054,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 2700515,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 6414848,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

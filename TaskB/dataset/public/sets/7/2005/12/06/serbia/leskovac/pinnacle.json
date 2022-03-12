@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3634637,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2275543,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "band_name": "sayer",
+        "is_indie": true
+    }
+]

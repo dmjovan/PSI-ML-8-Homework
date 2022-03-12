@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1346176,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 4255728,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 6380072,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

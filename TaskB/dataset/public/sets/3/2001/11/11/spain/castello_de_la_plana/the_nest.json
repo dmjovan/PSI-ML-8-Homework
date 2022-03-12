@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 125581,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 236543,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 1085116,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 6554168,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 993450,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

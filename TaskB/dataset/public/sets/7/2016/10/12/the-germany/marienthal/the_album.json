@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 633867,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 57818,
+        "band_name": "manly_pandas"
+    },
+    {
+        "attendance": 78542,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 2005193,
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1294617,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 358399,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 221607,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "attendance": 670329,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    }
+]

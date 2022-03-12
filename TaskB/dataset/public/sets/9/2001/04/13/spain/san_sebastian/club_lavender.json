@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 4343279,
+        "band_name": "edible_rill"
+    },
+    {
+        "attendance": 1405985,
+        "band_name": "deride",
+        "is_indie": false
+    },
+    {
+        "attendance": 1112294,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "attendance": 127591,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2121763,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 4124576,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1598517,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 7312299,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

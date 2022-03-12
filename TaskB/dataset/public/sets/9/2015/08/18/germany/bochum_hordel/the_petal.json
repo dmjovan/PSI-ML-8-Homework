@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "wretch",
+        "is_indie": false
+    },
+    {
+        "attendance": 510989,
+        "band_name": "blanch_coronary",
+        "is_indie": false
+    },
+    {
+        "attendance": 1525400,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    }
+]

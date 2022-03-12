@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1755941,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 2009246,
+        "is_indie": true
+    }
+]

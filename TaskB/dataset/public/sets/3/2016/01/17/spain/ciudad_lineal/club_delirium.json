@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 680583,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 1460233,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 3019692,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 661905,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

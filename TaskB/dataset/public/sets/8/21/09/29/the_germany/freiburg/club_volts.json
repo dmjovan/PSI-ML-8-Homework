@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 687663,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 771743,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 530557,
+        "band_name": "deride",
+        "is_indie": false
+    },
+    {
+        "attendance": 149886,
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    },
+    {
+        "band_name": "pea_freshwater_cargoes"
+    },
+    {
+        "attendance": 1701285,
+        "band_name": "widener_separable",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4204772,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 257965,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 325279,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 193920,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 1796299,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

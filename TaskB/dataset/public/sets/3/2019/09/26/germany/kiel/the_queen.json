@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 770380,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 5647564,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 6056643,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 1317316,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1639671,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

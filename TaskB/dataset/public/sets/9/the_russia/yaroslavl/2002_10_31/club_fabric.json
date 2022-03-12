@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4035639,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 232033,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 9626136,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 735952,
+        "band_name": "ministry_auctioneer"
+    }
+]

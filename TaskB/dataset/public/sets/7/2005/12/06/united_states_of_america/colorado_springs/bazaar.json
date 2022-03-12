@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2049149,
+        "is_indie": false
+    },
+    {
+        "attendance": 3115549,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 3641979,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 1642362,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1180097,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 3020263,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2235746,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2766920,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    }
+]

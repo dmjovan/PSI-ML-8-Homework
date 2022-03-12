@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 423490,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 7410005,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1690981,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 1121121,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 1844073,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    }
+]

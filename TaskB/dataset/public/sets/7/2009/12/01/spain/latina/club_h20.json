@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 614521,
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 6063471,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 5436059,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

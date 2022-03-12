@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1562700,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 396914,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 565701,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 3349822,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

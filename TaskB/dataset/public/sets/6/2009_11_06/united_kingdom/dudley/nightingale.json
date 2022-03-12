@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 1581312,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 7344048,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    }
+]

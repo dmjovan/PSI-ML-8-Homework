@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 481136,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 1398315,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

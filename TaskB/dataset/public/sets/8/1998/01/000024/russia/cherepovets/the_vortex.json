@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 8373349,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 2687185,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 126652,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    }
+]

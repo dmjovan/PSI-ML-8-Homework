@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    },
+    {
+        "attendance": 3495884,
+        "band_name": "breathe_ensemble"
+    },
+    {
+        "attendance": 1343782,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 60746,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 3422011,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1781495,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    }
+]

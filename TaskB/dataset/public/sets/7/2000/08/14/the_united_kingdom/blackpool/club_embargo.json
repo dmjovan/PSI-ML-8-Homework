@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 3017699,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1105506,
+        "is_indie": true
+    }
+]

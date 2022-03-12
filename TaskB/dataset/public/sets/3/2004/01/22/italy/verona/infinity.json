@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3088859,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 595082,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 1438012,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 1743348,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 973963,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 123845,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 134942,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1999180,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 1126585,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

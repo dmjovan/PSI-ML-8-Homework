@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 320623,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 6769067,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 228069,
+        "is_indie": false
+    },
+    {
+        "attendance": 6377922,
+        "band_name": "either_whittle",
+        "is_indie": false
+    }
+]

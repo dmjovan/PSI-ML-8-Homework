@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2949425,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 8530073,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 4835912,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

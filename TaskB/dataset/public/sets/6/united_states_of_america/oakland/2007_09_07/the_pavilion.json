@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 276456,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 980309,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "attendance": 355397,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 3616555,
+        "band_name": "bivouac",
+        "is_indie": false
+    }
+]

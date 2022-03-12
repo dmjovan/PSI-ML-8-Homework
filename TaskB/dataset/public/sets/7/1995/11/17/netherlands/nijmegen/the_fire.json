@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1948416,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1429302,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "attendance": 1212657,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    }
+]

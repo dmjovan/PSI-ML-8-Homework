@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6513981,
+        "band_name": "seaside",
+        "is_indie": false
+    },
+    {
+        "attendance": 678911,
+        "band_name": "deride",
+        "is_indie": false
+    },
+    {
+        "attendance": 626036,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 1383485,
+        "band_name": "romper",
+        "is_indie": false
+    }
+]

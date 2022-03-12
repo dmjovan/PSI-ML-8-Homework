@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2759195,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 2686482,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 149262,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 857392,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 1375781,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    }
+]

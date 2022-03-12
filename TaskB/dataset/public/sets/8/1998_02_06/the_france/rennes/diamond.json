@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 1991327,
+        "band_name": "bowman"
+    },
+    {
+        "attendance": 249346,
+        "band_name": "channeller",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1223832,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 4439845,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 5025458,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 2271803,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 644553,
+        "band_name": "bans",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 4960988,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1560229,
+        "band_name": "ministry_auctioneer"
+    },
+    {
+        "band_name": "compromised"
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 1796351,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 4090299,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "band_name": "starter_newsletter"
+    },
+    {
+        "attendance": 869798,
+        "is_indie": false
+    },
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "attendance": 442569,
+        "band_name": "hopelessness",
+        "is_indie": false
+    }
+]

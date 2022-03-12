@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 1115152,
+        "band_name": "adapt_pool"
+    },
+    {
+        "attendance": 1897807,
+        "is_indie": true
+    },
+    {
+        "attendance": 59680,
+        "is_indie": true
+    },
+    {
+        "attendance": 2099505,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    }
+]

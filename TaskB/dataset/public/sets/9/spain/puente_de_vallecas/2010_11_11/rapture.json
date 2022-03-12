@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 932469,
+        "is_indie": false
+    },
+    {
+        "attendance": 115784,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    }
+]

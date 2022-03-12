@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 5399511,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    }
+]

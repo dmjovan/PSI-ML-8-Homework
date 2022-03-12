@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 350788,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2509974,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 4983024,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 16752,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

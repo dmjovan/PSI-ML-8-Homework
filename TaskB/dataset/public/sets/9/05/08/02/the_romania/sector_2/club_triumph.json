@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2521582,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "brunette"
+    },
+    {
+        "attendance": 1269959,
+        "band_name": "pea_parker_longitude"
+    },
+    {
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 2149485,
+        "band_name": "sayer",
+        "is_indie": true
+    }
+]

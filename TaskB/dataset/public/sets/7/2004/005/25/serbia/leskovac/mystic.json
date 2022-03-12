@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2502684,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1949231,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 1032309,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 4618258,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

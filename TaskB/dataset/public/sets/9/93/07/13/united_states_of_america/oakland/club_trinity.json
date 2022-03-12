@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 6509158,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "band_name": "lawn_cooper"
+    },
+    {
+        "attendance": 5824343,
+        "band_name": "feline_business",
+        "is_indie": false
+    }
+]

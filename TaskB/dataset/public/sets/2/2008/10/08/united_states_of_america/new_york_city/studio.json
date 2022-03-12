@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3440202,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 4893011,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 6175547,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1679478,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

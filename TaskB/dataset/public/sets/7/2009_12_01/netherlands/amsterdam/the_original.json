@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 3432245,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 3709113,
+        "band_name": "bowman_coca"
+    },
+    {
+        "band_name": "aversion_whine",
+        "is_indie": false
+    }
+]

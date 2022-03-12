@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6253388,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 3851480,
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 943164,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 3613763,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    }
+]

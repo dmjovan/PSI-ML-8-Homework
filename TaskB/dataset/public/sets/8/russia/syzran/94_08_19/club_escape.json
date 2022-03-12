@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1102799,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4843826,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 494892,
+        "band_name": "tag"
+    },
+    {
+        "attendance": 3935092,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "attendance": 6549383,
+        "band_name": "kanji",
+        "is_indie": false
+    }
+]

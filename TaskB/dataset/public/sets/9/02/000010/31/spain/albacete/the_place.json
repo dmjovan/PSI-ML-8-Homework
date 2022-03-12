@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 99938,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 3058703,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

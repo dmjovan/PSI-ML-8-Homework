@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 2579080,
+        "band_name": "burnings_pod"
+    },
+    {
+        "band_name": "kanji"
+    },
+    {
+        "attendance": 8254985,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 7157912,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    }
+]

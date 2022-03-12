@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3697835,
+        "band_name": "complex_figs"
+    },
+    {
+        "attendance": 5841880,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1074369,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2276888,
+        "band_name": "nickels_sufferers"
+    },
+    {
+        "attendance": 515342,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1198343,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    }
+]

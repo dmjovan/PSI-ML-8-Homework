@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3699113,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 2556314,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 76902,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 2624103,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 271492,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

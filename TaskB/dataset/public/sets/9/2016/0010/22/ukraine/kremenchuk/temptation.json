@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2945339,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "attendance": 4118939,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 4572924,
+        "band_name": "trust"
+    },
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 2122368,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    }
+]

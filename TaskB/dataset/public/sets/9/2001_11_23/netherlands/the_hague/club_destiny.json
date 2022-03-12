@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "band_name": "quo_socialize",
+        "is_indie": true
+    }
+]

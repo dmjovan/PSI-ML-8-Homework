@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6647351,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 239793,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1534083,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 452973,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2871511,
+        "band_name": "pea_carve",
+        "is_indie": false
+    }
+]

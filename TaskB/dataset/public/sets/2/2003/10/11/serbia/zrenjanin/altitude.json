@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 136487,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 4769987,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 2492604,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1847675,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    }
+]

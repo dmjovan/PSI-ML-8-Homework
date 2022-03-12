@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 3709477
+    },
+    {
+        "attendance": 1019412,
+        "is_indie": false
+    },
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 1640715,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    }
+]

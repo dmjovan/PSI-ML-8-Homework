@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 156345,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 947761,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "attendance": 1735963,
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "band_name": "peninsula_dignitary"
+    },
+    {
+        "attendance": 1318763,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    }
+]

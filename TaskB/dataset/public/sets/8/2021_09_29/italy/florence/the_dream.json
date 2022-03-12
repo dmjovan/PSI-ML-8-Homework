@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2953566,
+        "band_name": "philosophers_preludes"
+    },
+    {
+        "attendance": 505291,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 1698058,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 4195507,
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "attendance": 2311355,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 6047041,
+        "is_indie": false
+    }
+]

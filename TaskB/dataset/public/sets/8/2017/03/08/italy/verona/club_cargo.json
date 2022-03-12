@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 125735,
+        "is_indie": true
+    },
+    {
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 5215001,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "attendance": 228054,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 2228048,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    }
+]

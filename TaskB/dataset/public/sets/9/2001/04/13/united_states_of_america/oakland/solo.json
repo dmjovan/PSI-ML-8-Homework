@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 5508767,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 3229626,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "attendance": 9158848,
+        "band_name": "edible_rill"
+    },
+    {
+        "attendance": 5138874,
+        "band_name": "equinox_research",
+        "is_indie": false
+    }
+]

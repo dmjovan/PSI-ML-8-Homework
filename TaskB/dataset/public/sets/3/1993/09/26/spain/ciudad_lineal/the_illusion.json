@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1588279,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 2169714,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 1574855,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 263698,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 541382,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

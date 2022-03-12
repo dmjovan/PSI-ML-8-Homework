@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 202363,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 2210742,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 1999781,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    },
+    {
+        "attendance": 6568650,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    }
+]

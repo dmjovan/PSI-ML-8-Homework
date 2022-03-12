@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2748967,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "attendance": 2597162,
+        "is_indie": false
+    },
+    {
+        "attendance": 3084660,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 3833595,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    }
+]

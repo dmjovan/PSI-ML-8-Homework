@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 408759,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3068287,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 3413017,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 934339,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

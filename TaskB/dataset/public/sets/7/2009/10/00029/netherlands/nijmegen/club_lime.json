@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 422734,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 839998,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 821568,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    }
+]

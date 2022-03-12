@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2299402,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 141378,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 4082910,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 2869651,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1675409,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

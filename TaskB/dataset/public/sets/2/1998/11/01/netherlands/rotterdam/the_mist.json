@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 393625,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 1079018,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 943763,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    }
+]

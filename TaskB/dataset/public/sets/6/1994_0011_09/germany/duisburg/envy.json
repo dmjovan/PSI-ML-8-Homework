@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2672732,
+        "is_indie": true
+    },
+    {
+        "attendance": 735464,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    }
+]

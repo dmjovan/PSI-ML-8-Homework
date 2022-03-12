@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 342176,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2962576,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 2879947,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 4960853,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

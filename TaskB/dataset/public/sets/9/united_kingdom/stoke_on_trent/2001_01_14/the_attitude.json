@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 39633,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 3267068,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "band_name": "acorn_pence",
+        "is_indie": false
+    }
+]

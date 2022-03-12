@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 7326306,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 2388944,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 2337437,
+        "band_name": "brazing_canopy"
+    }
+]

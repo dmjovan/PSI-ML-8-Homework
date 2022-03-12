@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 442402,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 8992202,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1264514,
+        "is_indie": false
+    },
+    {
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3711790,
+        "band_name": "any_madder"
+    }
+]

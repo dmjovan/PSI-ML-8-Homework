@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4953918,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 231550,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 852879,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    }
+]

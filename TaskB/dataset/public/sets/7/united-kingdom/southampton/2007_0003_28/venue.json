@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2787486,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 3234988,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "attendance": 2982306,
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "attendance": 398094,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    },
+    {
+        "attendance": 44926,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5714671,
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    },
+    {
+        "attendance": 871091,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 943395,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    }
+]

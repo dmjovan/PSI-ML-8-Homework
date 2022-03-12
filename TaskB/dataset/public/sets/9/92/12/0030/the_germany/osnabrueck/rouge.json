@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3110824,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "attendance": 1331074,
+        "band_name": "corset",
+        "is_indie": false
+    }
+]

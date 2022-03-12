@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1582483,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 177050,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1178819,
+        "band_name": "furniture_glow"
+    },
+    {
+        "attendance": 1679370,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    }
+]

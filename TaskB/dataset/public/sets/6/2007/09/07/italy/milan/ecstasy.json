@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2873740,
+        "band_name": "fetus_husk_crier"
+    },
+    {
+        "attendance": 3589557,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 380432,
+        "band_name": "nimbus",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 9753859,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1468716,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 3381944,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 595813,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

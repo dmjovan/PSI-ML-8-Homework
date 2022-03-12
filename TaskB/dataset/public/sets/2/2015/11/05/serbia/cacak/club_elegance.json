@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 544896,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1380186,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 2426645,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 334761,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 5722505,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

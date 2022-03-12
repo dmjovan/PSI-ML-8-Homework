@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 269013,
+        "is_indie": false
+    },
+    {
+        "attendance": 1458285,
+        "band_name": "orb_ware",
+        "is_indie": false
+    }
+]

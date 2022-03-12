@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2501572,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 132740,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 171473,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

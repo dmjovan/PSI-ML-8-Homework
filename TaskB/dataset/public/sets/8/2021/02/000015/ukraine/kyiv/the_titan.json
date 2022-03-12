@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 435067,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 2583731,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 125534,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "attendance": 4065838,
+        "band_name": "prophesy_or_inhaler"
+    }
+]

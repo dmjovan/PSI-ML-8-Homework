@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3186485,
+        "band_name": "anemia_psychologist"
+    },
+    {
+        "attendance": 5135706,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 3325008,
+        "is_indie": false
+    },
+    {
+        "attendance": 3995662,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2681184,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    }
+]

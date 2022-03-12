@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 70180,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 891763,
+        "band_name": "deserter"
+    },
+    {
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 4131097,
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 771666,
+        "band_name": "prunes"
+    }
+]

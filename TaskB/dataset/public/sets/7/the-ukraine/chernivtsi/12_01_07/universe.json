@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 5234955,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 458489,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 849739,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 47101,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 164302,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 700066,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1259682,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

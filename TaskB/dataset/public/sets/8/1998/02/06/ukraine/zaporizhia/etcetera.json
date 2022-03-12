@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 3019917,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1475916,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "band_name": "chewers_mesquite"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 514301,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_porters",
+        "is_indie": true
+    }
+]

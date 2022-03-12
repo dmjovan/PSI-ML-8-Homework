@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 6725034,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "attendance": 2078560,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 7968020,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    }
+]

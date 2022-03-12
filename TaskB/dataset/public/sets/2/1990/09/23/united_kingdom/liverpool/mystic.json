@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 719140,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 3520964,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 347013,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

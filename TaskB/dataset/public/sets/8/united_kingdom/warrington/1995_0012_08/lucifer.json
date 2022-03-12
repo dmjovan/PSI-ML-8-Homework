@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "attendance": 3846658,
+        "is_indie": true
+    },
+    {
+        "attendance": 1141794,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    }
+]

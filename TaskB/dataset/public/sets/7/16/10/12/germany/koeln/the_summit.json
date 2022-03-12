@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 759148,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 181637,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 2932480,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1373983,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 2261859,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 1069612,
+        "band_name": "sonata_bunkers"
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 1373855,
+        "band_name": "scrawl_twentieth"
+    }
+]

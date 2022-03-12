@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 948935,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1443716,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 2771747,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 1595301,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 2325570,
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 4314513,
+        "is_indie": false
+    },
+    {
+        "attendance": 1434230,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 1195894,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    }
+]

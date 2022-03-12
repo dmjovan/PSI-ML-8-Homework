@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 622282,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3950232,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "band_name": "cooper"
+    },
+    {
+        "attendance": 710950,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1286716,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "attendance": 2033689,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "attendance": 1047525,
+        "band_name": "breathe_ensemble"
+    }
+]

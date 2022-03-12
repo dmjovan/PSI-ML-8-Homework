@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 7357395,
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 2105707,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    }
+]

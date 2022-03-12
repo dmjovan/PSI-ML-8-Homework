@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6196774,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 516975,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 5500017,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 2188251,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 294853,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 435888,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1475282,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 2006095,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 246383,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

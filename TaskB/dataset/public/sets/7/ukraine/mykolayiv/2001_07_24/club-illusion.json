@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1223582,
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "attendance": 746299,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 2152234,
+        "band_name": "sayer"
+    },
+    {
+        "attendance": 392038,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

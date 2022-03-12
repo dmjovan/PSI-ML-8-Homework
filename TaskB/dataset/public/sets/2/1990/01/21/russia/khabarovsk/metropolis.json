@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6768722,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2120510,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 6140205,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 24095,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 7116715,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

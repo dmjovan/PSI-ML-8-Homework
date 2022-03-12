@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 702448,
+        "band_name": "matrix_mare"
+    },
+    {
+        "attendance": 261686,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "attendance": 492051,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 657567,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 230116,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 1367890,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 6388718,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 40926,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

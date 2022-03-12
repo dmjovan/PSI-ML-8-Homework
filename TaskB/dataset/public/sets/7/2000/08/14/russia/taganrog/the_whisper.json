@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 102125,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 1517870,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    }
+]

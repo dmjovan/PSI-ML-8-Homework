@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1993882,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 6254935,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 915808,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    }
+]

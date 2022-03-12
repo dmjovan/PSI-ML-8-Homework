@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 4459457,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "band_name": "an_grow_into",
+        "is_indie": false
+    }
+]

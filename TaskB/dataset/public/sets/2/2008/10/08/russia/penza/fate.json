@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4330978,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 2974084,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 194165,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 191528,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 6245575,
+        "band_name": "groves_juggler"
+    },
+    {
+        "attendance": 6219303,
+        "band_name": "tore"
+    },
+    {
+        "attendance": 3370402,
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1389410,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    }
+]

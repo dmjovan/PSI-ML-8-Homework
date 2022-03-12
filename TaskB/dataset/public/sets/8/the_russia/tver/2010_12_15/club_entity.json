@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 94739,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 1424666,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

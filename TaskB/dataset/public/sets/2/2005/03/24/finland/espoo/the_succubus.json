@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 8133644,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 1695298,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 3674606,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 929179,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 154613,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

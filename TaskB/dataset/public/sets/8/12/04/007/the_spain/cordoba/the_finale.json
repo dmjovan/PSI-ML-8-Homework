@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 183443,
+        "band_name": "quarry_divisional"
+    },
+    {
+        "attendance": 5365404,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    }
+]

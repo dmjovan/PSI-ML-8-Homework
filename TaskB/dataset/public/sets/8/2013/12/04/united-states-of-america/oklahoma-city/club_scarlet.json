@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1399543,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 1576261,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    }
+]

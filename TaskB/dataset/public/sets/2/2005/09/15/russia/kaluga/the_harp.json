@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6774735,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1605869,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 3308924,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 4190067,
+        "band_name": "activate_bill",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2895962,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 6886728,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 339646,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1829677,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 3873916,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2255857,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 142094,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

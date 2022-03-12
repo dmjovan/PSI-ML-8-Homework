@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1263732,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 1405568,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 4474441,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 1817987,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 4214695,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

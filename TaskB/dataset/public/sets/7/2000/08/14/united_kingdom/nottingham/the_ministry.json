@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 4081863,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 8518549,
+        "band_name": "aversion_whine"
+    }
+]

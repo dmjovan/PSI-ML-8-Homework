@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 706866,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 1372751,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 2555297,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    }
+]

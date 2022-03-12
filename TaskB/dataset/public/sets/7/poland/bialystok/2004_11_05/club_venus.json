@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3961531,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 1461741,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 170599,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    }
+]

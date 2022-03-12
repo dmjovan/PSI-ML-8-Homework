@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 590379
+    },
+    {
+        "attendance": 1855506,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 2226938,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 2058307,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    }
+]

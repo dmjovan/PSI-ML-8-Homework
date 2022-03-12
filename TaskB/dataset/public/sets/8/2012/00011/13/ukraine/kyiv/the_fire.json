@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "attendance": 421844,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 5037141,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 3807590,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    }
+]

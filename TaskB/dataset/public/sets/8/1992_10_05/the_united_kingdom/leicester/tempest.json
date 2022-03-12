@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "deserter"
+    },
+    {
+        "attendance": 1520309,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 6096422,
+        "band_name": "ration",
+        "is_indie": true
+    }
+]

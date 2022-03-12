@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 96293,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 598861,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1856409,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 3801796,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 3138113,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    }
+]

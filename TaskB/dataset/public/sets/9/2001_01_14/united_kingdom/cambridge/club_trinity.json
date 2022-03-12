@@ -1,0 +1,15 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 3214065,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 3752062,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    }
+]

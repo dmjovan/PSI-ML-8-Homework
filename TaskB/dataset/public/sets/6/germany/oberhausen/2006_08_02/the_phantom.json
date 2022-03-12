@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "attendance": 11116,
+        "is_indie": true
+    },
+    {
+        "attendance": 5529037,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    }
+]

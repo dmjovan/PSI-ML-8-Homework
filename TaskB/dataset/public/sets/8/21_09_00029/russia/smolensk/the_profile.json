@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 156352,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 1439524,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 1583034,
+        "band_name": "fighter"
+    },
+    {
+        "attendance": 538382,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    }
+]

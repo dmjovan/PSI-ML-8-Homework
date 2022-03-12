@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3611303,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 256305,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 1962761,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 4106883,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 817760,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

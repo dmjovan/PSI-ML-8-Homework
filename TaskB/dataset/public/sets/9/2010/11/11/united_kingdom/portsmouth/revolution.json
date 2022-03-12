@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 5088424,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 1035870,
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 2982848,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "attendance": 4718735,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2939144,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 254711,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 289284,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 4450780,
+        "band_name": "an_warrant",
+        "is_indie": false
+    }
+]

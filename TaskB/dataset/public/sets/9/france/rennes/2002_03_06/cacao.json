@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3851457,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 3208765,
+        "band_name": "cassette_leniency"
+    },
+    {
+        "attendance": 63328,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    }
+]

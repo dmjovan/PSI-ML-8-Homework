@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1944349,
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 2771002,
+        "is_indie": true
+    },
+    {
+        "attendance": 5633,
+        "band_name": "arson_balsam"
+    }
+]

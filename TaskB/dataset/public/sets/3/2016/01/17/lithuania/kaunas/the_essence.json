@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2011758,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 1851886,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 7164586,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

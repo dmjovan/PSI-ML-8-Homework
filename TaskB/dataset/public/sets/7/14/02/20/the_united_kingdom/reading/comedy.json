@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4577002,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 2017681,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 143160,
+        "is_indie": false
+    },
+    {
+        "attendance": 66615,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    }
+]

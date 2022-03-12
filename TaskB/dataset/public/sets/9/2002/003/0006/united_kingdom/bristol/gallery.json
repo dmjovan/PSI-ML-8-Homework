@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 582337,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    },
+    {
+        "attendance": 2082794,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    }
+]

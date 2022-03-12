@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1429235
+    },
+    {
+        "attendance": 2522678,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "attendance": 3135241,
+        "band_name": "wan_hale",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 4972370,
+        "band_name": "those_shrews_scarlet"
+    },
+    {
+        "attendance": 5815630,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 417220,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 1587057,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1519615,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 4023756,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

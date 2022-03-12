@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 7370661,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 800751,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 100241,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "attendance": 1382280,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2393508,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    }
+]

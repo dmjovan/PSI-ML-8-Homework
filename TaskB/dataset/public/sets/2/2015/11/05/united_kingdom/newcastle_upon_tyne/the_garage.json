@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5589590,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 4655707,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 4155772,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2055714,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 1860423,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

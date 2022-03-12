@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1228272,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    },
+    {
+        "attendance": 2663676,
+        "band_name": "any_stormy",
+        "is_indie": true
+    }
+]

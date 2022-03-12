@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 511985,
+        "band_name": "executor"
+    },
+    {
+        "attendance": 7210441,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 849219,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 6647534,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 2405979,
+        "is_indie": false
+    }
+]

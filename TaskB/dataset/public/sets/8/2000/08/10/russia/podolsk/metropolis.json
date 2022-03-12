@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 586479,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 111148,
+        "is_indie": true
+    },
+    {
+        "attendance": 2820451,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 5641051,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 1573583,
+        "band_name": "soy_bites"
+    }
+]

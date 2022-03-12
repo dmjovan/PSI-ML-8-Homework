@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 4617248,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "attendance": 187932,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    }
+]

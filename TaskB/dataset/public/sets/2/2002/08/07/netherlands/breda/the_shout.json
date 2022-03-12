@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1012195,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3108779,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 3640110,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 7711370,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 35366,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

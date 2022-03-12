@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "aggregates_seduce"
+    },
+    {
+        "attendance": 168485,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "band_name": "infirmary_grapevine"
+    },
+    {
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 3122579,
+        "is_indie": false
+    }
+]

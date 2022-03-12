@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3971739,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 5376398,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 274242,
+        "band_name": "pause_queen"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "observatory",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1410329,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 3914751,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 8769157,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 2553812,
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    },
+    {
+        "attendance": 3182298,
+        "band_name": "adapt_pool"
+    }
+]

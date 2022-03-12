@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2231465,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

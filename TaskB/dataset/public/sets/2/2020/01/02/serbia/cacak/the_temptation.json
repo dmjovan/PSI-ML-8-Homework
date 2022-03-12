@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 485139,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 262849,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 143055,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2914890,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 839608,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    }
+]

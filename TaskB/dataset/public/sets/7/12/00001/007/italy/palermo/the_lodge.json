@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4856775,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 1159688,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 105224,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 1188378,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 109128,
+        "band_name": "stairwell",
+        "is_indie": false
+    }
+]

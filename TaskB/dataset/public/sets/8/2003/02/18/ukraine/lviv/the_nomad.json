@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1166689,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 425462,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1734471,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 1855296,
+        "is_indie": false
+    }
+]

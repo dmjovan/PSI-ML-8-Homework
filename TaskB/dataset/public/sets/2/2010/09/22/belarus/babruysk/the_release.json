@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1364058,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 4538954,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3089808,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 1655613,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

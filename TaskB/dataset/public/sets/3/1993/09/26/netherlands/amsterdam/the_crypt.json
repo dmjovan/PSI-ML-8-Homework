@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3217688,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 1852145,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 116381,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1542144,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 772262,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

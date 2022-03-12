@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3401385,
+        "is_indie": false
+    },
+    {
+        "attendance": 2911457,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "band_name": "fussing"
+    },
+    {
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 1076859,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    }
+]

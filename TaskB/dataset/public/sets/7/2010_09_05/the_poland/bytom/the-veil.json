@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 7279354,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 4370924,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 767128,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    }
+]

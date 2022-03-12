@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1252555,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1290718,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 264100,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 304238,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

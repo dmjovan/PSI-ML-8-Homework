@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2143313,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 4223811,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3134235,
+        "band_name": "opiate_sack"
+    }
+]

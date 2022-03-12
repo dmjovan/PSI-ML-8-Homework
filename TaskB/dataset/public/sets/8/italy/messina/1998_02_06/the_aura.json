@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1439763,
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 3617453,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 1463055,
+        "band_name": "elk_artist",
+        "is_indie": false
+    }
+]

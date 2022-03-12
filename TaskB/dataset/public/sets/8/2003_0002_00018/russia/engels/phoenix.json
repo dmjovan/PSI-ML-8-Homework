@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 3348564,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "band_name": "furniture_glow",
+        "is_indie": false
+    }
+]

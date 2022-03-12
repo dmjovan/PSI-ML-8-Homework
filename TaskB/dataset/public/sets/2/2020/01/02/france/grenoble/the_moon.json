@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5736274,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 12956,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2596054,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 1070253,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    }
+]

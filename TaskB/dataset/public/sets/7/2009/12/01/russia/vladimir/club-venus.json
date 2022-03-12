@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 9854494,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 242143,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    }
+]

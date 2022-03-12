@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "attendance": 1262008,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 630175,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 763672,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1069101,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 611550,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    }
+]

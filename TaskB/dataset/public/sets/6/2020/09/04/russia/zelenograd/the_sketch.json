@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 174959,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 167300,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "attendance": 3328852,
+        "band_name": "blocker_advisory"
+    },
+    {
+        "attendance": 176994,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    }
+]

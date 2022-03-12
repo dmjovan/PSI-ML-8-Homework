@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1175339,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 1191165,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 148118,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 6418967,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2402601,
+        "band_name": "no_whereas_solitary"
+    },
+    {
+        "attendance": 1441500,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "attendance": 5825,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    }
+]

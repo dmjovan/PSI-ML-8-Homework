@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 897650,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 8283678,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 587169,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 2033484,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 102916,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

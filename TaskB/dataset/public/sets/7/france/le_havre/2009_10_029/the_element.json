@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2828574,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 75502,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1298227,
+        "band_name": "voting_ridden"
+    },
+    {
+        "band_name": "dale_burl",
+        "is_indie": false
+    }
+]

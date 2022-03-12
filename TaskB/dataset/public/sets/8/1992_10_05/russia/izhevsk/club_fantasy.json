@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "attendance": 7022346,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "attendance": 6294223,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 4857024,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "band_name": "soggy",
+        "is_indie": false
+    }
+]

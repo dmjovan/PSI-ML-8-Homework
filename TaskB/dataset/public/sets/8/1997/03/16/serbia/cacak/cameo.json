@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 858551,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 664933,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

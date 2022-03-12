@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2496780,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 5961569,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 940711,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 6300929,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 3421293,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 840640,
+        "band_name": "wretch",
+        "is_indie": false
+    },
+    {
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    },
+    {
+        "attendance": 1204491,
+        "is_indie": false
+    }
+]

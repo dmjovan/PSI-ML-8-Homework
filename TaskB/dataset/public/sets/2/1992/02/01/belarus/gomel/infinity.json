@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3327720,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 2508028,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 265617,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 3586845,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    }
+]

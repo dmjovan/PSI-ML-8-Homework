@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "placenta_boathouse"
+    },
+    {
+        "attendance": 5105423,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 4521636,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    }
+]

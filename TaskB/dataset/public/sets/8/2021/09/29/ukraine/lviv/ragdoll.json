@@ -1,0 +1,10 @@
+[
+    {
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "band_name": "matrix_mare",
+        "is_indie": true
+    }
+]

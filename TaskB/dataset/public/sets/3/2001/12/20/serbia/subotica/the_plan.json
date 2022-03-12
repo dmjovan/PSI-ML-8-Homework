@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 523880,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 930784,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 6301727,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 2260303,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 3929170,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

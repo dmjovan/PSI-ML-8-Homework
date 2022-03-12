@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 6986592,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 4407564,
+        "band_name": "tore",
+        "is_indie": false
+    }
+]

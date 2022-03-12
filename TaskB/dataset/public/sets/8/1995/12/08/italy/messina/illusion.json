@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 1690054,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 326104,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "band_name": "arson_balsam",
+        "is_indie": true
+    }
+]

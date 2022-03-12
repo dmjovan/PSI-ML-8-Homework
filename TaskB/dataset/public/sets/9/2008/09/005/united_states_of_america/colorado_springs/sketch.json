@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2030682,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    },
+    {
+        "attendance": 4686986,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "attendance": 1156133,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 387071,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 579972,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 5999988,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 606260,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 73102,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

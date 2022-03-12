@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1280312,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 4973813,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 1503984,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 2536048,
+        "band_name": "soggy",
+        "is_indie": false
+    }
+]

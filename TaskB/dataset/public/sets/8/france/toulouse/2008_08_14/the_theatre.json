@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2646603,
+        "band_name": "complex_figs"
+    },
+    {
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 192965,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "band_name": "exclaim"
+    },
+    {
+        "attendance": 648949,
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

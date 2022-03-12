@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 3347037,
+        "band_name": "governmental_bureau"
+    },
+    {
+        "attendance": 1047021,
+        "band_name": "bowman",
+        "is_indie": false
+    }
+]

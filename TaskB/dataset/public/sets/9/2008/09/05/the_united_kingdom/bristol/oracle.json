@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 876441,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 682622,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    }
+]

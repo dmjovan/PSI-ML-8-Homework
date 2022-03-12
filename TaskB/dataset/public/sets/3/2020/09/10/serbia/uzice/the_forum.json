@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 893083,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 707714,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 600978,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    }
+]

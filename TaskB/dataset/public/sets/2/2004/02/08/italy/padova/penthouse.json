@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7921293,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 972126,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 7367800,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2978243,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 362691,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    }
+]

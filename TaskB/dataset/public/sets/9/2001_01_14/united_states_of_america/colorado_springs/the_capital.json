@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 193016,
+        "band_name": "mountaineer_stitches"
+    },
+    {
+        "attendance": 4179414,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 4523786,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2369064,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

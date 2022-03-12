@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1997580,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 100434,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

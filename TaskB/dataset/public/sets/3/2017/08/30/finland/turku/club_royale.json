@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 915083,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 5023890,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 440647,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 2257614,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

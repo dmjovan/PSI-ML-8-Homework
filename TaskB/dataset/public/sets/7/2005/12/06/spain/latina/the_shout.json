@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3422308,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 3429670,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1091981,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 2439194,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    }
+]

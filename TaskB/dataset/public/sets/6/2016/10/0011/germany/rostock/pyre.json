@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3425038,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 2856101,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 1067743,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    }
+]

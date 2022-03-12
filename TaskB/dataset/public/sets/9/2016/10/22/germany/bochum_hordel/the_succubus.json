@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 627111,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 3951870,
+        "band_name": "all_beehives_aviator"
+    },
+    {
+        "attendance": 145784,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 3381331,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 482597,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 62791,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 2377708,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 1825635,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

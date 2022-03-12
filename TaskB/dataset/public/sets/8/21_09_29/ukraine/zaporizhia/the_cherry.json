@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 4063744,
+        "is_indie": false
+    },
+    {
+        "attendance": 1832816,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 3444106,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 899062,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 7504023,
+        "band_name": "soy_bites",
+        "is_indie": false
+    }
+]

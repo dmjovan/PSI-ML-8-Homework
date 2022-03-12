@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6660543,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 2219459,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 4864597,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 2647840,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 186357,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

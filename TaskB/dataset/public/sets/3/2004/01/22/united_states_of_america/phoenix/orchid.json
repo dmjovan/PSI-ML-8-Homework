@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 973475,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 869194,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 176552,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 1193718,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

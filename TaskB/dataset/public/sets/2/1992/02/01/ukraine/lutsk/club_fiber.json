@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5209679,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 4692695,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    }
+]

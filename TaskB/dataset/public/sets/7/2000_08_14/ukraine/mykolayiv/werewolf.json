@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 160514,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 3958930,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 2208370,
+        "band_name": "exclaim",
+        "is_indie": true
+    }
+]

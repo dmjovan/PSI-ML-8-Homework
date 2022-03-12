@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2160785,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 5452027,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 5599734,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1000217,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 8240826,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

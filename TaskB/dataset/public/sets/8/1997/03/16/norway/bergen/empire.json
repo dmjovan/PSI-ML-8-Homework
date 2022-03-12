@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "attendance": 2567569,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 266643,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "band_name": "port_psalms",
+        "is_indie": false
+    }
+]

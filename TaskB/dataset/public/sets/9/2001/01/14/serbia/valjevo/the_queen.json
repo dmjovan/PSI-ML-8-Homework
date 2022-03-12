@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 344162,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 152904
+    },
+    {
+        "attendance": 86813,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 399783,
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "attendance": 1575362,
+        "band_name": "corset"
+    }
+]

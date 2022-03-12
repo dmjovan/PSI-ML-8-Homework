@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 290423,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 814485,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 346028,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 3409093,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2041762,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

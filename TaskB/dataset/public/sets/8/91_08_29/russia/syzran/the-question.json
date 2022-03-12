@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_porters"
+    },
+    {
+        "attendance": 7941750,
+        "band_name": "windmills",
+        "is_indie": false
+    }
+]

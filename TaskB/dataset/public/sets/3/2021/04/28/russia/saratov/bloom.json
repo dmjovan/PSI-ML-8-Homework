@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4701289,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1755823,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 3282681,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1603225,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

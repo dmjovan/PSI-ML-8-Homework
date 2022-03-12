@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3301253,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 975796,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1515194,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 36096,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3405559,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4036432,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 5175443,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 383775,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 260448,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2706557,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    }
+]

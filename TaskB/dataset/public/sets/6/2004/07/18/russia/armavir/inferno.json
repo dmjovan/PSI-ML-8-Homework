@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 766607,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 3912764,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    }
+]

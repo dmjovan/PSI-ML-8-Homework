@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 2015947,
+        "band_name": "wan_hale"
+    },
+    {
+        "attendance": 1351941,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "attendance": 272082,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "attendance": 490334,
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 188149,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    }
+]

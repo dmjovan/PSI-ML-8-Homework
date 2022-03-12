@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1069062,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 276534,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 1003532,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 6699862,
+        "is_indie": false
+    }
+]

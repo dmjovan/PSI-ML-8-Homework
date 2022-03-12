@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 6062206,
+        "band_name": "wretch"
+    },
+    {
+        "attendance": 4793500,
+        "band_name": "locusts_salvation"
+    },
+    {
+        "attendance": 693897,
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "attendance": 1216445,
+        "band_name": "groves_juggler"
+    },
+    {
+        "attendance": 1428261,
+        "band_name": "opprobrium_cranes"
+    }
+]

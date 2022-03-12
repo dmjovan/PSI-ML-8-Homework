@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "attendance": 1691116,
+        "is_indie": false
+    },
+    {
+        "attendance": 114106,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 491222,
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

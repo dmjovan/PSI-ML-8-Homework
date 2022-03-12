@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    },
+    {
+        "attendance": 1490146,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "attendance": 617905,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "attendance": 6129328,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

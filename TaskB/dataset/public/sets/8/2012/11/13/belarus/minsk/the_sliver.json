@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 6344922,
+        "band_name": "brazing_canopy"
+    },
+    {
+        "attendance": 1193241,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 4360563,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "band_name": "backyard_roam"
+    },
+    {
+        "attendance": 3879465,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    }
+]

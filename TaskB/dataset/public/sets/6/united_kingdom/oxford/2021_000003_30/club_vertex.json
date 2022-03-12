@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3248995,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 720951,
+        "is_indie": false
+    },
+    {
+        "attendance": 1348658,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "attendance": 2534792,
+        "band_name": "grudge"
+    }
+]

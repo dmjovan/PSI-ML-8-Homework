@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "all_beehives_aviator"
+    },
+    {
+        "attendance": 5759550,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "band_name": "cassette_leniency"
+    },
+    {
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    }
+]

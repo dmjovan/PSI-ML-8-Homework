@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 347648,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3390792,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 1192395,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 52223,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

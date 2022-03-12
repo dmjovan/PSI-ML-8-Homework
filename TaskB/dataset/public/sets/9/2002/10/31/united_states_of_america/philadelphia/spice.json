@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1207051,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 4834869,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 5384894,
+        "is_indie": true
+    }
+]

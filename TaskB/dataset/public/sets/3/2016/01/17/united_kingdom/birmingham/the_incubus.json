@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3732551,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 1127440,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 8924581,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 727269,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    }
+]

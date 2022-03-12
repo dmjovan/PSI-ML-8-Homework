@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1558795,
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 410293,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 920798,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    },
+    {
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    }
+]

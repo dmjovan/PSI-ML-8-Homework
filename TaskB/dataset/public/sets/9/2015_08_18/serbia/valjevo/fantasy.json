@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 3934672,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "attendance": 6101192,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    }
+]

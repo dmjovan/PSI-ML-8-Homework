@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 381975,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "band_name": "pie_addendum"
+    },
+    {
+        "attendance": 2219398,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    }
+]

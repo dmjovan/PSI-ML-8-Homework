@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3959288,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1589708,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 171615,
+        "band_name": "international_furlough",
+        "is_indie": false
+    }
+]

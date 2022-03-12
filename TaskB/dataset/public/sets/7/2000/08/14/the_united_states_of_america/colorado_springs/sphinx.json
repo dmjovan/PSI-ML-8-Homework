@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1151632,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    }
+]

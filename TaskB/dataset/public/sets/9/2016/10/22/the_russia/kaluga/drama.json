@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3352525,
+        "band_name": "whence_hospital_die_rattle"
+    },
+    {
+        "attendance": 3966433,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 4446759,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "attendance": 5505552,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "attendance": 1255986,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5894443,
+        "band_name": "blanch_coronary",
+        "is_indie": false
+    },
+    {
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 4664495,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 6755073,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1267744,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 6009085,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 171205,
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 4857460,
+        "band_name": "ration",
+        "is_indie": true
+    }
+]

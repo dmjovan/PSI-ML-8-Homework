@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2563599,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 434939,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    }
+]

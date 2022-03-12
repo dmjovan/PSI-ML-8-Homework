@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5381351,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 91654,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1350216,
+        "band_name": "bans",
+        "is_indie": false
+    }
+]

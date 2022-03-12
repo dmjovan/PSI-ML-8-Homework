@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1381451,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "band_name": "abundantly_brothels"
+    },
+    {
+        "attendance": 774317,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2450848,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    }
+]

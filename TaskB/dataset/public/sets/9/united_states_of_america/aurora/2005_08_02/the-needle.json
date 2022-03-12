@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3192911,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 6405831,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1453852,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "attendance": 126989,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    }
+]

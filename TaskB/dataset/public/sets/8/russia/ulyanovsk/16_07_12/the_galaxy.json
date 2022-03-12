@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1729453,
+        "band_name": "untidy_mailer"
+    },
+    {
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 327809,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 6837646,
+        "band_name": "bill_inducer"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1058024,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 218107,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 4277128,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 4481707,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2122289,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    }
+]

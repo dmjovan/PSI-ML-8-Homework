@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 800936,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 96004,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 140282,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3165459,
+        "band_name": "outdoors"
+    },
+    {
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    }
+]

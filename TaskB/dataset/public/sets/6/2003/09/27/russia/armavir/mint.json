@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 812745,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 403788,
+        "band_name": "briefcase_aboriginal"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 346492,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 2185517,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 417668,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

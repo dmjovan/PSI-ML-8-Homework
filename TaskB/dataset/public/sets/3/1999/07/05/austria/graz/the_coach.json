@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5003946,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 975026,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

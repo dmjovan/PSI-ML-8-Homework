@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 144349,
+        "band_name": "junky_sulk"
+    },
+    {
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 1687732,
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "band_name": "quitters_recline",
+        "is_indie": false
+    }
+]

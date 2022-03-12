@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1175160,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 347719,
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    }
+]

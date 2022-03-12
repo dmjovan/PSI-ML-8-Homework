@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4423893,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 3159398,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 1380439,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 564821,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 1887751,
+        "band_name": "fighter",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "band_name": "trance_petters"
+    },
+    {
+        "attendance": 594100,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 771306,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "band_name": "ministry_auctioneer"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 424381,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 479725,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 3154019,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    }
+]

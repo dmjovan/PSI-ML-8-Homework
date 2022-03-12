@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "attendance": 1660923
+    },
+    {
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    }
+]

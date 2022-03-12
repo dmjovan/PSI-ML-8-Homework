@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2115037,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 1009935,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 1658440,
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "attendance": 4470228,
+        "band_name": "blocker_advisory"
+    }
+]

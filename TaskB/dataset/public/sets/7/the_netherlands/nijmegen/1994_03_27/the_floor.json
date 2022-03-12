@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 5531106,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 1904523,
+        "is_indie": false
+    },
+    {
+        "attendance": 224220,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 281796,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    }
+]

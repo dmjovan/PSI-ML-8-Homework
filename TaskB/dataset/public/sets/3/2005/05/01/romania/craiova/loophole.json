@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 722668,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 1513879,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 2178228,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 366871,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 932940,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    }
+]

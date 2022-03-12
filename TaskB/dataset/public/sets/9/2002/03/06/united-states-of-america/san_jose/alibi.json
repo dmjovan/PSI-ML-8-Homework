@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 7497324,
+        "band_name": "adobe_cookery"
+    },
+    {
+        "attendance": 4457308,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "attendance": 3189071
+    },
+    {
+        "band_name": "orb_ware",
+        "is_indie": false
+    }
+]

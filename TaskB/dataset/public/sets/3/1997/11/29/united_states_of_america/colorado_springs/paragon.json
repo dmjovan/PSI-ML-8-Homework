@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1820905,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 1481489,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 6872164,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1216218,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 818436,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 723293,
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "attendance": 246658,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 110887,
+        "is_indie": false
+    },
+    {
+        "attendance": 6635949,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    }
+]

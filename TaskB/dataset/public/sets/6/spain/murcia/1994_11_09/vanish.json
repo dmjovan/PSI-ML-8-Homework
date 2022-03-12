@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2607102,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 209770,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1798350,
+        "band_name": "reservoir_near_goal"
+    },
+    {
+        "attendance": 2478963,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 3320668,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "attendance": 3944986,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    }
+]

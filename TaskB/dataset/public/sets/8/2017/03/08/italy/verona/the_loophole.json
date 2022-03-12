@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "band_name": "potters_assembly"
+    },
+    {
+        "attendance": 6689283,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 191989,
+        "is_indie": false
+    },
+    {
+        "attendance": 1781302,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    }
+]

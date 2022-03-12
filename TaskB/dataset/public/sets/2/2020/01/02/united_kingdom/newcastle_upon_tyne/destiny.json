@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 821758,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 2373423,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 1103682,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

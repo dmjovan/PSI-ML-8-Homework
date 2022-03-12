@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 3292277,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "attendance": 2862641,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 994987,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 6829980,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 341046,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 1748350,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 125069,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    },
+    {
+        "attendance": 3693416,
+        "is_indie": false
+    },
+    {
+        "attendance": 1047992,
+        "is_indie": false
+    },
+    {
+        "attendance": 1307495,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 3762642,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    }
+]

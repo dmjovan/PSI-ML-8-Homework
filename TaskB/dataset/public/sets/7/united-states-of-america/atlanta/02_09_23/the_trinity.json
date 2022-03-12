@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 2368996,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

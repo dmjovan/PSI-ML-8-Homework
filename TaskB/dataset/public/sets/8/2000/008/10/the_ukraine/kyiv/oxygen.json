@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 1622324,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 5271619,
+        "band_name": "windmills"
+    },
+    {
+        "attendance": 294214,
+        "band_name": "prunes",
+        "is_indie": false
+    }
+]

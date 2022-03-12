@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3822109,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 3304550,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 7429232,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 5056340,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

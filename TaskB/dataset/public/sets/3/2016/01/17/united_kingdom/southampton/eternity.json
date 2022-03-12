@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2574218,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 1967686,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    }
+]

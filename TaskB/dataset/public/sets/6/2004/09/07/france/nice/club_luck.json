@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 201744,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 3744907,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 672632,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    }
+]

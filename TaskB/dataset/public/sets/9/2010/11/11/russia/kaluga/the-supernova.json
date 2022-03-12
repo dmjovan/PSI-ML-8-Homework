@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 957500,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 6056713,
+        "is_indie": false
+    },
+    {
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 197523,
+        "band_name": "cranberry_hospitality"
+    },
+    {
+        "attendance": 848886
+    }
+]

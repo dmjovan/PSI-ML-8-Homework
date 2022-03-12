@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1177421,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 4866347,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1936503,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 237052,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 187148,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 6154171,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 729698,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

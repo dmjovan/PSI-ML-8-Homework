@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 688692,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 3041463,
+        "band_name": "smashers_miller"
+    },
+    {
+        "attendance": 4821254,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    }
+]

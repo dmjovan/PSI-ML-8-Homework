@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 6997850,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2041093,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

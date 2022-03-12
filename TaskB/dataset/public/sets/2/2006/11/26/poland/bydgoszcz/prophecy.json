@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1673315,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 428192,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 2806037,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3746829
+    },
+    {
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "attendance": 746203,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 149421,
+        "band_name": "rant",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    }
+]

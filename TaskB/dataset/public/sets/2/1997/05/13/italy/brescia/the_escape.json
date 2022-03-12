@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 911427,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 5060219,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 2770225,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2504697,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 1455042,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

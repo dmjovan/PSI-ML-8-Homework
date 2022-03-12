@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3406687,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "band_name": "cookie_happier",
+        "is_indie": false
+    }
+]

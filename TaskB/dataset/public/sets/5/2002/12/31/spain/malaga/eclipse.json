@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5504527,
+        "band_name": "florin_parlor",
+        "is_indie": true
+    },
+    {
+        "attendance": 1708651,
+        "band_name": "cardinal_salt",
+        "is_indie": false
+    },
+    {
+        "attendance": 159923,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 1966520,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1647556,
+        "band_name": "hot_imperatives",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 9371,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 2023689,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 2555824,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

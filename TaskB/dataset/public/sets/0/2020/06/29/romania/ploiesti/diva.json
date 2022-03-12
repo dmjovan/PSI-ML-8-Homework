@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1307904,
+        "band_name": "deception_monkeys_conditioner",
+        "is_indie": false
+    },
+    {
+        "attendance": 492930,
+        "band_name": "giver_leash",
+        "is_indie": false
+    },
+    {
+        "attendance": 547417,
+        "band_name": "regenerator_rooftop",
+        "is_indie": true
+    },
+    {
+        "attendance": 102115,
+        "band_name": "counterfeit_income_index",
+        "is_indie": false
+    },
+    {
+        "attendance": 7900201,
+        "band_name": "unreliable_railway",
+        "is_indie": false
+    }
+]

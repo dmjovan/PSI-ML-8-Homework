@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 5877165,
+        "is_indie": false
+    },
+    {
+        "attendance": 342332,
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "attendance": 5600588,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 1066711,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    }
+]

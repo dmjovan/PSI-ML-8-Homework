@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 2255821,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "attendance": 1379551,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 783587,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 6270794,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    }
+]

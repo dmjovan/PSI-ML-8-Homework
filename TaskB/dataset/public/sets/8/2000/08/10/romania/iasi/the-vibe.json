@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1981851,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 1559981,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    }
+]

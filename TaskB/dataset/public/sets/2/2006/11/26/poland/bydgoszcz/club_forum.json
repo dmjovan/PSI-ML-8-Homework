@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2990543,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2658390,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 73559,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3722768,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

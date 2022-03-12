@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 130596,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 4717868,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

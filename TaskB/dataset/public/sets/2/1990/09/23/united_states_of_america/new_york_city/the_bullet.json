@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1796451,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 1367652,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 811732,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 3074792,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

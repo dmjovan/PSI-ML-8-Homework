@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 7324069,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 2498120,
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 406030,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    }
+]

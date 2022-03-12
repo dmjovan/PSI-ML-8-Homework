@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 821673,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    }
+]

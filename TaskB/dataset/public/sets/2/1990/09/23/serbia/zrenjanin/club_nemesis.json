@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5888482,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 4837420,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 99001,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 6207103,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

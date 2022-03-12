@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 73205,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 1344245,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 798809,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 6284130,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 735673,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

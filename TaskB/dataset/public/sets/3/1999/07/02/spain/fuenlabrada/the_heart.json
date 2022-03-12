@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4951610,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 1157629,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 4136656,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 80050,
+        "band_name": "international_furlough",
+        "is_indie": false
+    }
+]

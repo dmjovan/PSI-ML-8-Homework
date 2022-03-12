@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2483669,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2470946,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    }
+]

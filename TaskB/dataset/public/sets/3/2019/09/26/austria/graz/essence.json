@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4969240,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 8118532,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 4740679,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 5746080,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

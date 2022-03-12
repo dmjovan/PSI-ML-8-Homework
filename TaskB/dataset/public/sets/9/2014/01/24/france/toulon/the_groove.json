@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3708876,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 7832346,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "attendance": 1829477,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 4046962,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "attendance": 6266601,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4078485,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 87152,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1781366,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 3848916,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    }
+]

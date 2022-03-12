@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 344744,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 1635406,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1697895,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1696543,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

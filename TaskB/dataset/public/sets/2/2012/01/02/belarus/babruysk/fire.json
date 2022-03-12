@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6119533,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 772926,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 143528,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 1581916,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    }
+]

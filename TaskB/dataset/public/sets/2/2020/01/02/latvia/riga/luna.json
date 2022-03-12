@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2398597,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 4257464,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 162326,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 2358579,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 465871,
+        "band_name": "flock_store",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 864075,
+        "is_indie": true
+    },
+    {
+        "attendance": 901575,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "band_name": "tag",
+        "is_indie": false
+    }
+]

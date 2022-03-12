@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 855518,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 6734602,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 5320501,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 876379,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

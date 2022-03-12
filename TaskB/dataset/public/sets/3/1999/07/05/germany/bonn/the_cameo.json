@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4424165,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1082985,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 2293793,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 1266356,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

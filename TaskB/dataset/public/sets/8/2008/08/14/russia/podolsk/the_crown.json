@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 752755,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1048862,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1368318,
+        "band_name": "fighter"
+    }
+]

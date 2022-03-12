@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4516358,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 2715154,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1259006,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 4119017,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 695108,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    }
+]

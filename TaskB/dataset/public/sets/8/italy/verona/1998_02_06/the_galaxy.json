@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2898626,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "attendance": 229469,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "attendance": 828325,
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    }
+]

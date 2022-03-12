@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4463300,
+        "band_name": "larder_tinge"
+    },
+    {
+        "attendance": 121703,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 4097187,
+        "band_name": "hypocrite",
+        "is_indie": false
+    }
+]

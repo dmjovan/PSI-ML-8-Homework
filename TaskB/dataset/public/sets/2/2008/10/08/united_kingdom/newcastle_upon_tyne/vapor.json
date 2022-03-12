@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3207415,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 287386,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 875538,
+        "band_name": "either_classical",
+        "is_indie": false
+    }
+]

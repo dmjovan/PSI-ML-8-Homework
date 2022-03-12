@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 233470,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 3213029,
+        "band_name": "an_warrant",
+        "is_indie": false
+    }
+]

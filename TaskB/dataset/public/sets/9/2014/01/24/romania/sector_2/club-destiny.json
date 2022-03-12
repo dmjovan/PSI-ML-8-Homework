@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "junky_sulk"
+    },
+    {
+        "attendance": 3645974,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "attendance": 2006774,
+        "band_name": "admiral_skylight"
+    },
+    {
+        "attendance": 241570,
+        "is_indie": false
+    }
+]

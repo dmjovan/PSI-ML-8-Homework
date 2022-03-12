@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 158581,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 456274,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1848591,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 372419,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 8250576,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 75407,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 165193,
+        "is_indie": false
+    },
+    {
+        "attendance": 1712965,
+        "is_indie": false
+    },
+    {
+        "attendance": 1296896,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    }
+]

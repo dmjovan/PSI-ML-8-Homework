@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 9337542,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "jug_bagger"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 404363,
+        "band_name": "weekly_assemblages"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1996168,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 312859,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1141086,
+        "is_indie": false
+    }
+]

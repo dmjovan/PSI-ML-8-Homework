@@ -1,0 +1,13 @@
+[
+    {
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "band_name": "woofers_engineered"
+    },
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    }
+]

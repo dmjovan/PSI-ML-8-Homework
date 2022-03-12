@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7032020,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 3429532,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 3829055,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 2017434,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 2938,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

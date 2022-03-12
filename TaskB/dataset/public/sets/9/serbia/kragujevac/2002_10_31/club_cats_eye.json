@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 356383,
+        "band_name": "smuggler_annuals"
+    },
+    {
+        "attendance": 1013616,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    }
+]

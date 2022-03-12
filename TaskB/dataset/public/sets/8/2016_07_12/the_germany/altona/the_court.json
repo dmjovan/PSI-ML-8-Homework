@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 5014039,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 5478826,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "band_name": "potters_assembly"
+    }
+]

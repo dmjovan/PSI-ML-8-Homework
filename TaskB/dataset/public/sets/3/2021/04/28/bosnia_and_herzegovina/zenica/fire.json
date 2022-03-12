@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7295111,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2262740,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1506562,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 4935423,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "cooper"
+    },
+    {
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "arson_balsam",
+        "is_indie": true
+    }
+]

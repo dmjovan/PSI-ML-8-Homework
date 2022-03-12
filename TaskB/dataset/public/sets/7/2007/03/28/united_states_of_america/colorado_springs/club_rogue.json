@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 6833729,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 1650903,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 969461,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    }
+]

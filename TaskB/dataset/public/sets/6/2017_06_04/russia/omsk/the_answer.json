@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 533496,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "attendance": 4623645,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 564729,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 587030,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    }
+]

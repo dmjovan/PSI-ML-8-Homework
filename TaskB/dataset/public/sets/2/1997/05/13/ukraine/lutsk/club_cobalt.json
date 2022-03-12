@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1188271,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 3735473,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    }
+]

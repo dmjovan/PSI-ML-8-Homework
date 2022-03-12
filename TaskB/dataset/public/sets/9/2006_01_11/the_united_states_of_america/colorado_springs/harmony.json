@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3238534,
+        "band_name": "levee_or_any_gymnast_boatmen"
+    },
+    {
+        "attendance": 7836901,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    }
+]

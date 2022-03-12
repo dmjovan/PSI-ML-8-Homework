@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4443495,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "attendance": 7514269,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "attendance": 3101085,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    }
+]

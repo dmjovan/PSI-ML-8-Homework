@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2718732,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 3478984,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 742689,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2410250,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "band_name": "antennas_ricochet"
+    }
+]

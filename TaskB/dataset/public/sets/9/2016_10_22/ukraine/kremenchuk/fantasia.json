@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1495889,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 1855816,
+        "band_name": "blanch_coronary"
+    },
+    {
+        "attendance": 3743580,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "attendance": 997166,
+        "is_indie": false
+    },
+    {
+        "attendance": 578298,
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    }
+]

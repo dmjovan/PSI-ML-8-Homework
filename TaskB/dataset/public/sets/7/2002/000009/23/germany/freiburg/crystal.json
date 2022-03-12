@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3254369,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 9744243,
+        "is_indie": false
+    },
+    {
+        "attendance": 813946,
+        "is_indie": false
+    },
+    {
+        "attendance": 3444953,
+        "band_name": "vibrator",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1820719,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 6630970,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 1761232,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 1144885,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

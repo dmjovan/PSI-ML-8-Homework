@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 683208,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 53341,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 200387,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 3280008,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 950456,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

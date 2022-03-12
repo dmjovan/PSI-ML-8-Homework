@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2585949,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 63649,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1691692,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 879531,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    }
+]

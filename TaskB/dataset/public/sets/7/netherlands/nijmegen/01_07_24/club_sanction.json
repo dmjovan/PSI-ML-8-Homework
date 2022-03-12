@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 201460,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1790493,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "dale_burl",
+        "is_indie": false
+    }
+]

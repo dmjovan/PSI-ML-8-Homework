@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 222970,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 2555550,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    }
+]

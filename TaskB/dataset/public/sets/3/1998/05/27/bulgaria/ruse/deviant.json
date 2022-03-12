@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2548949,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 2680664,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 2359778,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

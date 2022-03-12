@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2717647,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1659035,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "attendance": 3593204,
+        "is_indie": true
+    },
+    {
+        "attendance": 350902,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    }
+]

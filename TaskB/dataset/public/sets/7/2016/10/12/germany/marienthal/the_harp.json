@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5220668,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 2069377,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 4645340,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2057765,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    }
+]

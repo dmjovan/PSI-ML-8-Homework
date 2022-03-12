@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 9074200,
+        "band_name": "burnings_pod"
+    },
+    {
+        "attendance": 922709,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 1855742,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 2052060,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "attendance": 907742,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    }
+]

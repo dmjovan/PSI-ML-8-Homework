@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 581148,
+        "is_indie": false
+    },
+    {
+        "attendance": 229296,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 646948,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    }
+]

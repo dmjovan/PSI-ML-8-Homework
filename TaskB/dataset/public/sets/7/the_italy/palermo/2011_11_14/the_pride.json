@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5436704,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 7008449,
+        "band_name": "innovate_boomerang"
+    },
+    {
+        "attendance": 6970489,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1366154,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    }
+]

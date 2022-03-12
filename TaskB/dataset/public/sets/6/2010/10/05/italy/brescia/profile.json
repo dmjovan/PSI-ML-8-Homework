@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 450689,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 5140876,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "band_name": "an_grow_into"
+    }
+]

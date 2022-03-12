@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2653584,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 104948,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 5165732,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    }
+]

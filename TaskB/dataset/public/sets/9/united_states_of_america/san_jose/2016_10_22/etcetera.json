@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1798779,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 593063,
+        "is_indie": false
+    },
+    {
+        "attendance": 594850,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    }
+]

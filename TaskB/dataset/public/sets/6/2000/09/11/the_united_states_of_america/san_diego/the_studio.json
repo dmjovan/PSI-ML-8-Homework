@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1887622,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 303172,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "attendance": 5502084,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    }
+]

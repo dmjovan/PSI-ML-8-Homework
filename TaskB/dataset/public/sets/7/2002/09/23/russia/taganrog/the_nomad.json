@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2699400,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1681154,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 4913545,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

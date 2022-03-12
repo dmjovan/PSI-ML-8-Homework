@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1232639,
+        "band_name": "bikini_shrew"
+    },
+    {
+        "attendance": 2107600,
+        "is_indie": false
+    },
+    {
+        "attendance": 4432529,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    }
+]

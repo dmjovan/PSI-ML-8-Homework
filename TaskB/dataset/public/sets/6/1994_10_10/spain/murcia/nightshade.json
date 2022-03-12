@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 3439872,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    }
+]

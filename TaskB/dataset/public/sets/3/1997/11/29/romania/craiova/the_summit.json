@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3876451,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 4239788,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 938713,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 811863,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 4056713,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

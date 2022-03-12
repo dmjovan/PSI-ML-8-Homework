@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6194243,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 1469517,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 3123766,
+        "band_name": "pea_carve",
+        "is_indie": false
+    }
+]

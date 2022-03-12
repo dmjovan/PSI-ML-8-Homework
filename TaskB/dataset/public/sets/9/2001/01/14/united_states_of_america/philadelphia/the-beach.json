@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 905564,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 1085486,
+        "band_name": "orb_ware"
+    },
+    {
+        "attendance": 63782,
+        "band_name": "shod_tramp"
+    },
+    {
+        "attendance": 468393,
+        "band_name": "tore",
+        "is_indie": false
+    }
+]

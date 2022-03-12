@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 3481911,
+        "is_indie": false
+    },
+    {
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 4793132,
+        "band_name": "dragons",
+        "is_indie": false
+    }
+]

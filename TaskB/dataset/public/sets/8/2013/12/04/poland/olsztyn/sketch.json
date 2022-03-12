@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 125293,
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 182729,
+        "band_name": "meeker_doomsday"
+    },
+    {
+        "attendance": 49534,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "attendance": 6421130,
+        "is_indie": false
+    }
+]

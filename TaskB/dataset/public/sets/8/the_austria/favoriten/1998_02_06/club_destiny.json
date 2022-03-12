@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 683122,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    }
+]

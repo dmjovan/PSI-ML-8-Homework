@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 8015130,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 2257575,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 824030,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

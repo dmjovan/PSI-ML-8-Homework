@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 988421,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 269273,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 67355,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 2607666,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

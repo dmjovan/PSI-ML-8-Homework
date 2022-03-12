@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3737924,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 3532335,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 1967131,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 6237963,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

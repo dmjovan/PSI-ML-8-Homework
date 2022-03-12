@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 4824969,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 4370543,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 1035573,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    }
+]

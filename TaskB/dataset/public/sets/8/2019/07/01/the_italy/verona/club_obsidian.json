@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 853836,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "attendance": 2146217,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 3608788,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 6264852,
+        "band_name": "jug_bagger"
+    }
+]

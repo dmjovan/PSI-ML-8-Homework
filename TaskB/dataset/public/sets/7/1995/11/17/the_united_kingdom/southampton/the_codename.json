@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2682931,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 135787,
+        "band_name": "voting_ridden"
+    },
+    {
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1683457,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 2043787,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1127745,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 470664,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 187549,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

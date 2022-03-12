@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 7446484,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 1327024,
+        "band_name": "scoundrel_elite"
+    }
+]

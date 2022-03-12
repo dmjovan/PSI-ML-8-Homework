@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5119772,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1418705,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1371699,
+        "band_name": "redemption",
+        "is_indie": false
+    }
+]

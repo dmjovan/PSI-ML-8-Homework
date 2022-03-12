@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 4309703,
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "attendance": 3836103,
+        "band_name": "mask",
+        "is_indie": false
+    }
+]

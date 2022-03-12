@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1410005,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 80217
+    },
+    {
+        "attendance": 1877119,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 7498711,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    }
+]

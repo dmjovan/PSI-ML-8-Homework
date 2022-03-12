@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 334616,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "attendance": 171593,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 8411633
+    },
+    {
+        "attendance": 569448,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

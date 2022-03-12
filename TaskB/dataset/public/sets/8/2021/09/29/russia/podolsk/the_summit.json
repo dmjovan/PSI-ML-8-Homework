@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 8642430,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 896640,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "attendance": 1765203,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    }
+]

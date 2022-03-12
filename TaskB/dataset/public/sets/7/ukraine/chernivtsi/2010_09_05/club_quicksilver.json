@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 3045818,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    }
+]

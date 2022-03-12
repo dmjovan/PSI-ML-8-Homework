@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 6525792,
+        "band_name": "shod_tramp"
+    },
+    {
+        "attendance": 2275810,
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1925946,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    },
+    {
+        "attendance": 4205421,
+        "band_name": "locality_baptism__console"
+    },
+    {
+        "attendance": 3189249,
+        "band_name": "snake_pong",
+        "is_indie": false
+    }
+]

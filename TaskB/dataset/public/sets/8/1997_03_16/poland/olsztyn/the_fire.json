@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 2742947,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 215863,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "attendance": 2276948,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 1559926,
+        "band_name": "ration",
+        "is_indie": true
+    }
+]

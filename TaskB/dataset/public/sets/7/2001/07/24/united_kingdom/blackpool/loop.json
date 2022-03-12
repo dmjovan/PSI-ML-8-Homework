@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 269095,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 138724,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 4533817,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 2711310,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 2584338,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    }
+]

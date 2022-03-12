@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 6546188,
+        "band_name": "seaside"
+    },
+    {
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 5707807,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "band_name": "quo_socialize",
+        "is_indie": true
+    }
+]

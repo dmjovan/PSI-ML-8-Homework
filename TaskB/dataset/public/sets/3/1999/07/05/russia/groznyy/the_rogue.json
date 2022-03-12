@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3602279,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 824599,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1020061,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 3241922,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1690845,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1258348,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 39472,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 2529916,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 295843,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 3979794,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

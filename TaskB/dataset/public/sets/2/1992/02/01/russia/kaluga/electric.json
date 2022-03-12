@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 62005,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2632997,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 3873351,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2238753,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1851777,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

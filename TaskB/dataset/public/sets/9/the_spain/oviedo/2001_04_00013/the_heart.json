@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1079967,
+        "band_name": "quo_socialize"
+    },
+    {
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 2425705,
+        "band_name": "cassette_leniency"
+    }
+]

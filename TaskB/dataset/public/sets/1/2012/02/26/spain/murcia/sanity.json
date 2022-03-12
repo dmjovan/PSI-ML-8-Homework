@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2844110,
+        "band_name": "utopia_whisper",
+        "is_indie": false
+    },
+    {
+        "attendance": 7774424,
+        "band_name": "cooper",
+        "is_indie": true
+    }
+]

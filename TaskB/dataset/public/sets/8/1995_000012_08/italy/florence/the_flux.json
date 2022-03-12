@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 7432263,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 1637425,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {},
+    {
+        "attendance": 3030083,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 346011,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

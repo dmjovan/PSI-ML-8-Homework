@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3320886,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 223013,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    }
+]

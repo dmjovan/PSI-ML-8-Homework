@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4292942,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 3297684,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 566489,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

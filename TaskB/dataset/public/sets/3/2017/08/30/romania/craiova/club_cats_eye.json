@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2288071,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 169181,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 327170,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 1532836,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 117335,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

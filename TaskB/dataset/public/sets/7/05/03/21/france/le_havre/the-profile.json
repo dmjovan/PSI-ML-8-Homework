@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2051621,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 1329638,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 693672,
+        "is_indie": true
+    }
+]

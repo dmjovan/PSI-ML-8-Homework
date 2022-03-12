@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 941165,
+        "band_name": "corrections_dilation"
+    },
+    {
+        "attendance": 3998353,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    }
+]

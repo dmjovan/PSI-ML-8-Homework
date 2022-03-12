@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 938854,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 4049316,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

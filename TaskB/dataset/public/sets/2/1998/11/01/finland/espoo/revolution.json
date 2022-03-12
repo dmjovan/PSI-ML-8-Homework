@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3036864,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2451771,
+        "band_name": "contracting",
+        "is_indie": true
+    }
+]

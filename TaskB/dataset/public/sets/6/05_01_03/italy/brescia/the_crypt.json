@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2539076,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "attendance": 4340156,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 3333049,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    }
+]

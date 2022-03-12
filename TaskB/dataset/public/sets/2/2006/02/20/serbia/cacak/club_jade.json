@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 322899,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 2113432,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2002588,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 4280617,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 38294,
+        "band_name": "deride",
+        "is_indie": false
+    },
+    {
+        "attendance": 5024121,
+        "band_name": "corrections_dilation"
+    },
+    {
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    }
+]

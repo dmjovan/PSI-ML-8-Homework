@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1516010,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 4097033,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 2585709,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 546458,
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

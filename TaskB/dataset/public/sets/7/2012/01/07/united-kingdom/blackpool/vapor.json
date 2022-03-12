@@ -1,0 +1,10 @@
+[
+    {
+        "band_name": "float"
+    },
+    {
+        "attendance": 1552021,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

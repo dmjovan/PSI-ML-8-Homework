@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 539339,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "attendance": 2171542,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 382024,
+        "band_name": "automata_politics"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 263080,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2104099,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 4590413,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 2031783,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    }
+]

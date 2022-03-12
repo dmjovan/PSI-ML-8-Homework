@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 75335,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 792802,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 2389799,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 7060822,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

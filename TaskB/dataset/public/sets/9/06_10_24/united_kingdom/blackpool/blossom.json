@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 1292499,
+        "band_name": "romper"
+    },
+    {
+        "attendance": 3947769,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "band_name": "opprobrium_cranes"
+    },
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    }
+]

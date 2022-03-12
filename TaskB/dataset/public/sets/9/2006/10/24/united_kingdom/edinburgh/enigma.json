@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    },
+    {
+        "attendance": 950925,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 2361344,
+        "band_name": "snake_pong"
+    },
+    {
+        "attendance": 4940361,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    }
+]

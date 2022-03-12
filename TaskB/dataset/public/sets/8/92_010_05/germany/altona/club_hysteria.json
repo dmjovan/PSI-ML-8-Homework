@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 402836,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 222232,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 3638348,
+        "band_name": "prophesy_or_inhaler"
+    },
+    {
+        "attendance": 1192812,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "band_name": "amoeba",
+        "is_indie": false
+    }
+]

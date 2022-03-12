@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 212284,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 2431650,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 679949,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 360832,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    }
+]

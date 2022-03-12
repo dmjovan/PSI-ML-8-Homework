@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 19369,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 816836,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 3198859,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    }
+]

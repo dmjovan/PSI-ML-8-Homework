@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1636212,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 6949074,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 666560,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 9017,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 2267700,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    }
+]

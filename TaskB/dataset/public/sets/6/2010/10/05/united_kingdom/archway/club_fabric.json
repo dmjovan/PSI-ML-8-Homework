@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 1985272,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 3104973,
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 943214,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    }
+]

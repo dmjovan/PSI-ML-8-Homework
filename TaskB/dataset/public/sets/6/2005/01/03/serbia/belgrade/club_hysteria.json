@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1040263,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 914272,
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 410104,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 3275827,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "attendance": 959236,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 538787,
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "attendance": 779595,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "band_name": "across_plus_personalized"
+    },
+    {
+        "attendance": 1743898,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    }
+]

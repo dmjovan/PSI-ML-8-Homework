@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 619723,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 2491885,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1757326,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

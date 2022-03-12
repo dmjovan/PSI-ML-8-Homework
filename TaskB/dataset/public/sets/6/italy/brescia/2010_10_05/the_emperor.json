@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 697633,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 3471851,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 425395,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    }
+]

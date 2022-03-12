@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 469726,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1002408,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 3486698,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 7817188,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 890575,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    }
+]

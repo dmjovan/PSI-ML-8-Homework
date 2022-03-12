@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 615122,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 1813178,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 1190838,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

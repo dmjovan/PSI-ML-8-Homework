@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2167278,
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "attendance": 6112253,
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "band_name": "grudge",
+        "is_indie": false
+    }
+]

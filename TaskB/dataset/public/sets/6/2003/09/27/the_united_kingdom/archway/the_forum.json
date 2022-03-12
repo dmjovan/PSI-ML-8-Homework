@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1555969,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 647432,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 5222738,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    }
+]

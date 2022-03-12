@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 7746414,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 44951,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1109008,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

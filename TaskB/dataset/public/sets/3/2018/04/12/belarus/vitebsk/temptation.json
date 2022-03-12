@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 921161,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1759579,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 215612,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 2541081,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

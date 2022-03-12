@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 5930185,
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "band_name": "adobe_cookery"
+    },
+    {
+        "attendance": 2104214,
+        "band_name": "vine_blitzkrieg"
+    },
+    {
+        "attendance": 1582023,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

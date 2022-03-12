@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 187905,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 224484,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 7708262,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "paraffin",
+        "is_indie": false
+    }
+]

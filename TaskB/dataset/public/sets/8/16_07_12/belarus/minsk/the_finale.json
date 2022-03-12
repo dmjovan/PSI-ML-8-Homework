@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 48117
+    },
+    {
+        "attendance": 1739607,
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "attendance": 2364163,
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "band_name": "peanuts_mountaineer"
+    }
+]

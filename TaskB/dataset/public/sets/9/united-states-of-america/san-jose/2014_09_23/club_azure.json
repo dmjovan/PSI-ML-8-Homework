@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 4257624,
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "attendance": 2711831,
+        "band_name": "adobe_cookery"
+    },
+    {
+        "attendance": 1301921,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    },
+    {
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

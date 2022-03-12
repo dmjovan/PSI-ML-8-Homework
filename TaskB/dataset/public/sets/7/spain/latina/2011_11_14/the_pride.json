@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5290328,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 1062932,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    }
+]

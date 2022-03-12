@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2421508,
+        "band_name": "twentieth_deck"
+    },
+    {
+        "attendance": 1694431,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 3901380,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    },
+    {
+        "attendance": 4816296,
+        "band_name": "any_stormy",
+        "is_indie": true
+    }
+]

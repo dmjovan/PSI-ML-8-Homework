@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1917281,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1153779,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 6058116,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 2471055,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 1871713,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

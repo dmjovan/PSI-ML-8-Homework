@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 133705,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 5146063,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 5067088,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "maniacs_lawn"
+    },
+    {
+        "is_indie": false
+    }
+]

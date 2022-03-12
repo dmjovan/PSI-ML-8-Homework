@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2775176,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 813371,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 742128,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 189655,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 10235,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 925628,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 6014460,
+        "band_name": "earls_damper"
+    },
+    {
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "attendance": 1495238,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1467305,
+        "band_name": "premiers_decimate"
+    }
+]

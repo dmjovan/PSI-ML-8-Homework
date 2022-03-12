@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1763447,
+        "band_name": "breadwinner_biller"
+    },
+    {
+        "attendance": 1649915,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 2405164,
+        "band_name": "chili_rho"
+    },
+    {
+        "attendance": 6580149,
+        "band_name": "any_madder"
+    }
+]

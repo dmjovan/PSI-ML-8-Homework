@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 2282231,
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    },
+    {
+        "attendance": 2871563,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 51674,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 4389784,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 6432660,
+        "is_indie": false
+    },
+    {
+        "attendance": 1677194,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 282356,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

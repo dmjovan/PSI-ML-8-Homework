@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 968402,
+        "is_indie": true
+    },
+    {
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 2117979,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 109422,
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "attendance": 1596795,
+        "band_name": "untidy_mailer"
+    }
+]

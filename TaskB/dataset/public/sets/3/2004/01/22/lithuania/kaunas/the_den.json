@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2725323,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 1292131,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2858023,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 4613266,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    }
+]

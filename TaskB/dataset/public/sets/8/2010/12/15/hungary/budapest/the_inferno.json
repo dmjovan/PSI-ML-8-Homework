@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 4138133,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "band_name": "bowman"
+    },
+    {
+        "attendance": 1056746,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1994822,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 109802,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 2632880,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 560527,
+        "is_indie": false
+    },
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 1202864,
+        "band_name": "nimbus",
+        "is_indie": false
+    }
+]

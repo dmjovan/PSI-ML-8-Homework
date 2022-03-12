@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 203379,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 520946,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 129813,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 776442,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 6980735,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

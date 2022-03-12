@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1562952,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2094542,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 6521123,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 3969789,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 5030414,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

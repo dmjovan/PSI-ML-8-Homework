@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2416993,
+        "band_name": "corset"
+    },
+    {
+        "attendance": 1645045,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 1251524,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 109241,
+        "band_name": "sulphuric",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 6348081,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

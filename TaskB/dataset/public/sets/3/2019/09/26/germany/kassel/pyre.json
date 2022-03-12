@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 989385,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1398173,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

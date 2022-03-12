@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 5349319,
+        "band_name": "flamboyant"
+    },
+    {
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 1960740,
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

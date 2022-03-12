@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 68076,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 486589,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 1430115,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 764656,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 8618682,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 2097681,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 434824,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1331651,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 427004,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

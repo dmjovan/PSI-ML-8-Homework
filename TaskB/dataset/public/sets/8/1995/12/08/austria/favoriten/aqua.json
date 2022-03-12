@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 7225164,
+        "band_name": "governmental_bureau"
+    },
+    {
+        "attendance": 2955610,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 3272292,
+        "band_name": "soggy",
+        "is_indie": false
+    }
+]

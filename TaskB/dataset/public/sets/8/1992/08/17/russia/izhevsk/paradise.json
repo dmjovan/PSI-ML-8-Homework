@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 49475,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    }
+]

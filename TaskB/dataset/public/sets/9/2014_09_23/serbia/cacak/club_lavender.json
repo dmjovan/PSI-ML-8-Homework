@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 18980,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 6923476,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "bonny_hotness"
+    },
+    {
+        "attendance": 105316,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 415232,
+        "is_indie": false
+    },
+    {
+        "band_name": "bowman"
+    },
+    {
+        "attendance": 2301580,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    }
+]

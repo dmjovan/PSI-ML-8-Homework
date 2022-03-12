@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 861361,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 7339602,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1384370,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3035551,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    }
+]

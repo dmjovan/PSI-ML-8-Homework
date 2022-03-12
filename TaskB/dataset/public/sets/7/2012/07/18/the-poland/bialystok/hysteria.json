@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "band_name": "clogs_dynamite"
+    },
+    {
+        "attendance": 5450491,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2249744,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

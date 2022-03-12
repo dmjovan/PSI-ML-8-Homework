@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 248021,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 3640824,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 287957,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 477676,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

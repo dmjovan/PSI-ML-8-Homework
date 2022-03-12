@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 841953,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "band_name": "voting_ridden"
+    },
+    {
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 1112371,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3011438,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 1701647,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "attendance": 677533,
+        "band_name": "learns"
+    },
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    }
+]

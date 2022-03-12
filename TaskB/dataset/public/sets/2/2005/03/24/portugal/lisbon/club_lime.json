@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4615054,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 2283627,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 1021118,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

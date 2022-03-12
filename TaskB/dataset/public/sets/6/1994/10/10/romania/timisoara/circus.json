@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 6984026,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 643718,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 2982446,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "band_name": "saber_advertising",
+        "is_indie": false
+    }
+]

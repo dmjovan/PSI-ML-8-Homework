@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1365868,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 3370993,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1895007,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 503285,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 1306341,
+        "band_name": "each_reverend",
+        "is_indie": true
+    }
+]

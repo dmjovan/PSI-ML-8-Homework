@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1987749,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 1822829,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 6832663,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1326654,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 567010,
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 6611587,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 345390,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "attendance": 4316702,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

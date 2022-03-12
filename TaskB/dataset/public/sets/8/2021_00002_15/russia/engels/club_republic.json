@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 4094393,
+        "band_name": "soy_bites"
+    },
+    {
+        "attendance": 2486860,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 1687050,
+        "band_name": "genre_fighter"
+    }
+]

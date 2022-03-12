@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 277245,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 1110166,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 5992304,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    }
+]

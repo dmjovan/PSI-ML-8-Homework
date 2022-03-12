@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 632443,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 2860901,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1078338,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 5036217,
+        "band_name": "fighter",
+        "is_indie": false
+    }
+]

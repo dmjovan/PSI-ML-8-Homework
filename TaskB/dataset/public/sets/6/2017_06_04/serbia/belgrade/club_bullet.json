@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1914824,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 532329,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 2450693,
+        "band_name": "oracle"
+    },
+    {
+        "attendance": 6832909,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

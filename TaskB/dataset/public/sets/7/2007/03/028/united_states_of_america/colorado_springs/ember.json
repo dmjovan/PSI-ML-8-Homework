@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2168958,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 7241239,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

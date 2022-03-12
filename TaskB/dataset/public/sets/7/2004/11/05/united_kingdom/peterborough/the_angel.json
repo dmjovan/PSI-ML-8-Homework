@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 9586314,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 1417600,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 304259,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    }
+]

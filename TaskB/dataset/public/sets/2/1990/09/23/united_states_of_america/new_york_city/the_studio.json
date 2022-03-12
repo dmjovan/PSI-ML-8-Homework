@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4665014,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 31404,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3159939,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 9489817,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1625922,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    }
+]

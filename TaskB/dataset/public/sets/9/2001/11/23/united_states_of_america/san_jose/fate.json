@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 855858,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1687577,
+        "band_name": "wretch",
+        "is_indie": false
+    },
+    {
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {
+        "attendance": 866898,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    }
+]

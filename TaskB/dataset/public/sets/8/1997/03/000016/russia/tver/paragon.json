@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 646962,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1211973,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 5136993,
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    }
+]

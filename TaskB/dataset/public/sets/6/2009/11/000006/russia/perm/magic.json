@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 6174680,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 2845468,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 2499561,
+        "is_indie": true
+    },
+    {
+        "attendance": 384813,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 264533,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 805319,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 6026064,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1072934,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 3428145,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 5651519,
+        "band_name": "international_face",
+        "is_indie": false
+    }
+]

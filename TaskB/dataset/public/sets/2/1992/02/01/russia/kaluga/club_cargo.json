@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1658905,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 710306,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 8262298,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 1053752,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 473533,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 853837,
+        "band_name": "tingles"
+    },
+    {
+        "attendance": 6674202,
+        "is_indie": true
+    },
+    {
+        "attendance": 2871948,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 283294,
+        "is_indie": true
+    }
+]

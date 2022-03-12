@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 70835,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 3740894,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "band_name": "prophesy_or_inhaler"
+    },
+    {
+        "attendance": 7454981,
+        "is_indie": false
+    }
+]

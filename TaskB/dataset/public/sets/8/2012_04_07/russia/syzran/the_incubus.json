@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1517437,
+        "band_name": "cooper"
+    },
+    {
+        "attendance": 4895170,
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    },
+    {
+        "band_name": "pause_queen",
+        "is_indie": false
+    }
+]

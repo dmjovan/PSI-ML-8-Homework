@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "attendance": 8125615,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 7158019,
+        "band_name": "wan_hale",
+        "is_indie": false
+    },
+    {
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 83147,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 636374,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "band_name": "tag",
+        "is_indie": false
+    }
+]

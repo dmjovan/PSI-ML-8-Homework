@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4315673,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1343842,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1302766,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 140679,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1097932,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 5981306,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 696925,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 5482696,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

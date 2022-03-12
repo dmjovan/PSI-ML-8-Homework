@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1210352,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "attendance": 619004,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 855156,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    }
+]

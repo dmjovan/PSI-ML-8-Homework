@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3541544,
+        "is_indie": false
+    },
+    {
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 894036,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "attendance": 3698693,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 756373,
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3432915,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 5228080,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 2143569,
+        "band_name": "adapt_pool"
+    },
+    {
+        "band_name": "wan_hale",
+        "is_indie": false
+    }
+]

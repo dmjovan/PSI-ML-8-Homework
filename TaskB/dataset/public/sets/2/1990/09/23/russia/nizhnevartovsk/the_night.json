@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3332455,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 7400482,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 5591857,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 916025,
+        "band_name": "either_classical",
+        "is_indie": false
+    }
+]

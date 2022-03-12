@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 2387886,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "attendance": 4449289,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 45842,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    }
+]

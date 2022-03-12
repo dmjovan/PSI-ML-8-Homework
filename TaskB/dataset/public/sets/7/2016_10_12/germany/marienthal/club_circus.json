@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2305620,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 654650,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

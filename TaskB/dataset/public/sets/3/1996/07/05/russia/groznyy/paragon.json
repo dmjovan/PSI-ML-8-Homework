@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 83314,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 7737824,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    }
+]

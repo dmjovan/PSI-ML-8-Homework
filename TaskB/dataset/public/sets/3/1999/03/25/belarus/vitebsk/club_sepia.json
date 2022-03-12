@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 345917,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 790265,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 139362,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2376642,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

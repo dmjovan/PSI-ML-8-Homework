@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 10638
+    },
+    {
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "band_name": "sonata"
+    },
+    {
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 4190973,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

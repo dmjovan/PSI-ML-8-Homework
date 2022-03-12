@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6742049,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2730028,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 1404249,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 3778742,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1817184,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

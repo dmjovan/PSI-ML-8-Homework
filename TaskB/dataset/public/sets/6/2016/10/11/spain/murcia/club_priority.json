@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 7211334,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 210141,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 3714021,
+        "band_name": "oracle",
+        "is_indie": false
+    }
+]

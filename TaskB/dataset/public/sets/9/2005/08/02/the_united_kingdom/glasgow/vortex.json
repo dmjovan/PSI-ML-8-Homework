@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 7101617,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1129335,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    }
+]

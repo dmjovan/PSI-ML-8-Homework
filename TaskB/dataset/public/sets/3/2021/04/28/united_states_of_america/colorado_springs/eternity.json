@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1589800,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 908543,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 5462586,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 3541434,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

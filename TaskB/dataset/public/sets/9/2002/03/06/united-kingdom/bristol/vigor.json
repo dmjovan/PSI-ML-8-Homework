@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 352816,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 3148503,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 1683728,
+        "band_name": "award_boomerang_bailiff"
+    }
+]

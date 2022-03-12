@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3890427,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 3670826,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 5264073,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 445828,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2256981,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2002605,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 610007,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1961017,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    }
+]

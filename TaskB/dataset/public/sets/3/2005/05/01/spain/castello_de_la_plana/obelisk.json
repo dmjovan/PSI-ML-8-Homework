@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1347268,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 501874,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 4961164,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 2342066,
+        "band_name": "bluffing",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 718892,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 317551,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 6755468,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    }
+]

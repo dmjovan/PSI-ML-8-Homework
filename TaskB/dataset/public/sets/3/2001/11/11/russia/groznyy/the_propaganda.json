@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1110999,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 158506,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 146682,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1078467,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

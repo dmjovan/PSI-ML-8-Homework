@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 393647,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 4367112,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2118834,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 638164,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 3849349,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

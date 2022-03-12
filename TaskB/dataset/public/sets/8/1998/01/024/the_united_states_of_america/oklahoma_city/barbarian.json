@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7624304,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 749057,
+        "is_indie": false
+    },
+    {
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 305341,
+        "band_name": "sonata"
+    },
+    {
+        "band_name": "boulder_orthodoxy"
+    }
+]

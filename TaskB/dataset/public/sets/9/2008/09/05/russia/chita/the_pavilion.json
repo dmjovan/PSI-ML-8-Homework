@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 626846,
+        "band_name": "mongoose_primal"
+    },
+    {
+        "band_name": "adobe_cookery"
+    },
+    {
+        "attendance": 1503431,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    }
+]

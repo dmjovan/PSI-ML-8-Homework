@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 726784,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1881078,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1900842,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "band_name": "exclaim",
+        "is_indie": true
+    }
+]

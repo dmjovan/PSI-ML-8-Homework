@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1718521,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 544500,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 6002171,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 3689778,
+        "band_name": "silt_twas",
+        "is_indie": false
+    }
+]

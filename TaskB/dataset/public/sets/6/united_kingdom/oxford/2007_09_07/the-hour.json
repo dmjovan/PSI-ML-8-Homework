@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "an_grow_into"
+    },
+    {
+        "attendance": 159900,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 882480,
+        "is_indie": false
+    },
+    {
+        "attendance": 5247164,
+        "band_name": "flyer_ketchup"
+    },
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

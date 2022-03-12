@@ -1,0 +1,10 @@
+[
+    {
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

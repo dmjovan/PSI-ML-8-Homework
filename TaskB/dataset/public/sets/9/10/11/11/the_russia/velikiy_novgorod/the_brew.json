@@ -1,0 +1,10 @@
+[
+    {
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "band_name": "junky_sulk",
+        "is_indie": false
+    }
+]

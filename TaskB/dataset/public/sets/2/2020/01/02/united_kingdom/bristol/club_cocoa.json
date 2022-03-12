@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 662363,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1791711,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 8191251,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

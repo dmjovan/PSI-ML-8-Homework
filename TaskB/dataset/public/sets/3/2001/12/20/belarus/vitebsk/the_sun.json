@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 773765,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 1106682,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 698480,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 2171210,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 65787,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

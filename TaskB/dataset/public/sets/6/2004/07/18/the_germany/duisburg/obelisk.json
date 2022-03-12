@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 978682,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 2866976,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "band_name": "shifty_diffuser"
+    }
+]

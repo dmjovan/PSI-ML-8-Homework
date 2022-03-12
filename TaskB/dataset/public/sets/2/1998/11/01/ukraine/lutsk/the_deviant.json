@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1716190,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 892679,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 481080,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 3672816,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    }
+]

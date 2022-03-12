@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1661789,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 259200,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1546871,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 867940,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 130647,
+        "band_name": "switchboard",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 38415,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 1085174,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 4435619,
+        "band_name": "advertising",
+        "is_indie": false
+    }
+]

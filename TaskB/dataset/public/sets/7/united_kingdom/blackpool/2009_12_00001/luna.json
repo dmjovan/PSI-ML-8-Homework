@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 141891,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 760169,
+        "band_name": "stairwell"
+    },
+    {
+        "attendance": 2479727,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 1433113,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    }
+]

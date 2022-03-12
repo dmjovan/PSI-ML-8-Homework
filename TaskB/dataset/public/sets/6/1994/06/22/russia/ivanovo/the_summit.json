@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1601544,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 3376028,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 498644,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1479008,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    }
+]

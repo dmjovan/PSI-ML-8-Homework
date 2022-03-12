@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 6515016,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 2257156,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    }
+]

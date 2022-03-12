@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 2971264,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "band_name": "grudge",
+        "is_indie": false
+    }
+]

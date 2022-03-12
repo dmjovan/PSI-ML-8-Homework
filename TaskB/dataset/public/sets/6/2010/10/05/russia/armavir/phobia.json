@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 195786,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 2976707,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 4963705,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

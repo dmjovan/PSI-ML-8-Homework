@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "brides_intonation"
+    },
+    {
+        "attendance": 4470806,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 6094394,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "band_name": "essays",
+        "is_indie": true
+    }
+]

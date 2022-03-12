@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4403778,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 3377814,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1507294,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

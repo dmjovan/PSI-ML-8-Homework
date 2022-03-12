@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7421610,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 160595,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 970149,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2279582,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 151166,
+        "band_name": "flock_store",
+        "is_indie": true
+    }
+]

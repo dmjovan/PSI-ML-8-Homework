@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 1222816,
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    },
+    {
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 5285212,
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 320036,
+        "band_name": "tore"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "attendance": 3936227,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 840142,
+        "band_name": "orb_ware"
+    },
+    {
+        "band_name": "levee_or_any_gymnast_boatmen"
+    }
+]

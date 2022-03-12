@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 1301056,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "band_name": "tang_city"
+    },
+    {
+        "attendance": 473621,
+        "is_indie": false
+    }
+]

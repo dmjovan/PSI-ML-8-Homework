@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 485104,
+        "band_name": "elk_artist"
+    },
+    {
+        "attendance": 1870217,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1336374,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    }
+]

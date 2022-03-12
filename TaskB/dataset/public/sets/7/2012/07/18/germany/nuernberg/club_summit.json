@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 409018,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_porters",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 301979,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 3691090,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 1073393,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    }
+]

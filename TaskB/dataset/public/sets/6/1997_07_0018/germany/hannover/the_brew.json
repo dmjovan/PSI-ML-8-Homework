@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3205535,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 929816,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 767752,
+        "band_name": "grudge"
+    }
+]

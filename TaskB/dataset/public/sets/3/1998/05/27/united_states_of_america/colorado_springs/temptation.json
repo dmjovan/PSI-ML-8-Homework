@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1071422,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 485621,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 1166151,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 191062,
+        "is_indie": false
+    },
+    {
+        "attendance": 1442041,
+        "band_name": "compromised"
+    },
+    {
+        "attendance": 8807632,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    }
+]

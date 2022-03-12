@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 754987,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 1779903,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 1124025,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 8059949,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

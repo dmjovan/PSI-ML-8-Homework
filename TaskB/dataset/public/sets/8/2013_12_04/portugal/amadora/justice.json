@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 5245358,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "attendance": 8122503,
+        "band_name": "peanuts_mountaineer"
+    },
+    {
+        "attendance": 5392102,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

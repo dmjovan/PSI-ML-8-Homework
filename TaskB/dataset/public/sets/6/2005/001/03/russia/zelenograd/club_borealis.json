@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 20911,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 776925,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 2196598
+    }
+]

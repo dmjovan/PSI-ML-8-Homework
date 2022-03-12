@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 468121,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 625602,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1189538,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

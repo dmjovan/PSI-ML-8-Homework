@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 4289207,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "attendance": 1458191,
+        "band_name": "infirmary_grapevine"
+    },
+    {
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "attendance": 2388211,
+        "band_name": "whiskey_crossings"
+    }
+]

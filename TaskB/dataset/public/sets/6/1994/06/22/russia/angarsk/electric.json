@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 2407882,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "band_name": "stray_pussy",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6129076,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 1006822,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4125285,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "attendance": 425441,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 2079107,
+        "band_name": "exempt",
+        "is_indie": false
+    }
+]

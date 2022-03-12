@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5465261,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 49198,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 543250,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "attendance": 392415,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    }
+]

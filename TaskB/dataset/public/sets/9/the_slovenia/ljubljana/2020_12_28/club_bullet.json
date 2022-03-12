@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2504978,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "attendance": 7621194,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1151216,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 5064460,
+        "band_name": "mountaineer_stitches"
+    }
+]

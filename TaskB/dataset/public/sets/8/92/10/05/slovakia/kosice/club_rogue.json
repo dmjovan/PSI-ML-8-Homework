@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 20866,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "attendance": 680593,
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 3777598,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "band_name": "goddess_blankly"
+    }
+]

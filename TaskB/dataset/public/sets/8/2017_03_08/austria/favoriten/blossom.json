@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    },
+    {
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2947194,
+        "band_name": "sonata_bunkers"
+    },
+    {
+        "is_indie": true
+    }
+]

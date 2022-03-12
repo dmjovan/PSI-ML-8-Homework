@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "anew_big"
+    },
+    {
+        "attendance": 3602540,
+        "band_name": "blanch_coronary",
+        "is_indie": false
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "attendance": 2033268,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4530166,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 771962,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1115786,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 515647,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    }
+]

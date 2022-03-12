@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3674054,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1404804,
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1627706,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "band_name": "hopelessness"
+    }
+]

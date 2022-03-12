@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 4312096
+    },
+    {
+        "attendance": 629436,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 8803909,
+        "band_name": "burnings_pod"
+    },
+    {
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    }
+]

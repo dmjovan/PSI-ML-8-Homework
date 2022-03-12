@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 287288,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 1880314,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "attendance": 554262,
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 423561,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    }
+]

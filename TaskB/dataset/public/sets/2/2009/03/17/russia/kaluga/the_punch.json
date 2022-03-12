@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4222561,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1703718,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 35338,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 5617422,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

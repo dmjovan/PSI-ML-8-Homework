@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 1531240,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 644305,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    }
+]

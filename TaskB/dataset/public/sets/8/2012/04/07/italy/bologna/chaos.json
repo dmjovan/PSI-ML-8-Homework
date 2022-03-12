@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2568656,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 815112,
+        "band_name": "cooper"
+    },
+    {
+        "attendance": 3472451,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    }
+]

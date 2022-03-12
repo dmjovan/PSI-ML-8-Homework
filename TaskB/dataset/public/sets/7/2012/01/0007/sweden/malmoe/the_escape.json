@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 7800787,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    }
+]

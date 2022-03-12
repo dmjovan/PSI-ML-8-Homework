@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 743088,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    }
+]

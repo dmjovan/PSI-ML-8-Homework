@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 9100451,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 138795,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 3355956,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

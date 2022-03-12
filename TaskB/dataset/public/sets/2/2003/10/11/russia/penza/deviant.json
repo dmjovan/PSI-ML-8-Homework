@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4351794,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1815587,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 595750,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 2289916,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    }
+]

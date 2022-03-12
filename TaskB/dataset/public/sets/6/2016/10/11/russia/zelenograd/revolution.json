@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 37811,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 3171241,
+        "is_indie": false
+    },
+    {
+        "attendance": 397671,
+        "band_name": "general_villains"
+    },
+    {
+        "attendance": 10064,
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

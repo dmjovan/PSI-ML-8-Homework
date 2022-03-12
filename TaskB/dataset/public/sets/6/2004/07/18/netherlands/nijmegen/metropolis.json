@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 4847070,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 622228,
+        "band_name": "aboard"
+    },
+    {
+        "is_indie": true
+    }
+]

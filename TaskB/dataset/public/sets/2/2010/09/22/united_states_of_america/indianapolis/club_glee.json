@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 632791,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 6610410,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 7895508,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 94928,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 4581310,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

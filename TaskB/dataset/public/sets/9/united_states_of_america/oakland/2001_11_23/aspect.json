@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1829945,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2794415,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

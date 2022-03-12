@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 7423215,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4424582,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 2132264,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

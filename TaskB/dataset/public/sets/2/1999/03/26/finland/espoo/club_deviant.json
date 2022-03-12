@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 598758,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 3682719,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

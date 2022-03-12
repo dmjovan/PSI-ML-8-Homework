@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 360787,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 7482757,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 6561739,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 7831658,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 2032376,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    }
+]

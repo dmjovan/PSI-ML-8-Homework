@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1306564,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    },
+    {
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    },
+    {
+        "attendance": 31481,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "attendance": 466,
+        "is_indie": false
+    }
+]

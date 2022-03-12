@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1349427,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 213399,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 5864869,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    }
+]

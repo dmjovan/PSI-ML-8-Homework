@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 2438426,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "band_name": "cooper",
+        "is_indie": false
+    }
+]

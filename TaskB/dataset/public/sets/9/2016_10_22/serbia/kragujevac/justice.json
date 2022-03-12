@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4194003,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1401053,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "attendance": 1180241,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 3876614,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 6559052,
+        "band_name": "peanuts_mountaineer"
+    },
+    {
+        "band_name": "any_madder",
+        "is_indie": true
+    }
+]

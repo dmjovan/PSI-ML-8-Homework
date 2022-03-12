@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 766742,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 4737542,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 6061356,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 1939040,
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    },
+    {
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "band_name": "forum_diggers_internship"
+    },
+    {
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    }
+]

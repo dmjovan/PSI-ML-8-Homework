@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5066801,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 594,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "attendance": 275066,
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "attendance": 380414,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    },
+    {
+        "attendance": 1900515,
+        "band_name": "twentieth_deck"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1124545,
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 2753806,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    }
+]

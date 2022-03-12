@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 701861,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1670491,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 5177220,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 7317559,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    }
+]

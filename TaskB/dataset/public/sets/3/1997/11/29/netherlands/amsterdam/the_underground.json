@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5989276,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 2444967,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 2587792,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 603783,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

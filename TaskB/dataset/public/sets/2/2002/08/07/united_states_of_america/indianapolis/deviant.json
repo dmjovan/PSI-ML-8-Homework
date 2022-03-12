@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 456405,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1482045,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 442475,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 44952,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 5641367,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

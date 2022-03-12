@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1004778,
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 2682766,
+        "band_name": "hourglass_uplands"
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    }
+]

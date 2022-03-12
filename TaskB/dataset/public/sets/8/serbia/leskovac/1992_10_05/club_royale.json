@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1136523,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 8312683,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 8750848,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 4599082,
+        "band_name": "sonata",
+        "is_indie": true
+    }
+]

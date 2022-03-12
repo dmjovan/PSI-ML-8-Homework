@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6687929,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 5396193,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 174574,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3710801,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2002286,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

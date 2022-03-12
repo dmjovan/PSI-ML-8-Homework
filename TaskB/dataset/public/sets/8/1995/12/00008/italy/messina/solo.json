@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 848630,
+        "band_name": "backyard_roam"
+    },
+    {
+        "attendance": 1765417,
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "attendance": 1417056,
+        "is_indie": true
+    },
+    {
+        "attendance": 4638224,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    }
+]

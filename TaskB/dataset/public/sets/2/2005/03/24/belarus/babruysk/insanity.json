@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 8639720,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 465569,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 453722,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 91104,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 3098860,
+        "band_name": "shady",
+        "is_indie": false
+    }
+]

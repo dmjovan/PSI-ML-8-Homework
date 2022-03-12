@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1634491,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 2069258,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 5240882,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 610536,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 2214483,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

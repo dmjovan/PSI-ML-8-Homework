@@ -1,0 +1,23 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 64499,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "attendance": 3460686,
+        "band_name": "convoy_carol"
+    },
+    {
+        "attendance": 790827,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    }
+]

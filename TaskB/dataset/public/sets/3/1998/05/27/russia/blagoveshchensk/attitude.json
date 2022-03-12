@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 872134,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 1338806,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 5249725,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

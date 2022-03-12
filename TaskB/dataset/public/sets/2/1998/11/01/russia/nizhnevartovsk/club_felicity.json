@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 500763,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 189883,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 2367210,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 616401,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 3650537,
+        "band_name": "sting_gross",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6392391,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 85449,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 769920,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 5544458,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 262433,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

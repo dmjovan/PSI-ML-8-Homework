@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 376683,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 1636323,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 1770470,
+        "band_name": "bivouac"
+    }
+]

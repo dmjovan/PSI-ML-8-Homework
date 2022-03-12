@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 1252250,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 395807,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 838293
+    }
+]

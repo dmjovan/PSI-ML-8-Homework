@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 646273,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 4981749,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 737773,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2245450,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    }
+]

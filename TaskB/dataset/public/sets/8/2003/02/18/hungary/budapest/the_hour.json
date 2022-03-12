@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 303058,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "attendance": 3157794,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "attendance": 346009,
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1910602,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "band_name": "deserter",
+        "is_indie": false
+    }
+]

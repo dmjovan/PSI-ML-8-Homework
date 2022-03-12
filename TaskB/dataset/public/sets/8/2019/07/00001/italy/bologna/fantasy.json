@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 454859,
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 1715252,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 135356,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 6352356,
+        "is_indie": false
+    }
+]

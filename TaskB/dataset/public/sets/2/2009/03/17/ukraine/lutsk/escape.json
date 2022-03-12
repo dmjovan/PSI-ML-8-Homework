@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 187707,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 257664,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 2467819,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 47571,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

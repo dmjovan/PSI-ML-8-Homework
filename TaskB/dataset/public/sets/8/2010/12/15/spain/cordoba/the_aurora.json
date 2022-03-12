@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "tag"
+    },
+    {
+        "attendance": 1601469,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "attendance": 2402283,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "band_name": "chili_rho",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 399126,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 3053959,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 6189137,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    }
+]

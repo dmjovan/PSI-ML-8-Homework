@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3154603,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3224276,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 365231,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 7071543,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

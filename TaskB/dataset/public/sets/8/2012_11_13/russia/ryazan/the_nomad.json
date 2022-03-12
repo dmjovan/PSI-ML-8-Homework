@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 8254669,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    }
+]

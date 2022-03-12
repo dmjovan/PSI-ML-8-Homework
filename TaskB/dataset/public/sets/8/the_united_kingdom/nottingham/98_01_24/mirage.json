@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3231400
+    },
+    {
+        "attendance": 8942058,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    },
+    {
+        "attendance": 160304,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 304519,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "attendance": 1450897,
+        "band_name": "soggy",
+        "is_indie": false
+    }
+]

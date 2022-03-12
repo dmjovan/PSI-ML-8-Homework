@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1479044,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 163848,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 1329564,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 651276,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    }
+]

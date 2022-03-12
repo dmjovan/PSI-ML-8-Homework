@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2720207,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 175214,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 4504818,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 7190037,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    }
+]

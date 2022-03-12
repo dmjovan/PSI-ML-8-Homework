@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "honeybee_signatures"
+    },
+    {
+        "attendance": 1732001,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 56340,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 749977,
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2091337,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 7660614,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 4704228,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 618925,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

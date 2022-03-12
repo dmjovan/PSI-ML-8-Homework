@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1411394,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 458176,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 959130,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 390381,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2765543,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    }
+]

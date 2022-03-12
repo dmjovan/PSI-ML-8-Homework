@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 2799133,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    }
+]

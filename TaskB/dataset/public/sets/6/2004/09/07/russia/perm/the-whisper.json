@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 8295791,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 6264,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

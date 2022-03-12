@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 148641,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 1615102,
+        "is_indie": true
+    },
+    {
+        "attendance": 701876,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "attendance": 1151634,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    }
+]

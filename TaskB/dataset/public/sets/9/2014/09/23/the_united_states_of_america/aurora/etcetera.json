@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 949876,
+        "band_name": "lawn_cooper"
+    },
+    {
+        "attendance": 2356770,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 1011957,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1508450,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    }
+]

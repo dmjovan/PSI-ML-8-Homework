@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 46104,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 3282306,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 408017,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 220400,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

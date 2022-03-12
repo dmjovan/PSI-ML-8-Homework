@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "avenger_contrive"
+    },
+    {
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "attendance": 1731698,
+        "band_name": "quarry_divisional"
+    },
+    {
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 505411,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    }
+]

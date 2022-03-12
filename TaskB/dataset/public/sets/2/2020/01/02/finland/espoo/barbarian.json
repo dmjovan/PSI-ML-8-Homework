@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4944390,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 3467164,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3300087,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 3026398,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 1692828,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

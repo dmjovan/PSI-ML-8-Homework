@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2877715,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1668427,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 4696995,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

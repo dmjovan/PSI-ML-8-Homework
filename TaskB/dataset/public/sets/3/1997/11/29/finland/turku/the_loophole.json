@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5485776,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 421658,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1492111,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 1823594,
+        "band_name": "cretin",
+        "is_indie": false
+    }
+]

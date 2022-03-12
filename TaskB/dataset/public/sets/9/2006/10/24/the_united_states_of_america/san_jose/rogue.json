@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 3709868,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 4116573,
+        "is_indie": false
+    },
+    {
+        "attendance": 6081503,
+        "is_indie": true
+    }
+]

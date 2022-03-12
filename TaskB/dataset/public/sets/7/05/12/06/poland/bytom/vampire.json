@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 355176,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 2448224,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 582078,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    }
+]

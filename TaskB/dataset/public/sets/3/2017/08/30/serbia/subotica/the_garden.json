@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 161030,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 47627,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 4310320,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 1713165,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 973786,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

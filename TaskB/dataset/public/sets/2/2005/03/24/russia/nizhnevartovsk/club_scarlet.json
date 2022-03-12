@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6078845,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 2559960,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 7114151,
+        "band_name": "contracting",
+        "is_indie": true
+    }
+]

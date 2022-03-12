@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 26838,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 935228,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

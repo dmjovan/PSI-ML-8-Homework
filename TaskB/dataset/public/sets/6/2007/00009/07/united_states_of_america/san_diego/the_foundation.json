@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 659635,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 37329,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 1071743,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

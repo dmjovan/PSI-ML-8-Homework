@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7500364,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 456704,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 1514457,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 1636972,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 1809086,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

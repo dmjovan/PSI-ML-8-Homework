@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 5634491,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 2648617,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    }
+]

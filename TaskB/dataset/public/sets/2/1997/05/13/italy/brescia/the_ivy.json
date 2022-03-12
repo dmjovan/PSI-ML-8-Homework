@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6308914,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 3039692,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1568950,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

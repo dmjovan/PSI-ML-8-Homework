@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 4116537,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "attendance": 4180887,
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 2824298,
+        "band_name": "whiskey_crossings"
+    }
+]

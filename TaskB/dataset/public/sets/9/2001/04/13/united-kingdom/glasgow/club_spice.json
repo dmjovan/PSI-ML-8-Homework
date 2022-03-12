@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 502093,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 1239961,
+        "band_name": "deride"
+    },
+    {
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 7642106,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    }
+]

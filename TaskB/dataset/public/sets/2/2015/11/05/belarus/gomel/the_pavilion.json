@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1438156,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 2893430,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 4999895,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 138380,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

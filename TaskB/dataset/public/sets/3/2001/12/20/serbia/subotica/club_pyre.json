@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5992531,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 1297972,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 1019317,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 7387011,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 5108181,
+        "band_name": "silt_twas",
+        "is_indie": false
+    }
+]

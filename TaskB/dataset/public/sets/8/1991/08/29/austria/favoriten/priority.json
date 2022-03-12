@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "weekly_assemblages"
+    },
+    {
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 1733558,
+        "band_name": "quarry_divisional"
+    },
+    {
+        "band_name": "sonata_bunkers"
+    },
+    {
+        "attendance": 5703393,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    }
+]

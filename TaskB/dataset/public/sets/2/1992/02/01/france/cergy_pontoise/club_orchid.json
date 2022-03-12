@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1067342,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 6875,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 2852761,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 324122,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

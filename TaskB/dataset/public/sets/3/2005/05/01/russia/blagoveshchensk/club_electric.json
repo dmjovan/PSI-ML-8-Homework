@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3504010,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 173941,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 643214,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 22887,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 33106,
+        "band_name": "bans",
+        "is_indie": false
+    }
+]

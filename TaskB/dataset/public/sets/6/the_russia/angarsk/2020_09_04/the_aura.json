@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 162212,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 2084231,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 2442830,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 2000646,
+        "band_name": "general_villains",
+        "is_indie": false
+    }
+]

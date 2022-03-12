@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 8089055,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 1940354,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 5460131,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

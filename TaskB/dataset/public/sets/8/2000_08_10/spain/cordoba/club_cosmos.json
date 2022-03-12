@@ -1,0 +1,14 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 918797,
+        "band_name": "atheist_tweed"
+    },
+    {
+        "attendance": 3802539,
+        "band_name": "sonata",
+        "is_indie": true
+    }
+]

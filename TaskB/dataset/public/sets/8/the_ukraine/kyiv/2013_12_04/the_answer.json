@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "attendance": 1798724,
+        "band_name": "hopelessness",
+        "is_indie": false
+    }
+]

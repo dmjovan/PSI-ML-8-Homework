@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 4009655,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "band_name": "snake_pong",
+        "is_indie": false
+    }
+]

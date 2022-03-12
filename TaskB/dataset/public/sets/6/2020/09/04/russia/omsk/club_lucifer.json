@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 733070,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 2680487,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 1296288,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 4953590,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 1868543,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 6093425,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "attendance": 6165079,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    }
+]

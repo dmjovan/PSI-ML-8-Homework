@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3175756,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 277808,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 3755722,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 554671,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "band_name": "float",
+        "is_indie": false
+    }
+]

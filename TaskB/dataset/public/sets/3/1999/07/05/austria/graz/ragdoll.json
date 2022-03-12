@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1633453,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 3999337,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 550172,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 25092,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 962361,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

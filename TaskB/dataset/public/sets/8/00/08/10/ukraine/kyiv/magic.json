@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1226386,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1142677,
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 288008,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    }
+]

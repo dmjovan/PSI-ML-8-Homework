@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 1588100,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 6737703,
+        "band_name": "minicomputers_chat"
+    },
+    {
+        "attendance": 1697990,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

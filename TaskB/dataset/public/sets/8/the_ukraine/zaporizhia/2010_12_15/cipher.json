@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 60887,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 167160,
+        "band_name": "adapt_pool"
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 1250742,
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    },
+    {
+        "attendance": 3817657,
+        "band_name": "fighter"
+    }
+]

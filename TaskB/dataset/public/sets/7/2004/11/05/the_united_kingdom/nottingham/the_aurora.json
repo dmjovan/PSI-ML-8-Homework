@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1289541,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 2047134,
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 5457309,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1401838,
+        "band_name": "outdoors",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1540876,
+        "is_indie": false
+    },
+    {
+        "attendance": 2239156,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 4393307,
+        "band_name": "vibrator",
+        "is_indie": true
+    }
+]

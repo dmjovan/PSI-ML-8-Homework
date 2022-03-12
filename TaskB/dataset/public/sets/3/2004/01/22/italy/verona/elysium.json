@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6485178,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 749623,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 549939,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

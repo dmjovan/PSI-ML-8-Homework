@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2748683,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1861072,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 1798043,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 3935452,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    }
+]

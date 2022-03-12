@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 896009,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "band_name": "chewers_mesquite"
+    },
+    {
+        "attendance": 2245453,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    }
+]

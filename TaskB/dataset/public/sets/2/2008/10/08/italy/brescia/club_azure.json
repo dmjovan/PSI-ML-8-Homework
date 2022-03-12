@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1874728,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 277615,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 2558641,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

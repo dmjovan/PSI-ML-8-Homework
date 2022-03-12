@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 265574,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 2035742,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 49528,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    }
+]

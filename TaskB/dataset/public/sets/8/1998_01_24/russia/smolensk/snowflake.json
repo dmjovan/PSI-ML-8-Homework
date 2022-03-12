@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 311949,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2530688,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 3497200,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    }
+]

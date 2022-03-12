@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 676286,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "attendance": 315890,
+        "band_name": "aromatic_tents"
+    },
+    {
+        "attendance": 5012417,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 5479228,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 597347,
+        "band_name": "treasurer_grand"
+    }
+]

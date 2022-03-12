@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5218443,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 694809,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1396920,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 48203,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    }
+]

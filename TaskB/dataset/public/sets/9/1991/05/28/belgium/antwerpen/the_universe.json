@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1010805,
+        "band_name": "any_stormy"
+    },
+    {
+        "attendance": 1886199,
+        "band_name": "whiskey_crossings"
+    },
+    {
+        "attendance": 110203,
+        "band_name": "beyond_stillborn"
+    },
+    {
+        "band_name": "webs_vacations"
+    },
+    {
+        "attendance": 5234191,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

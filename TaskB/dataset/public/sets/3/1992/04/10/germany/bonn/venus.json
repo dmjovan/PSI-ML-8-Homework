@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 650198,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 61863,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 6134217,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

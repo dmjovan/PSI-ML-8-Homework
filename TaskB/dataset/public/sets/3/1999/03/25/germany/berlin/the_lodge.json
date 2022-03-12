@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 575769,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 3461962,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    }
+]

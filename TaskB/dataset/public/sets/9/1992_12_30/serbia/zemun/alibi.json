@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "attendance": 2867381,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 2730083,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    }
+]

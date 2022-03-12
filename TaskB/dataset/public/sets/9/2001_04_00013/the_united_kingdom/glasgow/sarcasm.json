@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "attendance": 6000887,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1858527,
+        "is_indie": true
+    }
+]

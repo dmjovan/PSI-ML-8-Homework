@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1072900,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 880794,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 6775680,
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "band_name": "trust",
+        "is_indie": false
+    }
+]

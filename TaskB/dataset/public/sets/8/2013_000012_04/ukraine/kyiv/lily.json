@@ -1,0 +1,15 @@
+[
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 3470609,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "attendance": 4999002,
+        "band_name": "burnings_pod",
+        "is_indie": false
+    }
+]

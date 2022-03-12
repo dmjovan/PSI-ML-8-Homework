@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 6094147,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 81171,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    }
+]

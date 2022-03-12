@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 215360,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 2488033,
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 5400576,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    }
+]

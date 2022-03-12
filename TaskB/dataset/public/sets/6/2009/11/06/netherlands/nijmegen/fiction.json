@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 2497417,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    }
+]

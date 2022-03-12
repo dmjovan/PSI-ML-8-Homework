@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 7001670,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 381635,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 410930,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1448217,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 4094684,
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "attendance": 4663064,
+        "is_indie": true
+    }
+]

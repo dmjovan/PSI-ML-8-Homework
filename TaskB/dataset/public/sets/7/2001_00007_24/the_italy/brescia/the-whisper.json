@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "either_whittle"
+    },
+    {
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

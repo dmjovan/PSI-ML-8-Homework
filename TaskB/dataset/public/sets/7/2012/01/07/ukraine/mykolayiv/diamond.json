@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 5224900,
+        "is_indie": true
+    },
+    {
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 647721,
+        "band_name": "either_whittle",
+        "is_indie": false
+    }
+]

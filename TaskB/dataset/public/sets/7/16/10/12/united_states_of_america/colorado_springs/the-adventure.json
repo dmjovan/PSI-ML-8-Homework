@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "slipper_ripple"
+    },
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 452457,
+        "band_name": "bargains_facsimile"
+    },
+    {
+        "attendance": 519648,
+        "is_indie": true
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 7031989,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 2952446,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 1555912,
+        "is_indie": false
+    }
+]

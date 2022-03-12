@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 521334,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    }
+]

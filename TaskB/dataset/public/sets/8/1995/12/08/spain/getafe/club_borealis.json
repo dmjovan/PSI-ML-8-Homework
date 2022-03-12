@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 6433755,
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 294426,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 2700634,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    }
+]

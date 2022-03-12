@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3026608,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 3461,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    }
+]

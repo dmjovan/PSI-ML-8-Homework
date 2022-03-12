@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2424068,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 2806611,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 67971,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 170309,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 761369,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 574244,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 2833358,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2615795,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1189325,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

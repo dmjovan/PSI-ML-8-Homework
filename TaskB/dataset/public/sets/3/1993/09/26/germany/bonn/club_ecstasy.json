@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 21335,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 172703,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 953331,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1123935,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    }
+]

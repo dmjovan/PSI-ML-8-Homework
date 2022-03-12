@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2502941,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 884909,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 699774,
+        "band_name": "ampersand_lamb"
+    },
+    {
+        "attendance": 835024,
+        "band_name": "lawn_cooper"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1007024,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 62359,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 2748318,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 602783,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1489156,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "attendance": 5743532,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 146885,
+        "band_name": "tang_city",
+        "is_indie": false
+    }
+]

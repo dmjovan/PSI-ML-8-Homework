@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2297111,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 598150,
+        "band_name": "forecast_trigonometry"
+    },
+    {
+        "band_name": "romper",
+        "is_indie": false
+    }
+]

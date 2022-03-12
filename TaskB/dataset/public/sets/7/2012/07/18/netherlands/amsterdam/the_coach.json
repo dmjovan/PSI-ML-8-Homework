@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 458809,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 2781440,
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 6042044,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

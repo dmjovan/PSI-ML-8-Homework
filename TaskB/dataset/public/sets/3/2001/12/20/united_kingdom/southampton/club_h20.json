@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 361016,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 725823,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 3397154,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 2748757,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 1053623,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    }
+]

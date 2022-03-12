@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1678682,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 1298779,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 374060,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 492187,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1914500,
+        "band_name": "either_sire",
+        "is_indie": false
+    }
+]

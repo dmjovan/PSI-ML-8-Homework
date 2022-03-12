@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2559074,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "attendance": 1897393,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1000248,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4208028,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

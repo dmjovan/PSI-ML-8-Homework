@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 2401041,
+        "band_name": "ampersand_lamb"
+    },
+    {
+        "attendance": 15502,
+        "band_name": "trust",
+        "is_indie": false
+    },
+    {
+        "band_name": "bilk_comeback"
+    },
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

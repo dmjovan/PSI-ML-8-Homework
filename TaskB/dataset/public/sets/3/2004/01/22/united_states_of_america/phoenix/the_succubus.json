@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3988979,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 5688293,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 606710,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    }
+]

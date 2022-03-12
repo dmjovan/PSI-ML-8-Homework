@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5876844,
+        "band_name": "dale_burl"
+    },
+    {
+        "attendance": 4819761,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 1478719,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    }
+]

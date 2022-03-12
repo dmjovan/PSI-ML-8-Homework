@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1945026,
+        "band_name": "tag"
+    },
+    {
+        "attendance": 2065742,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 5566458,
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    },
+    {
+        "attendance": 4074631,
+        "band_name": "ration",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1355107,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 4186395,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 1361559,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 821719,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 963465,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

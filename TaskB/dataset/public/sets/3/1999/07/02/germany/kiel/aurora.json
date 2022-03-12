@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1347691,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 3174886,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 5011772,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 1800665,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

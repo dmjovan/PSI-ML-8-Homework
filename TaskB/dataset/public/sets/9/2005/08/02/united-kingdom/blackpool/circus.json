@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 2657357,
+        "band_name": "admiral_skylight"
+    },
+    {
+        "attendance": 2297230,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    }
+]

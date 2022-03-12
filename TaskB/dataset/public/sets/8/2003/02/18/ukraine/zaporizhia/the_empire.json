@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3811500,
+        "band_name": "automata_politics"
+    },
+    {
+        "attendance": 3243367,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 2801915,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 348999,
+        "band_name": "rant"
+    }
+]

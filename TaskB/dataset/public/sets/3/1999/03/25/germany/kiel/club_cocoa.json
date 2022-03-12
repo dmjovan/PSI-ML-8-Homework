@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1812406,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1442516,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 763767,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 1025481,
+        "band_name": "bluffing",
+        "is_indie": false
+    }
+]

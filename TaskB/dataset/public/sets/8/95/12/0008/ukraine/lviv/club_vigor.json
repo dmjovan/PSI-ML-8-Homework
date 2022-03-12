@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 4148328,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 483303,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    }
+]

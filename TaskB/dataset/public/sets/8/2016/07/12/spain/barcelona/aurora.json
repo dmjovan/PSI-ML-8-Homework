@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 6754225,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 1565290,
+        "is_indie": false
+    },
+    {
+        "attendance": 3674721,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    }
+]

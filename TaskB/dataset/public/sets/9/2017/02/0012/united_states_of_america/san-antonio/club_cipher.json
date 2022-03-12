@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3210123,
+        "band_name": "locality_baptism__console"
+    },
+    {
+        "attendance": 2922946,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 474781,
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    }
+]

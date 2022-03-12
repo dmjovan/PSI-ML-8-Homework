@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 2640747,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    }
+]

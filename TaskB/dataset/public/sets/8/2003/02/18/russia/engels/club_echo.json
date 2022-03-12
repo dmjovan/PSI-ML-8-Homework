@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1257606,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 1481273,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 1099443,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    }
+]

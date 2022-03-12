@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1034873,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 405200,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 452832,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 958111,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 980356,
+        "band_name": "pea_parker_longitude"
+    }
+]

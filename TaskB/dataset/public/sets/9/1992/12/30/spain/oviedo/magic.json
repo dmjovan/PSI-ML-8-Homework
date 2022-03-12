@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "attendance": 7105820,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    },
+    {
+        "attendance": 5120555,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

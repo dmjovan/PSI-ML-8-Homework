@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 2626432,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "attendance": 407822,
+        "band_name": "helpless_transpose"
+    },
+    {
+        "attendance": 3339738,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

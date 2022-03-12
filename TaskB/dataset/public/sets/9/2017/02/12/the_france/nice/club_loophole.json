@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2222194,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 1230214,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "attendance": 124055,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 2264025,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    }
+]

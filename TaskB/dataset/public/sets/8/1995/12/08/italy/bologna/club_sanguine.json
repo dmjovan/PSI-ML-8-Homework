@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 101941,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 8016761,
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 8377906,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 507186,
+        "band_name": "squirrel",
+        "is_indie": false
+    }
+]

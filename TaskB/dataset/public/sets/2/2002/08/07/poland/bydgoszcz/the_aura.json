@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1251108,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 4481192,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 7029323,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 7267867,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

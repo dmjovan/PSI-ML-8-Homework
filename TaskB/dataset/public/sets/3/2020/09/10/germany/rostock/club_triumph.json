@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3380219,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 1830436,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 5614239,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 6372664,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

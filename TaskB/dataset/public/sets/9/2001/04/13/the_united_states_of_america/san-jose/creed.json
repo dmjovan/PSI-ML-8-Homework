@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1082135,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 2611777,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    }
+]

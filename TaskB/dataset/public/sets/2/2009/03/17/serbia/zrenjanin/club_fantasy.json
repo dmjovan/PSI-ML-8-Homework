@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5674619,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 4381325,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 5567980,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 4789923,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 5476736,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

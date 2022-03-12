@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4995413,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 1106145,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 507872,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    }
+]

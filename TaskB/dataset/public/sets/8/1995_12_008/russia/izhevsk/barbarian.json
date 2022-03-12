@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 819505,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "band_name": "port_psalms",
+        "is_indie": false
+    },
+    {
+        "attendance": 1793303,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    }
+]

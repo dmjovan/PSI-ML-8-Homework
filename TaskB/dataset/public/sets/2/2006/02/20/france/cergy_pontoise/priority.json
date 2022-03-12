@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2570795,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 3668466,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 690526,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 6153047,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

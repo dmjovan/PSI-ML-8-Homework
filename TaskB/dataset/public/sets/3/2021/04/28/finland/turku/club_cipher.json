@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 20805,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 1770456,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 475431,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 2361207,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 1114980,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

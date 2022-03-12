@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1436792,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 8493597,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 3341309,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

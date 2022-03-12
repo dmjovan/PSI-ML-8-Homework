@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3160490
+    },
+    {
+        "attendance": 2963188,
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "attendance": 7685428,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "attendance": 479118,
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    }
+]

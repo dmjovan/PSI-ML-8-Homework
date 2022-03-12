@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2914924,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 3948910,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 7136929,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 1107028,
+        "is_indie": false
+    }
+]

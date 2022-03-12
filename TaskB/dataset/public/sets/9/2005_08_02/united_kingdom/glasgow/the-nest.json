@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5092455,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 3211912,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    }
+]

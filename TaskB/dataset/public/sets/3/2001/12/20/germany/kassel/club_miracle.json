@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4130117,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 1026567,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 1218702,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 5657936,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1479,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

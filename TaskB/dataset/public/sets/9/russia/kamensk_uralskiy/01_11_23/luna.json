@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2886543,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 5980146,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 6745561,
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "attendance": 978599,
+        "band_name": "deride"
+    },
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    }
+]

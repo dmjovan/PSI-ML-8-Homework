@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 5217540,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "band_name": "tore",
+        "is_indie": false
+    }
+]

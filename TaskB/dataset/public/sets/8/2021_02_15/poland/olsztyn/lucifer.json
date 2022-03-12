@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6211169,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 1105493
+    },
+    {
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "attendance": 376707,
+        "band_name": "city_unlimited"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 700955,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1992327,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 5503089,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

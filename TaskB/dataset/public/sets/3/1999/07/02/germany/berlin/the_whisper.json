@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2737236,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 3219795,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 13471,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 3537029,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 7109844,
+        "band_name": "either_sire",
+        "is_indie": false
+    }
+]

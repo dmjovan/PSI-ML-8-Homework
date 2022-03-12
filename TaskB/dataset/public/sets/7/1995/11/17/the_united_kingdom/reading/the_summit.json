@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 232562,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 1723842,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 1769491,
+        "band_name": "jug_bagger"
+    },
+    {
+        "attendance": 1660045,
+        "band_name": "pea_parker_longitude"
+    },
+    {
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    }
+]

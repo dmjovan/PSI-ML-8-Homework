@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2129059,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 1999452,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 8980319,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1154993,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 2390876,
+        "band_name": "activate_bill",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2519023,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 4515294,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 1937120,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 477117,
+        "band_name": "flock_store",
+        "is_indie": true
+    }
+]

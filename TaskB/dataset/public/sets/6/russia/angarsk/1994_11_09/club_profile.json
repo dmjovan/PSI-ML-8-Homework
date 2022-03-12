@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 102298,
+        "band_name": "coronation_blitz"
+    },
+    {
+        "attendance": 1290277,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    }
+]

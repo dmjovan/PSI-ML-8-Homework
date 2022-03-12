@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    },
+    {
+        "attendance": 3453140,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 5714152,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 103983,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

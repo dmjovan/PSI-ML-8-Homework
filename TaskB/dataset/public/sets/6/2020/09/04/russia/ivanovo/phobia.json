@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1692940,
+        "is_indie": false
+    },
+    {
+        "attendance": 1188524,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "band_name": "oracle",
+        "is_indie": false
+    }
+]

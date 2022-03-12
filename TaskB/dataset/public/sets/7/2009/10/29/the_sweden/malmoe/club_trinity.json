@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 752407,
+        "band_name": "honeybee_signatures"
+    },
+    {
+        "attendance": 2467940,
+        "band_name": "hypocrite",
+        "is_indie": false
+    },
+    {
+        "attendance": 468221,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "band_name": "larder_tinge"
+    }
+]

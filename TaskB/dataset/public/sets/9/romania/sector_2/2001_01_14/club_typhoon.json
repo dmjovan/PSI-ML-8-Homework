@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1348610,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 324952,
+        "band_name": "romper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1162910,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    }
+]

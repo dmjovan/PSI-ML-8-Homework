@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 416121,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 1977174,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 2237217,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3895250,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 4027741,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

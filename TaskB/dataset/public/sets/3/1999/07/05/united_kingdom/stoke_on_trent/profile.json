@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4211683,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 4830713,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 108428,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

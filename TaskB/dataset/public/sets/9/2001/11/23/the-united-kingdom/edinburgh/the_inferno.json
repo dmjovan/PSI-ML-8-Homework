@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 3004107,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 6729456,
+        "band_name": "tore"
+    }
+]

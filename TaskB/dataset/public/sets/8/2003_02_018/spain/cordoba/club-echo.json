@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1459259,
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "attendance": 3835179,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 584971,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1556562,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    }
+]

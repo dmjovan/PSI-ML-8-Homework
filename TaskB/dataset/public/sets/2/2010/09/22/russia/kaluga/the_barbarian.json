@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2018402,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 809296,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 2057661,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1153823,
+        "band_name": "evens_parish",
+        "is_indie": false
+    },
+    {
+        "attendance": 103782,
+        "band_name": "fang_switchblade"
+    },
+    {
+        "attendance": 1034973,
+        "band_name": "dye_filename",
+        "is_indie": true
+    }
+]

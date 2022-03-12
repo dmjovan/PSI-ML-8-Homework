@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 8383097,
+        "band_name": "flamboyant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1171772,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 975844,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 383201,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1169529,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 5982070,
+        "band_name": "international_face",
+        "is_indie": false
+    }
+]

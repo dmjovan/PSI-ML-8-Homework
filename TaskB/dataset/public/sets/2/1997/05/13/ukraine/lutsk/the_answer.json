@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 122959,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 505718,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 865690,
+        "band_name": "each_reverend",
+        "is_indie": true
+    }
+]

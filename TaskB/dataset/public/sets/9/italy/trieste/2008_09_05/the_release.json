@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1534627,
+        "band_name": "quitters_recline"
+    },
+    {
+        "attendance": 9624958,
+        "is_indie": false
+    },
+    {
+        "attendance": 4971536,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "attendance": 443847,
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    },
+    {
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    }
+]

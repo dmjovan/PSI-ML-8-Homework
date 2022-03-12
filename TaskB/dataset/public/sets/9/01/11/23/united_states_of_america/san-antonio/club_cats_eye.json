@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 4889146,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 1473856,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1902900,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    }
+]

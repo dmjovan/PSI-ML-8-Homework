@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1115036,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1539529,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 4483691,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 2194916,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 126948,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

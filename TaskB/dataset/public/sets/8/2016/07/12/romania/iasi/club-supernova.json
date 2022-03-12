@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 626164,
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "attendance": 5869396,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "band_name": "squirrel",
+        "is_indie": false
+    }
+]

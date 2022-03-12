@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 712725,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 7738156,
+        "is_indie": false
+    },
+    {
+        "attendance": 5120932,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1756200,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 770866,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "attendance": 583819,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    }
+]

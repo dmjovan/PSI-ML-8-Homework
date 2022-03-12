@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1942309,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 439524,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2073422,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 1007208,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 125172,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "band_name": "webs_vacations",
+        "is_indie": true
+    }
+]

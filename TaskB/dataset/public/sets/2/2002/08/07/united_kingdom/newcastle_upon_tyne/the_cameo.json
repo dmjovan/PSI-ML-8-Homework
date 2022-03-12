@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3001661,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 5725610,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 2767525,
+        "band_name": "an_warrant",
+        "is_indie": false
+    }
+]

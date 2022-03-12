@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 7257491,
+        "band_name": "seaside"
+    },
+    {
+        "attendance": 5166709,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "attendance": 72043,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    },
+    {
+        "attendance": 2291731,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    }
+]

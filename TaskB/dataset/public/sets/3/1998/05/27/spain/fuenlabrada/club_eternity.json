@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 875158,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 3882354,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1889913,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1807057,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 4656132,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 1180010,
+        "band_name": "romper"
+    },
+    {
+        "is_indie": false
+    }
+]

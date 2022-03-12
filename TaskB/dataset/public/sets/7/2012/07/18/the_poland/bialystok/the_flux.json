@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 4972911,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 1945660,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

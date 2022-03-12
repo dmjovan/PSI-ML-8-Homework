@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 6042096,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 6684437,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 273575,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1254733,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

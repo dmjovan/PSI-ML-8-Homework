@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1678549,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 2851344
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 327466,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    },
+    {
+        "attendance": 3435081,
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 635550,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1633403,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 807545,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    }
+]

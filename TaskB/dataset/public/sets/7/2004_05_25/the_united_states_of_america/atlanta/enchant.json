@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1534115,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 1779271,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 3260653,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    }
+]

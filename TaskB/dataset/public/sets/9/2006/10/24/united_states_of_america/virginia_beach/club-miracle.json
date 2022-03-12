@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 4160059,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "band_name": "any_stormy",
+        "is_indie": true
+    }
+]

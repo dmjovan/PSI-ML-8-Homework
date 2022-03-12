@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 589241,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "attendance": 301344,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    }
+]

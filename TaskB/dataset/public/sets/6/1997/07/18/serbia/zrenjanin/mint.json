@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "attendance": 3711339,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    }
+]

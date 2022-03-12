@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4477280,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 5588421,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 308668,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 3225840,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 988862,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

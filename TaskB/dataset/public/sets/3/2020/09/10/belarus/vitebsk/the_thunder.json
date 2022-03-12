@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 747368,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 2706095,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 1132018,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 270479,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1112855,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

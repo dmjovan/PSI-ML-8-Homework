@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5219115,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 5691040,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 117723,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2058629,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 2109466,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    }
+]

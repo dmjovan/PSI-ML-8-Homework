@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1284257,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 4198080,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 3979673,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 589995,
+        "band_name": "exempt"
+    },
+    {
+        "attendance": 576001,
+        "is_indie": false
+    }
+]

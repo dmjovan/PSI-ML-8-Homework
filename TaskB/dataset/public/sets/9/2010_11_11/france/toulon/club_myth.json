@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 6228879,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "attendance": 2861867
+    },
+    {
+        "attendance": 2940247,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "band_name": "shod_tramp"
+    }
+]

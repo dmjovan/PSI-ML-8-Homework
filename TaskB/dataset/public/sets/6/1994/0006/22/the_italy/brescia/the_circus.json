@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 611422,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 5093175,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

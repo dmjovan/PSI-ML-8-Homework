@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6201557,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 530395,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 706358,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 5046728,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    }
+]

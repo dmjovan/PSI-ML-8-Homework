@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2168365,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1901525,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "attendance": 1301202,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 302860,
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 5419306,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 961028,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 6809934,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 1471367,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2270963,
+        "band_name": "either_classical",
+        "is_indie": false
+    }
+]

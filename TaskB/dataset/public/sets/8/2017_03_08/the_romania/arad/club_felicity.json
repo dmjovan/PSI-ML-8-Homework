@@ -1,0 +1,13 @@
+[
+    {
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "band_name": "sonata_bunkers"
+    }
+]

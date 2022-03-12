@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 8065849,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 295076,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 2590596,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 4958892,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "band_name": "saber_advertising",
+        "is_indie": false
+    }
+]

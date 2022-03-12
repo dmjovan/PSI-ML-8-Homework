@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 250365,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 7157512,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    }
+]

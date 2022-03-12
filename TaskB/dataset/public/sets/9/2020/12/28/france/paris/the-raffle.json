@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "romper"
+    },
+    {
+        "band_name": "pool_pincushion_flock"
+    },
+    {
+        "attendance": 1718685,
+        "band_name": "reservoir_near_goal"
+    },
+    {
+        "attendance": 1191260,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

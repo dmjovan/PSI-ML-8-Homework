@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1566396,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "attendance": 5020660,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 101831,
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

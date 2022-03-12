@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "attendance": 1844784,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 5713866,
+        "band_name": "blocker_advisory"
+    },
+    {
+        "band_name": "cookie_happier",
+        "is_indie": false
+    }
+]

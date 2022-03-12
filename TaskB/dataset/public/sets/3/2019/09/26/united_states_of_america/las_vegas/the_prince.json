@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3675237,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 2274126,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 4629984,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

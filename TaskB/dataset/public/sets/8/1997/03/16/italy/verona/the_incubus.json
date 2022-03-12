@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 618419,
+        "band_name": "bikini_shrew"
+    },
+    {
+        "attendance": 191555,
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 1850846,
+        "band_name": "backyard_roam"
+    },
+    {
+        "attendance": 1749191,
+        "band_name": "city_unlimited"
+    }
+]

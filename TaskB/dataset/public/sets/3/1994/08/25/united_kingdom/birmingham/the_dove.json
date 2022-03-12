@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1560830,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 4942876,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 1492591,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 1602030,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2279825,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    }
+]

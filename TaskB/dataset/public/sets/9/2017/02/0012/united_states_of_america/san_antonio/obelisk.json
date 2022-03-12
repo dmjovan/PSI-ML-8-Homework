@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 4255535,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2955009,
+        "band_name": "activate_indecent",
+        "is_indie": true
+    },
+    {
+        "attendance": 2281994,
+        "band_name": "pea_freshwater_cargoes"
+    }
+]

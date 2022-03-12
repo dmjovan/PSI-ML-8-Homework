@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1941233,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    }
+]

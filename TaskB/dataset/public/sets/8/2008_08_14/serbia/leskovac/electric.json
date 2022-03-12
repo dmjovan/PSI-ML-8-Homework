@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 5020622,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "attendance": 859328,
+        "band_name": "complex_figs"
+    },
+    {
+        "attendance": 144459,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    }
+]

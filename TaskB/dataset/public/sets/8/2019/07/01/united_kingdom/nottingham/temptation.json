@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 1892290,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 803370,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "band_name": "electron"
+    }
+]

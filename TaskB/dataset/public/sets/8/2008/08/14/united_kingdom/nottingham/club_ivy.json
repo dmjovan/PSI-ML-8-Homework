@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1231912,
+        "band_name": "untidy_mailer"
+    },
+    {
+        "attendance": 1205978,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 2964905,
+        "band_name": "soggy",
+        "is_indie": false
+    }
+]

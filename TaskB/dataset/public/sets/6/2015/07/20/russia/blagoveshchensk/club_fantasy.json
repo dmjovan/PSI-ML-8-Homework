@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3037782,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 3214701,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    }
+]

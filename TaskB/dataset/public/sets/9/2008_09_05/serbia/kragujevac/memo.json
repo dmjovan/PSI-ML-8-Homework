@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2378504,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 6723367,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 2204909,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 945722,
+        "is_indie": false
+    },
+    {
+        "attendance": 12893,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    }
+]

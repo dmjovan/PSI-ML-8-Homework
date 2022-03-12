@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 534064,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 1650458,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3696950,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 5590765,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 9092424,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    }
+]

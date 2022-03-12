@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 657832,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 2590677,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 3096240,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

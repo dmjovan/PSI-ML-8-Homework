@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1005260,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1683591,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 3363219,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

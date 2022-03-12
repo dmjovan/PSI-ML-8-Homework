@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 6335531,
+        "band_name": "anoint_rat"
+    },
+    {
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 5578383,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 666746,
+        "band_name": "spy_obsolescence"
+    }
+]

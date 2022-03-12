@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1192041,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 764986,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 303709,
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    }
+]

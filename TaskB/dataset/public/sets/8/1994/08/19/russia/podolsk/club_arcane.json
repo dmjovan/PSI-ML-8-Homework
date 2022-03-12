@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2078593,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 1529291,
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "attendance": 7837255,
+        "is_indie": false
+    },
+    {
+        "attendance": 1412267,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    }
+]

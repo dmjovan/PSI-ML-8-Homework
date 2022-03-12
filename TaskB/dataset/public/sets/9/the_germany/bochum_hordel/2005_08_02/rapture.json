@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 426354,
+        "band_name": "fleece"
+    },
+    {
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 1238795,
+        "band_name": "inseparable_flowchart"
+    },
+    {
+        "attendance": 68035,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    }
+]

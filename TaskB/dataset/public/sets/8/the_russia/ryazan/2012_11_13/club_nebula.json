@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1712631,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    },
+    {
+        "attendance": 3563160,
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "attendance": 3681472,
+        "band_name": "scoundrel_elite"
+    },
+    {
+        "band_name": "cooper"
+    },
+    {
+        "band_name": "peas_liberator",
+        "is_indie": true
+    }
+]

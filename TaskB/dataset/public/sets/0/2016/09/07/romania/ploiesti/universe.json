@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2327123,
+        "band_name": "counterfeit_income_index",
+        "is_indie": false
+    },
+    {
+        "attendance": 715672,
+        "band_name": "pauper",
+        "is_indie": true
+    },
+    {
+        "attendance": 3484484,
+        "band_name": "giver_leash",
+        "is_indie": false
+    },
+    {
+        "attendance": 702845,
+        "band_name": "regenerator_rooftop",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3655699,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3813233,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    },
+    {
+        "attendance": 9243076,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 3327390,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

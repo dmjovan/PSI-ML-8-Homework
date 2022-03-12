@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2401268,
+        "band_name": "equinox_research"
+    },
+    {
+        "attendance": 2086074
+    },
+    {
+        "attendance": 45818,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    },
+    {
+        "attendance": 8010354,
+        "is_indie": false
+    },
+    {
+        "band_name": "deride",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 44080,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "attendance": 983518,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 2833887,
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1894832,
+        "band_name": "hopelessness"
+    }
+]

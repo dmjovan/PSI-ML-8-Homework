@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 9088003
+    },
+    {
+        "attendance": 5576463,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 816446,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 2264147,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    }
+]

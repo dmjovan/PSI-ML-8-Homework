@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1125142,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 96865,
+        "band_name": "dossier",
+        "is_indie": false
+    }
+]

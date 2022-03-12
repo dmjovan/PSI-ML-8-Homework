@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "attendance": 2370382,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    },
+    {
+        "attendance": 15233,
+        "band_name": "fetus_husk_crier"
+    },
+    {
+        "attendance": 959232,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1481046,
+        "band_name": "grudge",
+        "is_indie": false
+    }
+]

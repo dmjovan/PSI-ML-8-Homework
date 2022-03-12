@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6694242,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1454059,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 557166,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 182081,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

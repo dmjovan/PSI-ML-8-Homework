@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 410888,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 5800245,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 5342583,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 523687,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 3412301,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

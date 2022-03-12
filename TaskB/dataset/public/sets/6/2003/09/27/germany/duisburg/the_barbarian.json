@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 1424763,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "attendance": 180134,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    }
+]

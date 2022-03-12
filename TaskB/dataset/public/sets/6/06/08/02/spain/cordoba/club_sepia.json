@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1323901,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 3992500,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 3306165,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    }
+]

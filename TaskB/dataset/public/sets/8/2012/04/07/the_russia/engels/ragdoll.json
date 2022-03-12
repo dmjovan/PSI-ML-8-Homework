@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 462521,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "attendance": 1326785,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

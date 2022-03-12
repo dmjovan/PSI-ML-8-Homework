@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1670125,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 1477753,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 256363,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 7006282,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 1355312,
+        "band_name": "cretin",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 510389,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 213328,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 336380,
+        "band_name": "folk_chicks"
+    }
+]

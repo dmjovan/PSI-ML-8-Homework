@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 5196764,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "band_name": "lunches_minuteman"
+    },
+    {
+        "attendance": 2414079,
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "attendance": 345446,
+        "band_name": "destructor",
+        "is_indie": false
+    }
+]

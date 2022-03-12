@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 782030,
+        "band_name": "anemia_psychologist"
+    },
+    {
+        "attendance": 7964384,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    }
+]

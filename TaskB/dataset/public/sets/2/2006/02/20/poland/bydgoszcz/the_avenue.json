@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 521741,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 568321,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 153678,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 188472,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 1360317,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

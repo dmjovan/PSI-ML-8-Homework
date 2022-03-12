@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 123520,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 124549,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

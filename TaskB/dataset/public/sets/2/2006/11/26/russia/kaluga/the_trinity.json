@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5472712,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 213493,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 391718,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 3410815,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 5300268,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

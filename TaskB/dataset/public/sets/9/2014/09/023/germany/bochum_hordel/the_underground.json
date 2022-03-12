@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 729623,
+        "is_indie": false
+    },
+    {
+        "attendance": 4428071
+    },
+    {
+        "attendance": 1827300,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 905783,
+        "band_name": "fleece",
+        "is_indie": false
+    }
+]

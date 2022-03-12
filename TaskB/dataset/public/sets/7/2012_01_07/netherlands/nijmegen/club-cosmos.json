@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 19349,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 4588170,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 21464,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    }
+]

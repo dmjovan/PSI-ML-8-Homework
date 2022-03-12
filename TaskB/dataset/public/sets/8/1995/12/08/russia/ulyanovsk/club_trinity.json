@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 63974,
+        "band_name": "mask"
+    },
+    {
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 7659079,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 567852,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6295360,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1316725,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 670705,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 3706496,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 3990979,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    }
+]

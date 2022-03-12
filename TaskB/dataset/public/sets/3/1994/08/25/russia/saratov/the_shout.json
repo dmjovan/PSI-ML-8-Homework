@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2258458,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 2464389,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1653855,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

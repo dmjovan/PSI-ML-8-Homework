@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3234925,
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 4579788,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 975723,
+        "band_name": "voting_ridden"
+    }
+]

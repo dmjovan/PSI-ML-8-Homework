@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1659431
+    },
+    {
+        "attendance": 247878,
+        "band_name": "trance_petters"
+    },
+    {
+        "attendance": 45318,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 3264789,
+        "band_name": "rumble_gripes"
+    },
+    {
+        "band_name": "wretch",
+        "is_indie": false
+    }
+]

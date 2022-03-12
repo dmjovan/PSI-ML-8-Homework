@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 935341,
+        "band_name": "deride",
+        "is_indie": false
+    },
+    {
+        "attendance": 68355,
+        "band_name": "sulphuric"
+    },
+    {
+        "attendance": 6440226,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    }
+]

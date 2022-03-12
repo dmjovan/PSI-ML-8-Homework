@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5034013,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 108735,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 770583,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 7159227,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 929958,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1429286,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 304280,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 6959621,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1680266,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    }
+]

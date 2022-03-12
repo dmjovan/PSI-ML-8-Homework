@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 159991,
+        "band_name": "cookie_happier"
+    },
+    {
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "band_name": "equinox_research"
+    },
+    {
+        "attendance": 4532151,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

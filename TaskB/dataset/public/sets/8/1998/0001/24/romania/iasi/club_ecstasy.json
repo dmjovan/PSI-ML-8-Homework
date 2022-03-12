@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 7138242,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 1130395,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 1078050,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "band_name": "peas_liberator"
+    }
+]

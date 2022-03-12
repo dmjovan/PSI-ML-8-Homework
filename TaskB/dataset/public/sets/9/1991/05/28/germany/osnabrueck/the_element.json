@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 54470,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 1920752,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 5999264,
+        "band_name": "wretch"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "parkers_rockabye"
+    },
+    {
+        "attendance": 4727051,
+        "is_indie": true
+    },
+    {
+        "attendance": 1575768,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 3551038,
+        "band_name": "bowman",
+        "is_indie": false
+    }
+]

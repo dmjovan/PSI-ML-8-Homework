@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1175831,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 142794,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 3225486,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 322002,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 4680605,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    }
+]

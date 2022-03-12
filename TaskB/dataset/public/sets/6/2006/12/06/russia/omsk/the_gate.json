@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7013292,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 4678940,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 4924865,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 3056845,
+        "band_name": "folk_chicks",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5160480,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 1162680,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 823500,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 99306,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 105052,
+        "band_name": "international_face",
+        "is_indie": false
+    }
+]

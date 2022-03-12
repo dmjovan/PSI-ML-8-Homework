@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 7730813,
+        "band_name": "breadwinner_biller"
+    },
+    {
+        "attendance": 1611647,
+        "band_name": "ibis_garbages_melon"
+    },
+    {
+        "band_name": "beamer_forum",
+        "is_indie": false
+    }
+]

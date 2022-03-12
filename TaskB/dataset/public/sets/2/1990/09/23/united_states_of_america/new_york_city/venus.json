@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 105986,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 2526778,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 114226,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1930722,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 5425774,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

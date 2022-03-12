@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1785035,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2935908,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 731418,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

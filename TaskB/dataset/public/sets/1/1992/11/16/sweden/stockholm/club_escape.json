@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 911857,
+        "band_name": "joystick",
+        "is_indie": true
+    },
+    {
+        "attendance": 2879755,
+        "band_name": "admiral_skylight",
+        "is_indie": false
+    },
+    {
+        "attendance": 5556514,
+        "band_name": "utopia_whisper",
+        "is_indie": false
+    }
+]

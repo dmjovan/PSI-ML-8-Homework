@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6108874,
+        "is_indie": false
+    },
+    {
+        "band_name": "stairwell"
+    },
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 2390691,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 419834,
+        "band_name": "whiskey_crossings"
+    },
+    {
+        "attendance": 3749040,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "attendance": 4051923,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "attendance": 6740308,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    }
+]

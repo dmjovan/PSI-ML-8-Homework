@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 814540,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 704248,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 455162,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

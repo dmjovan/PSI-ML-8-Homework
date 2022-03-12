@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 35156,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 7048157,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 3953470,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 3184,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 8696721,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 2659512,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 6275922,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1439216,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

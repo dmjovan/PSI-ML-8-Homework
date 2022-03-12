@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 230372,
+        "band_name": "rant"
+    },
+    {
+        "attendance": 3920962,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 4464260,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 1082470,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "attendance": 2191524,
+        "band_name": "electron",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5222642,
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 2852859,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 552069,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 4107401,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 5164083,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "band_name": "alcohol_spool"
+    },
+    {
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    }
+]

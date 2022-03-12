@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 1750478,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 195585,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

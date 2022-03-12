@@ -1,0 +1,20 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1735054,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 3177677,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 1121996,
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    }
+]

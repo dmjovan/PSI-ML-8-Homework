@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1147743,
+        "band_name": "advertising"
+    },
+    {
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    }
+]

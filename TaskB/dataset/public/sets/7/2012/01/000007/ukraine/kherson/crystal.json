@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 5217377,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 669440,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2521307,
+        "band_name": "smashers_miller"
+    },
+    {},
+    {
+        "attendance": 1276858,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 3007741,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    }
+]

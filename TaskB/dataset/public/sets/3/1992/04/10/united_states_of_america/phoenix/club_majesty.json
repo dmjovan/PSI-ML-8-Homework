@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1041292,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 16252,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 161928,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 4066595,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 6033177,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

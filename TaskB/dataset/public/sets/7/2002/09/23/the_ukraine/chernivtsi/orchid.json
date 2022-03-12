@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2242536,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

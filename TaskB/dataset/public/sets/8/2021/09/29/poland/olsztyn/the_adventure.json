@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 80594,
+        "band_name": "wan_hale"
+    },
+    {
+        "attendance": 2127346,
+        "band_name": "twang"
+    },
+    {
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 4206206,
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1605677,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

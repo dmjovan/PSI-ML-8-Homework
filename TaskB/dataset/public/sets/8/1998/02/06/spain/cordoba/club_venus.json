@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "windmills"
+    },
+    {
+        "attendance": 414049,
+        "band_name": "boulder_orthodoxy"
+    },
+    {
+        "attendance": 684098,
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "attendance": 1105281,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    },
+    {
+        "band_name": "amoeba"
+    }
+]

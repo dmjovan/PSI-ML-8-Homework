@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7232805,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 416873,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 415313,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 1128173,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 75992,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

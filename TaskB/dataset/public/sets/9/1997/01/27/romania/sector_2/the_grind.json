@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 590234,
+        "band_name": "cosmic_escapade"
+    },
+    {
+        "attendance": 2203820,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

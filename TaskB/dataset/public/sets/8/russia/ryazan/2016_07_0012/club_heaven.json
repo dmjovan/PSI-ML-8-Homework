@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2009598,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 222124,
+        "is_indie": false
+    },
+    {
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

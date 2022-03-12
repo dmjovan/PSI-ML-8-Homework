@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 353617,
+        "is_indie": false
+    },
+    {
+        "attendance": 5166907,
+        "is_indie": false
+    },
+    {
+        "attendance": 3562202,
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    },
+    {
+        "attendance": 304571,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    }
+]

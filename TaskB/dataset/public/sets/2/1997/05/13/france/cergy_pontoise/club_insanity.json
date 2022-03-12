@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3297599,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 3219466,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 6850261,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 646733,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 1178814,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

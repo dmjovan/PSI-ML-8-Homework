@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 781694,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1884198,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 2665523,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

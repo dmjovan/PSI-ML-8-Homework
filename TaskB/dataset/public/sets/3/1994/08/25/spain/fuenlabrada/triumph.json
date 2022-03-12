@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6985950,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 6415736,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 2840317,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 50733,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 539556,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

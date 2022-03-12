@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3295577,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 4046800,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 4095739,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 5657216,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 77411,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    }
+]

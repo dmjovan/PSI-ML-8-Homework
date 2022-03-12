@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1520174,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 1090536,
+        "band_name": "vine_blitzkrieg"
+    },
+    {
+        "attendance": 992714,
+        "band_name": "quitters_recline",
+        "is_indie": false
+    },
+    {},
+    {
+        "attendance": 2612519,
+        "is_indie": false
+    }
+]

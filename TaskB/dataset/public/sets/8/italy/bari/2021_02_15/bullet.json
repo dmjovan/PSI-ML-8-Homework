@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 127338,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 763737,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 2037466,
+        "band_name": "fighter"
+    },
+    {
+        "attendance": 1630341,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    }
+]

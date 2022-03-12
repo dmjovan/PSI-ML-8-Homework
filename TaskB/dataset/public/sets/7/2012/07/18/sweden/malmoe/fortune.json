@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1314351,
+        "band_name": "aromatic_tents"
+    },
+    {
+        "attendance": 6920765,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 755734,
+        "is_indie": false
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    }
+]

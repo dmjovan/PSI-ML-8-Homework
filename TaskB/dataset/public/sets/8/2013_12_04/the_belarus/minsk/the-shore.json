@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 4505226,
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 984470,
+        "band_name": "electron",
+        "is_indie": false
+    }
+]

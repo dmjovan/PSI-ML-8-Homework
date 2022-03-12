@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 595013,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 3546578,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1659890,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    }
+]

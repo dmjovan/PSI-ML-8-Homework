@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1167803,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    },
+    {
+        "attendance": 429944,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "attendance": 5031847,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 710329,
+        "band_name": "romper",
+        "is_indie": false
+    }
+]

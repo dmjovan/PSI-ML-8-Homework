@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1536755,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 2100475,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 5715426,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    }
+]

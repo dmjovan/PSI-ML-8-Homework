@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3127924,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 6527678,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 157657,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 467621,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    }
+]

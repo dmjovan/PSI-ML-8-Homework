@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2899080,
+        "band_name": "shall_republic",
+        "is_indie": true
+    },
+    {
+        "attendance": 5520597,
+        "band_name": "cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 4304912,
+        "band_name": "utopia_whisper",
+        "is_indie": false
+    },
+    {
+        "attendance": 7969025,
+        "band_name": "radish_bestseller",
+        "is_indie": false
+    },
+    {
+        "attendance": 1242954,
+        "band_name": "joystick",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "slipper_ripple"
+    },
+    {
+        "attendance": 1349462,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 686648,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "attendance": 1344592,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    }
+]

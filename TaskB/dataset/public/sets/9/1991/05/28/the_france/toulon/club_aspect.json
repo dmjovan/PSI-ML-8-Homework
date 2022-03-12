@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "smashers_miller"
+    },
+    {
+        "attendance": 8617081,
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "attendance": 2478019,
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    }
+]

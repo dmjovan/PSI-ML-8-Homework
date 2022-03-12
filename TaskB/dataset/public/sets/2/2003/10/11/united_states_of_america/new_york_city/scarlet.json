@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1318801,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 1397885,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1579965,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1110081,
+        "band_name": "activate_bill",
+        "is_indie": false
+    }
+]

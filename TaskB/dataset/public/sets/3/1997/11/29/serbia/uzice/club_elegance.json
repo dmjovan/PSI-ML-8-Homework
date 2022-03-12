@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4407491,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 3416721,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 641933,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1578578,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 2622796,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

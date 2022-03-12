@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6943282,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 1012001,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1471276,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    }
+]

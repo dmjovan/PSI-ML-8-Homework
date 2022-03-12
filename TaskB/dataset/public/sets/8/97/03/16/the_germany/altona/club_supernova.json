@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 951015,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 6785716,
+        "band_name": "adapt_pool"
+    },
+    {
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "band_name": "matrix_mare",
+        "is_indie": true
+    }
+]

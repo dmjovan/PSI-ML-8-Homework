@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 2792920,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2346766,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 378560,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 6190255,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

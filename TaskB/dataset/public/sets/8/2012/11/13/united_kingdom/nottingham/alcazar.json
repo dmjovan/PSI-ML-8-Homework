@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 159213,
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "attendance": 299303,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "band_name": "city_unlimited"
+    }
+]

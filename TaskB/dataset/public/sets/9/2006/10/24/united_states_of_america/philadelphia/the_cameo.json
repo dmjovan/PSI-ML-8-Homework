@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4672903,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 3414240,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    },
+    {
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    }
+]

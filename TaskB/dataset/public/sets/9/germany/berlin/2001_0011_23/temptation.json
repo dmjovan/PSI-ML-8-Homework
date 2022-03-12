@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2231914,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 1728675,
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "attendance": 2167090,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2733266,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 1952907,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 4498160,
+        "band_name": "either_sire",
+        "is_indie": false
+    }
+]

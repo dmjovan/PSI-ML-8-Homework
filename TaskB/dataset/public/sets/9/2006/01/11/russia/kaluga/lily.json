@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 823494,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    },
+    {
+        "attendance": 5438180,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 604777,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 9455297,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 2715757,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 5041020,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 2423616,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

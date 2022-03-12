@@ -1,0 +1,14 @@
+[
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 682910,
+        "band_name": "attackers"
+    },
+    {
+        "attendance": 7773986,
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    }
+]

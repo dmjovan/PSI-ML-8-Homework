@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "trance_petters"
+    },
+    {
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "attendance": 3650473,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

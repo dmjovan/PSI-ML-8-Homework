@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 624660,
+        "band_name": "fang_switchblade",
+        "is_indie": false
+    },
+    {
+        "attendance": 2177500,
+        "band_name": "evens_parish",
+        "is_indie": false
+    },
+    {
+        "attendance": 2741387,
+        "band_name": "related_pals",
+        "is_indie": false
+    },
+    {
+        "attendance": 5222242,
+        "is_indie": true
+    },
+    {
+        "attendance": 6316124,
+        "band_name": "excavate_postmortem",
+        "is_indie": true
+    }
+]

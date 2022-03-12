@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 5572169,
+        "band_name": "hypocrite"
+    },
+    {
+        "attendance": 3426107,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "band_name": "hoes",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 471513,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1258528,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

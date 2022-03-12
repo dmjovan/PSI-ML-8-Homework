@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4597215,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 4187748,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 2211100,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

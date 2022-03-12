@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1430086,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 1938045,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 247891,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

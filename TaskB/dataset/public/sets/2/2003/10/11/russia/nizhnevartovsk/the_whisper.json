@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2117168,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1050696,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 5664414,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 4130681,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 394616,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    }
+]

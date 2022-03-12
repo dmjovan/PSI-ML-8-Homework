@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3294218,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 745382,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 3988470,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 1077112,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

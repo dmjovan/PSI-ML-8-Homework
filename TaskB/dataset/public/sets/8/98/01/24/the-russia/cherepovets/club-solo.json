@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 53561,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "band_name": "any_expansions"
+    },
+    {
+        "attendance": 144015,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 973290,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    }
+]

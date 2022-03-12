@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2082090,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 417498,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 1129032,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    }
+]

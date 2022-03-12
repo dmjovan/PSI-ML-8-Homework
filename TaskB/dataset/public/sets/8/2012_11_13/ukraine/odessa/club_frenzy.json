@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1067131,
+        "is_indie": false
+    },
+    {
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "attendance": 623525,
+        "band_name": "exclaim"
+    },
+    {
+        "attendance": 555615,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

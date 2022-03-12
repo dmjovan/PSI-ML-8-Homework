@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 212663,
+        "band_name": "furniture_glow"
+    },
+    {
+        "attendance": 662181,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 1142157,
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    }
+]

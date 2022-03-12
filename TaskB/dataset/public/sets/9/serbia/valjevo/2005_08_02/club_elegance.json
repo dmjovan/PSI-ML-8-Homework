@@ -1,0 +1,10 @@
+[
+    {
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    }
+]

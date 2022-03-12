@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 6488954,
+        "band_name": "ampersand_lamb"
+    },
+    {
+        "attendance": 881034,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 6034240,
+        "band_name": "pea_freshwater_cargoes"
+    },
+    {
+        "attendance": 937377,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    }
+]

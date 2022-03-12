@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 461173,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "attendance": 3475279
+    },
+    {
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    }
+]

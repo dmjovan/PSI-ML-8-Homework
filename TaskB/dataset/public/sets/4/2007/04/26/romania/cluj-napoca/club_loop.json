@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4632298,
+        "band_name": "excavate_postmortem",
+        "is_indie": true
+    },
+    {
+        "band_name": "pickup_regent",
+        "is_indie": false
+    },
+    {
+        "attendance": 1336557,
+        "band_name": "both_conflagration",
+        "is_indie": false
+    },
+    {
+        "attendance": 153240,
+        "band_name": "fang_switchblade",
+        "is_indie": false
+    }
+]

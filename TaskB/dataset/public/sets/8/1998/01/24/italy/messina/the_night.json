@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 1533799,
+        "band_name": "alcohol_spool"
+    },
+    {
+        "attendance": 2209437
+    },
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 2176467,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5702769,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 5295119,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 8125809,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 3004597,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 5219689,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

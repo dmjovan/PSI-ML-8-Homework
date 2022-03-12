@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1698944,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 60892,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 2610184,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    }
+]

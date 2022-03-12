@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 29895,
+        "is_indie": false
+    },
+    {
+        "attendance": 1003094,
+        "band_name": "bargains_facsimile"
+    },
+    {
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 259306,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    }
+]

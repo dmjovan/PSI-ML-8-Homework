@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 6086765,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "attendance": 4321341,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2161403,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 1813069,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "band_name": "deride",
+        "is_indie": false
+    },
+    {
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1909464,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 3679783,
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "attendance": 4328272,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 489547,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    }
+]

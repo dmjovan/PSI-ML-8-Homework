@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 472410,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 3794137,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 2378175,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 1745962,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 434513,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    }
+]

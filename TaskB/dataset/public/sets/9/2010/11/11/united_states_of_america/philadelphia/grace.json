@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "band_name": "furlough_pollution",
+        "is_indie": false
+    },
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 222002,
+        "band_name": "anew_big",
+        "is_indie": true
+    }
+]

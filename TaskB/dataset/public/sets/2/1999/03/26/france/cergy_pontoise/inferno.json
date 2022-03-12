@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 139143,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 7292156,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2292848,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    }
+]

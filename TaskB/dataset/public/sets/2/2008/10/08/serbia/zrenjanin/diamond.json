@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 271189,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 6359797,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 1781917,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 1969537,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

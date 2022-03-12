@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 6767970,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 5271110,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

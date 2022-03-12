@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 378281,
+        "is_indie": false
+    },
+    {
+        "attendance": 4791461,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 699957,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    }
+]

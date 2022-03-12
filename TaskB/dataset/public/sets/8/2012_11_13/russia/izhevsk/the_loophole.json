@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 7371,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    },
+    {
+        "attendance": 60710,
+        "is_indie": false
+    },
+    {
+        "attendance": 261821
+    },
+    {
+        "attendance": 393577,
+        "band_name": "observatory",
+        "is_indie": true
+    }
+]

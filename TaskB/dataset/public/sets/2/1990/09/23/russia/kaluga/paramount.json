@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2170794,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 4531190,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 3097462,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 784181,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 8094033,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    }
+]

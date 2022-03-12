@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 972151,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

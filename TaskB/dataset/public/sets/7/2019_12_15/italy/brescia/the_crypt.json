@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 4931271,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 3259632,
+        "band_name": "the_porters",
+        "is_indie": true
+    }
+]

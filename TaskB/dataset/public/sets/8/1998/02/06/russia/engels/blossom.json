@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 1273130,
+        "is_indie": false
+    },
+    {
+        "attendance": 198388,
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

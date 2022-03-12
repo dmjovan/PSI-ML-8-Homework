@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 479405,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 1841176,
+        "band_name": "any_expansions"
+    },
+    {
+        "attendance": 1091663,
+        "band_name": "placenta_boathouse"
+    },
+    {
+        "attendance": 2675507,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 863111,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    }
+]

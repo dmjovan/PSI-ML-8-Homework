@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1461674,
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 1065558,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    },
+    {
+        "attendance": 2429542,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "attendance": 1965393,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    }
+]

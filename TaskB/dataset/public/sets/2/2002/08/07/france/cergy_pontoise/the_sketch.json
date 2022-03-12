@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1790988,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 1367522,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 391078,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 8394086,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    }
+]

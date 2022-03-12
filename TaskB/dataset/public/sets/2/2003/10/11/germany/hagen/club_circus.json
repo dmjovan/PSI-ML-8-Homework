@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 189111,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2031442,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 1812018,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 3536903,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    }
+]

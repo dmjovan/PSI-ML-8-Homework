@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5568566,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 1461098,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

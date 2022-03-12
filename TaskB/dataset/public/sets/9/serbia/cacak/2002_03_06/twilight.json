@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 10553,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 906688,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 2325564,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 552417,
+        "band_name": "west_dancer"
+    },
+    {
+        "attendance": 2538845,
+        "is_indie": false
+    }
+]

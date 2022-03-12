@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1849337,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 389274,
+        "band_name": "posture_patrol"
+    },
+    {
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    }
+]

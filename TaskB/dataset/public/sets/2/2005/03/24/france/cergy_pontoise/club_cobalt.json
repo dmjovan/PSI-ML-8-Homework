@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5626695,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 618248,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 425222,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 6887712,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

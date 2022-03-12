@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 253576,
+        "band_name": "avenger_contrive"
+    },
+    {
+        "attendance": 2341233,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "attendance": 6734858,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

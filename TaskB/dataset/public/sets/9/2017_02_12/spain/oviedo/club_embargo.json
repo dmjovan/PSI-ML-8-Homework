@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1139813,
+        "band_name": "cassette_leniency"
+    },
+    {
+        "attendance": 159401,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 101993,
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    },
+    {
+        "attendance": 5689841,
+        "band_name": "opera_barbarous"
+    },
+    {
+        "attendance": 6473278,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    }
+]

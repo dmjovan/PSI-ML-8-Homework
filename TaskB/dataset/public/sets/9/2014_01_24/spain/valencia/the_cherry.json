@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7503322,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 6947789,
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 23612,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    },
+    {
+        "attendance": 502767,
+        "band_name": "smuggler_annuals",
+        "is_indie": true
+    }
+]

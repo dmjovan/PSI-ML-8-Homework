@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 540591,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 556346,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 809826,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

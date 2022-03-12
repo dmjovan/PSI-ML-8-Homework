@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 934682,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 5852803,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 1117621,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    }
+]

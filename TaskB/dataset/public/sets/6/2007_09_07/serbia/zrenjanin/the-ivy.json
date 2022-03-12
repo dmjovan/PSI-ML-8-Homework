@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1645067,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 1916808,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 2612016,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "attendance": 5013589,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

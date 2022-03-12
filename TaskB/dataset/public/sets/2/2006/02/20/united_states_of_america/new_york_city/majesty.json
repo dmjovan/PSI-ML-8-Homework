@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 108120,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 4013386,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 2979350,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1685416,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    }
+]

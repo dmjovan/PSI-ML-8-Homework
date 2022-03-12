@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1618433,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 2036670,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 84380,
+        "band_name": "aboard",
+        "is_indie": false
+    }
+]

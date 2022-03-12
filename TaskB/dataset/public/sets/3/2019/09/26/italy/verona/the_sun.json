@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2432498,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 3601044,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 150259,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 502663,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

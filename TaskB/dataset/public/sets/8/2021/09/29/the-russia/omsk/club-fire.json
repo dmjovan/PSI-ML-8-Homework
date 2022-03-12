@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 302383,
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "band_name": "convoy_carol",
+        "is_indie": false
+    },
+    {
+        "attendance": 1124946,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "band_name": "brazing_canopy"
+    },
+    {
+        "attendance": 294489,
+        "band_name": "sale_vertical",
+        "is_indie": false
+    }
+]

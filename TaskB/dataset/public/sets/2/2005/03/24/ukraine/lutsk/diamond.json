@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 934569,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 838571,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2362931,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

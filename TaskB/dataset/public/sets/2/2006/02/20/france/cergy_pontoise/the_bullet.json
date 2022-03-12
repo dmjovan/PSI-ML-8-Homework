@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 651849,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 1747264,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 1683965,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 4006935,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

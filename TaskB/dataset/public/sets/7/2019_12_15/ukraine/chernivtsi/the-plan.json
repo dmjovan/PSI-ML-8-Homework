@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 3141890,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 2858509,
+        "band_name": "hypocrite",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 654455,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 7928550,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 5554885,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 5895069,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    }
+]

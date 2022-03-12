@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 145136,
+        "is_indie": false
+    },
+    {
+        "attendance": 1293047,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "attendance": 8793130,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

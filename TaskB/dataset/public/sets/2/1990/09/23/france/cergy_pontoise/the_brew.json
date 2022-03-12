@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 430564,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1064938,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 2840629,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 1825121,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 1879132,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

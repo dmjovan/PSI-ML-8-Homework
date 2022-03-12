@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 1731653,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "band_name": "rant"
+    },
+    {
+        "attendance": 4897325,
+        "is_indie": true
+    },
+    {
+        "attendance": 1337832,
+        "is_indie": false
+    }
+]

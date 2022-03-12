@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 874435,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1638391,
+        "band_name": "elk_artist"
+    },
+    {
+        "attendance": 2728731,
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    }
+]

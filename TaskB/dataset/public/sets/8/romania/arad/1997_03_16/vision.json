@@ -1,0 +1,19 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 521208,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "attendance": 3895484,
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

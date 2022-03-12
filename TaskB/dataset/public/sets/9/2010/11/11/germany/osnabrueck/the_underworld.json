@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 43450,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 267686,
+        "band_name": "daffodil_exterminate"
+    },
+    {
+        "band_name": "pea_coaxial_augmentation",
+        "is_indie": false
+    },
+    {
+        "attendance": 5121287,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    }
+]

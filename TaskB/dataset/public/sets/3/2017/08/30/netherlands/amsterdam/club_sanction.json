@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3666,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 791112,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 628935,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 573613,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    }
+]

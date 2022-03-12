@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 7414837,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 899860,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 4737929,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 222070,
+        "is_indie": false
+    },
+    {
+        "attendance": 569843,
+        "band_name": "aerobics",
+        "is_indie": false
+    }
+]

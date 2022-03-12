@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 553765,
+        "band_name": "adapt_pool"
+    },
+    {
+        "attendance": 4280798,
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "attendance": 3861618,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "attendance": 4394783,
+        "band_name": "city_unlimited"
+    }
+]

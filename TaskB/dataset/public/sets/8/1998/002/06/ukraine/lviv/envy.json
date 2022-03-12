@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "attendance": 1260212,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "attendance": 651425,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 103824,
+        "band_name": "antennas_cherub"
+    },
+    {
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    }
+]

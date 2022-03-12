@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 2106183,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    },
+    {
+        "attendance": 79085,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    }
+]

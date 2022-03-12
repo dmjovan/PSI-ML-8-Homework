@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 7739616,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 2481821,
+        "band_name": "anemia_psychologist"
+    },
+    {
+        "attendance": 322202,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 4661874,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 692710,
+        "band_name": "prunes",
+        "is_indie": false
+    }
+]

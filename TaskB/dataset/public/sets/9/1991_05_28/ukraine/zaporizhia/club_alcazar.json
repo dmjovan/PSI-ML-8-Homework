@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 266807,
+        "band_name": "whiskey_crossings"
+    },
+    {
+        "attendance": 1229330,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "attendance": 5222779,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "band_name": "advertising",
+        "is_indie": false
+    }
+]

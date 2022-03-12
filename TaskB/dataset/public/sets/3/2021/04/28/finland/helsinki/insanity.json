@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6195470,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 2068652,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 247440,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 2012921,
+        "band_name": "either_sire",
+        "is_indie": false
+    }
+]

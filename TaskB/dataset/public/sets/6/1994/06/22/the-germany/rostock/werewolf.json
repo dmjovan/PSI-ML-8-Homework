@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6465266,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 5740433,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 3177423,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 1092040,
+        "band_name": "learns",
+        "is_indie": false
+    }
+]

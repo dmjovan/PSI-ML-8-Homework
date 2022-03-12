@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 21901,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "attendance": 2806699,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2196190,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    }
+]

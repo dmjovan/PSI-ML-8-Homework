@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 181359,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 2175738,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

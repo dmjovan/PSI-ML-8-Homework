@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6164355,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 5133334,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 46352,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 670631,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

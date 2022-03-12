@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1944294,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1168594,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 6376840,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    }
+]

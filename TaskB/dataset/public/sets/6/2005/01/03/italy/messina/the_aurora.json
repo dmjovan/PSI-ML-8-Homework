@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2626070,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 91464,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    }
+]

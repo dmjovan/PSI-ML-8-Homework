@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 203598,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1605880,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 5014277,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 8676682,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 5637249,
+        "band_name": "sideline",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1368875,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "attendance": 3930067,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 289341,
+        "is_indie": true
+    },
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    }
+]

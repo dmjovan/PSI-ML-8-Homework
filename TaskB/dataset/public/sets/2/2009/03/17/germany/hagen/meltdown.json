@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 87304,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 8125409,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 111722,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 3355239,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2107567,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2899465,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 4150104,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 4300688,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 6587791,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

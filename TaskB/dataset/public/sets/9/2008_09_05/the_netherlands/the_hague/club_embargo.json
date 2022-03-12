@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3384949,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 3834734,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 4164983,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    }
+]

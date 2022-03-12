@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1550848,
+        "band_name": "railway_atrocity",
+        "is_indie": false
+    },
+    {
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "attendance": 246350,
+        "is_indie": false
+    },
+    {
+        "band_name": "dragons",
+        "is_indie": false
+    }
+]

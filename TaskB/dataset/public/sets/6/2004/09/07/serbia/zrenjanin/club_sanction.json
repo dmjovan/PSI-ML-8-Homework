@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 7602327,
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "attendance": 673394,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 123050,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 3121449,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1960418,
+        "band_name": "peninsula_dignitary"
+    }
+]

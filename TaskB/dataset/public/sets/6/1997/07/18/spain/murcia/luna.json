@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 734030,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 2467166,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 20548,
+        "band_name": "aperture_crystal"
+    }
+]

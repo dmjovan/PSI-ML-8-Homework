@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 451613,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2164843,
+        "band_name": "redemption",
+        "is_indie": false
+    }
+]

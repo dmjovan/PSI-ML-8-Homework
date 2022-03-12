@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5411035,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "attendance": 2861472,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 1566612,
+        "band_name": "romper",
+        "is_indie": false
+    }
+]

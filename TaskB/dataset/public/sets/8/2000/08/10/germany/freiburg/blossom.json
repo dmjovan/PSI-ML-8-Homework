@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 6330326,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 264515,
+        "band_name": "executor",
+        "is_indie": false
+    }
+]

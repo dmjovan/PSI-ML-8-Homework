@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 72967,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 3027407,
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    }
+]

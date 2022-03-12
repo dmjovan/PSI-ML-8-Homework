@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2125103,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2797256,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 5881910,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 190508,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 2396921,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

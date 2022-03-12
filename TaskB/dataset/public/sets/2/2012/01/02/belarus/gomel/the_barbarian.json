@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5754236,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1442467,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 4362187,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 4178130,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    }
+]

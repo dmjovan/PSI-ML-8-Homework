@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 1487777,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 1311587,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

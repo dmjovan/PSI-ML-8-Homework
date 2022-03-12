@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 2521131,
+        "is_indie": false
+    },
+    {
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "attendance": 530254,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    }
+]

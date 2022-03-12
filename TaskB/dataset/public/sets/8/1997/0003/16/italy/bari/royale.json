@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 6093972,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 999415,
+        "is_indie": false
+    },
+    {
+        "attendance": 1362292,
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    }
+]

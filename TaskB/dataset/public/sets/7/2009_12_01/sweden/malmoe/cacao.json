@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1907185,
+        "band_name": "pea_parker_longitude"
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 405049,
+        "band_name": "stairwell",
+        "is_indie": false
+    }
+]

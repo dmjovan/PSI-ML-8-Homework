@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 239499,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 1385968,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    }
+]

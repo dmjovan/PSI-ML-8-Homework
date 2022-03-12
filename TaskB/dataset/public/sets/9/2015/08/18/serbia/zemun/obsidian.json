@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 5833046,
+        "is_indie": false
+    },
+    {
+        "attendance": 1819912,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 706326,
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "attendance": 6189849,
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

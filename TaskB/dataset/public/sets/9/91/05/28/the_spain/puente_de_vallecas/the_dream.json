@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2895825,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "band_name": "smuggler_annuals"
+    },
+    {
+        "attendance": 2997909,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    },
+    {
+        "attendance": 4228540,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 1524124,
+        "band_name": "snake_pong",
+        "is_indie": false
+    }
+]

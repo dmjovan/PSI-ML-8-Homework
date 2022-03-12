@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 1958027,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "attendance": 223595,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

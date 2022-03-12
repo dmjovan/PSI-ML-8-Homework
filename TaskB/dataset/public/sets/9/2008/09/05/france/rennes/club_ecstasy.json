@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 4219110,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "band_name": "groves_juggler",
+        "is_indie": false
+    }
+]

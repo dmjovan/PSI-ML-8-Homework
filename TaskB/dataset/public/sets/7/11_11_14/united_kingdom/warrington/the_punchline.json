@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 801213,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 510374,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "attendance": 3374781,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5356489,
+        "band_name": "quo_socialize"
+    },
+    {
+        "attendance": 3633509,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 1050324,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "attendance": 1044808,
+        "is_indie": true
+    }
+]

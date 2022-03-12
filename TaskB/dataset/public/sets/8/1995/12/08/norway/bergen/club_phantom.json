@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    },
+    {
+        "attendance": 193324,
+        "band_name": "pause_queen"
+    },
+    {
+        "attendance": 976950,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1592345,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    }
+]

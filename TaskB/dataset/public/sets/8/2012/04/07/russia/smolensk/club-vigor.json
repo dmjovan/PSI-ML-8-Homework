@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 182037,
+        "band_name": "genre_fighter"
+    },
+    {
+        "attendance": 334625,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2282967,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    }
+]

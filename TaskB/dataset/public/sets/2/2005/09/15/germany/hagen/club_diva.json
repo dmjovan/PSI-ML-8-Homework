@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 856874,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 872314,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 4575863,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 1470221,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 4284848,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    }
+]

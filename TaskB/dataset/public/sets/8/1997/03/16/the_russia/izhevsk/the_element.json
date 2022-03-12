@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 482925,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 1136151,
+        "band_name": "prunes"
+    },
+    {
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "band_name": "amoeba",
+        "is_indie": false
+    }
+]

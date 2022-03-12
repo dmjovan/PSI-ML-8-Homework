@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 524795,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 6579413,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 7224762,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

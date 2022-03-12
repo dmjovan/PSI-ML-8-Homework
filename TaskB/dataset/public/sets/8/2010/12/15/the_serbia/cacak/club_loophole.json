@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 335143,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "attendance": 25161,
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 3429593,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    }
+]

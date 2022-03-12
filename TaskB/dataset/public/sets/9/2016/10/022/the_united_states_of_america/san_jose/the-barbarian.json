@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2612416,
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "attendance": 1737964,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    }
+]

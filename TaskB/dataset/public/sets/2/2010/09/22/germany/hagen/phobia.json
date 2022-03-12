@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 508949,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 6889697,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 5568485,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2497139,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 945394,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

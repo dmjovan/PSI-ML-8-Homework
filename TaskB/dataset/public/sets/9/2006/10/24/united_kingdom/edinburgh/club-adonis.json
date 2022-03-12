@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 398013,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "band_name": "hoes_incense",
+        "is_indie": false
+    }
+]

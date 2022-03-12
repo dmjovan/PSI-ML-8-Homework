@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1152841,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 4417929,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 8090686,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "dale_burl",
+        "is_indie": false
+    }
+]

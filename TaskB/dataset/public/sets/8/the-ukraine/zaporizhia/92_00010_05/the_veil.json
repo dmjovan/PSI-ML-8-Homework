@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    },
+    {
+        "attendance": 490594,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    },
+    {
+        "attendance": 793867,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 5255577,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "band_name": "mask",
+        "is_indie": false
+    }
+]

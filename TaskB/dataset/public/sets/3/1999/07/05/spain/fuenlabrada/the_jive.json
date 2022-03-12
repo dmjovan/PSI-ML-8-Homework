@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3128792,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 3383887,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 1088848,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 340623,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

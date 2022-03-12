@@ -1,0 +1,23 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1509134,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 2157875,
+        "band_name": "prophesy_or_inhaler"
+    },
+    {
+        "attendance": 6530989,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 3137173,
+        "band_name": "minimax_orb"
+    }
+]

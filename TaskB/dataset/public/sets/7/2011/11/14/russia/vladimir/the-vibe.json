@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 70668,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 5089279,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 3282804,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

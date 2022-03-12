@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 2117244,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 1743434,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    }
+]

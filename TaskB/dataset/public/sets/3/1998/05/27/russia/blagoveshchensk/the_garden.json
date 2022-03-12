@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1624920,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3640569,
+        "band_name": "jab",
+        "is_indie": true
+    }
+]

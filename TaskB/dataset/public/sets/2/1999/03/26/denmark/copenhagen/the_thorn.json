@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6090877,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 888,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 276994,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 1504704,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

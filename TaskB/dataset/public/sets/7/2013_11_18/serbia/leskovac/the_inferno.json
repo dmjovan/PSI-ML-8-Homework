@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 1358306,
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 1136700,
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 829601,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 6855605,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    }
+]

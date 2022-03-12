@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 868289,
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 1079882,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 403073,
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "attendance": 303426,
+        "band_name": "dossier",
+        "is_indie": false
+    }
+]

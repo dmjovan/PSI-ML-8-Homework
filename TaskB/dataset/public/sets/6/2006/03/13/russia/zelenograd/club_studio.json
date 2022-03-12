@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3062797,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 147533,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 344779,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    }
+]

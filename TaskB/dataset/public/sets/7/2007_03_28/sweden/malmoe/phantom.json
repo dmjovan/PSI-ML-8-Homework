@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "blacksmith_to_asylum",
+        "is_indie": false
+    },
+    {
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 5096902,
+        "is_indie": false
+    },
+    {
+        "attendance": 4498422,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "band_name": "training_tertiary",
+        "is_indie": true
+    }
+]

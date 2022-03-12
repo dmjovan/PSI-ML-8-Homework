@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 94686,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 45458,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1454336,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    }
+]

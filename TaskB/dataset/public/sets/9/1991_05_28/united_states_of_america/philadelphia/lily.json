@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2119532,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 7968254,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    }
+]

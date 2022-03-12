@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 525870,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 4298262,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "band_name": "backyard_roam"
+    }
+]

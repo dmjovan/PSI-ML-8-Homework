@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 290741,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 1946882,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    },
+    {
+        "attendance": 2865214,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "attendance": 4602530,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    }
+]

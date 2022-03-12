@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 5204870,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    },
+    {
+        "attendance": 647784,
+        "band_name": "reservoir_near_goal",
+        "is_indie": false
+    },
+    {
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 3314204,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "attendance": 3357262,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    }
+]

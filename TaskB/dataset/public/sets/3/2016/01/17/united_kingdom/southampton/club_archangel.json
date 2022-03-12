@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2847867,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 1008543,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    },
+    {
+        "attendance": 142984,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 4780964,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

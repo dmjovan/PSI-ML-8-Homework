@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1606620,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 802882,
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 1577289,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 1118775,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    }
+]

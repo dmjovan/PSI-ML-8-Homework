@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 569788,
+        "band_name": "deride"
+    },
+    {
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 81035,
+        "band_name": "peas_liberator",
+        "is_indie": false
+    },
+    {
+        "band_name": "sash_amoebae"
+    },
+    {
+        "attendance": 3581278,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    }
+]

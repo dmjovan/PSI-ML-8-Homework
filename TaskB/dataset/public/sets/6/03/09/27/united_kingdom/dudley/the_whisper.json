@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1116962,
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "attendance": 3250275,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

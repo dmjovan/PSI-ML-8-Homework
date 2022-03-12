@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 962517,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 465751,
+        "band_name": "pinhole_posture"
+    },
+    {
+        "band_name": "groves_juggler",
+        "is_indie": false
+    }
+]

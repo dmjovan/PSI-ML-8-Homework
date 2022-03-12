@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 6558060,
+        "band_name": "segmentation_deal_sojourner"
+    },
+    {
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "band_name": "fingers",
+        "is_indie": true
+    },
+    {
+        "attendance": 1087059,
+        "band_name": "nimbus",
+        "is_indie": false
+    }
+]

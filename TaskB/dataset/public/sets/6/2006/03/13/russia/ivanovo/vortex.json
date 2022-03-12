@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 359807,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 3428577,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 3907812,
+        "is_indie": true
+    }
+]

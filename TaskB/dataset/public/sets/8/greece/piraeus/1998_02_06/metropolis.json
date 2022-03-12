@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 4372924,
+        "band_name": "exclaim"
+    },
+    {
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 200772,
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 1268222,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    }
+]

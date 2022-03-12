@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 482692
+    },
+    {
+        "attendance": 2525990,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "attendance": 4463617,
+        "band_name": "hangmen_hotter"
+    },
+    {
+        "attendance": 212361,
+        "band_name": "peas_liberator"
+    },
+    {
+        "attendance": 4564599,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    }
+]

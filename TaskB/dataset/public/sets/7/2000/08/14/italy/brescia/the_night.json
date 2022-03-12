@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 166305,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1796999,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 3196614,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 3726252,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

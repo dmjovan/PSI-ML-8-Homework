@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 5645688,
+        "band_name": "scoundrel_elite",
+        "is_indie": false
+    },
+    {
+        "attendance": 6250537,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "attendance": 1389254,
+        "is_indie": true
+    },
+    {
+        "attendance": 5997750,
+        "band_name": "amoeba",
+        "is_indie": false
+    }
+]

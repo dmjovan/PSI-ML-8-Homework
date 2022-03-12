@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3512452,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 686859,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 783459,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    }
+]

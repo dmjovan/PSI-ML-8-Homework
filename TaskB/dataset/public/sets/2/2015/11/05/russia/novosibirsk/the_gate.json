@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 672059,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 240040,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 1373998,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 3130765,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 55679,
+        "band_name": "flock_store",
+        "is_indie": true
+    }
+]

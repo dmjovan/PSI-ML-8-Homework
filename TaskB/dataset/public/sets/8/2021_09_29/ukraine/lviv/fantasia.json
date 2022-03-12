@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 7418697,
+        "band_name": "any_madder",
+        "is_indie": true
+    },
+    {
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1572601,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "band_name": "convoy_carol"
+    }
+]

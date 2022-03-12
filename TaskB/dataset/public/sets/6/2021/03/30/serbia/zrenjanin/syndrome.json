@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 7285594,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 1183540,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 7573202,
+        "band_name": "exempt",
+        "is_indie": false
+    }
+]

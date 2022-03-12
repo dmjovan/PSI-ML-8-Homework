@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 8334932,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 2449633,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 67012,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1726468,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    }
+]

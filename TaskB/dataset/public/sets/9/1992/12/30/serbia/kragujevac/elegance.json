@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1932095,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 4665733,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "attendance": 210701,
+        "band_name": "smuggler_annuals"
+    },
+    {
+        "attendance": 2502683,
+        "band_name": "vagina_antique_bravest",
+        "is_indie": false
+    }
+]

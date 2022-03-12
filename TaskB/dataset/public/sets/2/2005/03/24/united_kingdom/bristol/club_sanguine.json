@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 597695,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 8783065,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

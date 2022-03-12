@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 3101499,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    },
+    {
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 1980493,
+        "band_name": "breathe_ensemble"
+    },
+    {
+        "band_name": "corset"
+    }
+]

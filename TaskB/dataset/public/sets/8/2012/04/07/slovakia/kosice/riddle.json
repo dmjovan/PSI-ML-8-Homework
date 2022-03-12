@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2333128,
+        "band_name": "sneeze_retarder"
+    },
+    {
+        "attendance": 299247,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 573409,
+        "band_name": "matrix_mare"
+    },
+    {
+        "band_name": "hopelessness",
+        "is_indie": false
+    },
+    {
+        "attendance": 4020027,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    }
+]

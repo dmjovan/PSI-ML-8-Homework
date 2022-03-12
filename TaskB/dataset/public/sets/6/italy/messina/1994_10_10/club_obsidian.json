@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 697032,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 3368937,
+        "band_name": "dragons",
+        "is_indie": false
+    }
+]

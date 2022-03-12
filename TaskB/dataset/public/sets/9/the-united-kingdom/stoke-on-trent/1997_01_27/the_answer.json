@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 970053,
+        "band_name": "infirmary_grapevine"
+    },
+    {
+        "attendance": 1038859,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "band_name": "destructor",
+        "is_indie": false
+    },
+    {
+        "attendance": 5393312,
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1597993,
+        "band_name": "honeybee_signatures",
+        "is_indie": false
+    },
+    {
+        "attendance": 1020417,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "attendance": 1534310,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 4105065,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    }
+]

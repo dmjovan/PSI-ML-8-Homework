@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1910885,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1171904,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2131131,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "band_name": "dragons",
+        "is_indie": false
+    }
+]

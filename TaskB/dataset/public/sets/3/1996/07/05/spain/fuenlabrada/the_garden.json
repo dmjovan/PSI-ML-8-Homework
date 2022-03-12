@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2587086,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 2058255,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 242892,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1828610,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

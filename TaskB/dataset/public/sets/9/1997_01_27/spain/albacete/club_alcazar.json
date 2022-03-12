@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 2317887,
+        "band_name": "sweetheart_grand"
+    },
+    {
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 1935262,
+        "band_name": "tore"
+    }
+]

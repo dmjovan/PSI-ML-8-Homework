@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 791487,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 5763696,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 5707666,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 350462,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

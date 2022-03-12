@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1698174,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    }
+]

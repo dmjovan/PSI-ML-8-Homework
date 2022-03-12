@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3315632,
+        "is_indie": false
+    },
+    {
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 19991,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2372141,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 357516,
+        "band_name": "romper",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 203336,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 23624,
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 2115189,
+        "band_name": "levee_or_any_gymnast_boatmen"
+    },
+    {
+        "band_name": "blanch_coronary",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1454606,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 6439051,
+        "is_indie": false
+    },
+    {
+        "attendance": 660439,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    }
+]

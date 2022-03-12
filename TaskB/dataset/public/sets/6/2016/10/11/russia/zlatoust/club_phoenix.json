@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 91745,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "band_name": "folk_chicks"
+    },
+    {
+        "attendance": 1617719,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    }
+]

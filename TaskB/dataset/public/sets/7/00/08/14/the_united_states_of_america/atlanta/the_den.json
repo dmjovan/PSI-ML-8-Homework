@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "sayer",
+        "is_indie": true
+    },
+    {
+        "attendance": 6323513,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 938233,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

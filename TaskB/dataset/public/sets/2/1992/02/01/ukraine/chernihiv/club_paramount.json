@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2125167,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2246615,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 694533,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    }
+]

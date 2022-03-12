@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5804236,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 1117297,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 357867,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

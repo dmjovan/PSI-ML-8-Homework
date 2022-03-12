@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 5795689,
+        "band_name": "potters_assembly"
+    },
+    {
+        "attendance": 458026,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 3766688,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 3819607,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    }
+]

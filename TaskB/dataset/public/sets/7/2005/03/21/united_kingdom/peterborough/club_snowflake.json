@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1812489,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 1359035,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

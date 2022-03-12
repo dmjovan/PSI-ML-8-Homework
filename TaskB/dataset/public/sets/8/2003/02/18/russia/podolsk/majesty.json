@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3082758,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "attendance": 472129,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "attendance": 7892051,
+        "band_name": "complex_figs"
+    }
+]

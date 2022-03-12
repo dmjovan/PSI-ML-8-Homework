@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 848443,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 6405423,
+        "band_name": "aversion_whine"
+    },
+    {
+        "attendance": 6533749,
+        "is_indie": false
+    },
+    {
+        "attendance": 7586069,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    }
+]

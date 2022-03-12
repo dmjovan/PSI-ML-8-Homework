@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2337878,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 318213,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "attendance": 2728364,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    }
+]

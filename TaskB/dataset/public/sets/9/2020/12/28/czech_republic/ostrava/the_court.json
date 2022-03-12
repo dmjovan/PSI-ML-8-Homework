@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "attendance": 2270472,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 82146,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    }
+]

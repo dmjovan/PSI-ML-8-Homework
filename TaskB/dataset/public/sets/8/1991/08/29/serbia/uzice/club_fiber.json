@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1718989
+    },
+    {
+        "attendance": 1826963,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3827669,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    }
+]

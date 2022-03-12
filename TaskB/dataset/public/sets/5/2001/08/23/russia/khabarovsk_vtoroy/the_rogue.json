@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4440773,
+        "band_name": "castle_dyers",
+        "is_indie": true
+    },
+    {
+        "attendance": 2456888,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 260169,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

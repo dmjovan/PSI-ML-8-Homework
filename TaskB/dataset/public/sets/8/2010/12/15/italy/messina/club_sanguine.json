@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 1264773,
+        "band_name": "genre_fighter"
+    },
+    {
+        "band_name": "deserter",
+        "is_indie": false
+    },
+    {
+        "attendance": 613179,
+        "band_name": "observatory",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1118772,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 556026,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "attendance": 336170,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "band_name": "shifty_diffuser"
+    },
+    {
+        "attendance": 14836,
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2870961,
+        "band_name": "the_romance_dumber"
+    },
+    {
+        "attendance": 7460135,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 3585086,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

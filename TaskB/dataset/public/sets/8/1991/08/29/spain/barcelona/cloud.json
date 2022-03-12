@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 262274,
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 279439,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    },
+    {
+        "attendance": 5191851,
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "band_name": "ibis_garbages_melon"
+    },
+    {
+        "attendance": 4974264,
+        "band_name": "complex_figs",
+        "is_indie": false
+    }
+]

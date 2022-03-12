@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 4575678,
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 248830
+    },
+    {
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 4951782,
+        "band_name": "port_psalms",
+        "is_indie": false
+    }
+]

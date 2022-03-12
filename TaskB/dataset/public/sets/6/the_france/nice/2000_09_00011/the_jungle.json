@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 3738934,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1156660,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 1349544,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1843795,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    }
+]

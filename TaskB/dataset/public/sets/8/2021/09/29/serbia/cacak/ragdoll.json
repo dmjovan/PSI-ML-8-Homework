@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1654333,
+        "band_name": "governmental_bureau"
+    },
+    {
+        "attendance": 6666993,
+        "band_name": "potters_assembly"
+    },
+    {
+        "attendance": 3490344,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "band_name": "complex_figs",
+        "is_indie": false
+    }
+]

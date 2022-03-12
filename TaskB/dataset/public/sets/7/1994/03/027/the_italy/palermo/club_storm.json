@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "training_tertiary",
+        "is_indie": true
+    },
+    {
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 8812951,
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "attendance": 3372279,
+        "is_indie": false
+    }
+]

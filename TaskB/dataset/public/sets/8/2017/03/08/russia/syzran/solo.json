@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1722404,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 101711,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "attendance": 7558729,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 994437,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 2072890
+    }
+]

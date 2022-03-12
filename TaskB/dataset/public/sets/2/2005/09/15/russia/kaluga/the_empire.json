@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 787132,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 5253710,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 585160,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 2669821,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 5217532,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    }
+]

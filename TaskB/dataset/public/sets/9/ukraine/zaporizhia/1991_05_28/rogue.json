@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 14124,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 1354002,
+        "band_name": "elms"
+    },
+    {
+        "attendance": 8098092,
+        "band_name": "edible_rill",
+        "is_indie": false
+    },
+    {
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "band_name": "destructor",
+        "is_indie": false
+    }
+]

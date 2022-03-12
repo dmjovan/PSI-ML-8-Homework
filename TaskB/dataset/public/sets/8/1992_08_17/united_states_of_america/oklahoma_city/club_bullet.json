@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 8971777,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 261791,
+        "band_name": "pause_queen"
+    }
+]

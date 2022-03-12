@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 4200326,
+        "is_indie": false
+    },
+    {
+        "attendance": 3188293,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    }
+]

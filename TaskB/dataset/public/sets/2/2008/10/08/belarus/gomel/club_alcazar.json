@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5844741,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 546407,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 5462705,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 5390446,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 2522458,
+        "band_name": "contracting",
+        "is_indie": true
+    }
+]

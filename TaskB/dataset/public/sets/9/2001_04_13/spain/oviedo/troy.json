@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3063198,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 100786,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 5010929,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 3613488,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    }
+]

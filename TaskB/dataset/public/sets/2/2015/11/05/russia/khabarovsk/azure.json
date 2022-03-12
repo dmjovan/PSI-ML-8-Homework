@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 843625,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 2391895,
+        "band_name": "dragons",
+        "is_indie": true
+    },
+    {
+        "attendance": 2300395,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 317234,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 2149882,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    }
+]

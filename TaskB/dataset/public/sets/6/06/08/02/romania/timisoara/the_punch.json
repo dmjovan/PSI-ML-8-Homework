@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 409284,
+        "band_name": "equinox_research"
+    },
+    {
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1097993,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 4356329,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    }
+]

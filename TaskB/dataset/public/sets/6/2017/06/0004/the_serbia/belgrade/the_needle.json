@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 433060,
+        "band_name": "cluck_glen"
+    },
+    {
+        "attendance": 285539,
+        "band_name": "learns"
+    },
+    {
+        "attendance": 1024221,
+        "band_name": "nineteens_rougher"
+    },
+    {
+        "attendance": 548286,
+        "is_indie": false
+    },
+    {
+        "attendance": 3824865,
+        "band_name": "exempt",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 4360214,
+        "is_indie": true
+    },
+    {
+        "band_name": "blanch_coronary",
+        "is_indie": false
+    },
+    {
+        "attendance": 1518552,
+        "band_name": "all_beehives_aviator",
+        "is_indie": false
+    }
+]

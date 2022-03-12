@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 2882,
+        "band_name": "clockwise_cruising"
+    },
+    {
+        "attendance": 1197059,
+        "is_indie": false
+    },
+    {
+        "attendance": 6126998,
+        "band_name": "any_madder",
+        "is_indie": true
+    }
+]

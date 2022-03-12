@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1498179,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 533735,
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    },
+    {
+        "attendance": 344083,
+        "band_name": "oracle",
+        "is_indie": false
+    }
+]

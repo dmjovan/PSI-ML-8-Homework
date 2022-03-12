@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2076039,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1403931,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 5926602,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 1835227,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1268978,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 1970068,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1006851,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 4093558,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 4375533,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

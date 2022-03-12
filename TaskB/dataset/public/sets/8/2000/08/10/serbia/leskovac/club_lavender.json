@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "posture_patrol"
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 929055,
+        "band_name": "muffled_sleeplessness",
+        "is_indie": false
+    },
+    {
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    },
+    {
+        "attendance": 898371,
+        "band_name": "bikini_shrew"
+    }
+]

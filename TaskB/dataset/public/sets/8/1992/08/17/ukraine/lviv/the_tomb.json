@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1196286,
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "attendance": 192919,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 996220,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 3978602,
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    }
+]

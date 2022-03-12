@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 552418,
+        "is_indie": true
+    },
+    {
+        "attendance": 5075701,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 1841412,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 2071717,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "attendance": 1210716,
+        "is_indie": false
+    }
+]

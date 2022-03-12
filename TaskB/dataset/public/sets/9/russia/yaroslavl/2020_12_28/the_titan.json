@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 1797176,
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    },
+    {
+        "attendance": 2000438,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    }
+]

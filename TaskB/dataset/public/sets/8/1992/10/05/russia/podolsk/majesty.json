@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1414333,
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "band_name": "chili_rho"
+    },
+    {
+        "band_name": "sonata",
+        "is_indie": true
+    },
+    {
+        "attendance": 3504723,
+        "band_name": "twang",
+        "is_indie": true
+    }
+]

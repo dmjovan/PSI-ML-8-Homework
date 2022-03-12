@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1084564,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "attendance": 1715783,
+        "band_name": "neighborhood_smelt"
+    },
+    {
+        "band_name": "groves_juggler",
+        "is_indie": false
+    },
+    {
+        "attendance": 6529774
+    },
+    {
+        "attendance": 795591,
+        "band_name": "equinox_research",
+        "is_indie": false
+    }
+]

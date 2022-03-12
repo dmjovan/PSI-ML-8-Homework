@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 38334,
+        "band_name": "ampersand_lamb",
+        "is_indie": false
+    },
+    {
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 3078096,
+        "is_indie": true
+    },
+    {
+        "attendance": 1371347,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    }
+]

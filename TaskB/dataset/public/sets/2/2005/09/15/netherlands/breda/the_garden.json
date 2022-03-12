@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 107105,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 3737049,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1344858,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

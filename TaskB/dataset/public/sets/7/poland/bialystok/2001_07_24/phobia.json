@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 92506,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 82960,
+        "is_indie": false
+    },
+    {
+        "attendance": 397857,
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 1736685,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1648860,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    },
+    {
+        "attendance": 214001,
+        "is_indie": true
+    },
+    {
+        "attendance": 130852,
+        "band_name": "west_dancer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1085090,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "attendance": 247577,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    }
+]

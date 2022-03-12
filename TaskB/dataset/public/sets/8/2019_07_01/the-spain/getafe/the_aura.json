@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 935796,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1581773,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2966036,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "minimax_skunks",
+        "is_indie": false
+    },
+    {
+        "attendance": 510725,
+        "band_name": "elk_artist",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 779,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 150825,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 3777620,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 652257,
+        "band_name": "august_occasion",
+        "is_indie": true
+    }
+]

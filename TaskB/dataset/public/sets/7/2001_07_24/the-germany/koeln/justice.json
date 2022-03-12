@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 1324686,
+        "band_name": "larder_tinge",
+        "is_indie": false
+    },
+    {
+        "band_name": "hoes",
+        "is_indie": false
+    }
+]

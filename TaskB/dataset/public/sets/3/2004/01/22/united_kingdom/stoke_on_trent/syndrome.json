@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 592572,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 63134,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 1185281,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 160775,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 644759,
+        "band_name": "volt_united",
+        "is_indie": false
+    }
+]

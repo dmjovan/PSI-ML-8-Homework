@@ -1,0 +1,21 @@
+[
+    {},
+    {
+        "attendance": 1254777,
+        "band_name": "muffled_sleeplessness"
+    },
+    {
+        "attendance": 4519341,
+        "is_indie": false
+    },
+    {
+        "attendance": 3817014,
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2580698,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    }
+]

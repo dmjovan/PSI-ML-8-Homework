@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 547567,
+        "band_name": "trance_petters",
+        "is_indie": true
+    },
+    {
+        "attendance": 1212987,
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "attendance": 7726301,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 343899,
+        "band_name": "hoes_incense"
+    },
+    {
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3825969,
+        "band_name": "the_porters"
+    },
+    {
+        "attendance": 1237691,
+        "band_name": "outdoors"
+    },
+    {
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "attendance": 1297731,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    }
+]

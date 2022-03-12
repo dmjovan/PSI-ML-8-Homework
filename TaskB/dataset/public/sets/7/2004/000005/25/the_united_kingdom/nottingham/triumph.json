@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1164021,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "band_name": "paraffin"
+    },
+    {
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

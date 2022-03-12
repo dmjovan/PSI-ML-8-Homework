@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 298497,
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 891788,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 4306289,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 259206,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 2495009,
+        "band_name": "scrawl_twentieth"
+    }
+]

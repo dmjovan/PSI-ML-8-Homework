@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 4508024,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "attendance": 3404495,
+        "band_name": "pharmacy_sayings"
+    },
+    {
+        "band_name": "folk_chicks",
+        "is_indie": false
+    },
+    {
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    }
+]

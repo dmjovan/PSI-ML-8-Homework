@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 397741,
+        "band_name": "nimbus",
+        "is_indie": false
+    },
+    {
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 775137,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 1003695,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

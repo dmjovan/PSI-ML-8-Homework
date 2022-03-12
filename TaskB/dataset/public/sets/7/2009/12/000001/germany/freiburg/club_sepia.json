@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "attendance": 2939671
+    },
+    {
+        "attendance": 7746664,
+        "band_name": "dale_burl",
+        "is_indie": false
+    },
+    {
+        "attendance": 3418773,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

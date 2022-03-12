@@ -1,0 +1,23 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2206838,
+        "band_name": "furniture_glow"
+    },
+    {
+        "attendance": 148392,
+        "band_name": "soy_bites",
+        "is_indie": false
+    },
+    {
+        "attendance": 1460602,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "band_name": "sale_vertical",
+        "is_indie": false
+    }
+]

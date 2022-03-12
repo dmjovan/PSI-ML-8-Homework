@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1303978,
+        "band_name": "breadwinner_biller"
+    },
+    {
+        "attendance": 413419,
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 5666121,
+        "band_name": "automata_politics",
+        "is_indie": true
+    },
+    {
+        "attendance": 566615,
+        "band_name": "sonata_bunkers",
+        "is_indie": false
+    },
+    {
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    }
+]

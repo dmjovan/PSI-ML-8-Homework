@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4572382,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 333408,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 8895973,
+        "band_name": "discharge",
+        "is_indie": false
+    },
+    {
+        "attendance": 2140930,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 4583097,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    }
+]

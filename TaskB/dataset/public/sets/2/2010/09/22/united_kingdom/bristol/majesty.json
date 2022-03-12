@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2690092,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 4101246,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 3623509,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 439496,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    }
+]

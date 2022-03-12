@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 678311,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 5142,
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2989604,
+        "band_name": "exclaim"
+    },
+    {
+        "band_name": "governmental_bureau"
+    }
+]

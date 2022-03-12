@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "attendance": 5417426,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "attendance": 6001822,
+        "is_indie": false
+    },
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

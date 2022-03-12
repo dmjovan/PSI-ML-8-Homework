@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6063592,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 185130,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 602378,
+        "band_name": "flock_store",
+        "is_indie": true
+    }
+]

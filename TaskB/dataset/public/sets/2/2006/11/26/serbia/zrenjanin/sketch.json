@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1656716,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 889054,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 378640,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1025357,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 5374148,
+        "band_name": "some_custard",
+        "is_indie": false
+    }
+]

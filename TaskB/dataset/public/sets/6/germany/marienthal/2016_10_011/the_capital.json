@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "aboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 996359,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 2022319,
+        "is_indie": false
+    },
+    {
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    }
+]

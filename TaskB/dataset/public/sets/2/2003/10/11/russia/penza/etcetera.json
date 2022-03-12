@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3038674,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 772734,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 8894943,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 315231,
+        "band_name": "each_reverend",
+        "is_indie": true
+    }
+]

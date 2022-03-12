@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 2627155,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 3423629,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 4292538,
+        "band_name": "rosary",
+        "is_indie": false
+    }
+]

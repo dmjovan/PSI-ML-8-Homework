@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1479301,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 2499493,
+        "band_name": "kinky_gourmet",
+        "is_indie": true
+    },
+    {
+        "attendance": 1738900,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 298679,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 2170736,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1573505,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 3385060,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 211649,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "attendance": 4210414,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1389624,
+        "band_name": "the_romance_dumber",
+        "is_indie": false
+    }
+]

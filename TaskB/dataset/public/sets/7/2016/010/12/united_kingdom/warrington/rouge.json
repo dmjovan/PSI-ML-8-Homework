@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3010534,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 817351,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 2688273,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    }
+]

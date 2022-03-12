@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5134360,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    },
+    {
+        "attendance": 867260,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    }
+]

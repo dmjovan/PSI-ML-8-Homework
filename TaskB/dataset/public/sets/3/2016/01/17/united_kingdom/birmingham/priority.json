@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 32442,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 4400134,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 2487743,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 878596,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

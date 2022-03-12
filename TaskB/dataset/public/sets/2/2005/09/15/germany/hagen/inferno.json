@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4436676,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1711713,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 210346,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 7959350,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 923925,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    }
+]

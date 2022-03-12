@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1644385,
+        "band_name": "enchantress_deacon"
+    },
+    {
+        "attendance": 12548,
+        "band_name": "cassette_leniency",
+        "is_indie": false
+    },
+    {
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 3246987,
+        "band_name": "daffodil_exterminate",
+        "is_indie": true
+    }
+]

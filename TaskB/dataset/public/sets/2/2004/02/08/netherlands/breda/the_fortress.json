@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1847686,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 2742121,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1568813,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1898451,
+        "band_name": "dragons",
+        "is_indie": true
+    }
+]

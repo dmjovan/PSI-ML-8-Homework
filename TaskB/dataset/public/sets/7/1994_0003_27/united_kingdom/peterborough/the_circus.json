@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 835134,
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 7912597,
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "attendance": 894370,
+        "band_name": "aerobics",
+        "is_indie": false
+    }
+]

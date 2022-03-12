@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 8144478,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1064589,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1714945,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    }
+]

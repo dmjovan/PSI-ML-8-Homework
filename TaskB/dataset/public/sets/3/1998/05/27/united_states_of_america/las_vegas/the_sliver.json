@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1793329,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 6775277,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 394392,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

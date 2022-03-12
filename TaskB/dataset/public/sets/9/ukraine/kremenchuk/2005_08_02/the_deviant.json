@@ -1,0 +1,23 @@
+[
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "bilk_comeback"
+    },
+    {
+        "attendance": 1754484,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 2941301,
+        "band_name": "corset",
+        "is_indie": false
+    },
+    {
+        "attendance": 890666,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    }
+]

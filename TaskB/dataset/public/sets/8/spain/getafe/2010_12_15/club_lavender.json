@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1939829,
+        "band_name": "parkers_rockabye"
+    },
+    {
+        "attendance": 1391456,
+        "band_name": "miniaturization_brunches"
+    },
+    {
+        "attendance": 30881,
+        "band_name": "channeller",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 7786122,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 1411818,
+        "band_name": "feline_business",
+        "is_indie": false
+    },
+    {
+        "band_name": "any_stormy"
+    },
+    {
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    }
+]

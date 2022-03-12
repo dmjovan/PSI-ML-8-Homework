@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 319075,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 4898038,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 246329,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 446403,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 2322221,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

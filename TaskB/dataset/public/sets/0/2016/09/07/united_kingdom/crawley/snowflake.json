@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 420971,
+        "band_name": "regenerator_rooftop",
+        "is_indie": true
+    },
+    {
+        "attendance": 3005187,
+        "band_name": "giver_leash",
+        "is_indie": false
+    },
+    {
+        "attendance": 4183926,
+        "band_name": "counterfeit_income_index",
+        "is_indie": false
+    }
+]

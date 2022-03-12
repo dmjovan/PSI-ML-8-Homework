@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3023467,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 6060975,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 65146,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 1849821,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

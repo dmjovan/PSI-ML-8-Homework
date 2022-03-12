@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 588556,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 4415062,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3284255,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 842611,
+        "band_name": "pea_parker_longitude",
+        "is_indie": false
+    }
+]

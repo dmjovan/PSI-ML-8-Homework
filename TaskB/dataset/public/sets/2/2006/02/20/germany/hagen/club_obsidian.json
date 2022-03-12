@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7614512,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 3238563,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 1300768,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 5602125,
+        "band_name": "nimble_crossroad_creamery",
+        "is_indie": true
+    },
+    {
+        "attendance": 464351,
+        "band_name": "contracting",
+        "is_indie": true
+    }
+]

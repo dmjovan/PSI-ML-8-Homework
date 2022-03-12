@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2595330,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    },
+    {
+        "band_name": "anemia_psychologist"
+    },
+    {
+        "band_name": "the_porters",
+        "is_indie": false
+    },
+    {
+        "attendance": 1148123,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 1900079,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    }
+]

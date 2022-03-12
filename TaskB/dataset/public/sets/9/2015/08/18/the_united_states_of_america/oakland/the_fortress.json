@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 2416904,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 1627048,
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2824680,
+        "is_indie": false
+    }
+]

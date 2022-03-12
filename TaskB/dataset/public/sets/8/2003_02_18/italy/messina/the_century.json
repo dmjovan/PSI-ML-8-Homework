@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1347756,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2932671,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    },
+    {
+        "attendance": 200843,
+        "band_name": "rant"
+    }
+]

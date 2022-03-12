@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 1397165,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    }
+]

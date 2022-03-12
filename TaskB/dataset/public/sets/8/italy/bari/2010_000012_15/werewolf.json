@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 195138,
+        "band_name": "chewers_mesquite"
+    },
+    {
+        "attendance": 926411,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2875583,
+        "band_name": "exclaim"
+    },
+    {
+        "band_name": "soggy"
+    }
+]

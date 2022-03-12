@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 381981,
+        "band_name": "cooper"
+    },
+    {
+        "attendance": 7684054,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 8296820,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 2306731,
+        "is_indie": false
+    }
+]

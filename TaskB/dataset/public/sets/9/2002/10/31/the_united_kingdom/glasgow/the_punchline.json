@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1919379,
+        "band_name": "sparks_bridge"
+    },
+    {
+        "attendance": 1870856,
+        "band_name": "breathe_ensemble"
+    },
+    {
+        "band_name": "pinhole_posture",
+        "is_indie": true
+    },
+    {
+        "attendance": 992377,
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "band_name": "these_myrtle",
+        "is_indie": true
+    }
+]

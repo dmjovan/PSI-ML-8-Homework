@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 155974,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 850707,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 539033,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 263499,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

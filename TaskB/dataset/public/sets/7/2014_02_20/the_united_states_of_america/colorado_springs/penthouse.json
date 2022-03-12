@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2750626,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    },
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 339557,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 2408416,
+        "band_name": "martyrs_evaporation",
+        "is_indie": false
+    }
+]

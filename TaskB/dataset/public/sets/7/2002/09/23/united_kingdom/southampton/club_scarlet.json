@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 833433,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    }
+]

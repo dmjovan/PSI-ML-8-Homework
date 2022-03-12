@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 512516,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 210040,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 355793,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 8857315,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1659022,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 687984,
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "attendance": 794003,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    }
+]

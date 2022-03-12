@@ -1,0 +1,13 @@
+[
+    {
+        "band_name": "advertising"
+    },
+    {
+        "attendance": 696714,
+        "is_indie": true
+    },
+    {
+        "band_name": "redeem_parallax",
+        "is_indie": false
+    }
+]

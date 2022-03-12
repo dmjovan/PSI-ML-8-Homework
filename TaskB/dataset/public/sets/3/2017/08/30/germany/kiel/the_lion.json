@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2069023,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 86641,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 6071612,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 4285885,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 469095,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

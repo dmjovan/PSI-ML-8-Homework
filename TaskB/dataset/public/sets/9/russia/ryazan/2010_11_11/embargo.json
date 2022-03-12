@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3859817,
+        "band_name": "forecast_trigonometry",
+        "is_indie": false
+    },
+    {
+        "attendance": 4508281,
+        "band_name": "anew_big"
+    },
+    {
+        "attendance": 4436842,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "attendance": 7088636,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 7615060,
+        "is_indie": false
+    },
+    {
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "band_name": "acorn_pence",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2007054,
+        "band_name": "pinhole_posture",
+        "is_indie": true
+    },
+    {
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 964469,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 6596877,
+        "band_name": "ermine",
+        "is_indie": false
+    }
+]

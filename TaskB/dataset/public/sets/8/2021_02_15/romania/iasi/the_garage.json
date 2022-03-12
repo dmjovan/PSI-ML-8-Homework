@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3008600,
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 6368707,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 857396,
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "band_name": "signification_repent",
+        "is_indie": false
+    }
+]

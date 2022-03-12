@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1464144,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 1623637,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 291375,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 924724,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    }
+]

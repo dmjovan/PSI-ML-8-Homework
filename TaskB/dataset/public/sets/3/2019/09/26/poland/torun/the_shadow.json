@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 113164,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 570098,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 4958258,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 3285968,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 3665459,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    }
+]

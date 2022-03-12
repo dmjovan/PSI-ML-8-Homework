@@ -1,0 +1,15 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1614041,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    },
+    {
+        "attendance": 720726,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1505654,
+        "band_name": "avenger_contrive",
+        "is_indie": true
+    },
+    {
+        "band_name": "complex_figs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1670035,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "attendance": 2682469,
+        "band_name": "sonata"
+    }
+]

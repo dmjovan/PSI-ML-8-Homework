@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 3041595,
+        "band_name": "minimax_orb"
+    },
+    {
+        "attendance": 523449,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1332841,
+        "band_name": "lackey_noodle"
+    },
+    {
+        "attendance": 1780301
+    },
+    {
+        "attendance": 3558425,
+        "band_name": "sonata",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 8231475,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 292577,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 553694,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 724667,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

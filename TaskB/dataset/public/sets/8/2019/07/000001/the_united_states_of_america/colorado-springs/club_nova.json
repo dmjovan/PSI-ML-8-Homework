@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 749637,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "band_name": "tag"
+    },
+    {
+        "band_name": "bowman",
+        "is_indie": false
+    }
+]

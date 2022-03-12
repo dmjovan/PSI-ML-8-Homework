@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "adobe_cookery"
+    },
+    {
+        "attendance": 2105250,
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 676571,
+        "is_indie": false
+    }
+]

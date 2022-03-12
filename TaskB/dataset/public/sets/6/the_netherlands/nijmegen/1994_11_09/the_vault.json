@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2588826,
+        "is_indie": false
+    },
+    {
+        "attendance": 2434,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 1057897,
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 6887953,
+        "band_name": "rosary",
+        "is_indie": false
+    }
+]

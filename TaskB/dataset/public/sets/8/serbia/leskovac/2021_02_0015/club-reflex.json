@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 938912,
+        "band_name": "cooper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2925646,
+        "band_name": "potters_assembly",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 4452905,
+        "band_name": "advertising"
+    },
+    {
+        "attendance": 6670438,
+        "is_indie": false
+    },
+    {
+        "attendance": 2383825
+    }
+]

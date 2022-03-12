@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2122453,
+        "band_name": "grimace_pretext",
+        "is_indie": false
+    },
+    {
+        "attendance": 3055699,
+        "is_indie": false
+    },
+    {
+        "attendance": 2303760,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 1432069,
+        "band_name": "attackers",
+        "is_indie": false
+    }
+]

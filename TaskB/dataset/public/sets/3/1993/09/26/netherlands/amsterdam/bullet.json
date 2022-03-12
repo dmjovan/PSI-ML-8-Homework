@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 521210,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1141521,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 3363535,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 317444,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

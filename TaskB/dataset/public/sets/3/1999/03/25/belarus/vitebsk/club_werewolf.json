@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1313379,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 829650,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 7102851,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 811447,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

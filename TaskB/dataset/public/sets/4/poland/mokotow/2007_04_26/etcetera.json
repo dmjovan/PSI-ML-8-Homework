@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 880979,
+        "band_name": "both_conflagration",
+        "is_indie": false
+    },
+    {
+        "attendance": 5468443,
+        "band_name": "evens_parish"
+    },
+    {
+        "attendance": 7459345,
+        "band_name": "pickup_regent",
+        "is_indie": false
+    },
+    {
+        "band_name": "dye_filename",
+        "is_indie": true
+    }
+]

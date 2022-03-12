@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1202160,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    },
+    {
+        "attendance": 3001033,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 34147,
+        "band_name": "equinox_research",
+        "is_indie": true
+    }
+]

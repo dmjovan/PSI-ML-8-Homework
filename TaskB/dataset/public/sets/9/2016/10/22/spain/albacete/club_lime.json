@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    },
+    {
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "attendance": 126594,
+        "band_name": "forum_diggers_internship"
+    },
+    {
+        "attendance": 1358283,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 7110671,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    }
+]

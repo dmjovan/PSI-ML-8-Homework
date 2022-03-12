@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6055545,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 4880942,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 1241537,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2518371,
+        "band_name": "activate_bill",
+        "is_indie": false
+    },
+    {
+        "attendance": 4067962,
+        "band_name": "brunette",
+        "is_indie": false
+    }
+]

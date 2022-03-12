@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1318443,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 2562547,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 857475,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 239225,
+        "band_name": "volt_united",
+        "is_indie": false
+    }
+]

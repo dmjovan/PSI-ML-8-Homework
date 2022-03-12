@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 7727725,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 520971,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 6444649,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 6556411,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    },
+    {
+        "attendance": 259109,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

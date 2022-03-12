@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 2779527,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 241905,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    }
+]

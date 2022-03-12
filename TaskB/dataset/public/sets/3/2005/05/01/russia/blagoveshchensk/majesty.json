@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 916901,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2340176,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 1477503,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

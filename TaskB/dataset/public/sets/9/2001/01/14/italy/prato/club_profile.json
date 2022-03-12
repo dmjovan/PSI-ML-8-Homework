@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 664283,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "attendance": 39042,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 900021,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 6218388,
+        "band_name": "locality_baptism__console",
+        "is_indie": false
+    }
+]

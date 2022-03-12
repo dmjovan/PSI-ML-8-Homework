@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 551677,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "attendance": 2527426,
+        "band_name": "advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 1202945,
+        "band_name": "mountaineer_stitches",
+        "is_indie": false
+    }
+]

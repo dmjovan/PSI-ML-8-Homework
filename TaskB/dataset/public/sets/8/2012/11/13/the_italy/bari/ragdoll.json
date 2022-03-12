@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1321650,
+        "band_name": "channeller",
+        "is_indie": true
+    }
+]

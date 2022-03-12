@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "attendance": 6909362,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 844106,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    }
+]

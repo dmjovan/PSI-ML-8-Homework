@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3355441,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 4185350,
+        "band_name": "scholar_although_slate",
+        "is_indie": false
+    },
+    {
+        "attendance": 122140,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    },
+    {
+        "attendance": 86617,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 3402809,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    }
+]

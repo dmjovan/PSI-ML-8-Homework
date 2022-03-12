@@ -1,0 +1,11 @@
+[
+    {
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "attendance": 327436,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    }
+]

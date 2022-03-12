@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 53736,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 5224747,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    }
+]

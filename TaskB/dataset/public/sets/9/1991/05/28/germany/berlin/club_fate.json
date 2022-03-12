@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 6137332,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1026930,
+        "is_indie": true
+    },
+    {
+        "attendance": 2383880,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    }
+]

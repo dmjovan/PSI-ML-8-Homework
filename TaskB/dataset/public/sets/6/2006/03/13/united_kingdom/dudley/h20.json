@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2611741,
+        "band_name": "learns",
+        "is_indie": false
+    },
+    {
+        "attendance": 2018906,
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "band_name": "folk_chicks",
+        "is_indie": false
+    }
+]

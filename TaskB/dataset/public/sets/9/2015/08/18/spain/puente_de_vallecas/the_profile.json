@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 7870034,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "band_name": "quitters_recline"
+    },
+    {
+        "attendance": 581763,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 5585731,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    }
+]

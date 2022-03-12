@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4459725,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 6784496,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 3266206,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 1966339,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    }
+]

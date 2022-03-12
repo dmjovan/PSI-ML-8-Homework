@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1030907,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "attendance": 1565058,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 2520822,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    }
+]

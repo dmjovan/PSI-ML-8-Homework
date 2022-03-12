@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "miniaturization_brunches",
+        "is_indie": false
+    },
+    {
+        "attendance": 730137,
+        "band_name": "kanji"
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 812716,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 1297383,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    }
+]

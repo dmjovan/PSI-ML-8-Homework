@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1697707,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "attendance": 643460,
+        "band_name": "no_whereas_solitary",
+        "is_indie": false
+    },
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 2186938,
+        "is_indie": false
+    },
+    {
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    }
+]

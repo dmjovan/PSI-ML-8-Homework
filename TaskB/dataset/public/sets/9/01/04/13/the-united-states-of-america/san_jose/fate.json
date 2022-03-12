@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3910455,
+        "band_name": "snake_pong",
+        "is_indie": false
+    },
+    {
+        "attendance": 1804588,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 381686,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "band_name": "quitters_recline",
+        "is_indie": false
+    }
+]

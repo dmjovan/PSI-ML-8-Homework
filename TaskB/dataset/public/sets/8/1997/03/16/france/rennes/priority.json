@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 602099,
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    },
+    {
+        "attendance": 629632,
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    },
+    {
+        "attendance": 603702,
+        "band_name": "elk_artist"
+    },
+    {
+        "attendance": 39515,
+        "band_name": "the_porters"
+    },
+    {
+        "band_name": "any_madder",
+        "is_indie": true
+    }
+]

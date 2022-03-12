@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 4817276,
+        "band_name": "opera_barbarous"
+    },
+    {
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "attendance": 2851428,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    }
+]

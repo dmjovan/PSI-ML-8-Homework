@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 1837961,
+        "band_name": "float"
+    },
+    {
+        "attendance": 2329087,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4047162,
+        "band_name": "bowman_coca",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    }
+]

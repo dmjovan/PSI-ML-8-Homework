@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 723037,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 5895364,
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    },
+    {
+        "attendance": 6869209,
+        "band_name": "gags_astride_impact"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 444440,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1279756,
+        "band_name": "saber_advertising",
+        "is_indie": false
+    }
+]

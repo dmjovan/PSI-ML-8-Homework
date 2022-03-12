@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1655730,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 5587404,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 710518,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 912406,
+        "band_name": "bluffing",
+        "is_indie": false
+    }
+]

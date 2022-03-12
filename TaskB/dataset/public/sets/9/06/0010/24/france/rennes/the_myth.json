@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 4799049,
+        "band_name": "elms",
+        "is_indie": false
+    },
+    {
+        "band_name": "smashers_miller"
+    },
+    {
+        "attendance": 87168,
+        "band_name": "blanch_coronary",
+        "is_indie": false
+    }
+]

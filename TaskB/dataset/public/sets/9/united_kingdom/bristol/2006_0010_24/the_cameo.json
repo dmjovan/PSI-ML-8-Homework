@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "attendance": 2627717,
+        "band_name": "sash_amoebae",
+        "is_indie": true
+    },
+    {
+        "attendance": 8164197,
+        "band_name": "neither_cork_forests"
+    },
+    {
+        "attendance": 4686997,
+        "band_name": "redeem_parallax"
+    }
+]

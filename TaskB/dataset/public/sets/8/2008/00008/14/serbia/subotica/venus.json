@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 6867330,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 1428260,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 692455,
+        "band_name": "prunes"
+    },
+    {
+        "attendance": 3611020,
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    }
+]

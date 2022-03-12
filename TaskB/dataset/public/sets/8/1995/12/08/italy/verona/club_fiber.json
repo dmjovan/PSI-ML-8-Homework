@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 590329,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 5012618,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 2168117,
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    }
+]

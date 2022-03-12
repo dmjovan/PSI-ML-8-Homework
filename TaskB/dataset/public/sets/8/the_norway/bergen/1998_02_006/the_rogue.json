@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2220038,
+        "band_name": "ibis_garbages_melon"
+    },
+    {
+        "attendance": 1520569,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 82774,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "band_name": "attackers"
+    },
+    {
+        "attendance": 1236444,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    }
+]

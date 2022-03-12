@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1919093,
+        "is_indie": false
+    },
+    {
+        "attendance": 2655844,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 1674662,
+        "band_name": "bonny_hotness",
+        "is_indie": false
+    }
+]

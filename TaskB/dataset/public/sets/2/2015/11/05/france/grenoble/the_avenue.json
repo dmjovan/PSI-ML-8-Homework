@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5530842,
+        "band_name": "fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 3286575,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 2148926,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 850730,
+        "band_name": "sting_gross",
+        "is_indie": false
+    },
+    {
+        "attendance": 3323703,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

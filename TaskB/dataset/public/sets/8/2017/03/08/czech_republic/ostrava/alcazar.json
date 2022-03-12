@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2585478,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "attendance": 1611355,
+        "band_name": "quarry_divisional"
+    },
+    {
+        "attendance": 3196765,
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    }
+]

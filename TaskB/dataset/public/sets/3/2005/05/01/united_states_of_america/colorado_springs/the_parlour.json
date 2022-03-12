@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 226794,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 1082448,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 1153646,
+        "band_name": "royal_reference",
+        "is_indie": false
+    }
+]

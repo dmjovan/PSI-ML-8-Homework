@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 40575,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 1705967,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 188957,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 1501438,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

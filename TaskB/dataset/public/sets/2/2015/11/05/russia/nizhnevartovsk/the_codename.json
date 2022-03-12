@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5423925,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 1035714,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    },
+    {
+        "attendance": 3885948,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 4883645,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

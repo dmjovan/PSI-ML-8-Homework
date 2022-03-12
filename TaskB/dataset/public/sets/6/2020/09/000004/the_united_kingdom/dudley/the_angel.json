@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 326802,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 2459996,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "attendance": 5384957,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 1146497,
+        "band_name": "stray_pussy",
+        "is_indie": false
+    }
+]

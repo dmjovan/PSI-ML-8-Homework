@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 2510975,
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "attendance": 4036182,
+        "is_indie": true
+    },
+    {
+        "attendance": 4162440,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 2014585,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    }
+]

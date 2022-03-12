@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1523756,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "attendance": 3685943,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "band_name": "forum_diggers_internship",
+        "is_indie": false
+    },
+    {
+        "attendance": 2921449,
+        "band_name": "anew_big",
+        "is_indie": true
+    },
+    {
+        "attendance": 1308546,
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 824554,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1915973,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 1246442,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 4966496,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 23518,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

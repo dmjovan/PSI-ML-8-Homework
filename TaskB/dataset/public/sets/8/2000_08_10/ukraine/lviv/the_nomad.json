@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 561989,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "attendance": 936517,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    },
+    {
+        "attendance": 1296126,
+        "band_name": "untidy_mailer",
+        "is_indie": false
+    },
+    {
+        "attendance": 41680,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 1889773,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    }
+]

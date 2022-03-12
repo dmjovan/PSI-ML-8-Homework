@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 612193,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 1334982,
+        "band_name": "pea_carve",
+        "is_indie": false
+    },
+    {
+        "attendance": 126449,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 2491439,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    }
+]

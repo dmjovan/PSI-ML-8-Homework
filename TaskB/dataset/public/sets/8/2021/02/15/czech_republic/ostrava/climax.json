@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 267844,
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "band_name": "philosophers_preludes",
+        "is_indie": false
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    },
+    {
+        "band_name": "starter_newsletter",
+        "is_indie": true
+    }
+]

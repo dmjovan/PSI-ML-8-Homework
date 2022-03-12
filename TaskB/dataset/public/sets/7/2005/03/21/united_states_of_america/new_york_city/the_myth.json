@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4338816,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 3525399,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "is_indie": false
+    }
+]

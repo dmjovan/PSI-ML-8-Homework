@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1789142,
+        "is_indie": false
+    },
+    {
+        "attendance": 5123314,
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 2814801,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 2333034,
+        "band_name": "grudge",
+        "is_indie": false
+    },
+    {
+        "attendance": 1617502,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    }
+]

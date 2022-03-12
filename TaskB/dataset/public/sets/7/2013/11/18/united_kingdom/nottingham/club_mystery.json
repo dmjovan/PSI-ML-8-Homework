@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 4032117,
+        "band_name": "manly_pandas"
+    },
+    {
+        "attendance": 4945751,
+        "is_indie": false
+    },
+    {
+        "attendance": 2510280,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    }
+]

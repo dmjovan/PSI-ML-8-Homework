@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1241123,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "attendance": 578070,
+        "band_name": "thorns_civility",
+        "is_indie": false
+    },
+    {
+        "band_name": "innovate_boomerang",
+        "is_indie": false
+    },
+    {
+        "band_name": "voting_ridden",
+        "is_indie": false
+    }
+]

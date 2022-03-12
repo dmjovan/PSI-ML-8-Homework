@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 6932660,
+        "band_name": "vine_blitzkrieg",
+        "is_indie": false
+    },
+    {
+        "attendance": 1438112,
+        "is_indie": false
+    },
+    {
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 487800,
+        "is_indie": false
+    }
+]

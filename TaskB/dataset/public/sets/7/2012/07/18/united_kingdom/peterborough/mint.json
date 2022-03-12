@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1231430,
+        "is_indie": false
+    },
+    {
+        "attendance": 1565115,
+        "band_name": "slipper_ripple",
+        "is_indie": false
+    },
+    {
+        "band_name": "voting_ridden"
+    },
+    {
+        "attendance": 1702190,
+        "band_name": "aerobics",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 125463,
+        "band_name": "tang_city",
+        "is_indie": false
+    },
+    {
+        "attendance": 111105,
+        "band_name": "shifty_diffuser",
+        "is_indie": false
+    },
+    {
+        "attendance": 1367109,
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "attendance": 3610220,
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1553087,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    }
+]

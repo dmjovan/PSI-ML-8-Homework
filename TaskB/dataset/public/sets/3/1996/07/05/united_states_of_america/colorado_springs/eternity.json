@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6205277,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 5387889,
+        "band_name": "bluffing",
+        "is_indie": false
+    },
+    {
+        "attendance": 6642485,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1436191,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    }
+]

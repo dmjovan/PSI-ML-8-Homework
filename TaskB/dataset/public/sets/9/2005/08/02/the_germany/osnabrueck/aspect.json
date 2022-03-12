@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "deride",
+        "is_indie": false
+    },
+    {
+        "attendance": 731681,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1681355,
+        "is_indie": true
+    },
+    {}
+]

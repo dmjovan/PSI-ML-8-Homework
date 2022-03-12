@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 5083388,
+        "is_indie": false
+    },
+    {
+        "attendance": 4782505,
+        "band_name": "kanji",
+        "is_indie": false
+    },
+    {
+        "attendance": 2004690,
+        "band_name": "ibis_garbages_melon",
+        "is_indie": false
+    },
+    {
+        "attendance": 1264316,
+        "band_name": "elk_artist",
+        "is_indie": false
+    },
+    {
+        "band_name": "lackey_noodle",
+        "is_indie": true
+    }
+]

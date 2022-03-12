@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 310979,
+        "band_name": "tar_lazy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1122409,
+        "band_name": "winer_retarder_florin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1954183,
+        "band_name": "pit",
+        "is_indie": false
+    },
+    {
+        "attendance": 484861,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    }
+]

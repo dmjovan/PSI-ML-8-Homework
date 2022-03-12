@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3078158,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 287894,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "band_name": "vibrator",
+        "is_indie": true
+    },
+    {
+        "attendance": 1212055,
+        "band_name": "treasurer_grand",
+        "is_indie": false
+    }
+]

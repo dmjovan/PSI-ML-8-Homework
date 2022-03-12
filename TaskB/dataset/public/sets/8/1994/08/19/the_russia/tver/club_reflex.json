@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 2930689,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "band_name": "genre_fighter",
+        "is_indie": false
+    }
+]

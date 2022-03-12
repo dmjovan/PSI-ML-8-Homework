@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 199819,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 1664380,
+        "band_name": "bluffing",
+        "is_indie": false
+    }
+]

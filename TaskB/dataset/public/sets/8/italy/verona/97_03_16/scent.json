@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1752168,
+        "band_name": "minimax_skunks"
+    },
+    {
+        "attendance": 7053256,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 6037007,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 1441230,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 659861,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    }
+]

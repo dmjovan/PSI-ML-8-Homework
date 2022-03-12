@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3842697,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 3924397,
+        "band_name": "either_whittle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1409914,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    },
+    {
+        "attendance": 383315,
+        "band_name": "float",
+        "is_indie": false
+    }
+]

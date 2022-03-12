@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1876678,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "attendance": 1411698,
+        "band_name": "clockwise_cruising",
+        "is_indie": true
+    }
+]

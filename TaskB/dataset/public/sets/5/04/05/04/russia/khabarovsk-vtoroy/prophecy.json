@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3019601,
+        "is_indie": true
+    },
+    {
+        "attendance": 1298216,
+        "band_name": "executor",
+        "is_indie": false
+    },
+    {
+        "band_name": "hot_imperatives",
+        "is_indie": true
+    },
+    {
+        "band_name": "cardinal_salt",
+        "is_indie": false
+    }
+]

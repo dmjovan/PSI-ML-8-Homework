@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 475666,
+        "band_name": "cocoon",
+        "is_indie": true
+    },
+    {
+        "attendance": 249695,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 7542380,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 452854,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

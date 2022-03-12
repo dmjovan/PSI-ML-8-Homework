@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1993902,
+        "band_name": "smashers_miller",
+        "is_indie": true
+    },
+    {
+        "attendance": 7181481,
+        "is_indie": false
+    },
+    {
+        "band_name": "segmentation_disturbance",
+        "is_indie": true
+    },
+    {
+        "attendance": 1272647,
+        "band_name": "widener_separable",
+        "is_indie": false
+    }
+]

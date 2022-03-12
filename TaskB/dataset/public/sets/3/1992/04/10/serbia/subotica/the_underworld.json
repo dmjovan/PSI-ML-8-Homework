@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 133634,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 1550331,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 4183524,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 1410478,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    }
+]

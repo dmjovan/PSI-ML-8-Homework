@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1479578,
+        "band_name": "placenta_boathouse",
+        "is_indie": false
+    },
+    {
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 28683,
+        "band_name": "tingles"
+    },
+    {
+        "attendance": 7556543,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 46216,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    }
+]

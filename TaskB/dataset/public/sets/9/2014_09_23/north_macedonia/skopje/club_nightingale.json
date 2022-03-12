@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "nary_thoughts"
+    },
+    {
+        "attendance": 498562,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    },
+    {
+        "attendance": 3706930,
+        "is_indie": true
+    },
+    {
+        "attendance": 1325557,
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "band_name": "these_myrtle",
+        "is_indie": true
+    }
+]

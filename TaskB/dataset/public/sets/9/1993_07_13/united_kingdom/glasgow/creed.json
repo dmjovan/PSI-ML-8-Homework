@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 277201,
+        "band_name": "ermine"
+    },
+    {
+        "band_name": "quitters_recline",
+        "is_indie": false
+    }
+]

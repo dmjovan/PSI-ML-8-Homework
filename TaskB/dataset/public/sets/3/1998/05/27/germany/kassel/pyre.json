@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 431322,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 957271,
+        "band_name": "saws_taxis",
+        "is_indie": false
+    },
+    {
+        "attendance": 3113835,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 727794,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

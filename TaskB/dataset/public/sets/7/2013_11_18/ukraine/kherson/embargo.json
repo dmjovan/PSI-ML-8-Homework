@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 120092,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "attendance": 58314,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    }
+]

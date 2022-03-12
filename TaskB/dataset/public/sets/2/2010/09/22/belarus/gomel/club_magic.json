@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1137202,
+        "band_name": "each_reverend",
+        "is_indie": true
+    },
+    {
+        "attendance": 6565812,
+        "band_name": "either_radon_madras",
+        "is_indie": true
+    },
+    {
+        "attendance": 4253801,
+        "band_name": "contracting",
+        "is_indie": true
+    },
+    {
+        "attendance": 76083,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 3757449,
+        "band_name": "sari_drops_forcible",
+        "is_indie": false
+    }
+]

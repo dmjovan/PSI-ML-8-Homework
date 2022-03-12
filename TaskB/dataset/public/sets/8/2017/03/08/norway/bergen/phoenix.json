@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 7328988,
+        "is_indie": true
+    },
+    {
+        "attendance": 299557,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1176886,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    }
+]

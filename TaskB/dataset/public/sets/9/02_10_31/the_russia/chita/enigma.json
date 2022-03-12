@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 176321,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "band_name": "peas_liberator",
+        "is_indie": false
+    },
+    {
+        "attendance": 3558077,
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    }
+]

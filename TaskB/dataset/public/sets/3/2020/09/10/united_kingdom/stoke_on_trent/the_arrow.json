@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5712598,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 1753116,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]

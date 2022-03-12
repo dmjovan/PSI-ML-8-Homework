@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 6944638,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 1884668,
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "attendance": 4585351,
+        "band_name": "city_unlimited"
+    },
+    {
+        "band_name": "minimax_skunks"
+    },
+    {
+        "attendance": 2311293,
+        "band_name": "genre_fighter"
+    }
+]

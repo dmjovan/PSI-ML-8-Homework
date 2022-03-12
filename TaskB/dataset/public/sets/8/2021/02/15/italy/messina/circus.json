@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 150825,
+        "band_name": "observatory",
+        "is_indie": true
+    },
+    {
+        "band_name": "scrawl_twentieth",
+        "is_indie": false
+    }
+]

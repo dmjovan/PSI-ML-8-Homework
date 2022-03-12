@@ -1,0 +1,14 @@
+[
+    {
+        "attendance": 875101,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "band_name": "governmental_bureau",
+        "is_indie": false
+    }
+]

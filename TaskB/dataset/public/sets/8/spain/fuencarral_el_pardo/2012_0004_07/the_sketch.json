@@ -1,0 +1,19 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 567356,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 1089372,
+        "band_name": "voting_ridden",
+        "is_indie": true
+    }
+]

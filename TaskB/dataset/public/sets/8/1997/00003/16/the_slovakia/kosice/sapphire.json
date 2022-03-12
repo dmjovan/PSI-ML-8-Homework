@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 560555,
+        "band_name": "antennas_cherub",
+        "is_indie": false
+    },
+    {
+        "band_name": "shines_vibrator_educators",
+        "is_indie": false
+    },
+    {
+        "attendance": 4523857,
+        "band_name": "ration",
+        "is_indie": true
+    },
+    {
+        "attendance": 559374,
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

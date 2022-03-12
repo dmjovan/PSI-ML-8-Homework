@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 8371364,
+        "band_name": "aversion_whine"
+    },
+    {
+        "attendance": 1101469,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 171459,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    },
+    {
+        "attendance": 150271,
+        "band_name": "float",
+        "is_indie": false
+    }
+]

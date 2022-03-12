@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 5003514,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 1756965,
+        "band_name": "potters_assembly"
+    },
+    {
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 8101632,
+        "band_name": "soggy",
+        "is_indie": false
+    }
+]

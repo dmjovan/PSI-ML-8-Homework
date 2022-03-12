@@ -1,0 +1,25 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 3103250,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 1862922,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 606664,
+        "band_name": "prunes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1956709,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    }
+]

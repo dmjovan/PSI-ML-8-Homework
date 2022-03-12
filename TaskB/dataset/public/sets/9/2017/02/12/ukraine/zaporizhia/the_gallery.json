@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 7530734,
+        "band_name": "equinox_research"
+    },
+    {
+        "attendance": 7555625,
+        "band_name": "award_boomerang_bailiff",
+        "is_indie": false
+    },
+    {
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 4272322,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    }
+]

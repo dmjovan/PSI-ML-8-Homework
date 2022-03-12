@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4988302,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 4333209,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 1647755,
+        "band_name": "artisan_pier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2455749,
+        "band_name": "pit",
+        "is_indie": false
+    }
+]

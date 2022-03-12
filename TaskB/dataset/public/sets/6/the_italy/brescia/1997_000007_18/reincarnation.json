@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 101579,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 2837269,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 88355,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    }
+]

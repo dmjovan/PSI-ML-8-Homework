@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3548622,
+        "band_name": "fulcrum_mud",
+        "is_indie": true
+    },
+    {
+        "attendance": 153335,
+        "band_name": "international_furlough",
+        "is_indie": false
+    },
+    {
+        "attendance": 5617820,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 1835108,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    }
+]

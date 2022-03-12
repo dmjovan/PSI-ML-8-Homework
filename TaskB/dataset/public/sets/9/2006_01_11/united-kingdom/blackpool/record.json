@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4962828,
+        "band_name": "rumble_gripes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1942555,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 2074284,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    }
+]

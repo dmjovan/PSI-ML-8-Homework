@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 6265203,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 533517,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    },
+    {
+        "attendance": 2074616,
+        "band_name": "corrections_dynasty",
+        "is_indie": false
+    },
+    {
+        "attendance": 4256420,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 2717773,
+        "band_name": "activate_bill",
+        "is_indie": false
+    }
+]

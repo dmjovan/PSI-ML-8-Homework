@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 159256,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 2597939,
+        "band_name": "electron",
+        "is_indie": false
+    },
+    {
+        "attendance": 2175601,
+        "band_name": "tag"
+    },
+    {
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1744431,
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

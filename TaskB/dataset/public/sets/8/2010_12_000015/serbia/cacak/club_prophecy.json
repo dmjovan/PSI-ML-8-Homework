@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2770564,
+        "band_name": "city_unlimited",
+        "is_indie": true
+    },
+    {
+        "attendance": 219381,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 61995,
+        "is_indie": false
+    }
+]

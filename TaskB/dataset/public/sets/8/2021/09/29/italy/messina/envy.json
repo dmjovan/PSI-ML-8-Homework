@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 7036292,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 5266201,
+        "band_name": "ration",
+        "is_indie": true
+    }
+]

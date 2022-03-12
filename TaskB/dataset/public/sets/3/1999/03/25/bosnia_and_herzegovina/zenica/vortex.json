@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5421881,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 3340748,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 735840,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    }
+]

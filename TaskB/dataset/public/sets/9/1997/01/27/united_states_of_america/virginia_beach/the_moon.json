@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "breathe_ensemble"
+    },
+    {
+        "attendance": 6760703,
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 987463,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 6059970,
+        "is_indie": false
+    },
+    {
+        "attendance": 8210181,
+        "band_name": "aggregates_seduce"
+    }
+]

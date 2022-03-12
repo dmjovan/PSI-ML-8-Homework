@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2151540,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "band_name": "nary_thoughts",
+        "is_indie": false
+    },
+    {
+        "attendance": 881820
+    },
+    {
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    }
+]

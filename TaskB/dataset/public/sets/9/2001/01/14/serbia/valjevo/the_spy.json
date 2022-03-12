@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1025558,
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "attendance": 1119866,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    },
+    {
+        "attendance": 7301754,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 348032,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 3223754,
+        "band_name": "anodize_bottoming",
+        "is_indie": false
+    },
+    {
+        "attendance": 2172765,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "attendance": 3212976,
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2517677,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "band_name": "wretch",
+        "is_indie": false
+    },
+    {
+        "attendance": 62218,
+        "band_name": "brides_intonation",
+        "is_indie": false
+    },
+    {
+        "attendance": 2935601,
+        "band_name": "admiral_skylight"
+    },
+    {
+        "band_name": "daffodil_exterminate"
+    }
+]

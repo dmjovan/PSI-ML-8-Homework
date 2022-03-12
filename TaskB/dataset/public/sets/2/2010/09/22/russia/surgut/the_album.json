@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 4619718,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 155863,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 6495119,
+        "band_name": "discharge",
+        "is_indie": false
+    }
+]

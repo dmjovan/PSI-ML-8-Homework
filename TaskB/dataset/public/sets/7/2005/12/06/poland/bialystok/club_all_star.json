@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "treasurer_grand"
+    },
+    {
+        "attendance": 3101449,
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 2285864,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 2194055,
+        "band_name": "compromised",
+        "is_indie": false
+    }
+]

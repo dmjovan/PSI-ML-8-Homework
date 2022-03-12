@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3318759,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "band_name": "aversion_whine",
+        "is_indie": false
+    },
+    {
+        "attendance": 44772,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 585581,
+        "band_name": "antennas_cherub"
+    },
+    {
+        "attendance": 30268,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 8210706,
+        "band_name": "port_psalms"
+    },
+    {
+        "band_name": "chewers_mesquite",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4495805,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 2244302,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 374223,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 309995,
+        "band_name": "international_face",
+        "is_indie": false
+    }
+]

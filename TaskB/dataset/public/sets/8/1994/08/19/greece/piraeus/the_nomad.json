@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1195621,
+        "band_name": "goddess_blankly"
+    },
+    {
+        "attendance": 618468,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "band_name": "twang",
+        "is_indie": true
+    }
+]

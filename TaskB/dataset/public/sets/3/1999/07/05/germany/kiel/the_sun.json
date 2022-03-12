@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1323282,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 8042823,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    },
+    {
+        "attendance": 1501022,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 591544,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    }
+]

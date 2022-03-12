@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 365707,
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 2288218,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "band_name": "trust"
+    },
+    {
+        "band_name": "trance_petters",
+        "is_indie": true
+    }
+]

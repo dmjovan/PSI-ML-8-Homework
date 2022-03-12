@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "pause_queen"
+    },
+    {
+        "attendance": 58170,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 7035727,
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "attendance": 3071717,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    }
+]

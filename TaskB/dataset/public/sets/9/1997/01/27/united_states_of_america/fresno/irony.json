@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "lifelike_pancake_carcass",
+        "is_indie": false
+    },
+    {
+        "attendance": 5864151,
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "attendance": 271987,
+        "band_name": "vine_blitzkrieg"
+    },
+    {
+        "band_name": "mongoose_primal"
+    },
+    {
+        "attendance": 3329116,
+        "band_name": "segmentation_disturbance"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 8437894,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "band_name": "minimax_orb"
+    },
+    {
+        "attendance": 1174470,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "attendance": 2251113,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    }
+]

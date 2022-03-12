@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2990139,
+        "band_name": "alcohol_spool",
+        "is_indie": true
+    },
+    {
+        "attendance": 608630,
+        "band_name": "furniture_glow",
+        "is_indie": false
+    },
+    {
+        "attendance": 3049406,
+        "band_name": "hyena_lobes",
+        "is_indie": false
+    },
+    {
+        "attendance": 3113069,
+        "band_name": "sonata",
+        "is_indie": true
+    }
+]

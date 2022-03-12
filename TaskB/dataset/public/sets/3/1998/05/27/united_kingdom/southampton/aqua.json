@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5254930,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 29289,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 1738564,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    },
+    {
+        "attendance": 676723,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 660503,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    }
+]

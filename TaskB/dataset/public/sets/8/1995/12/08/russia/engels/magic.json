@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "beamer_forum",
+        "is_indie": false
+    },
+    {
+        "band_name": "burnings_pod"
+    },
+    {
+        "attendance": 5550300,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 4772629,
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 66253,
+        "band_name": "observatory"
+    }
+]

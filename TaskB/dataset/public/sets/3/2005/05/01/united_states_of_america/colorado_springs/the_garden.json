@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1148690,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 38986,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 5193033,
+        "band_name": "brazing_canopy",
+        "is_indie": true
+    }
+]

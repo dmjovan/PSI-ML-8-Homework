@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 7655108,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "band_name": "meeker_doomsday"
+    },
+    {
+        "attendance": 124718,
+        "band_name": "matrix_mare",
+        "is_indie": true
+    }
+]

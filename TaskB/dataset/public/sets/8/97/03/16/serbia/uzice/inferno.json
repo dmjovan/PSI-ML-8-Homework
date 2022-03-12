@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 290658,
+        "band_name": "backyard_roam"
+    },
+    {
+        "attendance": 3335912,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 3020455,
+        "band_name": "port_psalms",
+        "is_indie": false
+    }
+]

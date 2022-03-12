@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2532320,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1525377,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 8761789,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 2743318,
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 7622679,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    }
+]

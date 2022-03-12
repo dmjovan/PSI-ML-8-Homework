@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1227921,
+        "band_name": "paraffin",
+        "is_indie": false
+    },
+    {
+        "attendance": 2538883,
+        "is_indie": false
+    },
+    {
+        "attendance": 1317021,
+        "band_name": "manly_pandas",
+        "is_indie": false
+    }
+]

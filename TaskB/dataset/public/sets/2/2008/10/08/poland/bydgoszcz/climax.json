@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 402272,
+        "band_name": "swimsuit_beagle",
+        "is_indie": false
+    },
+    {
+        "attendance": 1579056,
+        "band_name": "noble_monsoon",
+        "is_indie": true
+    }
+]

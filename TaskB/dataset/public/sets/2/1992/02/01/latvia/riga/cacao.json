@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3591947,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 2281119,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 4452177,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 3969218,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    }
+]

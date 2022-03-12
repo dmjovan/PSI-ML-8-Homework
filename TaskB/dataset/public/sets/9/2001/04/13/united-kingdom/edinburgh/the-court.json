@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "scythe",
+        "is_indie": false
+    },
+    {
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 92907,
+        "band_name": "sulphuric",
+        "is_indie": false
+    }
+]

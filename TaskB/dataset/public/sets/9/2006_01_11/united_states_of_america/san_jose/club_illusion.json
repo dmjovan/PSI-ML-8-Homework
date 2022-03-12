@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 663867,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 1041798,
+        "band_name": "premiers_decimate",
+        "is_indie": true
+    }
+]

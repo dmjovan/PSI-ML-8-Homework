@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 98472,
+        "band_name": "hopelessness"
+    },
+    {
+        "attendance": 594344,
+        "band_name": "signification_repent",
+        "is_indie": false
+    },
+    {
+        "attendance": 7508119,
+        "band_name": "soggy",
+        "is_indie": false
+    },
+    {
+        "attendance": 98429,
+        "band_name": "mask",
+        "is_indie": false
+    },
+    {
+        "attendance": 6817031,
+        "band_name": "squirrel",
+        "is_indie": false
+    }
+]

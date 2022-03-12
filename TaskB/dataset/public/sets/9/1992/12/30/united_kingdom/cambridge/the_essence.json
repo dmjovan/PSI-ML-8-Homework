@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 6137197,
+        "band_name": "segmentation_disturbance"
+    },
+    {
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "attendance": 6714751,
+        "is_indie": false
+    },
+    {
+        "attendance": 6895009,
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 4692222,
+        "band_name": "silt_twas",
+        "is_indie": false
+    },
+    {
+        "attendance": 4250399,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 554358,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 4741284,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 4359351,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    }
+]

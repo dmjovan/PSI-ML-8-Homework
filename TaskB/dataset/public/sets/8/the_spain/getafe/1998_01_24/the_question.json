@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 4166496,
+        "is_indie": false
+    },
+    {
+        "attendance": 3284219,
+        "band_name": "minimax_orb",
+        "is_indie": false
+    },
+    {
+        "attendance": 252232,
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    }
+]

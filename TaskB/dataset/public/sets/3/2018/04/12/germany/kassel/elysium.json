@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 881878,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 20798,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    },
+    {
+        "attendance": 1382892,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 455036,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3514437,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 4106429,
+        "is_indie": false
+    },
+    {
+        "attendance": 795344,
+        "band_name": "hoes_incense",
+        "is_indie": false
+    },
+    {
+        "band_name": "neighborhood_smelt",
+        "is_indie": true
+    },
+    {
+        "attendance": 2932418,
+        "band_name": "infirmary_grapevine",
+        "is_indie": true
+    }
+]

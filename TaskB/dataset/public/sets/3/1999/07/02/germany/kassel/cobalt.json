@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1810065,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 5539840,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 2881402,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 1109273,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

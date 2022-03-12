@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 3215172
+    },
+    {
+        "attendance": 4845554,
+        "band_name": "anoint_rat",
+        "is_indie": false
+    },
+    {
+        "attendance": 868317,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "attendance": 1534938,
+        "is_indie": false
+    },
+    {
+        "attendance": 599547,
+        "band_name": "tailor",
+        "is_indie": false
+    }
+]

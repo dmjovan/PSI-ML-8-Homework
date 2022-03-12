@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4468649,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 1612748,
+        "band_name": "fleece",
+        "is_indie": false
+    },
+    {
+        "attendance": 2090642,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "attendance": 1895328,
+        "band_name": "twentieth_deck",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6065297,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    },
+    {
+        "attendance": 2162358,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 2447427,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 1496168,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

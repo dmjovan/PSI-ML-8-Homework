@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1892495,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1355776,
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "band_name": "goddess_blankly",
+        "is_indie": true
+    }
+]

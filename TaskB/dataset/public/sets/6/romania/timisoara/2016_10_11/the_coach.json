@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1826234,
+        "band_name": "scarecrow_bungalow",
+        "is_indie": false
+    },
+    {
+        "band_name": "juggler_corner_bigotry",
+        "is_indie": true
+    },
+    {
+        "attendance": 8097497,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "band_name": "nimbus"
+    },
+    {
+        "attendance": 3330682
+    }
+]

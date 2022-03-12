@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2840794,
+        "is_indie": false
+    },
+    {
+        "attendance": 4451348,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 306683
+    },
+    {
+        "attendance": 1974769,
+        "band_name": "fingers",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3662890,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "attendance": 454582,
+        "band_name": "boulder_orthodoxy",
+        "is_indie": false
+    },
+    {
+        "attendance": 1275609,
+        "band_name": "bowman",
+        "is_indie": false
+    },
+    {
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    }
+]

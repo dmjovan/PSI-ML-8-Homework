@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 432629,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    },
+    {
+        "attendance": 682578,
+        "band_name": "bivouac",
+        "is_indie": false
+    },
+    {
+        "band_name": "fetus_husk_crier",
+        "is_indie": false
+    }
+]

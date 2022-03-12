@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 1715565,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 2620855,
+        "band_name": "corrections_dilation"
+    },
+    {
+        "attendance": 6929346,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "attendance": 614635,
+        "band_name": "forum_diggers_internship"
+    },
+    {
+        "attendance": 2116748,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    }
+]

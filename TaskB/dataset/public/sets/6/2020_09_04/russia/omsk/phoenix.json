@@ -1,0 +1,22 @@
+[
+    {
+        "band_name": "exempt",
+        "is_indie": false
+    },
+    {
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    },
+    {
+        "attendance": 4566602,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "band_name": "valence_elementary"
+    }
+]

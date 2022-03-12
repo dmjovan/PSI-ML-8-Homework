@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 787078,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 360417,
+        "band_name": "pincushion_sign",
+        "is_indie": false
+    },
+    {
+        "attendance": 485268,
+        "band_name": "home_albeit_dissonant",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 3295052,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 1436227,
+        "band_name": "training_tertiary"
+    },
+    {
+        "attendance": 2191193,
+        "is_indie": true
+    },
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

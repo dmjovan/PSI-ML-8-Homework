@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 1198282,
+        "band_name": "intrigue_synapse",
+        "is_indie": true
+    },
+    {
+        "attendance": 5379957,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    }
+]

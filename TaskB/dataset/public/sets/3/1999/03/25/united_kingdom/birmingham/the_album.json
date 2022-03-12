@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 2165848,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 123510,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3682925,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 3069740,
+        "band_name": "germinating_plains",
+        "is_indie": false
+    }
+]

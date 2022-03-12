@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 1712157,
+        "is_indie": false
+    },
+    {
+        "attendance": 1741174,
+        "band_name": "genre_fighter",
+        "is_indie": false
+    },
+    {
+        "attendance": 256895,
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "attendance": 958382,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "attendance": 2239392,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    },
+    {
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    },
+    {
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "band_name": "anew_big",
+        "is_indie": true
+    }
+]

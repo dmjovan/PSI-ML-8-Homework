@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 7571812,
+        "band_name": "either_sire",
+        "is_indie": false
+    },
+    {
+        "attendance": 318162,
+        "band_name": "cocoon",
+        "is_indie": true
+    }
+]

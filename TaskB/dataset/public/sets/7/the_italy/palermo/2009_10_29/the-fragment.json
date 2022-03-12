@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2099729,
+        "band_name": "hoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 1102317,
+        "band_name": "float",
+        "is_indie": false
+    },
+    {
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    },
+    {
+        "band_name": "clogs_dynamite",
+        "is_indie": false
+    },
+    {
+        "band_name": "aerobics",
+        "is_indie": false
+    }
+]

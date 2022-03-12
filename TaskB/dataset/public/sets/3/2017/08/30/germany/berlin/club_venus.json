@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1216066,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 2797540,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 357231,
+        "band_name": "pavilions_gigabyte",
+        "is_indie": true
+    },
+    {
+        "attendance": 173587,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 196526,
+        "band_name": "gorgeously_theorist",
+        "is_indie": false
+    },
+    {
+        "attendance": 859640,
+        "band_name": "tourist_clown_minefield",
+        "is_indie": false
+    },
+    {
+        "attendance": 5780886,
+        "band_name": "angler_tempestuous_cavity",
+        "is_indie": false
+    },
+    {
+        "attendance": 1220033,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

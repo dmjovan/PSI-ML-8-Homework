@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 1571157,
+        "band_name": "opera_barbarous",
+        "is_indie": true
+    },
+    {
+        "attendance": 4900688,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    },
+    {
+        "attendance": 390137,
+        "band_name": "opprobrium_cranes",
+        "is_indie": false
+    },
+    {
+        "attendance": 35157,
+        "band_name": "acorn_pence",
+        "is_indie": false
+    }
+]

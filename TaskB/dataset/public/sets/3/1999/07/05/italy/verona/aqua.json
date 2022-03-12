@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 48736,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 2961141,
+        "band_name": "port_psalms",
+        "is_indie": true
+    }
+]

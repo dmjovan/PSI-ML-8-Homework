@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 454219,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    },
+    {
+        "attendance": 1807554,
+        "is_indie": true
+    },
+    {
+        "attendance": 1705341,
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    }
+]

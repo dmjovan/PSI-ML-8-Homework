@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 5916799,
+        "band_name": "squirrel",
+        "is_indie": false
+    },
+    {
+        "attendance": 5353454,
+        "is_indie": true
+    },
+    {
+        "attendance": 3037373,
+        "band_name": "parkers_rockabye",
+        "is_indie": false
+    }
+]

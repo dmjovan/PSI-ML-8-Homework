@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 515043,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "band_name": "antennas_ricochet",
+        "is_indie": false
+    },
+    {
+        "band_name": "quo_socialize",
+        "is_indie": true
+    }
+]

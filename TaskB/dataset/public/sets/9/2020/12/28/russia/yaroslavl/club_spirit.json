@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 7470931,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "attendance": 1178081,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    }
+]

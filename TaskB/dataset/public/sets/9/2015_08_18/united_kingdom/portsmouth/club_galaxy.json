@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 2808067,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "band_name": "inseparable_flowchart",
+        "is_indie": false
+    },
+    {
+        "attendance": 5859863,
+        "band_name": "quo_socialize",
+        "is_indie": true
+    },
+    {
+        "band_name": "orb_ware",
+        "is_indie": false
+    },
+    {
+        "attendance": 1425361,
+        "band_name": "scythe"
+    }
+]

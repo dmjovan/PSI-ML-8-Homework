@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 2363438,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 2663705,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "band_name": "nickels_sufferers",
+        "is_indie": false
+    }
+]

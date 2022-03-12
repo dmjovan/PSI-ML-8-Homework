@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 6883477,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 769200,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 357492,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 123656,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    }
+]

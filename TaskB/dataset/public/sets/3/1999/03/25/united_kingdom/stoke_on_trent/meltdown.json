@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 304358,
+        "band_name": "switchboard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3210302,
+        "band_name": "royal_reference",
+        "is_indie": false
+    },
+    {
+        "attendance": 816446,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    }
+]

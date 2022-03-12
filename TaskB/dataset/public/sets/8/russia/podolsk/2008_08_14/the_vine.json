@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 7222862,
+        "band_name": "twang",
+        "is_indie": true
+    },
+    {
+        "band_name": "fighter",
+        "is_indie": true
+    },
+    {
+        "band_name": "channeller",
+        "is_indie": true
+    },
+    {
+        "attendance": 234944,
+        "band_name": "pause_queen",
+        "is_indie": false
+    },
+    {
+        "attendance": 1863037,
+        "band_name": "weekly_assemblages",
+        "is_indie": false
+    }
+]

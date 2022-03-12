@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 3355990,
+        "band_name": "windmills",
+        "is_indie": false
+    },
+    {
+        "attendance": 807035,
+        "band_name": "bikini_shrew",
+        "is_indie": false
+    },
+    {
+        "attendance": 789182,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 2846289,
+        "band_name": "peas_liberator"
+    }
+]

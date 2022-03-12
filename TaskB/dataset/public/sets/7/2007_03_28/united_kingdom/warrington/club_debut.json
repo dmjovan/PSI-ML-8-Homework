@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 5352781,
+        "band_name": "untried_midpoint_diapers"
+    },
+    {
+        "attendance": 7307732,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "attendance": 2284037,
+        "band_name": "bargains_facsimile",
+        "is_indie": true
+    }
+]

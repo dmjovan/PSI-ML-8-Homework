@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 351374,
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2787777,
+        "band_name": "hangmen_hotter",
+        "is_indie": false
+    }
+]

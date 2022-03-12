@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 583265,
+        "band_name": "beamer_forum"
+    },
+    {
+        "attendance": 2145629,
+        "band_name": "chili_rho",
+        "is_indie": false
+    },
+    {
+        "attendance": 787737,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 287105,
+        "band_name": "pause_queen"
+    }
+]

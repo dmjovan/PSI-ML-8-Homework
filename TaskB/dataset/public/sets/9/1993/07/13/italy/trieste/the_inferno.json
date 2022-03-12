@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3059687,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 1499324,
+        "band_name": "essays",
+        "is_indie": true
+    },
+    {
+        "band_name": "brides_intonation"
+    },
+    {
+        "attendance": 3567910,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    },
+    {
+        "attendance": 962485,
+        "band_name": "across_plus_personalized",
+        "is_indie": false
+    }
+]

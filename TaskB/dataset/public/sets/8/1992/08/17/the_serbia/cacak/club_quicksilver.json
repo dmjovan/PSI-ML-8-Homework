@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 866110,
+        "band_name": "arson_balsam",
+        "is_indie": true
+    },
+    {
+        "band_name": "helpless_transpose",
+        "is_indie": false
+    }
+]

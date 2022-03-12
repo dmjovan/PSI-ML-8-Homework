@@ -1,0 +1,18 @@
+[
+    {
+        "attendance": 2326568,
+        "is_indie": false
+    },
+    {
+        "attendance": 1541196,
+        "band_name": "bookshelf_flock",
+        "is_indie": false
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "band_name": "scythe",
+        "is_indie": false
+    }
+]

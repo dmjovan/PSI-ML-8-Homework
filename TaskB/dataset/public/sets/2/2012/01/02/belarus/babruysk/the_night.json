@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 7507171,
+        "band_name": "sideline",
+        "is_indie": false
+    },
+    {
+        "attendance": 872130,
+        "band_name": "either_classical",
+        "is_indie": false
+    },
+    {
+        "attendance": 1168276,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 482649,
+        "band_name": "strawberry_hairpin",
+        "is_indie": false
+    }
+]

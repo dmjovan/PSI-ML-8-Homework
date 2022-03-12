@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 1903878,
+        "band_name": "jug_bagger",
+        "is_indie": true
+    },
+    {
+        "attendance": 2682044,
+        "band_name": "minimax_skunks"
+    },
+    {
+        "attendance": 522372,
+        "band_name": "soggy"
+    },
+    {
+        "attendance": 2275018,
+        "band_name": "arson_balsam"
+    },
+    {
+        "attendance": 4428601,
+        "band_name": "breakaway_clement",
+        "is_indie": true
+    }
+]

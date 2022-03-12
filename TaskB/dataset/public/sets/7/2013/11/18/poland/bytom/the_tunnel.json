@@ -1,0 +1,15 @@
+[
+    {
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "band_name": "maniacs_lawn",
+        "is_indie": false
+    },
+    {
+        "attendance": 1478259,
+        "band_name": "training_tertiary",
+        "is_indie": true
+    }
+]

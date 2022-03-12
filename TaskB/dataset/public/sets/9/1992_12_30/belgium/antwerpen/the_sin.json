@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 5906260,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 2394348,
+        "band_name": "breathe_ensemble"
+    },
+    {
+        "attendance": 329319,
+        "band_name": "sparks_bridge",
+        "is_indie": false
+    },
+    {
+        "attendance": 3628427,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    }
+]

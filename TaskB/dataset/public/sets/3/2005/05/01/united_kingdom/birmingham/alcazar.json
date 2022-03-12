@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1945760,
+        "band_name": "cretin",
+        "is_indie": false
+    },
+    {
+        "attendance": 140263,
+        "band_name": "desk_lobes",
+        "is_indie": true
+    },
+    {
+        "attendance": 4038797,
+        "band_name": "either_sire",
+        "is_indie": false
+    }
+]

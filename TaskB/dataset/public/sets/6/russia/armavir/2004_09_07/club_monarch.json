@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5953186,
+        "band_name": "botanical_bodybuilding",
+        "is_indie": false
+    },
+    {
+        "attendance": 340732,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    }
+]

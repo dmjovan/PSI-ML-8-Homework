@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 1321395,
+        "band_name": "piston_pacific_highway",
+        "is_indie": true
+    },
+    {
+        "band_name": "general_villains",
+        "is_indie": false
+    },
+    {
+        "attendance": 914172,
+        "band_name": "nineteens_rougher",
+        "is_indie": true
+    },
+    {
+        "attendance": 2447596,
+        "band_name": "exempt",
+        "is_indie": false
+    }
+]

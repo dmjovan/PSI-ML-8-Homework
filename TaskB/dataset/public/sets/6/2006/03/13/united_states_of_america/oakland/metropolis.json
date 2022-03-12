@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 3809448,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 245178,
+        "is_indie": false
+    },
+    {
+        "attendance": 338032,
+        "band_name": "dragons",
+        "is_indie": false
+    }
+]

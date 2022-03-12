@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 3581446,
+        "band_name": "those_shrews_scarlet",
+        "is_indie": false
+    },
+    {
+        "attendance": 1732573,
+        "band_name": "spy_obsolescence",
+        "is_indie": false
+    }
+]

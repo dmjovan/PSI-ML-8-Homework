@@ -1,0 +1,23 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 5644930,
+        "band_name": "equinox_research",
+        "is_indie": false
+    },
+    {
+        "band_name": "ministry_auctioneer",
+        "is_indie": false
+    },
+    {
+        "band_name": "mongoose_primal",
+        "is_indie": true
+    },
+    {
+        "attendance": 4863400,
+        "band_name": "seaside",
+        "is_indie": false
+    }
+]

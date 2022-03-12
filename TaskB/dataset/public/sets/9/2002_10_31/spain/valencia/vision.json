@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2269207,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "band_name": "aggregates_seduce",
+        "is_indie": true
+    },
+    {
+        "attendance": 356736,
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 596015,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "band_name": "pie_addendum",
+        "is_indie": false
+    }
+]

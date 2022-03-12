@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 2022125,
+        "band_name": "tag"
+    },
+    {
+        "attendance": 5142046,
+        "band_name": "mask",
+        "is_indie": false
+    }
+]

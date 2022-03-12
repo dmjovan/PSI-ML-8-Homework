@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 251442,
+        "band_name": "jab",
+        "is_indie": true
+    },
+    {
+        "attendance": 106581,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 5005231,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 472237,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    }
+]

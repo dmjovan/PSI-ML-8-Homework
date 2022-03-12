@@ -1,0 +1,15 @@
+[
+    {
+        "attendance": 1313100,
+        "band_name": "channeller"
+    },
+    {
+        "band_name": "hourglass_uplands",
+        "is_indie": true
+    },
+    {
+        "attendance": 6011832,
+        "band_name": "adapt_pool",
+        "is_indie": false
+    }
+]

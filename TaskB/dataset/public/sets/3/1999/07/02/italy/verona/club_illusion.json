@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 8475096,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 336830,
+        "band_name": "bans",
+        "is_indie": false
+    },
+    {
+        "attendance": 991451,
+        "band_name": "hereafter_travail",
+        "is_indie": false
+    },
+    {
+        "attendance": 118744,
+        "band_name": "international_furlough",
+        "is_indie": false
+    }
+]

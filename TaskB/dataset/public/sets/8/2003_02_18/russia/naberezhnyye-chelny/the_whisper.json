@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 421961,
+        "band_name": "any_expansions",
+        "is_indie": true
+    },
+    {
+        "band_name": "kanji",
+        "is_indie": false
+    }
+]

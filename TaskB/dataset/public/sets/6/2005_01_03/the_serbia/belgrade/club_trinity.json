@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 424697,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "attendance": 1531915,
+        "band_name": "scarecrow_bungalow"
+    },
+    {
+        "attendance": 4653006,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 1098044,
+        "is_indie": false
+    },
+    {
+        "attendance": 5654793,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    }
+]

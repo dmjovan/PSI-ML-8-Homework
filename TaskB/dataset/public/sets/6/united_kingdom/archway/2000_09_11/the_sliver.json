@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3245223,
+        "band_name": "fussing",
+        "is_indie": false
+    },
+    {
+        "attendance": 3577028,
+        "band_name": "segmentation_deal_sojourner",
+        "is_indie": false
+    },
+    {
+        "attendance": 416138,
+        "band_name": "pagers_memento",
+        "is_indie": false
+    },
+    {
+        "attendance": 6350967,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 272195,
+        "band_name": "nimbus",
+        "is_indie": false
+    }
+]

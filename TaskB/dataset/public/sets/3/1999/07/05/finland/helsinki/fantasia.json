@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3997470,
+        "band_name": "mules_specialist",
+        "is_indie": false
+    },
+    {
+        "attendance": 1327965,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 1027943,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 2033123,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    },
+    {
+        "attendance": 3369089,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    }
+]

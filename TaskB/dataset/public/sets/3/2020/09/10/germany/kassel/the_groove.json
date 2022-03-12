@@ -1,0 +1,12 @@
+[
+    {
+        "attendance": 5322559,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 4704040,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    }
+]

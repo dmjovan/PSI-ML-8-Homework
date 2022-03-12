@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 1655067,
+        "band_name": "brazing_canopy",
+        "is_indie": false
+    },
+    {
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 4568991,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "attendance": 6715110,
+        "band_name": "breadwinner_biller",
+        "is_indie": false
+    },
+    {
+        "attendance": 7539680,
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    }
+]

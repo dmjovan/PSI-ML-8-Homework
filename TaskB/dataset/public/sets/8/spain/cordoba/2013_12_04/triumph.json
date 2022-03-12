@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3341607,
+        "band_name": "collegian_visor",
+        "is_indie": true
+    },
+    {
+        "band_name": "jug_bagger"
+    },
+    {
+        "attendance": 320610,
+        "is_indie": true
+    },
+    {
+        "attendance": 142093
+    }
+]

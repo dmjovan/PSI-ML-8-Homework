@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 2922496,
+        "band_name": "exclaim",
+        "is_indie": false
+    },
+    {
+        "attendance": 82720,
+        "band_name": "rant",
+        "is_indie": true
+    },
+    {
+        "attendance": 1322490,
+        "band_name": "dossier",
+        "is_indie": false
+    },
+    {
+        "attendance": 808257,
+        "band_name": "meeker_doomsday",
+        "is_indie": true
+    },
+    {
+        "attendance": 703654,
+        "band_name": "any_expansions",
+        "is_indie": true
+    }
+]

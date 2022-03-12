@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 5350855,
+        "band_name": "monastery",
+        "is_indie": true
+    },
+    {
+        "attendance": 6377187,
+        "band_name": "an_warrant",
+        "is_indie": false
+    },
+    {
+        "attendance": 2070779,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 118404,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 705411,
+        "band_name": "each_reverend",
+        "is_indie": true
+    }
+]

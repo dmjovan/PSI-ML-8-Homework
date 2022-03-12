@@ -1,0 +1,25 @@
+[
+    {
+        "band_name": "chieftains_glossary",
+        "is_indie": false
+    },
+    {
+        "attendance": 3602191,
+        "band_name": "adobe_cookery",
+        "is_indie": true
+    },
+    {
+        "attendance": 701819,
+        "band_name": "earls_damper",
+        "is_indie": false
+    },
+    {
+        "attendance": 67014,
+        "is_indie": false
+    },
+    {
+        "attendance": 2420298,
+        "band_name": "locusts_salvation",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 186223,
+        "band_name": "cardinal_salt",
+        "is_indie": true
+    },
+    {
+        "attendance": 490280,
+        "band_name": "abundantly_brothels",
+        "is_indie": false
+    },
+    {
+        "attendance": 1113725,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": false
+    },
+    {
+        "attendance": 2834335,
+        "band_name": "port_psalms",
+        "is_indie": true
+    },
+    {
+        "attendance": 1593677,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    }
+]

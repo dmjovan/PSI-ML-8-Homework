@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1070277,
+        "band_name": "forum_diggers_internship"
+    },
+    {
+        "attendance": 1078947,
+        "band_name": "beyond_stillborn",
+        "is_indie": false
+    },
+    {
+        "attendance": 3594419,
+        "band_name": "pool_pincushion_flock",
+        "is_indie": true
+    },
+    {
+        "attendance": 4956416,
+        "is_indie": false
+    }
+]

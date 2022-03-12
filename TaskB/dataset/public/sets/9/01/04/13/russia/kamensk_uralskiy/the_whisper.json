@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 6117113,
+        "band_name": "shod_tramp",
+        "is_indie": false
+    },
+    {
+        "attendance": 2346133,
+        "band_name": "sweetheart_grand",
+        "is_indie": false
+    },
+    {
+        "band_name": "these_myrtle",
+        "is_indie": true
+    },
+    {
+        "attendance": 2644443,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    },
+    {
+        "attendance": 2537652,
+        "band_name": "sorority_cantaloupe",
+        "is_indie": false
+    }
+]

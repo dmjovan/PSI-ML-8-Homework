@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 3560676,
+        "band_name": "caterer_maximizer",
+        "is_indie": false
+    },
+    {
+        "attendance": 1440473,
+        "band_name": "kitchen_mute",
+        "is_indie": false
+    },
+    {
+        "attendance": 1057984,
+        "band_name": "august_occasion",
+        "is_indie": true
+    },
+    {
+        "attendance": 8022593,
+        "band_name": "these_biologist_unguarded",
+        "is_indie": true
+    },
+    {
+        "attendance": 1787780,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    }
+]

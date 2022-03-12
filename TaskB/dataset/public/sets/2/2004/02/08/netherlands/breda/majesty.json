@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 5684480,
+        "band_name": "hornet_annuals",
+        "is_indie": false
+    },
+    {
+        "attendance": 1661127,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    },
+    {
+        "attendance": 3864238,
+        "band_name": "some_custard",
+        "is_indie": false
+    },
+    {
+        "attendance": 3373653,
+        "band_name": "wanderer_soda",
+        "is_indie": true
+    }
+]

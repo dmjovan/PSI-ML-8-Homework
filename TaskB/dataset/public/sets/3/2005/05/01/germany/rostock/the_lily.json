@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1343661,
+        "band_name": "wile_babysitting",
+        "is_indie": true
+    },
+    {
+        "attendance": 1777405,
+        "band_name": "batten_bovine",
+        "is_indie": false
+    },
+    {
+        "attendance": 2348340,
+        "band_name": "redemption",
+        "is_indie": false
+    }
+]

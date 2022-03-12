@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 1037599,
+        "band_name": "bowman"
+    },
+    {
+        "attendance": 1669375,
+        "band_name": "tag",
+        "is_indie": false
+    },
+    {
+        "attendance": 2631747,
+        "band_name": "culture_panicky",
+        "is_indie": true
+    },
+    {
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    }
+]

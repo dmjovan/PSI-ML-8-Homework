@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 503331,
+        "is_indie": false
+    },
+    {
+        "band_name": "squirrel"
+    },
+    {
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "band_name": "hopelessness",
+        "is_indie": false
+    }
+]

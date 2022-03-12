@@ -1,0 +1,23 @@
+[
+    {
+        "band_name": "sulphuric",
+        "is_indie": false
+    },
+    {
+        "attendance": 600816,
+        "band_name": "bilk_comeback",
+        "is_indie": false
+    },
+    {
+        "band_name": "pinhole_posture"
+    },
+    {
+        "attendance": 1094260,
+        "band_name": "pie_addendum",
+        "is_indie": false
+    },
+    {
+        "attendance": 3445395,
+        "band_name": "cassette_leniency"
+    }
+]

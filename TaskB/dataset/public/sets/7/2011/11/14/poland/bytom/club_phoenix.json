@@ -1,0 +1,26 @@
+[
+    {
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "attendance": 331193,
+        "band_name": "aerobics",
+        "is_indie": false
+    },
+    {
+        "attendance": 4496733,
+        "band_name": "gags_astride_impact",
+        "is_indie": true
+    },
+    {
+        "attendance": 1766699,
+        "band_name": "reflex_commotion",
+        "is_indie": false
+    },
+    {
+        "attendance": 79859,
+        "band_name": "earthworm_spire",
+        "is_indie": false
+    }
+]

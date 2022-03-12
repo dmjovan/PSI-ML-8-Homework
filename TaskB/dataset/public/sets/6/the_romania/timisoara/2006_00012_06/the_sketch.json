@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 3418331,
+        "band_name": "valence_elementary",
+        "is_indie": false
+    },
+    {
+        "band_name": "penitent_pioneer",
+        "is_indie": true
+    }
+]

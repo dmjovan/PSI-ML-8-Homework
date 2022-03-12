@@ -1,0 +1,11 @@
+[
+    {
+        "attendance": 3788776,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "band_name": "pharmacy_sayings",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "band_name": "drank",
+        "is_indie": false
+    },
+    {
+        "attendance": 2660,
+        "band_name": "dragons",
+        "is_indie": false
+    },
+    {
+        "attendance": 843806,
+        "band_name": "coronation_blitz",
+        "is_indie": false
+    }
+]

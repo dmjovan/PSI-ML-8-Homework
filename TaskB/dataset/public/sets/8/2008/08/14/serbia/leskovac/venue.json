@@ -1,0 +1,18 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 1291249,
+        "band_name": "backyard_roam",
+        "is_indie": true
+    },
+    {
+        "attendance": 728996,
+        "band_name": "signification_repent"
+    },
+    {
+        "attendance": 1657940,
+        "band_name": "philosophers_preludes"
+    }
+]

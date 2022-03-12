@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 1945086,
+        "band_name": "redemption",
+        "is_indie": false
+    },
+    {
+        "attendance": 2038810,
+        "band_name": "heaps_messier",
+        "is_indie": false
+    },
+    {
+        "attendance": 111466,
+        "band_name": "international_furlough",
+        "is_indie": false
+    }
+]

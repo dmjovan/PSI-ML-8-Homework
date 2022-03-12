@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 683913,
+        "band_name": "slipper_ripple",
+        "is_indie": true
+    },
+    {
+        "attendance": 279604,
+        "band_name": "zonal_relics",
+        "is_indie": false
+    },
+    {
+        "attendance": 5176570,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

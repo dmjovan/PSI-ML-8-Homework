@@ -1,0 +1,14 @@
+[
+    {
+        "band_name": "attackers",
+        "is_indie": false
+    },
+    {
+        "band_name": "anemia_psychologist",
+        "is_indie": true
+    },
+    {
+        "band_name": "peanuts_mountaineer",
+        "is_indie": false
+    }
+]

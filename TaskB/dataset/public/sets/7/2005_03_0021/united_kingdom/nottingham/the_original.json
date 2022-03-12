@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 1746622,
+        "band_name": "outdoors",
+        "is_indie": false
+    },
+    {
+        "attendance": 6170094,
+        "band_name": "minicomputers_chat",
+        "is_indie": false
+    },
+    {
+        "band_name": "opiate_sack",
+        "is_indie": true
+    }
+]

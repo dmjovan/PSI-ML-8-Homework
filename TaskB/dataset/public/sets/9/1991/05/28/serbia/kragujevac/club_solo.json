@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 3990017,
+        "band_name": "corrections_dilation",
+        "is_indie": false
+    },
+    {
+        "attendance": 702588,
+        "band_name": "cranberry_hospitality"
+    },
+    {
+        "attendance": 5309066,
+        "band_name": "admiral_skylight",
+        "is_indie": true
+    },
+    {
+        "attendance": 3840046,
+        "is_indie": false
+    },
+    {
+        "attendance": 7058963,
+        "band_name": "lunches_minuteman",
+        "is_indie": true
+    }
+]

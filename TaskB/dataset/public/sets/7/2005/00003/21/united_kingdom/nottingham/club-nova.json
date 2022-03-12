@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "voting_ridden",
+        "is_indie": false
+    },
+    {
+        "attendance": 616256,
+        "band_name": "aromatic_tents",
+        "is_indie": true
+    },
+    {
+        "band_name": "stairwell",
+        "is_indie": false
+    },
+    {
+        "attendance": 1947003,
+        "band_name": "collegian_visor",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 459757,
+        "band_name": "ado_honeybee",
+        "is_indie": false
+    },
+    {
+        "attendance": 8019214,
+        "band_name": "shady",
+        "is_indie": false
+    },
+    {
+        "attendance": 181604,
+        "band_name": "hangmen_hotter",
+        "is_indie": true
+    },
+    {
+        "attendance": 1118961,
+        "band_name": "suitcase_interactivity",
+        "is_indie": false
+    }
+]

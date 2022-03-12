@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 2958457,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 2199933,
+        "is_indie": false
+    },
+    {
+        "attendance": 480044,
+        "band_name": "equinox_research",
+        "is_indie": true
+    },
+    {
+        "attendance": 833613,
+        "band_name": "his_usability_concert",
+        "is_indie": true
+    },
+    {
+        "attendance": 141911,
+        "band_name": "cleansers_stitch",
+        "is_indie": true
+    }
+]

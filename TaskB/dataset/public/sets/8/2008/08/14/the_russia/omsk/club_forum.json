@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 494064,
+        "band_name": "ration"
+    },
+    {
+        "band_name": "peas_liberator",
+        "is_indie": true
+    },
+    {
+        "attendance": 2404175,
+        "band_name": "sneeze_retarder",
+        "is_indie": true
+    },
+    {
+        "attendance": 7643166,
+        "band_name": "posture_patrol",
+        "is_indie": false
+    },
+    {
+        "band_name": "atheist_tweed",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 21270,
+        "band_name": "opiate_sack",
+        "is_indie": true
+    },
+    {
+        "attendance": 5373619,
+        "band_name": "exclaim",
+        "is_indie": true
+    },
+    {
+        "attendance": 748913,
+        "band_name": "the_porters",
+        "is_indie": true
+    },
+    {
+        "attendance": 753723,
+        "band_name": "sayer",
+        "is_indie": true
+    }
+]

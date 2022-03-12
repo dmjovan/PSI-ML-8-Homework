@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2592396,
+        "band_name": "myriad_gantry",
+        "is_indie": true
+    },
+    {
+        "band_name": "seasons_before_psychosocial",
+        "is_indie": true
+    },
+    {
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 7944296,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 7387823,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    }
+]

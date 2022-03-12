@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 5677547,
+        "band_name": "the_romance_dumber",
+        "is_indie": true
+    },
+    {
+        "attendance": 1604467,
+        "band_name": "exemplary_crosser",
+        "is_indie": false
+    },
+    {
+        "attendance": 2596341,
+        "band_name": "figure_sledge_after_wilt",
+        "is_indie": false
+    }
+]

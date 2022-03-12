@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4242622,
+        "band_name": "dweller_voice",
+        "is_indie": false
+    },
+    {
+        "attendance": 567486,
+        "band_name": "startups_parkers",
+        "is_indie": false
+    },
+    {
+        "attendance": 95240,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 185559,
+        "band_name": "tentacles_ibex",
+        "is_indie": false
+    }
+]

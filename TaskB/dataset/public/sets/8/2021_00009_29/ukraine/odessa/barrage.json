@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 6040223,
+        "band_name": "bill_inducer",
+        "is_indie": true
+    },
+    {
+        "attendance": 4375885,
+        "band_name": "amoeba",
+        "is_indie": false
+    },
+    {
+        "attendance": 2563670,
+        "band_name": "prophesy_or_inhaler",
+        "is_indie": false
+    },
+    {
+        "band_name": "tingles",
+        "is_indie": true
+    },
+    {
+        "band_name": "corrections_dilation"
+    }
+]

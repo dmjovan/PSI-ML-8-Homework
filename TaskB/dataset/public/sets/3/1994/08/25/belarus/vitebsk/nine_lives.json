@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 3816929,
+        "band_name": "cosmic_escapade",
+        "is_indie": false
+    },
+    {
+        "attendance": 691320,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    },
+    {
+        "attendance": 551886,
+        "band_name": "wipers_dismount_forum",
+        "is_indie": true
+    }
+]

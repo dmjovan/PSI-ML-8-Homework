@@ -1,0 +1,21 @@
+[
+    {
+        "band_name": "saber_advertising",
+        "is_indie": false
+    },
+    {
+        "attendance": 73466,
+        "band_name": "oracle",
+        "is_indie": false
+    },
+    {
+        "attendance": 619883,
+        "band_name": "rosary",
+        "is_indie": false
+    },
+    {
+        "attendance": 2383457,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 3417268,
+        "band_name": "banded_lest_identification",
+        "is_indie": false
+    },
+    {
+        "attendance": 5447696,
+        "band_name": "whence_hospital_die_rattle",
+        "is_indie": true
+    },
+    {
+        "attendance": 3235187,
+        "band_name": "filter_profiles_slipper",
+        "is_indie": false
+    },
+    {
+        "attendance": 2939990,
+        "band_name": "monastery",
+        "is_indie": true
+    }
+]

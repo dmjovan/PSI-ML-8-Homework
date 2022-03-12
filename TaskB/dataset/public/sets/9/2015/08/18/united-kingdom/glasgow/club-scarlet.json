@@ -1,0 +1,20 @@
+[
+    {
+        "attendance": 2616507
+    },
+    {
+        "attendance": 780529,
+        "band_name": "tore",
+        "is_indie": false
+    },
+    {
+        "attendance": 890634,
+        "band_name": "webs_vacations",
+        "is_indie": true
+    },
+    {
+        "attendance": 363422,
+        "band_name": "junky_sulk",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "band_name": "neither_cork_forests",
+        "is_indie": false
+    },
+    {
+        "band_name": "breathe_ensemble",
+        "is_indie": false
+    },
+    {
+        "attendance": 4373957,
+        "band_name": "groves_juggler"
+    },
+    {
+        "attendance": 1880422,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": false
+    },
+    {
+        "attendance": 307323,
+        "band_name": "binaural_dropout",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "quarry_divisional",
+        "is_indie": false
+    },
+    {
+        "band_name": "madden_obsession_chit",
+        "is_indie": false
+    },
+    {
+        "attendance": 1439620,
+        "band_name": "boulder_orthodoxy"
+    },
+    {
+        "attendance": 6073249,
+        "band_name": "any_madder",
+        "is_indie": true
+    }
+]

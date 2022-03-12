@@ -1,0 +1,21 @@
+[
+    {
+        "attendance": 4016098,
+        "band_name": "blocker_advisory",
+        "is_indie": false
+    },
+    {
+        "attendance": 1288967,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    },
+    {
+        "attendance": 1464686,
+        "band_name": "peninsula_dignitary",
+        "is_indie": true
+    },
+    {
+        "band_name": "exempt",
+        "is_indie": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "attendance": 6557197,
+        "band_name": "any_stormy",
+        "is_indie": true
+    },
+    {
+        "is_indie": true
+    },
+    {
+        "attendance": 463029,
+        "band_name": "ermine",
+        "is_indie": false
+    },
+    {
+        "attendance": 4079407,
+        "is_indie": false
+    },
+    {
+        "attendance": 6127317,
+        "band_name": "earls_damper",
+        "is_indie": false
+    }
+]

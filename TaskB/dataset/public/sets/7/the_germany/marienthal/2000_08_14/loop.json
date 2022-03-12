@@ -1,0 +1,26 @@
+[
+    {
+        "attendance": 3422924,
+        "band_name": "brunette",
+        "is_indie": false
+    },
+    {
+        "attendance": 3075620,
+        "band_name": "despatch_hatching",
+        "is_indie": false
+    },
+    {
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "attendance": 563712,
+        "band_name": "compromised",
+        "is_indie": false
+    },
+    {
+        "attendance": 126188,
+        "band_name": "levee_or_any_gymnast_boatmen",
+        "is_indie": false
+    }
+]

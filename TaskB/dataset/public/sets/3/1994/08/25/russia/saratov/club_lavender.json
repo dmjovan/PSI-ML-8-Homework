@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1485439,
+        "band_name": "volt_united",
+        "is_indie": false
+    },
+    {
+        "attendance": 91783,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 3965896,
+        "band_name": "sprout_spiller__drake",
+        "is_indie": false
+    },
+    {
+        "attendance": 2927254,
+        "band_name": "mnemonic_slugs",
+        "is_indie": false
+    },
+    {
+        "attendance": 1899879,
+        "band_name": "welfare_fitter_somebody",
+        "is_indie": false
+    }
+]

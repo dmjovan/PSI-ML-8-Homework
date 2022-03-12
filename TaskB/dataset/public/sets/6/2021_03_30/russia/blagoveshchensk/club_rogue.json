@@ -1,0 +1,20 @@
+[
+    {
+        "band_name": "an_grow_into",
+        "is_indie": false
+    },
+    {
+        "attendance": 2233845,
+        "band_name": "cookie_happier",
+        "is_indie": false
+    },
+    {
+        "band_name": "tailor",
+        "is_indie": false
+    },
+    {
+        "attendance": 4107568,
+        "band_name": "aperture_crystal",
+        "is_indie": false
+    }
+]

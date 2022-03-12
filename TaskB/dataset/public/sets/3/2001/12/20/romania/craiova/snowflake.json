@@ -1,0 +1,22 @@
+[
+    {
+        "attendance": 4365714,
+        "band_name": "anymore_landlord",
+        "is_indie": true
+    },
+    {
+        "attendance": 149233,
+        "band_name": "snowmen_vernacular_money",
+        "is_indie": false
+    },
+    {
+        "attendance": 1073410,
+        "band_name": "untried_midpoint_diapers",
+        "is_indie": false
+    },
+    {
+        "attendance": 6509535,
+        "band_name": "international_face",
+        "is_indie": false
+    }
+]

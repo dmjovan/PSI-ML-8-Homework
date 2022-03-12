@@ -1,0 +1,25 @@
+[
+    {
+        "attendance": 2597411,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    },
+    {
+        "attendance": 1300283,
+        "band_name": "cranberry_hospitality",
+        "is_indie": false
+    },
+    {
+        "attendance": 51466,
+        "band_name": "smuggler_annuals"
+    },
+    {
+        "band_name": "lawn_cooper",
+        "is_indie": true
+    },
+    {
+        "attendance": 1337333,
+        "band_name": "enchantress_deacon",
+        "is_indie": true
+    }
+]

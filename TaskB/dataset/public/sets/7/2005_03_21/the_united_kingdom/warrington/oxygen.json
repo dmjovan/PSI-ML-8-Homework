@@ -1,0 +1,19 @@
+[
+    {
+        "attendance": 1109892,
+        "band_name": "woofers_engineered",
+        "is_indie": false
+    },
+    {
+        "band_name": "dale_burl"
+    },
+    {
+        "attendance": 196029,
+        "band_name": "sonnet_ringer",
+        "is_indie": false
+    },
+    {
+        "band_name": "voting_ridden",
+        "is_indie": false
+    }
+]

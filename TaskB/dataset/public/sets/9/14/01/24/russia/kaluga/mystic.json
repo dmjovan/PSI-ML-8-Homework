@@ -1,0 +1,15 @@
+[
+    {
+        "is_indie": false
+    },
+    {
+        "attendance": 2863502,
+        "band_name": "widener_separable",
+        "is_indie": false
+    },
+    {
+        "attendance": 1827544,
+        "band_name": "whiskey_crossings",
+        "is_indie": true
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "attendance": 3515806,
+        "band_name": "cluck_glen",
+        "is_indie": false
+    },
+    {
+        "attendance": 3954742,
+        "band_name": "briefcase_aboriginal",
+        "is_indie": false
+    },
+    {
+        "band_name": "tang_city",
+        "is_indie": false
+    }
+]

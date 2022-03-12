@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 278698,
+        "band_name": "flyer_ketchup",
+        "is_indie": false
+    },
+    {
+        "attendance": 279302,
+        "band_name": "outlast_uprising",
+        "is_indie": false
+    },
+    {
+        "attendance": 580412,
+        "band_name": "flock_store",
+        "is_indie": true
+    },
+    {
+        "attendance": 1624325,
+        "band_name": "rats_dropper_woodman",
+        "is_indie": false
+    },
+    {
+        "attendance": 499884,
+        "band_name": "goddess_blankly",
+        "is_indie": false
+    }
+]

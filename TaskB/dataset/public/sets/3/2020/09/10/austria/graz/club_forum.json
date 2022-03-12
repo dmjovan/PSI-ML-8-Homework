@@ -1,0 +1,27 @@
+[
+    {
+        "attendance": 1624526,
+        "band_name": "alibi_encyclopedia",
+        "is_indie": false
+    },
+    {
+        "attendance": 959750,
+        "band_name": "dulls_recoil",
+        "is_indie": false
+    },
+    {
+        "attendance": 1459146,
+        "band_name": "mandarin_deflate",
+        "is_indie": false
+    },
+    {
+        "attendance": 2834171,
+        "band_name": "international_face",
+        "is_indie": false
+    },
+    {
+        "attendance": 5515872,
+        "band_name": "pea_freshwater_cargoes",
+        "is_indie": true
+    }
+]
