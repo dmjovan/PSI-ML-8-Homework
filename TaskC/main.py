@@ -1,18 +1,25 @@
+import os
+import time
 import numpy as np
 from PIL import Image, ImageOps
 
 class Sudoku:
 
-    def __init__(self, image_path = r"sudoku-public\public\set\00\00.png") -> None:
+    def __init__(self, image_path: str) -> None:
 
         self.image_path = image_path
         self.sudoku_image = None
         self.tile_width = None
         self.skip_width = None
         self.skip_width3 = None
+        self.digits = {}
+        self.rotation_cnts = None
         self.table = np.zeros((9,9), dtype=int)
 
         self.load_sudoku_image()
+        self.load_digits()
+        self.parse_tiles()
+        self.rotate()
 
     def __repr__(self) -> str:
         rep = ""
@@ -21,7 +28,7 @@ class Sudoku:
 
         return rep
 
-    def load_sudoku_image(self):
+    def load_sudoku_image(self) -> None:
 
         image_file = Image.open(self.image_path)
         image_file = ImageOps.grayscale(image_file)
@@ -54,28 +61,107 @@ class Sudoku:
         self.skip_width = int(t - np.sum(self.sudoku_image[0,:t])/255)
         self.skip_width3 = int((self.sudoku_image.shape[1] - 6*self.skip_width - 9*self.tile_width + 1)/2)
 
+    def load_digits(self) -> None:
+
+        dir_name = os.path.dirname(self.image_path)
+        for i in range(1,10):
+            image_file = Image.open(dir_name + "/digits/" + str(i) + ".png")
+            image_resized = image_file.resize((self.tile_width, self.tile_width))
+            image = np.array(image_resized)
+            image = 255 - image[:, :, 3]
+
+            img = Image.fromarray(image, 'L')
+            image_file = ImageOps.grayscale(img)
+            digit_img = np.array(image_file)
+
+            digit = 255 - digit_img
+            digit[digit > 0] = 255
+
+            self.digits[i] = digit
+
+    def parse_tiles(self):
+
+        for i in range(81):
+            row = i // 9
+            col = i % 9
+
+            num_skip_width3_row = row // 3
+            num_skip_width_row = row - num_skip_width3_row
+
+            num_skip_width3_col = col // 3
+            num_skip_width_col = col - num_skip_width3_col
+
+            vertical_start = self.tile_width * row + self.skip_width * num_skip_width_row + self.skip_width3 * num_skip_width3_row
+            horizontal_start = self.tile_width * col + self.skip_width * num_skip_width_col + self.skip_width3 * num_skip_width3_col
+
+            tile = self.sudoku_image[vertical_start: vertical_start + self.tile_width, horizontal_start: horizontal_start + self.tile_width]
+            tile_number = self.get_number_from_tile(tile)
+            
+            self.add(tile_number, (row, col))
+
+        
+    def get_number_from_tile(self, tile: np.ndarray) -> int:
+
+        H,W = tile.shape
+
+        def test_number(tile: np.ndarray, num: int, k: int=0) -> int:
+            if k == 0:
+                digit_product = tile * self.digits[num][0:H, 0:W]
+            else:
+                digit_product = tile * np.rot90(self.digits[num][0:H, 0:W], k=k, axes=(0,1)).reshape((H,W))
+
+            digit_product[digit_product > 0] = 255
+
+            return np.sum(digit_product) / 255
+
+
+        if np.sum(tile) / 255 == tile.size : # empty tile
+            return 0
+
+        tile = 255 - tile
+
+        if self.rotation_cnts is None:
+            lst  = []
+            for k in range(4):
+                lst.append([test_number(tile, num, k) for num in range(1,10)])
+            
+            test_rotation = np.array(lst)
+            k_opt, number = np.unravel_index(np.argmax(test_rotation, axis=None), test_rotation.shape)
+
+            self.rotation_cnts = k_opt
+
+            number += 1
+
+        else:
+            white_pixels = np.array([test_number(tile, num, self.rotation_cnts) for num in range(1,10)])
+            number = np.argmax(white_pixels) + 1
+
+        return number
+
+    def rotate(self) -> None:
+
+        print('rotation', self.rotation_cnts)
+
+        if self.rotation_cnts > 0:
+            self.table = np.rot90(self.table, k=self.rotation_cnts, axes=(0,1))
+
     def add(self, number: int, position: tuple) -> None:
         self.table[position] = number
 
     def is_valid(self, number: int, position: tuple) -> bool:
-        # Check row
-        for i in range(9):
-            if self.table[position[0]][i] == number and position[1] != i:
-                return False
 
-        # Check column
-        for i in range(9):
-            if self.table[i][position[1]] == number and position[0] != i:
-                return False
+        row, col = position
 
-        # Check box
-        box_x = position[1] // 3
-        box_y = position[0] // 3
+        # check row and column
+        if (number in list(self.table[row, :])) or (number in list(self.table[:, col])):
+            return False
 
-        for i in range(box_y*3, box_y*3 + 3):
-            for j in range(box_x * 3, box_x*3 + 3):
-                if self.table[i][j] == number and (i,j) != position:
-                    return False
+        # box check
+        box_x = position[0] // 3
+        box_y = position[1] // 3
+
+        if number in list((self.table[box_x*3: box_x*3+3, box_y*3: box_y*3+3]).flatten()):
+            return False
 
         return True
 
@@ -103,38 +189,26 @@ class Sudoku:
                 self.add(0, pos)
 
         return False
-            
-
-def load_digit(i):
-
-    root_path = r"sudoku-public\public\set\00\digits"
-    digit_path = "\\" + str(i) + ".png"
-
-    image_file = Image.open(root_path + digit_path)
-    image = np.array(image_file)
-    image = 255 - image[:, :, 3]
-
-    img = Image.fromarray(image, 'L')
-    image_file = ImageOps.grayscale(img)
-    img = np.array(image_file)
-
-    inverted_digit = 255 - img
-    inverted_digit[inverted_digit > 0] = 255
-    return inverted_digit
 
 
 if __name__ == "__main__":
 
-    # image_path = input()
-    # sudoku = Sudoku(image_path)
+    # path = input()
 
-    # for i in range(1,10):
-    #     digit = load_digit(i)
-    #     white_pixels = np.count_nonzero(digit)
-    #     black_pixels = digit.size - white_pixels
-    #     print(i, white_pixels/black_pixels)
+    for i in range(10):
 
+        path = r"TaskC\dataset\public\set\0" + str(i) + r"\0" + str(i) + ".png"
+        print(path)
 
-    sudoku = Sudoku()
-    # sudoku.solve()
-    # print(sudoku)
+        start = time.time()
+
+        sudoku = Sudoku(path)
+
+        print(sudoku)
+        # sudoku.solve()
+        # print(sudoku)
+        
+        print(time.time() - start)
+        print('-------------------------------------------')
+
+        del sudoku
