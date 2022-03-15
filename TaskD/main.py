@@ -40,6 +40,7 @@ class RoombaHandler():
 
         self.dirt_mapping = {self.dirts_pos[i]: i for i in range(len(self.dirts_pos))}
         self.floyd = np.zeros((len(self.dirts_pos), len(self.dirts_pos)))
+        self.floyd2 = np.zeros((len(self.dirts_pos)+1, len(self.dirts_pos)+1))
 
     def solve_and_print(self):
 
@@ -52,11 +53,18 @@ class RoombaHandler():
                 self.floyd[i,j] = len(self.bfs(self.dirts_pos[i], self.dirts_pos[j]))
         self.floyd += self.floyd.T + np.eye(len(self.dirts_pos))*max(self.num_cols, self.num_rows)
         
-        path3 = self.hamilton_path_finding()
+        path3 = self.solve_task3()
         self.print_task3(path3)
 
-        # try this paths for other tasks
-        self.print_task4(path3)
+        self.dirt_pos_and_charger = self.dirts_pos + [self.charger_pos]
+
+        for i in range(len(self.dirt_pos_and_charger) + 1):
+            for j in range(i+1, len(self.dirt_pos_and_charger) + 1):
+                self.floyd2[i,j] = len(self.bfs(self.dirt_pos_and_charger[i], self.dirt_pos_and_charger[j]))
+        self.floyd2 += self.floyd2.T + np.eye(len(self.dirt_pos_and_charger)+1)*1000
+
+        path4 = self.solve_task4()
+        self.print_task4(path4)
 
         # num_chargings, path5 = self.solve_task5()
         # self.print_task5(num_chargings, path5)
@@ -183,9 +191,122 @@ class RoombaHandler():
                     if not visited[pos[0], pos[1]]:
                         queue.append((pos, node, level+1))
 
-    def print_task2(self, path):
-        print("Task 2")
-        print("[\'" + '\', \''.join(path) + "\']")
+    def solve_task3(self):
+
+        n = len(self.dirts_pos)
+        dp = np.zeros((n, 2 ** n), dtype=int)
+        ham_length = np.zeros((n, 2 ** n), dtype=int)
+ 
+        for i in range(n):
+            dp[i][2 ** i] = len(self.bfs(self.roomba_pos, self.dirts_pos[i]))
+            ham_length[i][2 ** i] = len(self.bfs(self.roomba_pos, self.dirts_pos[i]))
+ 
+        for i in range(2 ** n):
+            for j in range(n):
+                if (2 ** j) & i:
+                    mn = np.inf
+                    for k in range(n):
+                        if j != k and ((2 ** k) & i):
+                            if dp[k][i ^ (2 ** j)]:
+ 
+                                if mn > ham_length[k][i ^ (2 ** j)] + self.floyd[k][j]:
+                                    mn = ham_length[k][i ^ (2 ** j)] + self.floyd[k][j]
+                                    ham_length[j][i] = ham_length[k][i ^ (2 ** j)] + self.floyd[k][j]
+ 
+                                    dp[j][i] = (k + 1)
+ 
+        min_length = 10000000
+        for i in range(n):
+            min_length = min(min_length, ham_length[i][(2 ** n) - 1])
+ 
+        for i in range(1, n + 1):
+            length = ham_length[i - 1][(2 ** n) - 1]
+ 
+            if length == min_length:
+                path = []
+                curr = i
+                bitmask = (2 ** n) - 1
+                while True:
+                    prev = dp[curr - 1][bitmask]
+ 
+                    if (2 ** (curr - 1)) == bitmask:
+                        temp_path = self.bfs(self.roomba_pos, self.dirts_pos[curr - 1])
+                        temp_path.reverse()
+ 
+                        path.extend(temp_path)
+                        break
+                    else:
+                        temp_path = self.bfs(self.dirts_pos[prev - 1], self.dirts_pos[curr - 1])
+                        temp_path.reverse()
+ 
+                        path.extend(temp_path)
+ 
+                    bitmask ^= (2 ** (curr - 1))
+                    curr = prev
+ 
+                path.reverse()
+                break
+ 
+        return path
+
+    def solve_task4(self):
+
+        n = len(self.dirts_pos)
+        dp = np.zeros((n, 2 ** n), dtype=int)
+        ham_length = np.zeros((n, 2 ** n), dtype=int)
+
+        for i in range(n):
+            dp[i][2 ** i] = len(self.bfs(self.roomba_pos, self.dirts_pos[i]))
+            ham_length[i][2 ** i] = len(self.bfs(self.roomba_pos, self.dirts_pos[i]))
+ 
+        for i in range(2 ** n):
+            for j in range(n):
+                if (2 ** j) & i:
+                    mn = np.inf
+                    for k in range(n):
+                        if j != k and ((2 ** k) & i):
+                            if dp[k][i ^ (2 ** j)]:
+ 
+                                if mn > ham_length[k][i ^ (2 ** j)] + self.floyd[k][j]:
+                                    mn = ham_length[k][i ^ (2 ** j)] + self.floyd[k][j]
+                                    ham_length[j][i] = ham_length[k][i ^ (2 ** j)] + self.floyd[k][j]
+ 
+                                    dp[j][i] = (k + 1)
+ 
+        min_length = 10000000
+        for i in range(n):
+            min_length = min(min_length, ham_length[i][(2 ** n) - 1])
+ 
+        for i in range(1, n + 1):
+            length = ham_length[i - 1][(2 ** n) - 1]
+ 
+            if length == min_length:
+                path = []
+                curr = i
+                bitmask = (2 ** n) - 1
+                while True:
+                    prev = dp[curr - 1][bitmask]
+ 
+                    if (2 ** (curr - 1)) == bitmask:
+                        temp_path = self.bfs(self.roomba_pos, self.dirts_pos[curr - 1])
+                        temp_path.reverse()
+ 
+                        path.extend(temp_path)
+                        break
+                    else:
+                        temp_path = self.bfs(self.dirts_pos[prev - 1], self.dirts_pos[curr - 1])
+                        temp_path.reverse()
+ 
+                        path.extend(temp_path)
+ 
+                    bitmask ^= (2 ** (curr - 1))
+                    curr = prev
+ 
+                path.reverse()
+                break
+ 
+        return path
+
 
     def hamilton_path_finding(self):
         n = len(self.dirts_pos)
@@ -268,6 +389,10 @@ class RoombaHandler():
 
         return path
 
+    def print_task2(self, path):
+        print("Task 2")
+        print("[\'" + '\', \''.join(path) + "\']")
+
     def print_task3(self, path):
         print("Task 3")
         print("[\'" + '\', \''.join(path) + "\']")
@@ -282,7 +407,38 @@ class RoombaHandler():
 
 if __name__ == "__main__":
 
-    inp = input().split(' ')
+    # inp = input().split(' ')
 
-    roomba = RoombaHandler(inp)
-    roomba.solve_and_print()
+    # za path4 koji je jednak path3 -> najbolji
+
+    inps = {3: (r"TaskD\dataset\public\set\room_1.png", 2,6),
+    5: (r"TaskD\dataset\public\set\room_2.png", 2,6), 
+    7: (r"TaskD\dataset\public\set\room_3.png", 7,12),
+    8: (r"TaskD\dataset\public\set\room_3.png", 9,9),
+    9: (r"TaskD\dataset\public\set\room_3.png", 9,10),
+    10: (r"TaskD\dataset\public\set\room_3.png", 7,8),
+    11: (r"TaskD\dataset\public\set\room_4.png", 3,8),
+    13: (r"TaskD\dataset\public\set\room_5.png", 3,6),
+    14: (r"TaskD\dataset\public\set\room_5.png", 3,7),
+    17: (r"TaskD\dataset\public\set\room_7.png", 5,8)
+    }
+
+    # za path4 koji je jednak hamilton_path_finding
+
+    # inps = {3: (r"TaskD\dataset\public\set\room_1.png", 2,6),
+    # 5: (r"TaskD\dataset\public\set\room_2.png", 2,6), 
+    # 7: (r"TaskD\dataset\public\set\room_3.png", 7,12),
+    # 8: (r"TaskD\dataset\public\set\room_3.png", 9,9),
+    # 9: (r"TaskD\dataset\public\set\room_3.png", 9,10),
+    # 10: (r"TaskD\dataset\public\set\room_3.png", 7,8),
+    # 12: (r"TaskD\dataset\public\set\room_4.png", 9,7), # wtf???
+    # 13: (r"TaskD\dataset\public\set\room_5.png", 3,6),
+    # 14: (r"TaskD\dataset\public\set\room_5.png", 3,7),
+    # 17: (r"TaskD\dataset\public\set\room_7.png", 5,8)
+    # }
+
+    for k in inps.keys():
+        print(f'------------ case {k} ------------')
+        roomba = RoombaHandler(inps[k])
+        roomba.solve_and_print()
+        del roomba
