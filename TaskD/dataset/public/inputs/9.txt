@@ -1,0 +1,1 @@
+@@DATASET_DIR@@\room_3.png 7 8

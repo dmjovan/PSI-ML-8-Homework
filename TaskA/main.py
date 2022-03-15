@@ -1,5 +1,6 @@
 import numpy as np
 from PIL import Image
+
 if __name__ == "__main__":
     image_path = input()
     image_file = Image.open(image_path)

@@ -239,21 +239,3 @@ if __name__ == "__main__":
     sudoku = Sudoku(path)
     sudoku.solve()
     print(sudoku)
-
-    # for t in range(10):
-    #     print('=========================================')
-    #     tt = "0" + str(t)
-    #     path = r"TaskC\dataset\public\set" 
-    #     import time
-    #     start = time.time()
-    #     sudoku = Sudoku(os.path.join(path, str(tt)))
-    #     sudoku.solve()
-    #     print(sudoku)
-
-    #     print(time.time() - start)
-
-    #     with open(os.path.join(r"TaskC\dataset\public\outputs", str(tt) + ".txt"), 'r') as f:
-    #         expected = ('').join(f.readlines())
-
-    #     print('------------------------------')
-    #     print(expected)
